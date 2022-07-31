@@ -31,8 +31,11 @@ Orientation:<68.172310, 0.000000, -0.000000>
 Kumyrna Safezone: Position: <8321.609375, 292.010132, 5975.128906>
 Orientation:<-107.889229, -0.000000, -0.000000>
 
-"SGT Slaughter",
+"SGT Slaughter", Position: <8321.609375, 292.010132, 5975.128906>
+Orientation:<-107.889229, -0.000000, -0.000000>
 
-"Tank Girl",
+"Tank Girl", Position: <8304.840820, 292.132996, 5969.916992>
+Orientation:<-5.479888, 0.000000, 0.000000>
 
-Garage: 
+Garage: Position: <8302.651367, 292.132996, 5970.449707>
+Orientation:<13.945758, 0.000000, -0.000000>
