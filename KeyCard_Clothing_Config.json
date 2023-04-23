@@ -1,0 +1,64 @@
+{
+    "m_DNAConfig_Clothing": [
+        {
+            "dna_Tier": "yellow",
+            "dna_Helm": "BeanieHat_Red",
+            "dna_Shirt": "Shirt_WhiteCheck",
+            "dna_Vest": "UKAssVest_Black",
+            "dna_Pants": "Jeans_Blue",
+            "dna_Shoes": "WorkingBoots_Yellow",
+            "dna_Backpack": "HuntingBag_Hannah",
+            "dna_Gloves": "WorkingGloves_Yellow",
+            "dna_Belt": "CivilianBelt",
+            "dna_Facewear": "SurgicalMask",
+            "dna_Eyewear": "SportGlasses_Black",
+            "dna_Armband": "Armband_BabyDeer",
+            "dna_NVG": ""
+        },
+        {
+            "dna_Tier": "green",
+            "dna_Helm": "DarkMotoHelmet_YellowScarred",
+            "dna_Shirt": "BomberJacket_Black",
+            "dna_Vest": "PlateCarrierVest_Black",
+            "dna_Pants": "Jeans_Black",
+            "dna_Shoes": "MilitaryBoots_Redpunk",
+            "dna_Backpack": "AliceBag_Camo",
+            "dna_Gloves": "TacticalGloves_Black",
+            "dna_Belt": "IMP_BeltSystem_Small_EMR",
+            "dna_Facewear": "GP5GasMask",
+            "dna_Eyewear": "AviatorGlasses",
+            "dna_Armband": "Armband_Pirates",
+            "dna_NVG": ""
+        },		
+        {
+            "dna_Tier": "blue",
+            "dna_Helm": "IMP_Helmet_RoninHeavy_Black",
+            "dna_Shirt": "IMP_Jacket_Gorka_Police",
+            "dna_Vest": "IMP_Vest_TacTec_Black",
+            "dna_Pants": "IMP_Pants_Gorka",
+            "dna_Shoes": "IMP_Boots_Lowa_Black",
+            "dna_Backpack": "IMP_Bag_RushBag_Black",
+            "dna_Gloves": "TacticalGloves_Black",
+            "dna_Belt": "IMP_Belt_LegHolster_Black",
+            "dna_Facewear": "IMP_GP7M2_Mask",
+            "dna_Eyewear": "",
+            "dna_Armband": "Armband_Bear",
+            "dna_NVG": "IMP_NVG_GPNVG_18_Black"
+        },
+        {
+            "dna_Tier": "red",
+            "dna_Helm": "IMP_Helmet_Mandalor_Gold",
+            "dna_Shirt": "IMP_Jacket_TacticalShirt_MARPAT",
+            "dna_Vest": "IMP_Vest_Defender_MARPAT",
+            "dna_Pants": "IMP_Pants_ABR_MARPAT",
+            "dna_Shoes": "IMP_Boots_Lowa_MARPAT",
+            "dna_Backpack": "IMP_Bag_Rifle_MARPAT",
+            "dna_Gloves": "TacticalGloves_Black",
+            "dna_Belt": "IMP_BeltSystem_Small_MARPAT",
+            "dna_Facewear": "IMP_M04Mask",
+            "dna_Eyewear": "IMP_Goggles_Oakley",
+            "dna_Armband": "Armband_HunterZ",
+            "dna_NVG": "IMP_NVG_N15"
+        }
+    ]
+}
