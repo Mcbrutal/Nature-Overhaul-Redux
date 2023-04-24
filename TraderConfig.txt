@@ -1,5 +1,5 @@
 
-		/////////////////////////////////////////////////////////////////////////////////////////////////
+	/////////////////////////////////////////////////////////////////////////////////////////////////
         //                                                                                             //
         //      Need Help? The Trader Mod has its own Channel on the DayZ Modders Discord Server!      //
         //                                                                                             //
@@ -9,8 +9,8 @@
         //                                                                                             //
         /////////////////////////////////////////////////////////////////////////////////////////////////
 
-<CurrencyName> #tm_ruble							// Currency Name (Only used for the Text in the upper right Corner of the Trader Menu)
-	<Currency> MoneyRuble1, 	1					// Currency Classname, Currency Money Value
+<CurrencyName> #tm_ruble									// Currency Name (Only used for the Text in the upper right Corner of the Trader Menu)
+	<Currency> MoneyRuble1, 	1							// Currency Classname, Currency Money Value
 	<Currency> MoneyRuble5, 	5
 	<Currency> MoneyRuble10, 	10
 	<Currency> MoneyRuble25, 	25
@@ -18,389 +18,388 @@
 	<Currency> MoneyRuble100, 	100
 
 
-<Trader> Consume Trader								// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
-	<Category> Vegetables							// Category Name
-		CaninaBerry,			*,		1,		-1	// Item Classname, Quantity, Buyvalue, Sellvalue
-		SambucusBerry,			*,		1,		-1	// Quantity * means max value; Quantity V means Vehicle; Quantity VNK means Vehicle without Key; Quantity M means Magazine; Quantity W means Weapon; Quantity S means Steack Meat; Quantity K means Key Duplication
-		Plum,					*,		10,		-1	// Buyvalue -1 means it can not be bought
-		Kiwi,					*,		10,		-1	// Sellvalue -1 means it can not be selled
-		Apple,					*,		10,		-1
-		Pear,					*,		10,		-1
-		Orange,					*,		10,		-1
-		Banana,					*,		10,		-1
-		Tomato,					*,		10,		-1
-		Potato,					*,		10,		-1
-		GreenBellPepper,		*,		10,		-1
-		Zucchini,				*,		30,		1
-		Pumpkin,				*,		80,		3
-		AgaricusMushroom,		*,		20,		1
-		AmanitaMushroom,		*,		20,		1
-		LactariusMushroom,		*,		20,		1
-		MacrolepiotaMushroom,	*,		20,		1
-		PsilocybeMushroom,		*,		20,		1
-		AuriculariaMushroom,	*,		20,		1
-		BoletusMushroom,		*,		20,		1
-		PleurotusMushroom,		*,		20,		1
+<Trader> Consume Trader										// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
+	<Category> Vegetables									// Category Name
+		CaninaBerry,					*,		1,		-1	// Item Classname, Quantity, Buyvalue, Sellvalue
+		SambucusBerry,					*,		1,		-1	// Quantity * means max value; Quantity V means Vehicle; Quantity VNK means Vehicle without Key; Quantity M means Magazine; Quantity W means Weapon; Quantity S means Steack Meat; Quantity K means Key Duplication
+		Plum,						*,		10,		-1	// Buyvalue -1 means it can not be bought
+		Kiwi,						*,		10,		-1	// Sellvalue -1 means it can not be selled
+		Apple,						*,		10,		-1
+		Pear,						*,		10,		-1
+		Orange,						*,		10,		-1
+		Banana,						*,		10,		-1
+		Tomato,						*,		10,		-1
+		Potato,						*,		10,		-1
+		GreenBellPepper,				*,		10,		-1
+		Zucchini,					*,		30,		1
+		Pumpkin,					*,		80,		3
+		AgaricusMushroom,				*,		20,		1
+		AmanitaMushroom,				*,		20,		1
+		LactariusMushroom,				*,		20,		1
+		MacrolepiotaMushroom,				*,		20,		1
+		PsilocybeMushroom,				*,		20,		1
+		AuriculariaMushroom,				*,		20,		1
+		BoletusMushroom,				*,		20,		1
+		PleurotusMushroom,				*,		20,		1
 	
 	<Category> Packaged Food
-		PowderedMilk,			*,		10,		-1
-		BoxCerealCrunchin,		*,		20,		10
-		Rice,					*,		30,		10
-		Marmalade,				*,		30,		10
-		PeachesCan,				*,		40,		20
-		SardinesCan,			*,		40,		20
-		TunaCan,				*,		40,		20
-		SpaghettiCan,			*,		50,		20
-		BakedBeansCan,			*,		50,		20
-		TacticalBaconCan,		*,		50,		30		
+		PowderedMilk,					*,		10,		-1
+		BoxCerealCrunchin,				*,		20,		10
+		Rice,						*,		30,		10
+		Marmalade,					*,		30,		10
+		Honey,						*,		30,		10
+		PeachesCan,					*,		40,		20
+		SardinesCan,					*,		40,		20
+		TunaCan,					*,		40,		20
+		SpaghettiCan,					*,		50,		20
+		BakedBeansCan,					*,		50,		20
+		TacticalBaconCan,				*,		50,		30		
 		
 	<Category> Meat
-		ChickenBreastMeat,		S,		20,		10
-		GoatSteakMeat,			S,		30,		10
-		SheepSteakMeat,			S,		30,		10
-		PigSteakMeat,			S,		40,		20
-		BoarSteakMeat,			S,		40,		20
-		WolfSteakMeat,			S,		40,		20
-		DeerSteakMeat,			S,		50,		20
-		BearSteakMeat,			S,		100,	50
-		CowSteakMeat,			S,		50,		20	
-		Sardines,				S,		70,		40
-		Carp,					S,		100,	50
-		Mackerel,				S,		100,	50
+		ChickenBreastMeat,				S,		20,		10
+		GoatSteakMeat,					S,		30,		10
+		SheepSteakMeat,					S,		30,		10
+		PigSteakMeat,					S,		40,		20
+		BoarSteakMeat,					S,		40,		20
+		WolfSteakMeat,					S,		40,		20
+		DeerSteakMeat,					S,		50,		20
+		BearSteakMeat,					S,		100,	50
+		CowSteakMeat,					S,		50,		20	
+		Sardines,					S,		70,		40
+		Carp,						S,		100,	50
+		Mackerel,					S,		100,	50
 		
 	<Category> Animal Parts
-		Bone,					*,		20,		1
-		Lard,					*,		20,		1
-		Guts,					*,		20,		1
-		SmallGuts,				*,		20,		1
+		Bone,						*,		20,		1
+		Lard,						*,		20,		1
+		Guts,						*,		20,		1
+		SmallGuts,					*,		20,		1
 		
-	<Category> Drinks
-		SodaCan_Cola, 			*,		20, 		10
-		SodaCan_Kvass, 			*,		20, 		10
-		SodaCan_Pipsi, 			*,		20, 		10
-		SodaCan_Spite, 			*,		20, 		10
-		WaterBottle,			*,		50,		20
-		Canteen,			*,		80,		40
-		Vodka,				*,		120,		75
-		BeerCan_DillyDilly,		*,		120,		75
-		BeerCan_MillerLight,		*,		120,		75
-		BeerCan_PBR,			*,		120,		75
-		BeerCan_Coors,			*,		120,		75
-		BeerCan_Michelob,		*,		120,		75
-		BeerCan_Corona,			*,		120,		75
-		BeerCan_Budweiser,	    	*,		120,		75
-		BeerCan_MajorHemp,		*,		120,		75
-		BeerCan_BuschLight,		*,		120,		75
-		bl_coffee_bag,			*,		200,		80
-
-
+	<Category> Drinks	
+		SodaCan_Cola, 					*,		20, 		10
+		SodaCan_Kvass, 					*,		20, 		10
+		SodaCan_Pipsi, 					*,		20, 		10
+		SodaCan_Spite, 					*,		20, 		10
+		SodaCan_Fronta, 				*,		20, 		10
+		WaterBottle,					*,		50,		20
+		Canteen,					*,		80,		40
+		Vodka,						*,		120,		75
+		BeerCan_DillyDilly,				*,		120,		75
+		BeerCan_MillerLight,				*,		120,		75
+		BeerCan_PBR,					*,		120,		75
+		BeerCan_Coors,					*,		120,		75
+		BeerCan_Michelob,				*,		120,		75
+		BeerCan_Corona,					*,		120,		75
+		BeerCan_Budweiser,	    			*,		120,		75
+		BeerCan_MajorHemp,				*,		120,		75
+		BeerCan_BuschLight,				*,		120,		75
+		bl_coffee_bag,					*,		200,		80
 
 	<Category> Medical Supplies
-		//Rag,					1,		10,			-1
-		BandageDressing,		2,		30,			10
-		BloodTestKit,			*,		50,			20
-		//InjectionVial,		*,		50, 		20
-		Thermometer,			*,		50,			20
-		DisinfectantSpray,		*,		80,			50
-		//Syringe,				*,		80, 		50
-		Heatpack,				*,		100,		50
-		StartKitIV,				*,		100,		60
-		SalineBag,				*,		150,		80
-		BloodBagEmpty,			*,		180,		100
-		FirstAidKit,			*,		200,		100
-		//Defibrillator,		*,		350, 		20
+		//Rag,						1,		10,		-1
+		BandageDressing,				2,		30,		10
+		BloodTestKit,					*,		50,		20
+		//InjectionVial,				*,		50, 		20
+		Thermometer,					*,		50,		20
+		DisinfectantSpray,				*,		80,		50
+		//Syringe,					*,		80, 		50
+		Heatpack,					*,		100,		50
+		StartKitIV,					*,		100,		60
+		SalineBag,					*,		150,		80
+		BloodBagEmpty,					*,		180,		100
+		FirstAidKit,					*,		200,		100
+		//Defibrillator,				*,		350, 		20
 		
 	<Category> Medications
-		CharcoalTablets,		*,		20,		1
-		DisinfectantAlcohol,	*,		40,		2
-		VitaminBottle,			*,		60,		4
-		TetracyclineAntibiotics,*,		80,		5
-		PainkillerTablets,		*,		100,		6
-		Epinephrine,			*,		200,		10
-		Morphine,				*,		250,		15
+		CharcoalTablets,				*,		20,		1
+		DisinfectantAlcohol,				*,		40,		2
+		VitaminBottle,					*,		60,		4
+		TetracyclineAntibiotics,			*,		80,		5
+		PainkillerTablets,				*,		100,		6
+		Epinephrine,					*,		200,		10
+		Morphine,					*,		250,		15
 
 	<Category> Smoke Products
-		CP_Pouch,				            		*,		2500,	1200
-		CP_Workbench_Kit,				    		*,		15000,	10000
-		CP_Relief_Balm,				        		*,		1000,	500
-		CP_RollingPapers,				    		*,		90,		45
-		CP_RollingPapers_Silver,					*,		100,	50
-		CP_RollingPapers_Green,						*,		110,	55
-		CP_CigarettePack_Empty,						*,		50,		25
-		CP_EmptyBag,				        		*,		200,	100
-		CP_Bagger,				            		*,		5000,	2500
-		CP_PlasticWrapper,				    		*,		5000,	2500
-		CP_PlasticRoll,				        		*,		200,	100
-		CigarettePack_Chernamorka,				    *,		400,	200
-		CigarettePack_Merkur,				    	*,		500,	250
-		CigarettePack_Partyzanka,				    *,		600,	300
-		CP_CigarettePack_CannabisSkunk,				*,		1250,	625
-		CP_CigarettePack_CannabisBlue,				*,		1560,	780
-		CP_CigarettePack_CannabisKush,				*,		1870,	935
-		CP_CigarettePack_CannabisStardawg,			*,		2180,	1090
-		CP_CigarettePack_CannabisFuture,			*,		2500,	1250
-		CP_CigarettePack_CannabisS1,				*,		2810,	1405
-		CP_CigarettePack_CannabisNomad,				*,		3120,	1560
-		CP_CigarettePack_CannabisBlackFrost,		*,		3430,	1715
-		
+		CP_Pouch,				        *,		2500,		1200
+		CP_Workbench_Kit,				*,		15000,		10000
+		CP_Relief_Balm,				        *,		1000,		500
+		CP_RollingPapers,				*,		90,		45
+		CP_RollingPapers_Silver,			*,		100,		50
+		CP_RollingPapers_Green,				*,		110,		55
+		CP_CigarettePack_Empty,				*,		50,		25
+		CP_EmptyBag,				        *,		200,		100
+		CP_Bagger,				        *,		5000,		2500
+		CP_PlasticWrapper,				*,		5000,		2500
+		CP_PlasticRoll,				        *,		200,		100
+		CigarettePack_Chernamorka,			*,		400,		200
+		CigarettePack_Merkur,				*,		500,		250
+		CigarettePack_Partyzanka,			*,		600,		300
+		CP_CigarettePack_CannabisSkunk,			*,		1250,		625
+		CP_CigarettePack_CannabisBlue,			*,		1560,		780
+		CP_CigarettePack_CannabisKush,			*,		1870,		935
+		CP_CigarettePack_CannabisStardawg,		*,		2180,		1090
+		CP_CigarettePack_CannabisFuture,		*,		2500,		1250
+		CP_CigarettePack_CannabisS1,			*,		2810,		1405
+		CP_CigarettePack_CannabisNomad,			*,		3120,		1560
+		CP_CigarettePack_CannabisBlackFrost,		*,		3430,		1715
 		
 	<Category> Money Exchange
-		MoneyRuble1,			1,		1,		-1
-		MoneyRuble5,			1,		5,		-1
-		MoneyRuble10,			1,		10,		-1
-		MoneyRuble25,			1,		25,		-1
-		MoneyRuble50,			1,		50,		-1
-		MoneyRuble100,			1,		100,	-1
+		MoneyRuble1,					1,		1,		-1
+		MoneyRuble5,					1,		5,		-1
+		MoneyRuble10,					1,		10,		-1
+		MoneyRuble25,					1,		25,		-1
+		MoneyRuble50,					1,		50,		-1
+		MoneyRuble100,					1,		100,		-1
 
 <Trader> Misc Trader
 	<Category> Tools (small)
-		Screwdriver,			*,		30,			10
-		Wrench,					*,		30,			10
-		SewingKit,				*,		40, 		10
-		Fabric,					1,		40, 		10
-		Pliers,					*,		40, 		10
-		LeatherSewingKit,		*,		50, 		20
-		Whetstone,				*,		50,			20
-		Hammer,					*,		70,			30
-		Hacksaw,				*,		70,			30
-		HandSaw,				*,		70,			30
-		WeaponCleaningKit,		*,		80, 		30
-		CanOpener,				*,		100,		40
-		Compass,				*,		100,		40
-		OrienteeringCompass,	*,		100,		40	
-		ChernarusMap,			*,		150,		50
-		Lockpick,				*,		2000,		10
-		Binoculars,				*,		300,		15		
-		FishingRod,				*,		600,		25
-		Pipe,					*,		200,		25
+		Screwdriver,					*,		30,		10
+		Wrench,						*,		30,		10
+		SewingKit,					*,		40, 		10
+		Fabric,						1,		40, 		10
+		Pliers,						*,		40, 		10
+		LeatherSewingKit,				*,		50, 		20
+		Whetstone,					*,		50,		20
+		Hammer,						*,		70,		30
+		Hacksaw,					*,		70,		30
+		HandSaw,					*,		70,		30
+		WeaponCleaningKit,				*,		80, 		30
+		CanOpener,					*,		100,		40
+		Compass,					*,		100,		40
+		OrienteeringCompass,				*,		100,		40	
+		ChernarusMap,					*,		150,		50
+		Lockpick,					*,		2000,		10
+		Binoculars,					*,		300,		15		
+		FishingRod,					*,		600,		25
+		Pipe,						*,		200,		25
 		
 	<Category> Electronics
-		Battery9V,				*,		2000,		300
-		PersonalRadio,			*,		100,		50
-		Megaphone,				*,		300,		125
-		ElectronicRepairKit,	*,		350,		145
-		CableReel,				*,		400,		175
-		BatteryCharger,			*,		400,		175
-		BaseRadio,				*,		500,		300
-		Rangefinder,			*,		900,		325
-		bl_extension_cable_reel,*,		400,		185
+		Battery9V,					*,		2000,		300
+		PersonalRadio,					*,		100,		50
+		Megaphone,					*,		300,		125
+		ElectronicRepairKit,				*,		350,		145
+		CableReel,					*,		400,		175
+		BatteryCharger,					*,		400,		175
+		BaseRadio,					*,		500,		300
+		Rangefinder,					*,		900,		325
+		bl_extension_cable_reel,			*,		400,		185
 
 	<Category> DNA Equipment
-		DNA_Workbench_Kit,		*,		2500,	500
-		DNA_Solder_Kit,		    *,		2500,	500
-		DNA_HelpingHands_Kit,	*,		2500,	500
-		DNA_Battery_40v,		*,		5000,	1200
-		DNA_Laptop,		        *,		10000,	4500
-		DNA_Solder,			    *,		750,	500
-		DNA_Flux,				*,		750,	500
-		DNA_KeyCard_Blank,		*,		1000,	450
-		DNA_Bolts,				*,		900,	500
-		DNA_CardReader,		    *,		1000,	450
+		DNA_Workbench_Kit,				*,		2500,		500
+		DNA_Solder_Kit,		    			*,		2500,		500
+		DNA_HelpingHands_Kit,				*,		2500,		500
+		DNA_Battery_40v,				*,		5000,		1200
+		DNA_Laptop,		        		*,		10000,		4500
+		DNA_Solder,					*,		750,		500
+		DNA_Flux,					*,		750,		500
+		DNA_KeyCard_Blank,				*,		1000,		450
+		DNA_Bolts,					*,		900,		500
+		DNA_CardReader,		    			*,		1000,		450
 	
 	<Category> Fire & Lights
-		Chemlight_Blue,			*,		20,		1
-		Chemlight_Green,		*,		20,		1
-		Chemlight_Red,			*,		20,		1
-		Chemlight_White,		*,		20,		1
-		Chemlight_Yellow,		*,		20,		1
-		Roadflare,				*,		100,	40
-		Matchbox,				*,		60,		3
-		PetrolLighter,			*,		120,	6
-		Flashlight,				*,		150,	5
-		PortableGasLamp,		*,		450,	10
-		PortableGasStove,		*,		550,	15
-		Headtorch_Black,		*,		400,	20
-		Headtorch_Grey,			*,		400,	20
-		Spotlight,				*,		6000,	200
-		FireworksLauncher,		*,		3000,	150
+		Chemlight_Blue,					*,		20,		1
+		Chemlight_Green,				*,		20,		1
+		Chemlight_Red,					*,		20,		1
+		Chemlight_White,				*,		20,		1
+		Chemlight_Yellow,				*,		20,		1
+		Roadflare,					*,		100,		40
+		Matchbox,					*,		60,		3
+		PetrolLighter,					*,		120,		6
+		Flashlight,					*,		150,		5
+		PortableGasLamp,				*,		450,		10
+		PortableGasStove,				*,		550,		15
+		Headtorch_Black,				*,		400,		20
+		Headtorch_Grey,					*,		400,		20
+		Spotlight,					*,		6000,		200
+		FireworksLauncher,				*,		3000,		150
 	
 	<Category> Cooking & Hunting Supplies
-		PurificationTablets,	*,		50,		2
-		Pot,					M,		250,	10
-		Tripod,					*,		350,	15
-		BearTrap,				*,		500,	30
-		MediumTent,				*,		3000,	500
-		MediumTent_Green,		*,		3000,	500
-		MediumTent_Orange,		*,		3000,	500
-		CarTent,				*,		5000,	700
-		LargeTent,				*,		7000,	1200
-		PartyTent,				*,		7000,	1200
-		PartyTent_Blue,			*,		7000,	1200
-		PartyTent_Brown,		*,		7000,	1200
-		PartyTent_Lunapark,		*,		7000,	1200
+		PurificationTablets,				*,		50,		2
+		Pot,						M,		250,	10
+		Tripod,						*,		350,	15
+		BearTrap,					*,		500,	30
+		MediumTent,					*,		3000,	500
+		MediumTent_Green,				*,		3000,	500
+		MediumTent_Orange,				*,		3000,	500
+		CarTent,					*,		5000,	700
+		LargeTent,					*,		7000,	1200
+		PartyTent,					*,		7000,	1200
+		PartyTent_Blue,					*,		7000,	1200
+		PartyTent_Brown,				*,		7000,	1200
+		PartyTent_Lunapark,				*,		7000,	1200
 	
 	<Category> Hardware Supplies
-		Paper,					*,		1,		0
-		Pen_Blue,				*,		20,		1
-		Pen_Black,				*,		20,		1
-		Pen_Red,				*,		20,		1
-		Pen_Green,				*,		20,		1
-		Pen_Pink,				*,		20,		1
-		Pen_Purple,				*,		20,		1
-		Pen_Orange,				*,		20,		1
-		Rope,					*,		40,		1
-		MetalWire,				*,		150,	6
-		EpoxyPutty,				*,		150,	6
-		DuctTape,				*,		200,	8
-		XmasLights,				*,		250,	10
-		HandcuffKeys,			*,		350,	12
-		Handcuffs,				*,		500,	15
-		Netting,				1,		500,	10
-		BurlapSack,				*,		500,	10
-		WoodenPlank,			10,		500,	15
-		MetalPlate,				10,		1200,	18
-		SmallProtectorCase,		*,		700,	30
-		AmmoBox,				*,		200,	35
-		SmallGasCanister,		*,		800,	35
-		MediumGasCanister,		*,		1000,	40
-		LargeGasCanister,		*,		2000,	70
-		CanisterGasoline,		*,		25000,	1200
-		NailBox,				*,		3000,	120
-		BarbedWire,				*,		4500,	200
-		Camonet,				*,		6000,	250
-		CombinationLock,		*,		7000,	250
-		CombinationLock4,		*,		9000,	300
-		CodeLock,		        *,		1800,	400
-		BarrelHoles_Blue,		*,		800,	300
-		BarrelHoles_Green,		*,		800,	300
-		BarrelHoles_Red,		*,		800,	300
-		BarrelHoles_Yellow,		*,		800,	300
-		Barrel_Blue,			M,		3000,	350
-		Barrel_Green,			M,		3000,	350
-		Barrel_Red,				M,		3000,	350
-		Barrel_Yellow,			M,		3000,	350
-		SeaChest,				*,		2000,	400
-		PowerGenerator,			*,		3000,	1000
-		AlarmClock_Blue,		*,		300,	150
-		AlarmClock_Green,		*,		300,	150
-		AlarmClock_Red,			*,		300,	150
-		KitchenTimer,			*,		300,	150
+		Paper,						*,		1,		0
+		Pen_Blue,					*,		20,		1
+		Pen_Black,					*,		20,		1
+		Pen_Red,					*,		20,		1
+		Pen_Green,					*,		20,		1
+		Pen_Pink,					*,		20,		1
+		Pen_Purple,					*,		20,		1
+		Pen_Orange,					*,		20,		1
+		Rope,						*,		40,		1
+		MetalWire,					*,		150,		6
+		EpoxyPutty,					*,		150,		6
+		DuctTape,					*,		200,		8
+		XmasLights,					*,		250,		10
+		HandcuffKeys,					*,		350,		12
+		Handcuffs,					*,		500,		15
+		Netting,					1,		500,		10
+		BurlapSack,					*,		500,		10
+		WoodenPlank,					10,		500,		15
+		MetalPlate,					10,		1200,		18
+		SmallProtectorCase,				*,		700,		30
+		AmmoBox,					*,		200,		35
+		SmallGasCanister,				*,		800,		35
+		MediumGasCanister,				*,		1000,		40
+		LargeGasCanister,				*,		2000,		70
+		CanisterGasoline,				*,		25000,		1200
+		NailBox,					*,		3000,		120
+		BarbedWire,					*,		4500,		200
+		Camonet,					*,		6000,		250
+		CombinationLock,				*,		7000,		250
+		CombinationLock4,				*,		9000,		300
+		CodeLock,		       			*,		1800,		400
+		BarrelHoles_Blue,				*,		800,		300
+		BarrelHoles_Green,				*,		800,		300
+		BarrelHoles_Red,				*,		800,		300
+		BarrelHoles_Yellow,				*,		800,		300
+		Barrel_Blue,					M,		3000,		350
+		Barrel_Green,					M,		3000,		350
+		Barrel_Red,					M,		3000,		350
+		Barrel_Yellow,					M,		3000,		350
+		SeaChest,					*,		2000,		400
+		PowerGenerator,					*,		3000,		1000
+		AlarmClock_Blue,				*,		300,		150
+		AlarmClock_Green,				*,		300,		150
+		AlarmClock_Red,					*,		300,		150
+		KitchenTimer,					*,		300,		150
 	
 	<Category> Seeds & Lime
-		TomatoSeedsPack,		*,		40, 	10
-		PepperSeedsPack,		*,		40, 	10
-		ZucchiniSeedsPack,		*,		60, 	20
-		PumpkinSeedsPack,		*,		100, 	30
-		GardenLime,				*,		200,	70
+		TomatoSeedsPack,				*,		40, 		10
+		PepperSeedsPack,				*,		40, 		10
+		ZucchiniSeedsPack,				*,		60, 		20
+		PumpkinSeedsPack,				*,		100, 		30
+		GardenLime,					*,		200,		70
 		
 	<Category> Fluffy Pets <3
-		Bear_Beige,				*,		50,		10
-		Bear_Dark,				*,		50,		10
-		Bear_Pink,				*,		50,		10
-		Bear_White,				*,		50,		10
+		Bear_Beige,					*,		50,		10
+		Bear_Dark,					*,		50,		10
+		Bear_Pink,					*,		50,		10
+		Bear_White,					*,		50,		10
 		
 	<Category> Flags
-		Flag_APA,				*,		5000,	150
-		Flag_Altis,				*,		5000,	150
-		Flag_BabyDeer,			*,		5000,	150
-		Flag_Bear,				*,		5000,	150
-		Flag_Bohemia,			*,		5000,	150
-		Flag_BrainZ,			*,		5000,	150
-		Flag_CDF,				*,		5000,	150
-		Flag_CHEL,				*,		5000,	150
-		Flag_CMC,				*,		5000,	150
-		Flag_Cannibals,			*,		5000,	150
-		Flag_Chedaki,			*,		5000,	150
-		Flag_Chernarus,			*,		5000,	150
-		Flag_DayZ,				*,		5000,	150
-		Flag_HunterZ,			*,		5000,	150
-		Flag_Livonia,			*,		5000,	150
-		Flag_LivoniaArmy,		*,		5000,	150
-		Flag_LivoniaPolice,		*,		5000,	150
-		Flag_NAPA,				*,		5000,	150
-		Flag_NSahrani,			*,		5000,	150
-		Flag_Pirates,			*,		5000,	150
-		Flag_RSTA,				*,		5000,	150
-		Flag_Refuge,			*,		5000,	150
-		Flag_Rooster,			*,		5000,	150
-		Flag_SSahrani,			*,		5000,	150
-		Flag_Snake,				*,		5000,	150
-		Flag_TEC,				*,		5000,	150
-		Flag_UEC,				*,		5000,	150
-		Flag_White,				*,		5000,	150
-		Flag_Wolf,				*,		5000,	150
-		Flag_Zenit,				*,		5000,	150
+		Flag_APA,					*,		5000,		150
+		Flag_Altis,					*,		5000,		150
+		Flag_BabyDeer,					*,		5000,		150
+		Flag_Bear,					*,		5000,		150
+		Flag_Bohemia,					*,		5000,		150
+		Flag_BrainZ,					*,		5000,		150
+		Flag_CDF,					*,		5000,		150
+		Flag_CHEL,					*,		5000,		150
+		Flag_CMC,					*,		5000,		150
+		Flag_Cannibals,					*,		5000,		150
+		Flag_Chedaki,					*,		5000,		150
+		Flag_Chernarus,					*,		5000,		150
+		Flag_DayZ,					*,		5000,		150
+		Flag_HunterZ,					*,		5000,		150
+		Flag_Livonia,					*,		5000,		150
+		Flag_LivoniaArmy,				*,		5000,		150
+		Flag_LivoniaPolice,				*,		5000,		150
+		Flag_NAPA,					*,		5000,		150
+		Flag_NSahrani,					*,		5000,		150
+		Flag_Pirates,					*,		5000,		150
+		Flag_RSTA,					*,		5000,		150
+		Flag_Refuge,					*,		5000,		150
+		Flag_Rooster,					*,		5000,		150
+		Flag_SSahrani,					*,		5000,		150
+		Flag_Snake,					*,		5000,		150
+		Flag_TEC,					*,		5000,		150
+		Flag_UEC,					*,		5000,		150
+		Flag_White,					*,		5000,		150
+		Flag_Wolf,					*,		5000,		150
+		Flag_Zenit,					*,		5000,		150
 
 	<Category> Dog Supplies
-		dog_gasmask,			*,		8000,	675
-		dog_collar,				*,		850,	365
-		dog_collar_blue,		*,		850,	365
-		dog_collar_red,			*,		850,	365
-		dog_collar_green,		*,		850,	365
-		dog_collar_white,		*,		850,	365
-		dog_collar_yellow,		*,		850,	365
-		dog_collar_grey,		*,		850,	365
-		dog_vest_sheriff,		*,		1200,	555
-		dog_vest_black,			*,		1200,	555
-		dog_vest_black_k9,		*,		1200,	555
-		dog_vest_blackgreen,	*,		1200,	555
-		dog_vest_blackmedic,	*,		1200,	555
-		dog_vest_blackgreenz,	*,		1200,	555
-		dog_shed_small_kit,		*,		10000,	850
+		dog_gasmask,					*,		8000,		675
+		dog_collar,					*,		850,		365
+		dog_collar_blue,				*,		850,		365
+		dog_collar_red,					*,		850,		365
+		dog_collar_green,				*,		850,		365
+		dog_collar_white,				*,		850,		365
+		dog_collar_yellow,				*,		850,		365
+		dog_collar_grey,				*,		850,		365
+		dog_vest_sheriff,				*,		1200,		555
+		dog_vest_black,					*,		1200,		555
+		dog_vest_black_k9,				*,		1200,		555
+		dog_vest_blackgreen,				*,		1200,		555
+		dog_vest_blackmedic,				*,		1200,		555
+		dog_vest_blackgreenz,				*,		1200,		555
+		dog_shed_small_kit,				*,		10000,		850
 
 	<Category> Boomlay Items
-		bl_rain_collector_prefab_Kit,  *,		500,	200
-		bl_repair_anvil,		   	   *,		2000,	200
-		bl_stove_prefab_Kit,		   *,		1000,	200
-		bl_pallet_box_Kit,		       *,		1000,	200
-		bl_pallet,		   			   *,		1000,	200
-		bl_pallet_frame_solo,  		   *,		500,	200
-		bl_paint_tube,		           *,		200,	100
-		bl_anatolian_carpet_1_Kit,	   *,		600,	300
-		bl_anatolian_carpet_2_Kit,	   *,		600,	300
-		bl_ficus_bonsai,		       *,		500,	250
-		bl_cercestis_mirabilis,	       *,		500,	250
-		bl_dieffenbachia,		       *,		500,	250
-		bl_monstera,		           *,		500,	250
-		bl_painting_1_Kit,		       *,		500,	250
-		bl_painting_2_Kit,		       *,		500,	250
-		bl_painting_3_Kit,		       *,		500,	250
-		bl_painting_4_Kit,		       *,		500,	250
-		bl_painting_5_Kit,		       *,		500,	250
-		bl_painting_6_Kit,		       *,		500,	250
-		bl_painting_7_Kit,		       *,		500,	250
-		bl_painting_8_Kit,		       *,		500,	250
-		bl_painting_9_Kit,		       *,		500,	250
+		bl_rain_collector_prefab_Kit,  			*,		500,		200
+		bl_repair_anvil,		   	   	*,		2000,		200
+		bl_stove_prefab_Kit,		   		*,		1000,		200
+		bl_pallet_box_Kit,		       		*,		1000,		200
+		bl_pallet,		   			*,		1000,		200
+		bl_pallet_frame_solo,  		   		*,		500,		200
+		bl_paint_tube,		           		*,		200,		100
+		bl_anatolian_carpet_1_Kit,	   		*,		600,		300
+		bl_anatolian_carpet_2_Kit,	   		*,		600,		300
+		bl_ficus_bonsai,		       		*,		500,		250
+		bl_cercestis_mirabilis,	       			*,		500,		250
+		bl_dieffenbachia,		       		*,		500,		250
+		bl_monstera,		          		*,		500,		250
+		bl_painting_1_Kit,		       		*,		500,		250
+		bl_painting_2_Kit,		       		*,		500,		250
+		bl_painting_3_Kit,		      		*,		500,		250
+		bl_painting_4_Kit,		       		*,		500,		250
+		bl_painting_5_Kit,		       		*,		500,		250
+		bl_painting_6_Kit,		       		*,		500,		250
+		bl_painting_7_Kit,		       		*,		500,		250
+		bl_painting_8_Kit,		       		*,		500,		250
+		bl_painting_9_Kit,		       		*,		500,		250
 				
 	<Category> Viking Gear
-		rag_viking_drinkhorn,           *,    1000,  750
-		rag_viking_firepit_kit,         *,    5000,  2500
-		rag_viking_sundial_kit,         *,    5000,  2500
-		rag_viking_lantern,             *,    2500,  1000
-		viking_shelter_kit,             *,    50000, 12000
-		rag_viking_pot,                 *,    1000,  500
-		rag_viking_table_kit,           *,    1300,  750
-		rag_viking_warbanner_kit,       *,    3000,  800
-		rag_viking_horn,                *,    3000,  750
-		rag_viking_mug,                 *,    1000,  750
+		rag_viking_drinkhorn,           		*,    		1000,  		750
+		rag_viking_firepit_kit,         		*,    		5000, 		2500
+		rag_viking_sundial_kit,         		*,    		5000,  		2500
+		rag_viking_lantern,             		*,    		2500,  		1000
+		viking_shelter_kit,             		*,    		50000, 		12000
+		rag_viking_pot,                			*,    		1000,  		500
+		rag_viking_table_kit,           		*,    		1300,  		750
+		rag_viking_warbanner_kit,       		*,    		3000,  		800
+		rag_viking_horn,                		*,    		3000,  		750
+		rag_viking_mug,                 		*,    		1000,  		750
 
 <Trader> Weapon Trader
 	<Category> Melee	
-		BrassKnuckles_Shiny,	W,		220,		60
-		Pipe,					W,		250,		45
-		Pitchfork,				W,		300,		50
-		Broom,					W,		250,		50
-		Broom_Birch,			W,		250,		75
-		BaseballBat,			W,		350,		100
-		NailedBaseballBat,		W,		450,		150
-		BarbedBaseballBat,		W,		450,		150
-		CrudeMachete,		    W,		650,		225
-		KukriKnife,		        W,		650,		225
-		FangeKnife,		        W,		650,		225
-		LugWrench,				*,		40,			10
-		Crowbar,				*,		50,			20
-		Shovel,					*,		60,			30
-		Pickaxe,				*,		100,		40
-		SledgeHammer,			*,		120,		60
-		PipeWrench,				W,		150,		70
-		WoodAxe,				*,		200,		80
-		FirefighterAxe,			*,		300,		120
-		KitchenKnife,			*,		80,			40
-		SteakKnife,				*,		90,			40
-		HuntingKnife,			*,		90,			40
-		Hatchet,				*,		100,		40
-		CombatKnife,			*,		100,		50
-		Machete,				*,		120,		60
+		BrassKnuckles_Shiny,				W,		220,		60
+		Pipe,						W,		250,		45
+		Pitchfork,					W,		300,		50
+		Broom,						W,		250,		50
+		Broom_Birch,					W,		250,		75
+		BaseballBat,					W,		350,		100
+		NailedBaseballBat,				W,		450,		150
+		BarbedBaseballBat,				W,		450,		150
+		CrudeMachete,		    			W,		650,		225
+		KukriKnife,		        		W,		650,		225
+		FangeKnife,		        		W,		650,		225
+		LugWrench,					*,		40,		10
+		Crowbar,					*,		50,		20
+		Shovel,						*,		60,		30
+		Pickaxe,					*,		100,		40
+		SledgeHammer,					*,		120,		60
+		PipeWrench,					W,		150,		70
+		WoodAxe,					*,		200,		80
+		FirefighterAxe,					*,		300,		120
+		KitchenKnife,					*,		80,		40
+		SteakKnife,					*,		90,		40
+		HuntingKnife,					*,		90,		40
+		Hatchet,					*,		100,		40
+		CombatKnife,					*,		100,		50
+		Machete,					*,		120,		60
 
 	<Category> Viking Weapons
 		rag_viking_axe,                 *,    1350,  600
@@ -529,15 +528,15 @@
 
 <Trader> Weapon Supplies
 	<Category> Ammunition
-		Ammo_380,				1,		10,		1
-		Ammo_9x19,				1,		10,		1
-		Ammo_22,				1,		10,		1
-		Ammo_45ACP,				1,		10,		1
+		Ammo_380,			1,		10,		1
+		Ammo_9x19,			1,		10,		1
+		Ammo_22,			1,		10,		1
+		Ammo_45ACP,			1,		10,		1
 		Ammo_12gaPellets,		1,		30,		1
 		Ammo_12gaSlug,			1,		40,		2
-		Ammo_9x39,				1,		40,		2
+		Ammo_9x39,			1,		40,		2
 		Ammo_9x39AP,			1,		50,		3
-		Ammo_357,				1,		50,		3
+		Ammo_357,			1,		50,		3
 		Ammo_308Win,			1,		50,		3
 		Ammo_545x39,			1,		50,		3
 		Ammo_556x45,			1,		50,		3
@@ -547,10 +546,10 @@
 		Ammo_545x39Tracer,		1,		100,		5
 		Ammo_308WinTracer,		1,		100,		5
 		Ammo_762x39Tracer,		1,		100,		5
-		Ammo_Flare,				1,		150,		7
-	    Ammo_FlareBlue,			1,		150,		7
-	    Ammo_FlareGreen,		1,		150,		7
-	    Ammo_FlareRed,			1,		150,		7
+		Ammo_Flare,			1,		150,		7
+	    	Ammo_FlareBlue,			1,		150,		7
+	    	Ammo_FlareGreen,		1,		150,		7
+	    	Ammo_FlareRed,			1,		150,		7
 		Ammo_762x54Tracer,		1,		200,		12		
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
@@ -578,27 +577,27 @@
 		AmmoBox_762x54Tracer_20Rnd,		*,		2000,	200
 		
 	<Category> Magazines
-		Mag_IJ70_8Rnd,			M,		30,		15
-		Mag_CZ75_15Rnd,			M,		40,		20
-		Mag_Glock_15Rnd,		M,		40,		20
-		Mag_MKII_10Rnd,			M,		40,		20
-		Mag_1911_7Rnd,			M,		40,		20
-		Mag_FNX45_15Rnd,		M,		40,		20
-		Mag_CZ527_5rnd,			M,		60,		30
+		Mag_IJ70_8Rnd,			M,		30,	15
+		Mag_CZ75_15Rnd,			M,		40,	20
+		Mag_Glock_15Rnd,		M,		40,	20
+		Mag_MKII_10Rnd,			M,		40,	20
+		Mag_1911_7Rnd,			M,		40,	20
+		Mag_FNX45_15Rnd,		M,		40,	20
+		Mag_CZ527_5rnd,			M,		60,	30
 		Mag_CZ61_20Rnd,			M,		100,	50
 		Mag_UMP_25Rnd,			M,		150,	75
 		Mag_MP5_30Rnd,			M,		200,	100
 		Mag_FAL_20Rnd,			M,		100,	50
 		Mag_Saiga_5Rnd,			M,		100,	50
 		Mag_Saiga_8Rnd,			M,		220,	60
-		Mag_Saiga_Drum20Rnd,	M,		480,	110
+		Mag_Saiga_Drum20Rnd,		M,		480,	110
 		Mag_AKM_30Rnd,			M,		220,	110
 		Mag_AKM_Palm30Rnd,		M,		220,	110
 		Mag_AKM_Drum75Rnd,		M,		480,	220
 		Mag_AK101_30Rnd,		M,		220,	110
 		Mag_AK74_30Rnd,			M,		220,	110
 		Mag_STANAG_30Rnd,		M,		220,	110
-		Mag_STANAGCoupled_30Rnd,M,		480,	130
+		Mag_STANAGCoupled_30Rnd,	M,		480,	130
 		Mag_STANAG_60Rnd,		M,		580,	220
 		Mag_CMAG_10Rnd,			M,		120,	60
 		Mag_CMAG_20Rnd,			M,		180,	80
@@ -606,7 +605,7 @@
 		Mag_CMAG_40Rnd,			M,		300,	150
 		Mag_VSS_10Rnd,			M,		220,	110
 		Mag_SVD_10Rnd,			M,		250,	125
-		Mag_308WinSnaploader_2Rnd,		M,		250,	125
+		Mag_308WinSnaploader_2Rnd,	M,		250,	125
 		
 	<Category> Handguards
 		MP5_PlasticHndgrd,		*,		100,	50
@@ -634,19 +633,19 @@
 		M4_MPBttstck,			*,		150,	75
 	
 	<Category> Optics
-		M4_CarryHandleOptic,	*,		150,	60
-		BUISOptic,				*,		150,	60
+		M4_CarryHandleOptic,		*,		150,	60
+		BUISOptic,			*,		150,	60
 		FNP45_MRDSOptic,		*,		250,	100
-		ACOGOptic,				*,		300,	120
+		ACOGOptic,			*,		300,	120
 		ACOGOptic_6x,			*,		600,	220
-		M68Optic,				*,		500,	200
+		M68Optic,			*,		500,	200
 		M4_T3NRDSOptic,			*,		500,	200
-		KobraOptic,				*,		600,	220
+		KobraOptic,			*,		600,	220
 		KashtanOptic,			*,		700,	300
 		PUScopeOptic,			*,		900,	500
 		HuntingOptic,			*,		1000,	550
-		PSO1Optic,				*,		1100,	600	
-		PSO11Optic,				*,		1400,	840
+		PSO1Optic,			*,		1100,	600	
+		PSO11Optic,			*,		1400,	840
 		KazuarOptic,			*,		2200,	1400
 		StarlightOptic,			*,		-1,	    2400
 	
@@ -662,12 +661,12 @@
 	<Category> Bayonets
 		Mosin_Bayonet,			*,		100,	60
 		M9A1_Bayonet,			*,		150,	75
-		AK_Bayonet,				*,		150,	75
+		AK_Bayonet,			*,		150,	75
 		SKS_Bayonet,			*,		100,	60
 		
 	<Category> Flashlights
 		Universallight,			*,		120,	60
-		TLRLight,			    *,		120,	60
+		TLRLight,			*,		120,	60
 		
 	<Category> TF Magazines
 		TF_Mag_OTs_14_Groza_20Rnd,			        M,		100,	50
@@ -2818,15 +2817,15 @@
 		Plastic_Explosive,	    1,		25000,	1100
 
 	<Category> SciFi Weaponary
-		Diatium_Power_Cell,							*,		15000,	1200
-		Luke_Skywalker_Lightsaber_Retracted,		*,		10000,	3500
+		Diatium_Power_Cell,					*,		15000,	1200
+		Luke_Skywalker_Lightsaber_Retracted,			*,		10000,	3500
 		Rey_Skywalker_Lightsaber_Retracted,			*,		10000,	3500
 		Obi_Wan_Lightsaber_Retracted,				*,		10000,	3500
 		Mace_Windu_Lightsaber_Retracted,			*,		10000,	3500
 		Ahsoka_Tano_Lightsaber_Retracted,			*,		10000,	3500
-		Sith_Lightsaber_Retracted,					*,		10000,	3500
+		Sith_Lightsaber_Retracted,				*,		10000,	3500
 		Count_Dooku_Lightsaber_Retracted,			*,		10000,	3500
-		Darksaber_Retracted,						*,		10000,	3500
+		Darksaber_Retracted,					*,		10000,	3500
 
 	<Category> Ammunition
 		Ammo_380,				1,		10,		1
