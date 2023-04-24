@@ -79,19 +79,22 @@
 		SodaCan_Kvass, 			*,		20, 		10
 		SodaCan_Pipsi, 			*,		20, 		10
 		SodaCan_Spite, 			*,		20, 		10
-		WaterBottle,			*,		50,			20
-		Canteen,				*,		80,			40
-		Vodka,					*,		120,		80
-		BeerCan_DillyDilly,		*,		120,		80
-		BeerCan_MillerLight,	*,		120,		80
-		BeerCan_PBR,			*,		120,		80
-		BeerCan_Coors,			*,		120,		80
-		BeerCan_Michelob,		*,		120,		80
-		BeerCan_Corona,			*,		120,		80
-		BeerCan_Budweiser,	    *,		120,		80
-		BeerCan_MajorHemp,		*,		120,		80
-		BeerCan_BuschLight,		*,		120,		80
-		
+		WaterBottle,			*,		50,		20
+		Canteen,			*,		80,		40
+		Vodka,				*,		120,		75
+		BeerCan_DillyDilly,		*,		120,		75
+		BeerCan_MillerLight,		*,		120,		75
+		BeerCan_PBR,			*,		120,		75
+		BeerCan_Coors,			*,		120,		75
+		BeerCan_Michelob,		*,		120,		75
+		BeerCan_Corona,			*,		120,		75
+		BeerCan_Budweiser,	    	*,		120,		75
+		BeerCan_MajorHemp,		*,		120,		75
+		BeerCan_BuschLight,		*,		120,		75
+		bl_coffee_bag,			*,		200,		80
+
+
+
 	<Category> Medical Supplies
 		//Rag,					1,		10,			-1
 		BandageDressing,		2,		30,			10
