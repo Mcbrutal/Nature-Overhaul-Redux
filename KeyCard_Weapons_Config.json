@@ -119,6 +119,32 @@
 		},
 		{
 			"dna_Tier": "blue",
+			"dna_WeaponCategory": "main",
+			"dna_TheChosenOne": "TF_SCAR_20_Black",
+			"dna_Magazine": "TF_Mag_SCAR_H_25Rnd_Black",
+			"dna_Ammunition": "AmmoBox_308WinTracer_20Rnd",
+			"dna_OpticType": "TF_ElcanSpecterDROptic_Black",
+			"dna_Suppressor": "TF_SCAR_Suppressor_Black",
+			"dna_UnderBarrel": "TF_SAW_RIS_Grip_Black",
+			"dna_ButtStock": "TF_SCAR_Mk20Bttstck_Black",
+			"dna_HandGuard": "TF_SCAR_MREXHndgrd_Black",
+			"dna_Wrap": ""
+		},
+		{
+			"dna_Tier": "blue",
+			"dna_WeaponCategory": "main",
+			"dna_TheChosenOne": "TF_SCAR_20_Black",
+			"dna_Magazine": "TF_Mag_SCAR_H_25Rnd_Black",
+			"dna_Ammunition": "AmmoBox_308WinTracer_20Rnd",
+			"dna_OpticType": "TF_ElcanSpecterDROptic_Black",
+			"dna_Suppressor": "TF_SCAR_Suppressor_Black",
+			"dna_UnderBarrel": "TF_SAW_RIS_Grip_Black",
+			"dna_ButtStock": "TF_SCAR_Mk20Bttstck_Black",
+			"dna_HandGuard": "TF_SCAR_MREXHndgrd_Black",
+			"dna_Wrap": ""
+		},
+		{
+			"dna_Tier": "blue",
 			"dna_WeaponCategory": "side",
 			"dna_TheChosenOne": "Deagle_Gold",
 			"dna_Magazine": "Mag_Deagle_9rnd",
