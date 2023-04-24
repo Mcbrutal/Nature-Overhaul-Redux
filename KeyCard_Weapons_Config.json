@@ -159,15 +159,15 @@
 		{
 			"dna_Tier": "purple",
 			"dna_WeaponCategory": "main",
-			"dna_TheChosenOne": "TF_MAR10",
-			"dna_Magazine": "TF_Mag_MAR10_10Rnd",
-			"dna_Ammunition": "TF_Ammo_338LM",
+			"dna_TheChosenOne": "TF_SCAR_20_Black",
+			"dna_Magazine": "TF_Mag_SCAR_H_20Rnd_Black",
+			"dna_Ammunition": "AmmoBox_308Win_20Rnd",
 			"dna_OpticType": "HuntingOptic",
-			"dna_Suppressor": "TF_MAR10_Suppressor",
-			"dna_UnderBarrel": "",
-			"dna_ButtStock": "",
-			"dna_HandGuard": "",
-			"dna_Wrap": ""
+			"dna_Suppressor": "TF_SCAR_Suppressor_Black",
+			"dna_UnderBarrel": "TF_Atlas_Bipod",
+			"dna_ButtStock": "TF_SCAR_Mk20Bttstck_Black",
+			"dna_HandGuard": "TF_SCAR_MREXHndgrd_Black",
+			"dna_Wrap": "GhillieAtt_Woodland"
 		},
 		{
 			"dna_Tier": "purple",
@@ -260,18 +260,19 @@
 			"dna_HandGuard": "TF_PKP_CNCC46Hndgrd_RIS",
 			"dna_Wrap": ""
 		},
+		
 		{
 			"dna_Tier": "red",
 			"dna_WeaponCategory": "main",
-			"dna_TheChosenOne": "TF_SCAR_20_Black",
-			"dna_Magazine": "TF_Mag_SCAR_H_20Rnd_Black",
-			"dna_Ammunition": "AmmoBox_308Win_20Rnd",
+			"dna_TheChosenOne": "TF_MAR10",
+			"dna_Magazine": "TF_Mag_MAR10_10Rnd",
+			"dna_Ammunition": "TF_Ammo_338LM",
 			"dna_OpticType": "HuntingOptic",
-			"dna_Suppressor": "TF_SCAR_Suppressor_Black",
-			"dna_UnderBarrel": "TF_Atlas_Bipod",
-			"dna_ButtStock": "TF_SCAR_Mk20Bttstck_Black",
-			"dna_HandGuard": "TF_SCAR_MREXHndgrd_Black",
-			"dna_Wrap": "GhillieAtt_Woodland"
+			"dna_Suppressor": "TF_MAR10_Suppressor",
+			"dna_UnderBarrel": "",
+			"dna_ButtStock": "",
+			"dna_HandGuard": "",
+			"dna_Wrap": ""
 		},
 		{
 			"dna_Tier": "red",
