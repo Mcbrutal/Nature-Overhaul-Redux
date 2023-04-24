@@ -17,7 +17,7 @@
 		{
 			"dna_Tier": "yellow",
 			"dna_Category": "medical",
-			"dna_Type": "Heatpack"
+			"dna_Type": "BloodTestKit"
 		},
 		{
 			"dna_Tier": "yellow",
@@ -52,12 +52,12 @@
 		{
 			"dna_Tier": "yellow",
 			"dna_Category": "tools",
-			"dna_Type": "Hatchet"
+			"dna_Type": "StoneKnife"
 		},
 		{
 			"dna_Tier": "yellow",
 			"dna_Category": "tools",
-			"dna_Type": "StoneKnife"
+			"dna_Type": "bl_rope_yarn"
 		},
 		{
 			"dna_Tier": "yellow",
@@ -82,7 +82,7 @@
 		{
 			"dna_Tier": "green",
 			"dna_Category": "proprietary",
-			"dna_Type": "DNA_Workbench_Kit"
+			"dna_Type": "CP_Workbench_Kit"
 		},
 		{
 			"dna_Tier": "green",
@@ -102,52 +102,52 @@
 		{
 			"dna_Tier": "green",
 			"dna_Category": "food",
-			"dna_Type": "SpaghettiCan"
+			"dna_Type": "bl_candy_dark"
 		},
 		{
 			"dna_Tier": "green",
 			"dna_Category": "food",
-			"dna_Type": "Raz_Cheese"
+			"dna_Type": "bl_potatochips_hot"
 		},
 		{
 			"dna_Tier": "green",
 			"dna_Category": "food",
-			"dna_Type": "Raz_Flour"
+			"dna_Type": "bl_coffee_bag"
 		},
 		{
 			"dna_Tier": "green",
 			"dna_Category": "drink",
-			"dna_Type": "BeerCan_Budweiser"
+			"dna_Type": "BeerCan_MajorHemp"
 		},
 		{
 			"dna_Tier": "green",
 			"dna_Category": "drink",
-			"dna_Type": "Canteen"
+			"dna_Type": "SodaCan_Fronta"
 		},
 		{
 			"dna_Tier": "green",
 			"dna_Category": "drink",
-			"dna_Type": "BeerCan_DillyDilly"
+			"dna_Type": "SodaCan_Pipsi"
 		},
 		{
 			"dna_Tier": "green",
 			"dna_Category": "tools",
-			"dna_Type": "Screwdriver"
+			"dna_Type": "CP_EmptyBag"
 		},
 		{
 			"dna_Tier": "green",
 			"dna_Category": "tools",
-			"dna_Type": "Whetstone"
+			"dna_Type": "CP_RollingPapers_Green"
 		},
 		{
 			"dna_Tier": "green",
 			"dna_Category": "tools",
-			"dna_Type": "HandSaw"
+			"dna_Type": "CP_CigarettePack_Empty"
 		},
 		{
 			"dna_Tier": "green",
 			"dna_Category": "material",
-			"dna_Type": "WoodenPlank"
+			"dna_Type": "CP_PlasticRoll"
 		},
 		{
 			"dna_Tier": "green",
@@ -157,12 +157,12 @@
 		{
 			"dna_Tier": "green",
 			"dna_Category": "misc",
-			"dna_Type": "GPSReceiver"
+			"dna_Type": "PetrolLighter"
 		},
 		{
 			"dna_Tier": "blue",
 			"dna_Category": "proprietary",
-			"dna_Type": "CJ_Key7"
+			"dna_Type": "bl_workbench_Kit"
 		},
 		{
 			"dna_Tier": "blue",
@@ -172,7 +172,7 @@
 		{
 			"dna_Tier": "blue",
 			"dna_Category": "medical",
-			"dna_Type": "CP_CannabisSeedsPackKush"
+			"dna_Type": "Zen_Virus_Cure_Injector"
 		},
 		{
 			"dna_Tier": "blue",
@@ -182,12 +182,12 @@
 		{
 			"dna_Tier": "blue",
 			"dna_Category": "food",
-			"dna_Type": "CowSteakMeat"
+			"dna_Type": "TacticalBaconCan"
 		},
 		{
 			"dna_Tier": "blue",
 			"dna_Category": "food",
-			"dna_Type": "SpaghettiCan"
+			"dna_Type": "TunaCan"
 		},
 		{
 			"dna_Tier": "blue",
@@ -207,27 +207,27 @@
 		{
 			"dna_Tier": "blue",
 			"dna_Category": "drink",
-			"dna_Type": "Vodka"
+			"dna_Type": "BeerCan_Budweiser"
 		},
 		{
 			"dna_Tier": "blue",
 			"dna_Category": "tools",
-			"dna_Type": "DNA_Flux"
+			"dna_Type": "SledgeHammer"
 		},
 		{
 			"dna_Tier": "blue",
 			"dna_Category": "tools",
-			"dna_Type": "DNA_Solder"
+			"dna_Type": "Hatchet"
 		},
 		{
 			"dna_Tier": "blue",
 			"dna_Category": "tools",
-			"dna_Type": "Battery9V"
+			"dna_Type": "Pipe"
 		},
 		{
 			"dna_Tier": "blue",
 			"dna_Category": "material",
-			"dna_Type": "AirdropFlare"
+			"dna_Type": "NailBox"
 		},
 		{
 			"dna_Tier": "blue",
@@ -237,12 +237,12 @@
 		{
 			"dna_Tier": "blue",
 			"dna_Category": "misc",
-			"dna_Type": "FireworksLauncher"
+			"dna_Type": "AirdropFlare"
 		},
 		{
 			"dna_Tier": "Purple",
 			"dna_Category": "proprietary",
-			"dna_Type": "BBP_Blueprint"
+			"dna_Type": "OVERKILL_Mace_Windu_Lightsaber_Retracted"
 		},
 		{
 			"dna_Tier": "purple",
@@ -252,7 +252,7 @@
 		{
 			"dna_Tier": "purple",
 			"dna_Category": "medical",
-			"dna_Type": "CP_CannabisSeedsPackS1"
+			"dna_Type": "CharcoalTablets"
 		},
 		{
 			"dna_Tier": "purple",
@@ -267,7 +267,7 @@
 		{
 			"dna_Tier": "purple",
 			"dna_Category": "food",
-			"dna_Type": "apokot_silver_crucian"
+			"dna_Type": "Mackerel"
 		},
 		{
 			"dna_Tier": "purple",
@@ -287,17 +287,17 @@
 		{
 			"dna_Tier": "purple",
 			"dna_Category": "drink",
-			"dna_Type": "WaterBottle"
+			"dna_Type": "BeerCan_PBR"
 		},
 		{
 			"dna_Tier": "purple",
 			"dna_Category": "tools",
-			"dna_Type": "Pipe"
+			"dna_Type": "ElectronicRepairKit"
 		},
 		{
 			"dna_Tier": "purple",
 			"dna_Category": "tools",
-			"dna_Type": "Blowtorch"
+			"dna_Type": "LeatherSewingKit"
 		},
 		{
 			"dna_Tier": "purple",
@@ -307,7 +307,7 @@
 		{
 			"dna_Tier": "purple",
 			"dna_Category": "material",
-			"dna_Type": "CP_CannabisBagStardawg"
+			"dna_Type": "EpoxyPutty"
 		},
 		{
 			"dna_Tier": "purple",
@@ -317,12 +317,12 @@
 		{
 			"dna_Tier": "purple",
 			"dna_Category": "misc",
-			"dna_Type": "bl_candle_lantern"
+			"dna_Type": "GardenLime"
 		},
 		{
 			"dna_Tier": "red",
 			"dna_Category": "proprietary",
-			"dna_Type": "CodeLock"
+			"dna_Type": "CasinoChips"
 		},
 		{
 			"dna_Tier": "red",
@@ -332,12 +332,12 @@
 		{
 			"dna_Tier": "red",
 			"dna_Category": "medical",
-			"dna_Type": "TetracyclineAntibiotics"
+			"dna_Type": "SalineBag"
 		},
 		{
 			"dna_Tier": "red",
 			"dna_Category": "medical",
-			"dna_Type": "CP_CannabisSeedsPackNomad"
+			"dna_Type": "AntiChemInjector"
 		},
 		{
 			"dna_Tier": "red",
@@ -347,17 +347,12 @@
 		{
 			"dna_Tier": "red",
 			"dna_Category": "food",
-			"dna_Type": "Raz_DeerSteakMeat_Pizza"
+			"dna_Type": "TunaCan"
 		},
 		{
 			"dna_Tier": "red",
 			"dna_Category": "food",
-			"dna_Type": "Raz_apokot_pike_fillet_Pizza"
-		},
-		{
-			"dna_Tier": "red",
-			"dna_Category": "drink",
-			"dna_Type": "BeerCan_PBR"
+			"dna_Type": "Marmalade"
 		},
 		{
 			"dna_Tier": "red",
@@ -377,7 +372,7 @@
 		{
 			"dna_Tier": "red",
 			"dna_Category": "material",
-			"dna_Type": "RemoteDetonator"
+			"dna_Type": "CanisterGasoline"
 		},
 		{
 			"dna_Tier": "red",
@@ -386,13 +381,8 @@
 		},
 		{
 			"dna_Tier": "red",
-			"dna_Category": "valuable",
-			"dna_Type": "Zen_ArtillerySmokeGrenadeChem"
-		},
-		{
-			"dna_Tier": "red",
 			"dna_Category": "misc",
-			"dna_Type": "CP_CannabisSeedsBlackFrost"
+			"dna_Type": "CP_CannabisBrickBlackFrost"
 		}
 	]
 }
