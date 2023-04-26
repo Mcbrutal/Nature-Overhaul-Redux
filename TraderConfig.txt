@@ -211,7 +211,7 @@
 		Headtorch_Black,							*,		400,		20
 		Headtorch_Grey,								*,		400,		20
 		Spotlight,									*,		6000,		200
-		FireworksLauncher,							*,		3000,		150
+		FireworksLauncher,							*,		4500,		350
 	
 	<Category> Cooking & Hunting Supplies
 		PurificationTablets,						*,		50,			2
@@ -238,7 +238,7 @@
 		Pen_Pink,									*,		20,			1
 		Pen_Purple,									*,		20,			1
 		Pen_Orange,									*,		20,			1
-		Rope,										*,		40,			1
+		Rope,										*,		40,			3
 		MetalWire,									*,		150,		6
 		EpoxyPutty,									*,		150,		6
 		DuctTape,									*,		200,		8
@@ -403,15 +403,15 @@
 		Machete,									*,		120,		60
 
 	<Category> Viking Weapons
-		rag_viking_axe,                 			*,    	1350,  		600
-		rag_viking_knife,               			*,    	1050,  		250
-		rag_viking_halbert,             			*,    	1250,  		500
-		rag_viking_hammer,              			*,    	1350,  		550
-		rag_viking_shield,              			*,    	1150,  		500
-		rag_viking_hatchet,             			*,    	1050,  		250
-		rag_viking_dagger,              			*,    	1050,  		250
+		rag_viking_axe,                 			*,    	4500,  		600
+		rag_viking_knife,               			*,    	3750,  		250
+		rag_viking_halbert,             			*,    	6500,  		500
+		rag_viking_hammer,              			*,    	6500,  		550
+		rag_viking_shield,              			*,    	4500,  		500
+		rag_viking_hatchet,             			*,    	6500,  		500
+		rag_viking_dagger,              			*,    	6250,  		500
 		rag_viking_armwrist,            			*,    	1250,  		500
-		rag_viking_sword,               			*,    	1350,  		600
+		rag_viking_sword,               			*,    	6500,  		600
 		rag_viking_flamberge_sword,     			*,    	-1,  		5000
 		rag_viking_axe_doubled,         			*,    	-1,  		5500
 		rag_viking_dragonslayer_axe,    			*,    	-1,  		6500
@@ -467,10 +467,10 @@
 		UMP45,										W,		1100,		300
 		PP19,										W,		800,		350
 		MP5K,										W,		1000,		350	
-		AKS74U,										W,		1100,		300
-		AKS74U_Black,								W,		1100,		300
-		AKS74U_Green,								W,		1100,		300
-		TF_AKS74U,			    					W,		1200,		325
+		AKS74U,										W,		1100,		450
+		AKS74U_Black,								W,		1100,		450
+		AKS74U_Green,								W,		1100,		450
+		TF_AKS74U,			    					W,		1200,		350
 		
 	<Category> Assault Rifles
 		FAMAS,										W,		6500,		1150
@@ -2781,15 +2781,15 @@
 		Saiga,					W,		4500,	3750
 		
 	<Category> Sniper Rifles
-		ASVAL,					W,		2000,	500
-		VSS,					W,		2000,	500
-		SVD,					W,		2000,	500
-		TF_MAR10,			    W,		1956,	978
+		ASVAL,					W,		9500,	1500
+		VSS,					W,		9500,	1500
+		SVD,					W,		11500,	2000
+		TF_MAR10,			    W,		22500,	9500
 		TF_M14_DMR,			    W,		13000,	3500
 		TF_M14_EBR,			    W,		13000,	3500
 		TF_M14_STD,			    W,		12500,	3500
-		TF_SVCh308,			    W,		12500,	3750
-		TF_SVCh,			    W,		5000,	3500
+		TF_SVCh308,			    W,		12500,	4000
+		TF_SVCh,			    W,		11500,	3750
 		TF_SR25,			    W,		14500,	4500
 		TF_Anzio20,			    W,		-1,		89000
 
@@ -2801,10 +2801,10 @@
 		TF_PKP,			        W,		17500,	6000
 		
 	<Category> Heavy Munitions
-		TF_M79,			        W,		1148,	574
-		TF_M79_AOR1,			W,		1198,	599
-		M79,		            W,		1148,	574
-		Ammo_40mm_Chemgas,		1,		-1,		1250
+		TF_M79,			        W,		22500,	4250
+		TF_M79_AOR1,			W,		22500,	4250
+		M79,		            W,		22500,	4250
+		Ammo_40mm_Chemgas,		1,		-1,		1500
 		Ammo_40mm_Explosive,	1,		5000,	1500
 		Ammo_40mm_Smoke_Black,	1,		4500,	1000
 		Ammo_40mm_Smoke_Green,	1,		4500,	1000
@@ -3039,27 +3039,27 @@
 		TF_AK_B33Receiver,			                *,		250,	175
 
 	<Category> TF Helmets n Covers
-		TF_6B47Helmet,	                            *,		350,	110
-		TF_6B47HelmetCover_EMR,	                    *,		350,	110
-		TF_6B47HelmetCover_Syrian,	                *,		350,	110
-		TF_LSHZHelmet_OD,	                        *,		350,	110
-		TF_MICH2000Helmet,	                        *,		350,	110
-		TF_MICH2000Helmet_Khaku,	                *,		350,	110
-		TF_MICH2000Helmet_Black,	                *,		350,	110
-		TF_MICH2000HelmetCover_Woodland,	        *,		350,	110
+		TF_6B47Helmet,	                            *,		9500,	3250
+		TF_6B47HelmetCover_EMR,	                    *,		450,	150
+		TF_6B47HelmetCover_Syrian,	                *,		450,	150
+		TF_LSHZHelmet_OD,	                        *,		6250,	2250
+		TF_MICH2000Helmet,	                        *,		4750,	1750
+		TF_MICH2000Helmet_Khaku,	                *,		450,	150
+		TF_MICH2000Helmet_Black,	                *,		450,	150
+		TF_MICH2000HelmetCover_Woodland,	        *,		450,	150
 		TF_WeldingMask_Tagilla,	                    *,		350,	110
 		TF_WeldingMask,	                            *,		350,	110
-		TF_Maska1Helmet,	                        *,		350,	110
-		TF_Maska1Visor,	                            *,		350,	110
-		TF_Maska1SchVisor,	                        *,		350,	110
+		TF_Maska1Helmet,	                        *,		10000,	3750
+		TF_Maska1Visor,	                            *,		750,	110
+		TF_Maska1SchVisor,	                        *,		750,	110
 
 	<Category> SciFi Headgear
-		StormtrooperHelmet,				*,		200,	100
-		MandalorianHelmet,				*,		200,	100
-		Cloak_tan,						*,		450,	220
-		Cloak_brown,					*,		450,	220
-		Cloak_black,					*,		450,	220
-		Cloak_white,					*,		450,	220
+		StormtrooperHelmet,				*,		50000,	12500
+		MandalorianHelmet,				*,		50000,	16500
+		Cloak_tan,						*,		16500,	3500
+		Cloak_brown,					*,		16500,	3500
+		Cloak_black,					*,		16500,	3500
+		Cloak_white,					*,		16500,	3500
 		
 	<Category> Electronics
 		NVGHeadstrap,								*,		16500,	3500
@@ -3104,47 +3104,47 @@
 		TF_6B43MagPouch_Syrian,                    	*,		4500,		300
 		TF_6B43GrenPouch_Syrian,	                *,		4500,		250
 		TF_DumpMagPouch,	                        *,		4500,		250
-		TF_DumpMagPouch_Khaki,	                    *,		100,		20
-		TF_3GrenPouch,	                            *,		100,		20
-		TF_3GrenPouch_Khaki,	                    *,		100,		20
-		TF_2GrenPouch,	                            *,		100,		20
-		TF_2GrenPouch_Khaki,	                    *,		100,		20
-		TF_LMGPouch,	                            *,		100,		20
-		TF_LMGPouch_Khaki,	                        *,		100,		20
-		TF_LMG_M4Pouch,	                            *,		100,		20
-		TF_LMG_M4Pouch_Khaki,	                    *,		100,		20
-		TF_Mag2Pouch,	                            *,		100,		20
-		TF_Mag2Pouch_Khaki,	                        *,		100,		20
-		TF_Mag3Pouch,	                            *,		100,		20
-		TF_Mag3Pouch_Khaki,	                        *,		100,		20
-		TF_MedPouch1,	                            *,		100,		20
-		TF_MedPouch1_Khaki,	                        *,		100,		20
-		TF_MedPouch2,	                            *,		100,		20
-		TF_MedPouch2_Coyote,	                    *,		100,		20
-		TF_MedPouch3,	                            *,		100,		20
-		TF_MedPouch3_Khaki,	                        *,		100,		20
-		TF_AVSMag3Pouch_Coyote,	                    *,		1500,		20
-		TF_AVSMag3Pouch_Khaki,	                    *,		1500,		20
-		TF_FastMag3Pouch_Khaki,	                    *,		1500,		20
-		TF_FastMag3Pouch_Coyote,	                *,		1500,		100
-		TF_AFAKMedPouch_Khaki,	                    *,		1600,		100
-		TF_AFAKMedPouch_Coyote,	                    *,		1600,		100
-		TF_AVSGren2Pouch_Coyote,	                *,		100,		20
-		TF_AVSGren2Pouch_Khaki,	                    *,		100,		20
-		TF_LargeUtilityPouch_Khaki,	                *,		100,		20
-		TF_LargeUtilityPouch_Coyote,	            *,		100,		20
-		TF_JPCMag3Pouch_Coyote,	                    *,		100,		20
+		TF_DumpMagPouch_Khaki,	                    *,		550,		40
+		TF_3GrenPouch,	                            *,		550,		40
+		TF_3GrenPouch_Khaki,	                    *,		550,		40
+		TF_2GrenPouch,	                            *,		550,		40
+		TF_2GrenPouch_Khaki,	                    *,		550,		40
+		TF_LMGPouch,	                            *,		650,		40
+		TF_LMGPouch_Khaki,	                        *,		650,		40
+		TF_LMG_M4Pouch,	                            *,		650,		40
+		TF_LMG_M4Pouch_Khaki,	                    *,		650,		40
+		TF_Mag2Pouch,	                            *,		550,		40
+		TF_Mag2Pouch_Khaki,	                        *,		550,		40
+		TF_Mag3Pouch,	                            *,		550,		40
+		TF_Mag3Pouch_Khaki,	                        *,		550,		40
+		TF_MedPouch1,	                            *,		550,		40
+		TF_MedPouch1_Khaki,	                        *,		550,		40
+		TF_MedPouch2,	                            *,		550,		40
+		TF_MedPouch2_Coyote,	                    *,		550,		40
+		TF_MedPouch3,	                            *,		550,		40
+		TF_MedPouch3_Khaki,	                        *,		550,		40
+		TF_AVSMag3Pouch_Coyote,	                    *,		1250,		40
+		TF_AVSMag3Pouch_Khaki,	                    *,		1250,		40
+		TF_FastMag3Pouch_Khaki,	                    *,		1250,		40
+		TF_FastMag3Pouch_Coyote,	                *,		1250,		100
+		TF_AFAKMedPouch_Khaki,	                    *,		550,		100
+		TF_AFAKMedPouch_Coyote,	                    *,		550,		100
+		TF_AVSGren2Pouch_Coyote,	                *,		550,		20
+		TF_AVSGren2Pouch_Khaki,	                    *,		550,		20
+		TF_LargeUtilityPouch_Khaki,	                *,		550,		20
+		TF_LargeUtilityPouch_Coyote,	            *,		550,		20
+		TF_JPCMag3Pouch_Coyote,	                    *,		550,		20
 
 	<Category> TF Bags
-		TF_CamelBakBag_Black,			            *,		500,	220
-		TF_CamelBakBag_Brown,			            *,		500,	220
-		TF_CamelBakBag_EMR,			                *,		500,	220
-		TF_CamelBakBag_OD,			                *,		500,	220
-		TF_CamelBakBag_Tan,			                *,		500,	220
-		TF_AVSBag_Coyote,			                *,		500,	220
-		TF_AVSBag_Khaki,			                *,		500,	220
-		TF_MAPBag_Khaki,			                *,		500,	220
-		TF_MAPBag_Coyote,			                *,		500,	220
+		TF_CamelBakBag_Black,			            *,		3500,	450
+		TF_CamelBakBag_Brown,			            *,		3500,	450
+		TF_CamelBakBag_EMR,			                *,		3500,	450
+		TF_CamelBakBag_OD,			                *,		3500,	450
+		TF_CamelBakBag_Tan,			                *,		3500,	450
+		TF_AVSBag_Coyote,			                *,		3500,	450
+		TF_AVSBag_Khaki,			                *,		3500,	450
+		TF_MAPBag_Khaki,			                *,		3500,	450
+		TF_MAPBag_Coyote,			                *,		3500,	450
 
 	<Category> TF Clothing
 		TF_PMK4GasMask,				                *,		120,	40
@@ -4181,7 +4181,7 @@
 		CP_CannabisBrickFuture,						1,		55000,	35000
 		CP_CannabisBrickS1,							1,		150000,	65000
 		CP_CannabisBrickNomad,						1,		150000,	65000
-		CP_CannabisBrickBlackFrost,					1,		225000,	130000
+		CP_CannabisBrickBlackFrost,					1,		225000,	115000
 
 <Trader> Heli Trader
 	<Category> Heli Equipment
