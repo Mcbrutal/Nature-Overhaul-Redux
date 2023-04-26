@@ -2810,10 +2810,10 @@
 		Ammo_40mm_Smoke_Green,	1,		4500,	1000
 		Ammo_40mm_Smoke_Red,	1,		4500,	1000
 		Ammo_40mm_Smoke_White,	1,		4500,	1000
-		TF_EMPGrenade,			1,		4000,	1000
-		TF_PhosphorusGrenade,	1,		4500,	1000
-		TF_TeargasGrenade,		1,		4250,	1000
-		TF_ChemicalGrenade,		1,		-1,		1750
+		TF_EMPGrenade,			*,		4000,	1000
+		TF_PhosphorusGrenade,	*,		4500,	1000
+		TF_TeargasGrenade,		*,		4250,	1000
+		TF_ChemicalGrenade,		*,		-1,		1750
 		RemoteDetonator,	    1,		-1,		1250
 		ClaymoreMine,	        *,		75000,	5500
 		LandMineTrap,	        1,		5000,	750
