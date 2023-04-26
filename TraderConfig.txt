@@ -2831,53 +2831,11 @@
 		Darksaber_Retracted,					*,		75000,	40000
 
 	<Category> Ammunition
-		Ammo_380,				1,		10,		1
-		Ammo_9x19,				1,		10,		1
-		Ammo_22,				1,		10,		1
-		Ammo_45ACP,				1,		10,		1
-		Ammo_12gaPellets,		1,		30,		1
-		Ammo_12gaSlug,			1,		40,		2
-		Ammo_9x39,				1,		40,		2
-		Ammo_9x39AP,			1,		50,		3
-		Ammo_357,				1,		50,		3
-		Ammo_308Win,			1,		50,		3
-		Ammo_545x39,			1,		50,		3
-		Ammo_556x45,			1,		50,		3
-		Ammo_762x39,			1,		50,		3
-		Ammo_762x54,			1,		100,		6		
-		Ammo_556x45Tracer,		1,		100,		5
-		Ammo_545x39Tracer,		1,		100,		5
-		Ammo_308WinTracer,		1,		100,		5
-		Ammo_762x39Tracer,		1,		100,		5
-		Ammo_Flare,				1,		150,		7
-	    Ammo_FlareBlue,			1,		150,		7
-	    Ammo_FlareGreen,		1,		150,		7
-	    Ammo_FlareRed,			1,		150,		7
-		Ammo_762x54Tracer,		1,		200,		12
 		TF_Ammo_20mm,		    *,		1500,		500
 		TF_Ammo_20mm_HE,		*,		1500,		500
 		TF_Ammo_57,		        *,		1160,		450
 		TF_Ammo_338LM,		    *,		1460,		450
-		AmmoBox_380_35rnd,		*,		280,		15
-		AmmoBox_9x19_25rnd,		*,		200,		15
-		AmmoBox_45ACP_25rnd,	*,		200,		15
-		AmmoBox_22_50Rnd,		*,		600,		20
-		AmmoBox_00buck_10rnd,	*,		240,		10
-		AmmoBox_12gaSlug_10Rnd,	*,		320,		20
-		AmmoBox_9x39_20Rnd,		*,		320,		20
-		AmmoBox_9x39AP_20Rnd,	*,		800,		60
-		AmmoBox_357_20Rnd,		*,		800,		60
-		AmmoBox_308Win_20Rnd,	*,		800,		60
-		AmmoBox_545x39_20Rnd,	*,		800,		60
-		AmmoBox_556x45_20Rnd,	*,		800,		60
-		AmmoBox_762x39_20Rnd,	*,		800,		60
-		AmmoBox_762x54_20Rnd,	*,		2000,	120		
-		AmmoBox_308WinTracer_20Rnd,		*,		1600,	80
-		AmmoBox_545x39Tracer_20Rnd,		*,		1600, 	80
-		AmmoBox_556x45Tracer_20Rnd,		*,		1600,	80
-		AmmoBox_762x39Tracer_20Rnd,		*,		1600,	80
-		AmmoBox_762x54Tracer_20Rnd,		*,		2000,	200
-		
+				
 	<Category> Magazines
 		Mag_IJ70_8Rnd,			M,		30,		15
 		Mag_CZ75_15Rnd,			M,		40,		20
@@ -2910,63 +2868,63 @@
 		Mag_308WinSnaploader_2Rnd,		M,		250,	125
 
 	<Category> TF Magazines
-		TF_Mag_OTs_14_Groza_20Rnd,			        M,		1500,	250
-		TF_Mag_SCAR_H_20Rnd_Black,			        M,		1500,	250
-		TF_Mag_SCAR_H_20Rnd_FDE,			        M,		1500,	250
-		TF_Mag_SCAR_H_20Rnd_Shd,			        M,		1500,	250
-		TF_Mag_SCAR_H_25Rnd_Black,			        M,		1500,	250
-		TF_Mag_SCAR_H_25Rnd_FDE,			        M,		1500,	250
-		TF_Mag_SCAR_H_30Rnd_Black,			        M,		1500,	250
-		TF_Mag_SCAR_H_30Rnd_FDE,			        M,		1500,	250
-		TF_Mag_SCAR_H_PMAG25Rnd_Black,			    M,		1500,	250
-		TF_Mag_SCAR_H_Drum50Rnd,			        M,		4500,	550
-		TF_Mag_FAL_Drum50Rnd_Black,			        M,		4250,	550
-		TF_Mag_MAR10_10Rnd,			                M,		5500,	750
-		TF_Mag_Anzio20_3Rnd,			            M,		7500,	2250
-		TF_Mag_M14_20Rnd,			                M,		1500,	100
-		TF_Mag_M14_10Rnd,			                M,		1500,	100
-		TF_Mag_FiveSeven_20Rnd,			            M,		100,	50
-		TF_Mag_AK74_60Rnd,			                M,		2500,	250
-		TF_Mag_AK74_45Rnd,			                M,		1750,	100
-		TF_Mag_AKM_Plastic30Rnd,			        M,		975,	100
-		TF_Mag_AKM_30Rnd,			                M,		1000,	100
-		TF_Mag_AKM_10Rnd,			                M,		950,	100
-		TF_Mag_AKM_PMAG30Rnd,			            M,		1000,	100
-		TF_Mag_AKM_PMAG30Rnd_Banana,			    M,		1000,	100
-		TF_Mag_M4_STANAG_30Rnd,			            M,		1000,	100
-		TF_Mag_M4_PMAG10Rnd,			            M,		1000,	100
-		TF_Mag_M4_PMAG20Rnd,			            M,		1000,	100
-		TF_Mag_M4_PMAG30Rnd,			            M,		1000,	100
-		TF_Mag_M4_PMAG30Rnd_FDE,			        M,		1000,	100
-		TF_Mag_M4_PMAG40Rnd,			            M,		1000,	100
-		TF_Mag_M4_PMAG40Rnd_FDE,			        M,		1000,	100
-		TF_Mag_MP443_18Rnd,			                M,		250,	75
-		TF_Mag_VPO190_4Rnd,			                M,		350,	75
-		TF_Mag_AK101_Plastic30Rnd,			        M,		1000,	100
-		TF_Mag_AK74_Bakelit30Rnd,			        M,		1000,	100
-		TF_Mag_AK74_Plum30Rnd,			            M,		1000,	100
-		TF_Mag_AK74_Plastic30Rnd,			        M,		1000,	100
-		TF_Mag_AKM_Bakelit40Rnd,			        M,		1000,	100
-		TF_Mag_AKM_Steel40Rnd,			            M,		2000,	150
-		TF_Mag_M240_50Rnd,			                M,		100,	50
-		TF_Mag_M249_200Rnd,			                M,		100,	50
-		TF_Mag_PKM_100Rnd,			                M,		100,	50
-		TF_Mag_SVCh308_10Rnd,			            M,		100,	50
-		TF_Mag_SR25_20Rnd,			                M,		100,	50
+		TF_Mag_OTs_14_Groza_20Rnd,			        M,		1500,		250
+		TF_Mag_SCAR_H_20Rnd_Black,			        M,		1500,		250
+		TF_Mag_SCAR_H_20Rnd_FDE,			        M,		1500,		250
+		TF_Mag_SCAR_H_20Rnd_Shd,			        M,		1500,		250
+		TF_Mag_SCAR_H_25Rnd_Black,			        M,		1500,		250
+		TF_Mag_SCAR_H_25Rnd_FDE,			        M,		1500,		250
+		TF_Mag_SCAR_H_30Rnd_Black,			        M,		1500,		250
+		TF_Mag_SCAR_H_30Rnd_FDE,			        M,		1500,		250
+		TF_Mag_SCAR_H_PMAG25Rnd_Black,			    M,		1500,		250
+		TF_Mag_SCAR_H_Drum50Rnd,			        M,		4500,		450
+		TF_Mag_FAL_Drum50Rnd_Black,			        M,		4500,		500
+		TF_Mag_MAR10_10Rnd,			                M,		5500,		750
+		TF_Mag_Anzio20_3Rnd,			            M,		7500,		2250
+		TF_Mag_M14_20Rnd,			                M,		1500,		100
+		TF_Mag_M14_10Rnd,			                M,		1500,		100
+		TF_Mag_FiveSeven_20Rnd,			            M,		100,		50
+		TF_Mag_AK74_60Rnd,			                M,		2500,		250
+		TF_Mag_AK74_45Rnd,			                M,		1750,		100
+		TF_Mag_AKM_Plastic30Rnd,			        M,		975,		100
+		TF_Mag_AKM_30Rnd,			                M,		1000,		100
+		TF_Mag_AKM_10Rnd,			                M,		950,		100
+		TF_Mag_AKM_PMAG30Rnd,			            M,		1000,		100
+		TF_Mag_AKM_PMAG30Rnd_Banana,			    M,		1000,		100
+		TF_Mag_M4_STANAG_30Rnd,			            M,		1000,		100
+		TF_Mag_M4_PMAG10Rnd,			            M,		1000,		100
+		TF_Mag_M4_PMAG20Rnd,			            M,		1000,		100
+		TF_Mag_M4_PMAG30Rnd,			            M,		1000,		100
+		TF_Mag_M4_PMAG30Rnd_FDE,			        M,		1000,		100
+		TF_Mag_M4_PMAG40Rnd,			            M,		1000,		100
+		TF_Mag_M4_PMAG40Rnd_FDE,			        M,		1000,		100
+		TF_Mag_MP443_18Rnd,			                M,		250,		50
+		TF_Mag_VPO190_4Rnd,			                M,		350,		75
+		TF_Mag_AK101_Plastic30Rnd,			        M,		1000,		100
+		TF_Mag_AK74_Bakelit30Rnd,			        M,		1000,		100
+		TF_Mag_AK74_Plum30Rnd,			            M,		1000,		100
+		TF_Mag_AK74_Plastic30Rnd,			        M,		1000,		100
+		TF_Mag_AKM_Bakelit40Rnd,			        M,		1000,		100
+		TF_Mag_AKM_Steel40Rnd,			            M,		2000,		150
+		TF_Mag_M240_50Rnd,			                M,		4000,		400
+		TF_Mag_M249_200Rnd,			                M,		5000,		450
+		TF_Mag_PKM_100Rnd,			                M,		4500,		400
+		TF_Mag_SVCh308_10Rnd,			            M,		1250,		200
+		TF_Mag_SR25_20Rnd,			                M,		1750,		350
 		
 	<Category> TF Optics
-		TF_ElcanSpecterDROptic_FDE,	                *,		2561,	60
-		TF_ElcanSpecterDROptic_Black,	            *,		2561,	60
-		TF_ElcanSpecterDR_6xOptic_FDE,	            *,		537,	60
-		TF_ElcanSpecterDR_6xOptic_Black,	        *,		537,	60
-		TF_EOTechXPSOpticDown_Black,	            *,		537,	60
-		TF_EOTechXPSOpticUp_Black,	                *,		537,	60
-		TF_DeltaPointOptic_Black,	                *,		392,	60
-		TF_HAMROptic_Black,	                        *,		392,	60
-		TF_OTs_14_GrozaOptic,	                    *,		400,	60
-		TF_PK122_ValdayOptic,	                    *,		400,	60
-		TF_OKP7Optic,	                            *,		380,	60
-		TF_M4_ColtA2Optic,	                        *,		299,	60
+		TF_ElcanSpecterDROptic_FDE,	                *,		2561,		750
+		TF_ElcanSpecterDROptic_Black,	            *,		2561,		750
+		TF_ElcanSpecterDR_6xOptic_FDE,	            *,		537,		60
+		TF_ElcanSpecterDR_6xOptic_Black,	        *,		537,		60
+		TF_EOTechXPSOpticDown_Black,	            *,		537,		60
+		TF_EOTechXPSOpticUp_Black,	                *,		537,		60
+		TF_DeltaPointOptic_Black,	                *,		392,		60
+		TF_HAMROptic_Black,	                        *,		392,		60
+		TF_OTs_14_GrozaOptic,	                    *,		400,		60
+		TF_PK122_ValdayOptic,	                    *,		400,		60
+		TF_OKP7Optic,	                            *,		380,		60
+		TF_M4_ColtA2Optic,	                        *,		299,		60
 
 	<Category> TF Buttstocks
 		TF_SCAR_Mk20Bttstck_FDE,		            *,		339,	50
@@ -3212,6 +3170,982 @@
 		TF_FannyPack_Coyote,				        *,		900,	    150
 		TF_6B43PelvisArmor,			                *,		1500,	250
 		TF_6B43PelvisArmor_Syrian,			        *,		1500,	275
+
+	<Category> Mutated Ghillie Suits
+		MSGhillieSuitTan,			*,		750,		380
+		MSGhillieSuitWoodland,		*,		750,		380
+		MSGhillieSuitMossy,			*,		750,		380
+		MSGhillieSuitBlack,			*,		750,		380
+		MSGhillieSuitDarkGreen,		*,		750,		380
+		MSGhillieSuitDeadGrass,		*,		750,		380
+		MSGhillieSuitDeadGrass2,	*,		750,		380
+ 
+	<Category> Mutated Ghillie Suits Coloured
+		MSGhillieSuitGold,			*,		750,		380
+		MSGhillieSuitGreen,			*,		750,		380
+		MSGhillieSuitBlue,			*,		750,		380
+		MSGhillieSuitGrey,			*,		750,		380
+		MSGhillieSuitLightblue,		*,		750,		380
+		MSGhillieSuitPurple,		*,		750,		380
+		MSGhillieSuitSnow,			*,		750,		380
+ 
+	<Category> Mutated Ghillie Suits Dark Camo
+		MSGhillieSuitDarkCamo,		*,		750,		380
+		MSGhillieSuitDarkCamo2,		*,		750,		380
+		MSGhillieSuitDarkCamo3,		*,		750,		380
+		MSGhillieSuitDarkCamo4,		*,		750,		380
+		MSGhillieSuitDarkCamo5,		*,		750,		380
+		MSGhillieSuitDarkCamo6,		*,		750,		380
+		MSGhillieSuitDarkCamo7,		*,		750,		380
+		MSGhillieSuitDarkCamo8,		*,		750,		380
+		MSGhillieSuitDarkCamo9,		*,		750,		380
+		MSGhillieSuitDarkCamo10,	*,		750,		380
+		MSGhillieSuitDarkCamo11,	*,		750,		380
+ 
+	<Category> Mutated Ghillie Suits Light Camo
+		MSGhillieSuitCamo,			*,		750,		380
+		MSGhillieSuitCamo2,			*,		750,		380
+		MSGhillieSuitCamo3,			*,		750,		380
+		MSGhillieSuitCamo4,			*,		750,		380
+		MSGhillieSuitCamo5,			*,		750,		380
+		MSGhillieSuitCamo6,			*,		750,		380
+		MSGhillieSuitCamo7,			*,		750,		380
+		MSGhillieSuitCamo8,			*,		750,		380
+		MSGhillieSuitCamo9,			*,		750,		380
+		MSGhillieSuitCamo10,		*,		750,		380
+		MSGhillieSuitCamo11,		*,		750,		380
+		
+	<Category> Mutated Ghillie Suits Camouflaged
+		MSGhillieSuit_Alpha,		*,		750,		380
+		MSGhillieSuit_Bravo,		*,		750,		380
+		MSGhillieSuit_Bush,		*,		750,		380
+		MSGhillieSuit_Bushlands,		*,		750,		380
+		MSGhillieSuit_Chaple,		*,		750,		380
+		MSGhillieSuit_Charlie,		*,		750,		380
+		MSGhillieSuit_Check,		*,		750,		380
+		MSGhillieSuit_Delta,		*,		750,		380
+		MSGhillieSuit_Echo,		*,		750,		380
+		MSGhillieSuit_Falcon,		*,		750,		380
+		MSGhillieSuit_Fireteam,		*,		750,		380
+		MSGhillieSuit_GreenAssault,		*,		750,		380
+		MSGhillieSuit_GreenSupreme,		*,		750,		380
+		MSGhillieSuit_Gunner,		*,		750,		380
+		MSGhillieSuit_Halo,		*,		750,		380
+		MSGhillieSuit_Intel,		*,		750,		380
+		MSGhillieSuit_Jackhammer,		*,		750,		380
+		MSGhillieSuit_Justice,		*,		750,		380
+		MSGhillieSuit_Kilo,		*,		750,		380
+		MSGhillieSuit_Lux,		*,		750,		380
+		MSGhillieSuit_Marko,		*,		750,		380
+		MSGhillieSuit_MuddyWoods,		*,		750,		380
+		MSGhillieSuit_Nile,		*,		750,		380
+		MSGhillieSuit_Op,		*,		750,		380
+		MSGhillieSuit_Pine,		*,		750,		380
+		MSGhillieSuit_POI,		*,		750,		380
+		MSGhillieSuit_Quantum,		*,		750,		380
+		MSGhillieSuit_Raven,		*,		750,		380
+		MSGhillieSuit_RedDecay,		*,		750,		380
+		MSGhillieSuit_Redrum,		*,		750,		380
+		MSGhillieSuit_Remains,		*,		750,		380
+		MSGhillieSuit_Scatter,		*,		750,		380
+		MSGhillieSuit_Shrubs,		*,		750,		380
+		MSGhillieSuit_Strike,		*,		750,		380
+		MSGhillieSuit_Teppa,		*,		750,		380
+		MSGhillieSuit_Ultra,		*,		750,		380
+		MSGhillieSuit_Vector,		*,		750,		380
+		MSGhillieSuit_Woodlands,		*,		750,		380
+		MSGhillieSuit_Woods,		*,		750,		380
+		MSGhillieSuit_X,		*,		750,		380
+		MSGhillieSuit_Yas,		*,		750,		380
+		MSGhillieSuit_Zero,		*,		750,		380
+ 
+	<Category> Mutated Ghillie Suits Digital Camo
+		MSGhillieSuitDigCamo,		*,		750,		380
+		MSGhillieSuitDigCamo1,		*,		750,		380
+		MSGhillieSuitDigCamo2,		*,		750,		380
+		MSGhillieSuitDigCamo3,		*,		750,		380
+		MSGhillieSuitDigCamo4,		*,		750,		380
+		MSGhillieSuitDigCamo5,		*,		750,		380
+		MSGhillieSuitDigCamo6,		*,		750,		380
+		MSGhillieSuitDigCamo7,		*,		750,		380
+		MSGhillieSuitDigCamo8,		*,		750,		380
+		MSGhillieSuitDigCamo9,		*,		750,		380
+		MSGhillieSuitDigCamo10,		*,		750,		380
+		MSGhillieSuitDigCamo11,	 	*,		750,		380
+		MSGhillieSuitDigCamo12,		*,		750,		380
+		MSGhillieSuitDigCamo13,		*,		750,		380
+		MSGhillieSuitDigCamo14,		*,		750,		380
+		MSGhillieSuitDigCamo15,		*,		750,		380
+		MSGhillieSuitDigCamo16,		*,		750,		380
+		MSGhillieSuitDigCamo17,		*,		750,		380
+		MSGhillieSuitDigCamo18,		*,		750,		380
+		MSGhillieSuitDigCamo19,		*,		750,		380
+		MSGhillieSuit_DigAlpha, *,		750,		380
+		MSGhillieSuit_DigBravo, *,		750,		380
+		MSGhillieSuit_DigBush, *,		750,		380
+		MSGhillieSuit_DigBushlands, *,		750,		380
+		MSGhillieSuit_DigChaple, *,		750,		380
+		MSGhillieSuit_DigCharlie, *,		750,		380
+		MSGhillieSuit_DigCheck, *,		750,		380
+		MSGhillieSuit_DigDecay, *,		750,		380
+		MSGhillieSuit_DigEcho, *,		750,		380
+		MSGhillieSuit_DigFalcon, *,		750,		380
+		MSGhillieSuit_DigFireteam, *,		750,		380
+		MSGhillieSuit_DigGunner, *,		750,		380
+		MSGhillieSuit_DigHalo, *,		750,		380
+		MSGhillieSuit_DigIntel, *,		750,		380
+		MSGhillieSuit_DigJackhammer, *,		750,		380
+		MSGhillieSuit_DigJustice, *,		750,		380
+		MSGhillieSuit_DigKilo, *,		750,		380
+		MSGhillieSuit_DigLux, *,		750,		380
+		MSGhillieSuit_DigMarko, *,		750,		380
+		MSGhillieSuit_DigMuddyWoods, *,		750,		380
+		MSGhillieSuit_DigNile, *,		750,		380
+		MSGhillieSuit_DigOp, *,		750,		380
+		MSGhillieSuit_DigPine, *,		750,		380
+		MSGhillieSuit_DigQuantum, *,		750,		380
+		MSGhillieSuit_DigRaven, *,		750,		380
+		MSGhillieSuit_DigTeppa, *,		750,		380
+		MSGhillieSuit_DigUltra, *,		750,		380
+		MSGhillieSuit_DigVector, *,		750,		380
+		MSGhillieSuit_DigWoods, *,		750,		380
+		MSGhillieSuit_DigX, *,		750,		380
+		MSGhillieSuit_DigYas, *,		750,		380
+		MSGhillieSuit_DigZero, *,		750,		380
+		
+	<Category> Mutated Ghillie Suits Dirt Camo
+		MSGhillieSuit_DirtAlpha, *,     750,        380
+		MSGhillieSuit_DirtBravo, *,     750,        380
+		MSGhillieSuit_DirtCharlie, *,     750,        380
+		
+	<Category> Mutated Ghillie Suits Grass Camo
+		MSGhillieSuit_GrassAlpha, *,     750,        380
+		MSGhillieSuit_GrassBravo, *,     750,        380
+		MSGhillieSuit_GrassCharlie, *,     750,        380
+		MSGhillieSuit_GrassDelta, *,     750,        380
+		MSGhillieSuit_GrassEcho, *,     750,        380
+		MSGhillieSuit_GrassFalcon, *,     750,        380
+		MSGhillieSuit_GrassGunner, *,     750,        380
+		MSGhillieSuit_GrassHalo, *,     750,        380
+		MSGhillieSuit_GrassIntel, *,     750,        380
+		MSGhillieSuit_GrassJustice, *,     750,        380
+		MSGhillieSuit_GrassKilo, *,     750,        380
+		
+	<Category> Mutated Ghillie Suits Tree Camo
+		MSGhillieSuit_TreeAlpha,   *,     750,       380
+		MSGhillieSuit_TreeBravo,   *,     750,       380
+		MSGhillieSuit_TreeCharlie,   *,     750,       380
+		MSGhillieSuit_TreeDelta,   *,     750,       380
+		MSGhillieSuit_TreeEcho,   *,     750,       380
+		MSGhillieSuit_TreeFalcon,   *,     750,       380
+		MSGhillieSuit_TreeGunner,   *,     750,       380
+		
+	<Category> Mutated Ghillie Suits Reptile Camo
+		MSGhillieSuit_RepAlpha,    *,     750,      380
+		MSGhillieSuit_RepBravo,    *,     750,      380
+		MSGhillieSuit_RepCharlie,    *,     750,      380
+		MSGhillieSuit_RepDelta,    *,     750,      380
+		MSGhillieSuit_RepEcho,    *,     750,      380
+		MSGhillieSuit_RepFalcon,    *,     750,      380
+		MSGhillieSuit_RepGunner,    *,     750,      380
+		MSGhillieSuit_RepHalo,    *,     750,      380
+		MSGhillieSuit_RepIntel,    *,     750,      380
+		MSGhillieSuit_RepJustice,    *,     750,      380
+		MSGhillieSuit_RepKilo,    *,     750,      380
+		MSGhillieSuit_RepLux,    *,     750,      380
+		MSGhillieSuit_RepMarko,    *,     750,      380
+		MSGhillieSuit_RepNile,    *,     750,      380
+	
+	<Category> Mutated Ghillie Suits Special Camo
+		MSGhillieSuit_SpecBlackPlate,   *,    -0,      5000000
+		MSGhillieSuit_SpecBlooded,   *,    -0,      5000000
+		MSGhillieSuit_SpecDigital,   *,    -0,      5000000
+		MSGhillieSuit_SpecDynamic,   *,    -0,      5000000
+		MSGhillieSuit_SpecMagma,   *,    -0,      5000000
+		MSGhillieSuit_SpecRedness,   *,    -0,      5000000
+		MSGhillieSuit_SpecSkulls,   *,    -0,      5000000
+		MSGhillieSuit_SpecStatic,   *,    -0,      5000000
+		MSGhillieSuit_SpecVoided,   *,    -0,      5000000
+		
+		
+	<Category> Mutated Ghillie Rag
+		MSGhillieRagTan,			*,		450,		200
+		MSGhillieRagWoodland,		*,		450,		200
+		MSGhillieRagMossy,			*,		450,		200
+		MSGhillieRagBlack,			*,		450,		200
+		MSGhillieRagDarkGreen,		*,		450,		200
+		MSGhillieRagDeadGrass,		*,		450,		200
+		MSGhillieRagDeadGrass2,		*,		450,		200
+ 
+	<Category> Mutated Ghillie Rag Coloured
+		MSGhillieRagGold,			*,		450,		200
+		MSGhillieRagGreen,			*,		450,		200
+		MSGhillieRagBlue,			*,		450,		200
+		MSGhillieRagGrey,			*,		450,		200
+		MSGhillieRagLightblue,		*,		450,		200
+		MSGhillieRagPurple,			*,		450,		200
+		MSGhillieRagSnow,			*,		450,		200
+ 
+	<Category> Mutated Ghillie Rag Dark Camo
+		MSGhillieRagDarkCamo,		*,		450,		200
+		MSGhillieRagDarkCamo2,		*,		450,		200
+		MSGhillieRagDarkCamo3,		*,		450,		200
+		MSGhillieRagDarkCamo4,		*,		450,		200
+		MSGhillieRagDarkCamo5,		*,		450,		200
+		MSGhillieRagDarkCamo6,		*,		450,		200
+		MSGhillieRagDarkCamo7,		*,		450,		200
+		MSGhillieRagDarkCamo8,		*,		450,		200
+		MSGhillieRagDarkCamo9,		*,		450,		200
+		MSGhillieRagDarkCamo10,		*,		450,		200
+		MSGhillieRagDarkCamo11,		*,		450,		200
+ 
+	<Category> Mutated Ghillie Rag Light Camo
+		MSGhillieRagCamo,			*,		450,		200
+		MSGhillieRagCamo2,			*,		450,		200
+		MSGhillieRagCamo3,			*,		450,		200
+		MSGhillieRagCamo4,			*,		450,		200
+		MSGhillieRagCamo5,			*,		450,		200
+		MSGhillieRagCamo6,			*,		450,		200
+		MSGhillieRagCamo7,			*,		450,		200
+		MSGhillieRagCamo8,			*,		450,		200
+		MSGhillieRagCamo9,			*,		450,		200
+		MSGhillieRagCamo10,			*,		450,		200
+ 
+	<Category> Mutated Ghillie Rag Camouflaged
+		MSGhillieRag_Alpha,		*,		450,		200
+		MSGhillieRag_Bravo,		*,		450,		200
+		MSGhillieRag_Bush,		*,		450,		200
+		MSGhillieRag_Bushlands,		*,		450,		200
+		MSGhillieRag_Chaple,		*,		450,		200
+		MSGhillieRag_Charlie,		*,		450,		200
+		MSGhillieRag_Check,		*,		450,		200
+		MSGhillieRag_Delta,		*,		450,		200
+		MSGhillieRag_Echo,		*,		450,		200
+		MSGhillieRag_Falcon,		*,		450,		200
+		MSGhillieRag_Fireteam,		*,		450,		200
+		MSGhillieRag_GreenAssault,		*,		450,		200
+		MSGhillieRag_GreenSupreme,		*,		450,		200
+		MSGhillieRag_Gunner,		*,		450,		200
+		MSGhillieRag_Halo,		*,		450,		200
+		MSGhillieRag_Intel,		*,		450,		200
+		MSGhillieRag_Jackhammer,		*,		450,		200
+		MSGhillieRag_Justice,		*,		450,		200
+		MSGhillieRag_Kilo,		*,		450,		200
+		MSGhillieRag_Lux,		*,		450,		200
+		MSGhillieRag_Marko,		*,		450,		200
+		MSGhillieRag_MuddyWoods,		*,		450,		200
+		MSGhillieRag_Nile,		*,		450,		200
+		MSGhillieRag_Op,		*,		450,		200
+		MSGhillieRag_Pine,		*,		450,		200
+		MSGhillieRag_POI,		*,		450,		200
+		MSGhillieRag_Quantum,		*,		450,		200
+		MSGhillieRag_Raven,		*,		450,		200
+		MSGhillieRag_RedDecay,		*,		450,		200
+		MSGhillieRag_Redrum,		*,		450,		200
+		MSGhillieRag_Remains,		*,		450,		200
+		MSGhillieRag_Scatter,		*,		450,		200
+		MSGhillieRag_Shrubs,		*,		450,		200
+		MSGhillieRag_Strike,		*,		450,		200
+		MSGhillieRag_Teppa,		*,		450,		200
+		MSGhillieRag_Ultra,		*,		450,		200
+		MSGhillieRag_Vector,		*,		450,		200
+		MSGhillieRag_Woodlands,		*,		450,		200
+		MSGhillieRag_Woods,		*,		450,		200
+		MSGhillieRag_X,		*,		450,		200
+		MSGhillieRag_Yas,		*,		450,		200
+		MSGhillieRag_Zero,		*,		450,		200
+ 
+	<Category> Mutated Ghillie Rag Digital Camo
+		MSGhillieRagDigCamo,		*,		450,		200
+		MSGhillieRagDigCamo1,		*,		450,		200
+		MSGhillieRagDigCamo2,		*,		450,		200
+		MSGhillieRagDigCamo3,		*,		450,		200
+		MSGhillieRagDigCamo4,		*,		450,		200
+		MSGhillieRagDigCamo5,		*,		450,		200
+		MSGhillieRagDigCamo6,		*,		450,		200
+		MSGhillieRagDigCamo7,		*,		450,		200
+		MSGhillieRagDigCamo8,		*,		450,		200
+		MSGhillieRagDigCamo9,		*,		450,		200
+		MSGhillieRagDigCamo10,		*,		450,		200
+		MSGhillieRagDigCamo11,	 	*,		450,		200
+		MSGhillieRagDigCamo12,		*,		450,		200
+		MSGhillieRagDigCamo13,		*,		450,		200
+		MSGhillieRagDigCamo14,		*,		450,		200
+		MSGhillieRagDigCamo15,		*,		450,		200
+		MSGhillieRagDigCamo16,		*,		450,		200
+		MSGhillieRagDigCamo17,		*,		450,		200
+		MSGhillieRagDigCamo18,		*,		450,		200
+		MSGhillieRagDigCamo19,		*,		450,		200
+		MSGhillieRag_DigAlpha, *,		450,		200
+		MSGhillieRag_DigBravo, *,		450,		200
+		MSGhillieRag_DigBush, *,		450,		200
+		MSGhillieRag_DigBushlands, *,		450,		200
+		MSGhillieRag_DigChaple, *,		450,		200
+		MSGhillieRag_DigCharlie, *,		450,		200
+		MSGhillieRag_DigCheck, *,		450,		200
+		MSGhillieRag_DigDecay, *,		450,		200
+		MSGhillieRag_DigEcho, *,		450,		200
+		MSGhillieRag_DigFalcon, *,		450,		200
+		MSGhillieRag_DigFireteam, *,		450,		200
+		MSGhillieRag_DigGunner, *,		450,		200
+		MSGhillieRag_DigHalo, *,		450,		200
+		MSGhillieRag_DigIntel, *,		450,		200
+		MSGhillieRag_DigJackhammer, *,		450,		200
+		MSGhillieRag_DigJustice, *,		450,		200
+		MSGhillieRag_DigKilo, *,		450,		200
+		MSGhillieRag_DigLux, *,		450,		200
+		MSGhillieRag_DigMarko, *,		450,		200
+		MSGhillieRag_DigMuddyWoods, *,		450,		200
+		MSGhillieRag_DigNile, *,		450,		200
+		MSGhillieRag_DigOp, *,		450,		200
+		MSGhillieRag_DigPine, *,		450,		200
+		MSGhillieRag_DigQuantum, *,		450,		200
+		MSGhillieRag_DigRaven, *,		450,		200
+		MSGhillieRag_DigTeppa, *,		450,		200
+		MSGhillieRag_DigUltra, *,		450,		200
+		MSGhillieRag_DigVector, *,		450,		200
+		MSGhillieRag_DigWoods, *,		450,		200
+		MSGhillieRag_DigX, *,		450,		200
+		MSGhillieRag_DigYas, *,		450,		200
+		MSGhillieRag_DigZero, *,		450,		200
+		
+	<Category> Mutated Ghillie Rag Dirt Camo
+		MSGhillieRag_DirtAlpha, *,     450,        200
+		MSGhillieRag_DirtBravo, *,     450,        200
+		MSGhillieRag_DirtCharlie, *,     450,        200
+		
+	<Category> Mutated Ghillie Rag Grass Camo
+		MSGhillieRag_GrassAlpha, *,     450,        200
+		MSGhillieRag_GrassBravo, *,     450,        200
+		MSGhillieRag_GrassCharlie, *,     450,        200
+		MSGhillieRag_GrassDelta, *,     450,        200
+		MSGhillieRag_GrassEcho, *,     450,        200
+		MSGhillieRag_GrassFalcon, *,     450,        200
+		MSGhillieRag_GrassGunner, *,     450,        200
+		MSGhillieRag_GrassHalo, *,     450,        200
+		MSGhillieRag_GrassIntel, *,     450,        200
+		MSGhillieRag_GrassJustice, *,     450,        200
+		MSGhillieRag_GrassKilo, *,     450,        200
+		
+	<Category> Mutated Ghillie Rag Tree Camo
+		MSGhillieRag_TreeAlpha,   *,     450,       200
+		MSGhillieRag_TreeBravo,   *,     450,       200
+		MSGhillieRag_TreeCharlie,   *,     450,       200
+		MSGhillieRag_TreeDelta,   *,     450,       200
+		MSGhillieRag_TreeEcho,   *,     450,       200
+		MSGhillieRag_TreeFalcon,   *,     450,       200
+		MSGhillieRag_TreeGunner,   *,     450,       200
+		
+	<Category> Mutated Ghillie Rag Reptile Camo
+		MSGhillieRag_RepAlpha,    *,     450,      200
+		MSGhillieRag_RepBravo,    *,     450,      200
+		MSGhillieRag_RepCharlie,    *,     450,      200
+		MSGhillieRag_RepDelta,    *,     450,      200
+		MSGhillieRag_RepEcho,    *,     450,      200
+		MSGhillieRag_RepFalcon,    *,     450,      200
+		MSGhillieRag_RepGunner,    *,     450,      200
+		MSGhillieRag_RepHalo,    *,     450,      200
+		MSGhillieRag_RepIntel,    *,     450,      200
+		MSGhillieRag_RepJustice,    *,     450,      200
+		MSGhillieRag_RepKilo,    *,     450,      200
+		MSGhillieRag_RepLux,    *,     450,      200
+		MSGhillieRag_RepMarko,    *,     450,      200
+		MSGhillieRag_RepNile,    *,     450,      200
+	
+	<Category> Mutated Ghillie Rag Special Camo
+		MSGhillieRag_SpecBlackPlate,   *,    -0,      5000000
+		MSGhillieRag_SpecBlooded,   *,    -0,      5000000
+		MSGhillieRag_SpecDigital,   *,    -0,      5000000
+		MSGhillieRag_SpecDynamic,   *,    -0,      5000000
+		MSGhillieRag_SpecMagma,   *,    -0,      5000000
+		MSGhillieRag_SpecRedness,   *,    -0,      5000000
+		MSGhillieRag_SpecSkulls,   *,    -0,      5000000
+		MSGhillieRag_SpecStatic,   *,    -0,      5000000
+		MSGhillieRag_SpecVoided,   *,    -0,      5000000
+		
+ 
+	<Category> Mutated Ghillie Hood
+		MSGhillieHoodTan,			*,		200,		85
+		MSGhillieHoodWoodland,		*,		200,		85
+		MSGhillieHoodMossy,			*,		200,		85
+		MSGhillieHoodBlack,			*,		200,		85
+		MSGhillieHoodDarkGreen,		*,		200,		85
+		MSGhillieHoodDeadGrass,		*,		200,		85
+		MSGhillieHoodDeadGrass2,	*,		200,		85
+ 
+	<Category> Mutated Ghillie Hood Coloured
+		MSGhillieHoodGold,			*,		200,		85
+		MSGhillieHoodGreen,			*,		200,		85
+		MSGhillieHoodBlue,			*,		200,		85
+		MSGhillieHoodGrey,			*,		200,		85
+		MSGhillieHoodLightblue,		*,		200,		85
+		MSGhillieHoodPurple,		*,		200,		85
+		MSGhillieHoodSnow,			*,		200,		85
+ 
+	<Category> Mutated Ghillie Hood Dark Camo
+		MSGhillieHoodDarkCamo,		*,		200,		85
+		MSGhillieHoodDarkCamo2,		*,		200,		85
+		MSGhillieHoodDarkCamo3,		*,		200,		85
+		MSGhillieHoodDarkCamo4,		*,		200,		85
+		MSGhillieHoodDarkCamo5,		*,		200,		85
+		MSGhillieHoodDarkCamo6,		*,		200,		85
+		MSGhillieHoodDarkCamo7,		*,		200,		85
+		MSGhillieHoodDarkCamo8,		*,		200,		85
+		MSGhillieHoodDarkCamo9,		*,		200,		85
+		MSGhillieHoodDarkCamo10,	*,		200,		85
+		MSGhillieHoodDarkCamo11,	*,		200,		85
+ 
+	<Category> Mutated Ghillie Hood Light Camo
+		MSGhillieHoodCamo,			*,		200,		85
+		MSGhillieHoodCamo2,			*,		200,		85
+		MSGhillieHoodCamo3,			*,		200,		85
+		MSGhillieHoodCamo4,			*,		200,		85
+		MSGhillieHoodCamo5,			*,		200,		85
+		MSGhillieHoodCamo6,			*,		200,		85
+		MSGhillieHoodCamo7,			*,		200,		85
+		MSGhillieHoodCamo8,			*,		200,		85
+		MSGhillieHoodCamo9,			*,		200,		85
+		MSGhillieHoodCamo10,		*,		200,		85
+ 
+	<Category> Mutated Ghillie Hood Camouflaged
+		MSGhillieHood_Alpha,		*,		200,		85
+		MSGhillieHood_Bravo,		*,		200,		85
+		MSGhillieHood_Bush,		*,		200,		85
+		MSGhillieHood_Bushlands,		*,		200,		85
+		MSGhillieHood_Chaple,		*,		200,		85
+		MSGhillieHood_Charlie,		*,		200,		85
+		MSGhillieHood_Check,		*,		200,		85
+		MSGhillieHood_Delta,		*,		200,		85
+		MSGhillieHood_Echo,		*,		200,		85
+		MSGhillieHood_Falcon,		*,		200,		85
+		MSGhillieHood_Fireteam,		*,		200,		85
+		MSGhillieHood_GreenAssault,		*,		200,		85
+		MSGhillieHood_GreenSupreme,		*,		200,		85
+		MSGhillieHood_Gunner,		*,		200,		85
+		MSGhillieHood_Halo,		*,		200,		85
+		MSGhillieHood_Intel,		*,		200,		85
+		MSGhillieHood_Jackhammer,		*,		200,		85
+		MSGhillieHood_Justice,		*,		200,		85
+		MSGhillieHood_Kilo,		*,		200,		85
+		MSGhillieHood_Lux,		*,		200,		85
+		MSGhillieHood_Marko,		*,		200,		85
+		MSGhillieHood_MuddyWoods,		*,		200,		85
+		MSGhillieHood_Nile,		*,		200,		85
+		MSGhillieHood_Op,		*,		200,		85
+		MSGhillieHood_Pine,		*,		200,		85
+		MSGhillieHood_POI,		*,		200,		85
+		MSGhillieHood_Quantum,		*,		200,		85
+		MSGhillieHood_Raven,		*,		200,		85
+		MSGhillieHood_RedDecay,		*,		200,		85
+		MSGhillieHood_Redrum,		*,		200,		85
+		MSGhillieHood_Remains,		*,		200,		85
+		MSGhillieHood_Scatter,		*,		200,		85
+		MSGhillieHood_Shrubs,		*,		200,		85
+		MSGhillieHood_Strike,		*,		200,		85
+		MSGhillieHood_Teppa,		*,		200,		85
+		MSGhillieHood_Ultra,		*,		200,		85
+		MSGhillieHood_Vector,		*,		200,		85
+		MSGhillieHood_Woodlands,		*,		200,		85
+		MSGhillieHood_Woods,		*,		200,		85
+		MSGhillieHood_X,		*,		200,		85
+		MSGhillieHood_Yas,		*,		200,		85
+		MSGhillieHood_Zero,		*,		200,		85
+ 
+	<Category> Mutated Ghillie Hood Digital Camo
+		MSGhillieHoodDigCamo,		*,		200,		85
+		MSGhillieHoodDigCamo1,		*,		200,		85
+		MSGhillieHoodDigCamo2,		*,		200,		85
+		MSGhillieHoodDigCamo3,		*,		200,		85
+		MSGhillieHoodDigCamo4,		*,		200,		85
+		MSGhillieHoodDigCamo5,		*,		200,		85
+		MSGhillieHoodDigCamo6,		*,		200,		85
+		MSGhillieHoodDigCamo7,		*,		200,		85
+		MSGhillieHoodDigCamo8,		*,		200,		85
+		MSGhillieHoodDigCamo9,		*,		200,		85
+		MSGhillieHoodDigCamo10,		*,		200,		85
+		MSGhillieHoodDigCamo11,	 	*,		200,		85
+		MSGhillieHoodDigCamo12,		*,		200,		85
+		MSGhillieHoodDigCamo13,		*,		200,		85
+		MSGhillieHoodDigCamo14,		*,		200,		85
+		MSGhillieHoodDigCamo15,		*,		200,		85
+		MSGhillieHoodDigCamo16,		*,		200,		85
+		MSGhillieHoodDigCamo17,		*,		200,		85
+		MSGhillieHoodDigCamo18,		*,		200,		85
+		MSGhillieHoodDigCamo19,		*,		200,		85
+		MSGhillieHood_DigAlpha, *,		200,		85
+		MSGhillieHood_DigBravo, *,		200,		85
+		MSGhillieHood_DigBush, *,		200,		85
+		MSGhillieHood_DigBushlands, *,		200,		85
+		MSGhillieHood_DigChaple, *,		200,		85
+		MSGhillieHood_DigCharlie, *,		200,		85
+		MSGhillieHood_DigCheck, *,		200,		85
+		MSGhillieHood_DigDecay, *,		200,		85
+		MSGhillieHood_DigEcho, *,		200,		85
+		MSGhillieHood_DigFalcon, *,		200,		85
+		MSGhillieHood_DigFireteam, *,		200,		85
+		MSGhillieHood_DigGunner, *,		200,		85
+		MSGhillieHood_DigHalo, *,		200,		85
+		MSGhillieHood_DigIntel, *,		200,		85
+		MSGhillieHood_DigJackhammer, *,		200,		85
+		MSGhillieHood_DigJustice, *,		200,		85
+		MSGhillieHood_DigKilo, *,		200,		85
+		MSGhillieHood_DigLux, *,		200,		85
+		MSGhillieHood_DigMarko, *,		200,		85
+		MSGhillieHood_DigMuddyWoods, *,		200,		85
+		MSGhillieHood_DigNile, *,		200,		85
+		MSGhillieHood_DigOp, *,		200,		85
+		MSGhillieHood_DigPine, *,		200,		85
+		MSGhillieHood_DigQuantum, *,		200,		85
+		MSGhillieHood_DigRaven, *,		200,		85
+		MSGhillieHood_DigTeppa, *,		200,		85
+		MSGhillieHood_DigUltra, *,		200,		85
+		MSGhillieHood_DigVector, *,		200,		85
+		MSGhillieHood_DigWoods, *,		200,		85
+		MSGhillieHood_DigX, *,		200,		85
+		MSGhillieHood_DigYas, *,		200,		85
+		MSGhillieHood_DigZero, *,		200,		85
+		
+	<Category> Mutated Ghillie Hood Dirt Camo
+		MSGhillieHood_DirtAlpha, *,     200,        85
+		MSGhillieHood_DirtBravo, *,     200,        85
+		MSGhillieHood_DirtCharlie, *,     200,        85
+		
+	<Category> Mutated Ghillie Hood Grass Camo
+		MSGhillieHood_GrassAlpha, *,     200,        85
+		MSGhillieHood_GrassBravo, *,     200,        85
+		MSGhillieHood_GrassCharlie, *,     200,        85
+		MSGhillieHood_GrassDelta, *,     200,        85
+		MSGhillieHood_GrassEcho, *,     200,        85
+		MSGhillieHood_GrassFalcon, *,     200,        85
+		MSGhillieHood_GrassGunner, *,     200,        85
+		MSGhillieHood_GrassHalo, *,     200,        85
+		MSGhillieHood_GrassIntel, *,     200,        85
+		MSGhillieHood_GrassJustice, *,     200,        85
+		MSGhillieHood_GrassKilo, *,     200,        85
+		
+	<Category> Mutated Ghillie Hood Tree Camo
+		MSGhillieHood_TreeAlpha,   *,     200,       85
+		MSGhillieHood_TreeBravo,   *,     200,       85
+		MSGhillieHood_TreeCharlie,   *,     200,       85
+		MSGhillieHood_TreeDelta,   *,     200,       85
+		MSGhillieHood_TreeEcho,   *,     200,       85
+		MSGhillieHood_TreeFalcon,   *,     200,       85
+		MSGhillieHood_TreeGunner,   *,     200,       85
+		
+	<Category> Mutated Ghillie Hood Reptile Camo
+		MSGhillieHood_RepAlpha,    *,     200,      85
+		MSGhillieHood_RepBravo,    *,     200,      85
+		MSGhillieHood_RepCharlie,    *,     200,      85
+		MSGhillieHood_RepDelta,    *,     200,      85
+		MSGhillieHood_RepEcho,    *,     200,      85
+		MSGhillieHood_RepFalcon,    *,     200,      85
+		MSGhillieHood_RepGunner,    *,     200,      85
+		MSGhillieHood_RepHalo,    *,     200,      85
+		MSGhillieHood_RepIntel,    *,     200,      85
+		MSGhillieHood_RepJustice,    *,     200,      85
+		MSGhillieHood_RepKilo,    *,     200,      85
+		MSGhillieHood_RepLux,    *,     200,      85
+		MSGhillieHood_RepMarko,    *,     200,      85
+		MSGhillieHood_RepNile,    *,     200,      85
+	
+	<Category> Mutated Ghillie Hood Special Camo
+		MSGhillieHood_SpecBlackPlate,   *,    -0,      5000000
+		MSGhillieHood_SpecBlooded,   *,    -0,      5000000
+		MSGhillieHood_SpecDigital,   *,    -0,      5000000
+		MSGhillieHood_SpecDynamic,   *,    -0,      5000000
+		MSGhillieHood_SpecMagma,   *,    -0,      5000000
+		MSGhillieHood_SpecRedness,   *,    -0,      5000000
+		MSGhillieHood_SpecSkulls,   *,    -0,      5000000
+		MSGhillieHood_SpecStatic,   *,    -0,      5000000
+		MSGhillieHood_SpecVoided,   *,    -0,      5000000
+		
+ 
+	<Category> Mutated Ghillie Wraps
+		MSGhillieAttBlack,			*,		100,		40
+		MSGhillieAttDarkGreen,		*,		100,		40
+		MSGhillieAttDeadGrass,		*,		100,		40
+		MSGhillieAttDeadGrass2,		*,		100,		40
+ 
+	<Category> Mutated Ghillie Wrap Coloured
+		MSGhillieAttGold,			*,		100,		40
+		MSGhillieAttGreen,			*,		100,		40
+		MSGhillieAttBlue,			*,		100,		40
+		MSGhillieAttGrey,			*,		100,		40
+		MSGhillieAttLightblue,		*,		100,		40
+		MSGhillieAttPurple,			*,		100,		40
+		MSGhillieAttSnow,			*,		100,		40
+ 
+	<Category> Mutated Ghillie Wraps Dark Camo
+		MSGhillieAttDarkCamo,		*,		100,		40
+		MSGhillieAttDarkCamo2,		*,		100,		40
+		MSGhillieAttDarkCamo3,		*,		100,		40
+		MSGhillieAttDarkCamo4,		*,		100,		40
+		MSGhillieAttDarkCamo5,		*,		100,		40
+		MSGhillieAttDarkCamo6,		*,		100,		40
+		MSGhillieAttDarkCamo7,		*,		100,		40
+		MSGhillieAttDarkCamo8,		*,		100,		40
+		MSGhillieAttDarkCamo9,		*,		100,		40
+		MSGhillieAttDarkCamo10,		*,		100,		40
+		MSGhillieAttDarkCamo11,		*,		100,		40
+ 
+	<Category> Mutated Ghillie Wraps Light Camo
+		MSGhillieAttCamo,			*,		100,		40
+		MSGhillieAttCamo2,			*,		100,		40
+		MSGhillieAttCamo3,			*,		100,		40
+		MSGhillieAttCamo4,			*,		100,		40
+		MSGhillieAttCamo5,			*,		100,		40
+		MSGhillieAttCamo6,			*,		100,		40
+		MSGhillieAttCamo7,			*,		100,		40
+		MSGhillieAttCamo8,			*,		100,		40
+		MSGhillieAttCamo9,			*,		100,		40
+		MSGhillieAttCamo10,			*,		100,		40
+		MSGhillieAttCamo11,			*,		100,		40
+ 
+	<Category> Mutated Ghillie Wraps Camouflaged
+		MSGhillieAtt_Alpha,		*,		100,		40
+		MSGhillieAtt_Bravo,		*,		100,		40
+		MSGhillieAtt_Bush,		*,		100,		40
+		MSGhillieAtt_Bushlands,		*,		100,		40
+		MSGhillieAtt_Chaple,		*,		100,		40
+		MSGhillieAtt_Charlie,		*,		100,		40
+		MSGhillieAtt_Check,		*,		100,		40
+		MSGhillieAtt_Delta,		*,		100,		40
+		MSGhillieAtt_Echo,		*,		100,		40
+		MSGhillieAtt_Falcon,		*,		100,		40
+		MSGhillieAtt_Fireteam,		*,		100,		40
+		MSGhillieAtt_GreenAssault,		*,		100,		40
+		MSGhillieAtt_GreenSupreme,		*,		100,		40
+		MSGhillieAtt_Gunner,		*,		100,		40
+		MSGhillieAtt_Halo,		*,		100,		40
+		MSGhillieAtt_Intel,		*,		100,		40
+		MSGhillieAtt_Jackhammer,		*,		100,		40
+		MSGhillieAtt_Justice,		*,		100,		40
+		MSGhillieAtt_Kilo,		*,		100,		40
+		MSGhillieAtt_Lux,		*,		100,		40
+		MSGhillieAtt_Marko,		*,		100,		40
+		MSGhillieAtt_MuddyWoods,		*,		100,		40
+		MSGhillieAtt_Nile,		*,		100,		40
+		MSGhillieAtt_Op,		*,		100,		40
+		MSGhillieAtt_Pine,		*,		100,		40
+		MSGhillieAtt_POI,		*,		100,		40
+		MSGhillieAtt_Quantum,		*,		100,		40
+		MSGhillieAtt_Raven,		*,		100,		40
+		MSGhillieAtt_RedDecay,		*,		100,		40
+		MSGhillieAtt_Redrum,		*,		100,		40
+		MSGhillieAtt_Remains,		*,		100,		40
+		MSGhillieAtt_Scatter,		*,		100,		40
+		MSGhillieAtt_Shrubs,		*,		100,		40
+		MSGhillieAtt_Strike,		*,		100,		40
+		MSGhillieAtt_Teppa,		*,		100,		40
+		MSGhillieAtt_Ultra,		*,		100,		40
+		MSGhillieAtt_Vector,		*,		100,		40
+		MSGhillieAtt_Woodlands,		*,		100,		40
+		MSGhillieAtt_Woods,		*,		100,		40
+		MSGhillieAtt_X,		*,		100,		40
+		MSGhillieAtt_Yas,		*,		100,		40
+		MSGhillieAtt_Zero,		*,		100,		40
+ 
+	<Category> Mutated Ghillie Wraps Digital Camo
+		MSGhillieAttDigCamo,		*,		100,		40
+		MSGhillieAttDigCamo1,		*,		100,		40
+		MSGhillieAttDigCamo2,		*,		100,		40
+		MSGhillieAttDigCamo3,		*,		100,		40
+		MSGhillieAttDigCamo4,		*,		100,		40
+		MSGhillieAttDigCamo5,		*,		100,		40
+		MSGhillieAttDigCamo6,		*,		100,		40
+		MSGhillieAttDigCamo7,		*,		100,		40
+		MSGhillieAttDigCamo8,		*,		100,		40
+		MSGhillieAttDigCamo9,		*,		100,		40
+		MSGhillieAttDigCamo10,		*,		100,		40
+		MSGhillieAttDigCamo11,	 	*,		100,		40
+		MSGhillieAttDigCamo12,		*,		100,		40
+		MSGhillieAttDigCamo13,		*,		100,		40
+		MSGhillieAttDigCamo14,		*,		100,		40
+		MSGhillieAttDigCamo15,		*,		100,		40
+		MSGhillieAttDigCamo16,		*,		100,		40
+		MSGhillieAttDigCamo17,		*,		100,		40
+		MSGhillieAttDigCamo18,		*,		100,		40
+		MSGhillieAttDigCamo19,		*,		100,		40
+		MSGhillieAtt_DigAlpha, *,		100,		40
+		MSGhillieAtt_DigBravo, *,		100,		40
+		MSGhillieAtt_DigBush, *,		100,		40
+		MSGhillieAtt_DigBushlands, *,		100,		40
+		MSGhillieAtt_DigChaple, *,		100,		40
+		MSGhillieAtt_DigCharlie, *,		100,		40
+		MSGhillieAtt_DigCheck, *,		100,		40
+		MSGhillieAtt_DigDecay, *,		100,		40
+		MSGhillieAtt_DigEcho, *,		100,		40
+		MSGhillieAtt_DigFalcon, *,		100,		40
+		MSGhillieAtt_DigFireteam, *,		100,		40
+		MSGhillieAtt_DigGunner, *,		100,		40
+		MSGhillieAtt_DigHalo, *,		100,		40
+		MSGhillieAtt_DigIntel, *,		100,		40
+		MSGhillieAtt_DigJackhammer, *,		100,		40
+		MSGhillieAtt_DigJustice, *,		100,		40
+		MSGhillieAtt_DigKilo, *,		100,		40
+		MSGhillieAtt_DigLux, *,		100,		40
+		MSGhillieAtt_DigMarko, *,		100,		40
+		MSGhillieAtt_DigMuddyWoods, *,		100,		40
+		MSGhillieAtt_DigNile, *,		100,		40
+		MSGhillieAtt_DigOp, *,		100,		40
+		MSGhillieAtt_DigPine, *,		100,		40
+		MSGhillieAtt_DigQuantum, *,		100,		40
+		MSGhillieAtt_DigRaven, *,		100,		40
+		MSGhillieAtt_DigTeppa, *,		100,		40
+		MSGhillieAtt_DigUltra, *,		100,		40
+		MSGhillieAtt_DigVector, *,		100,		40
+		MSGhillieAtt_DigWoods, *,		100,		40
+		MSGhillieAtt_DigX, *,		100,		40
+		MSGhillieAtt_DigYas, *,		100,		40
+		MSGhillieAtt_DigZero, *,		100,		40
+		
+	<Category> Mutated Ghillie Wraps Dirt Camo
+		MSGhillieAtt_DirtAlpha, *,     100,        40
+		MSGhillieAtt_DirtBravo, *,     100,        40
+		MSGhillieAtt_DirtCharlie, *,     100,        40
+		
+	<Category> Mutated Ghillie Wraps Grass Camo
+		MSGhillieAtt_GrassAlpha, *,     100,        40
+		MSGhillieAtt_GrassBravo, *,     100,        40
+		MSGhillieAtt_GrassCharlie, *,     100,        40
+		MSGhillieAtt_GrassDelta, *,     100,        40
+		MSGhillieAtt_GrassEcho, *,     100,        40
+		MSGhillieAtt_GrassFalcon, *,     100,        40
+		MSGhillieAtt_GrassGunner, *,     100,        40
+		MSGhillieAtt_GrassHalo, *,     100,        40
+		MSGhillieAtt_GrassIntel, *,     100,        40
+		MSGhillieAtt_GrassJustice, *,     100,        40
+		MSGhillieAtt_GrassKilo, *,     100,        40
+		
+	<Category> Mutated Ghillie Wraps Tree Camo
+		MSGhillieAtt_TreeAlpha,   *,     100,       40
+		MSGhillieAtt_TreeBravo,   *,     100,       40
+		MSGhillieAtt_TreeCharlie,   *,     100,       40
+		MSGhillieAtt_TreeDelta,   *,     100,       40
+		MSGhillieAtt_TreeEcho,   *,     100,       40
+		MSGhillieAtt_TreeFalcon,   *,     100,       40
+		MSGhillieAtt_TreeGunner,   *,     100,       40
+		
+	<Category> Mutated Ghillie Wraps Reptile Camo
+		MSGhillieAtt_RepAlpha,    *,     100,      40
+		MSGhillieAtt_RepBravo,    *,     100,      40
+		MSGhillieAtt_RepCharlie,    *,     100,      40
+		MSGhillieAtt_RepDelta,    *,     100,      40
+		MSGhillieAtt_RepEcho,    *,     100,      40
+		MSGhillieAtt_RepFalcon,    *,     100,      40
+		MSGhillieAtt_RepGunner,    *,     100,      40
+		MSGhillieAtt_RepHalo,    *,     100,      40
+		MSGhillieAtt_RepIntel,    *,     100,      40
+		MSGhillieAtt_RepJustice,    *,     100,      40
+		MSGhillieAtt_RepKilo,    *,     100,      40
+		MSGhillieAtt_RepLux,    *,     100,      40
+		MSGhillieAtt_RepMarko,    *,     100,      40
+		MSGhillieAtt_RepNile,    *,     100,      40
+	
+	<Category> Mutated Ghillie Wraps Special Camo
+		MSGhillieAtt_SpecBlackPlate,   *,    -0,      5000000
+		MSGhillieAtt_SpecBlooded,   *,    -0,      5000000
+		MSGhillieAtt_SpecDigital,   *,    -0,      5000000
+		MSGhillieAtt_SpecDynamic,   *,    -0,      5000000
+		MSGhillieAtt_SpecMagma,   *,    -0,      5000000
+		MSGhillieAtt_SpecRedness,   *,    -0,      5000000
+		MSGhillieAtt_SpecSkulls,   *,    -0,      5000000
+		MSGhillieAtt_SpecStatic,   *,    -0,      5000000
+		MSGhillieAtt_SpecVoided,   *,    -0,      5000000
+		
+	<Category> Mutated Balaclava Dark Camo
+		MSBalaclava_DarkCamo,		*,		75,			30
+		MSBalaclava_DarkCamo1,		*,		75,			30
+		MSBalaclava_DarkCamo2,		*,		75,			30
+		MSBalaclava_DarkCamo3,		*,		75,			30
+		MSBalaclava_DarkCamo4,		*,		75,			30
+		MSBalaclava_DarkCamo5,		*,		75,			30
+		MSBalaclava_DarkCamo6,		*,		75,			30
+		MSBalaclava_DarkCamo7,		*,		75,			30
+		MSBalaclava_DarkCamo8,		*,		75,			30
+		MSBalaclava_DarkCamo9,		*,		75,			30
+		MSBalaclava_DarkCamo10,		*,		75,			30
+		MSBalaclava_DarkCamo11,		*,		75,			30
+ 
+	<Category> Mutated Balaclava Light Camo
+		MSBalaclava_Camo,		*,		75,			30
+		MSBalaclava_Camo1,		*,		75,			30
+		MSBalaclava_Camo2,		*,		75,			30
+		MSBalaclava_Camo3,		*,		75,			30
+		MSBalaclava_Camo4,		*,		75,			30
+		MSBalaclava_Camo5,		*,		75,			30
+		MSBalaclava_Camo6,		*,		75,			30
+		MSBalaclava_Camo7,		*,		75,			30
+		MSBalaclava_Camo8,		*,		75,			30
+		MSBalaclava_Camo9,		*,		75,			30
+		MSBalaclava_Camo10,		*,		75,			30
+		MSBalaclava_Camo11,		*,		75,			30
+ 
+	<Category> Mutated Balaclava Special
+		MSBalaclava_Bloody,				*,		75,			30
+		MSBalaclava_LightBloody,		*,		75,			30
+		MSBalaclava_BlueSkull,			*,		75,			30
+		MSBalaclava_DarkAnime,			*,		75,			30
+		MSBalaclava_Emblem,				*,		75,			30
+		MSBalaclava_FireWingedSkull,	*,		75,			30
+		MSBalaclava_PurpleSkull,		*,		75,			30
+ 
+	<Category> Mutated Balaclava Digital Camo
+		MSBalaclava_DigCamo,		*,		75,			30
+		MSBalaclava_DigCamo2,		*,		75,			30
+		MSBalaclava_DigCamo3,		*,		75,			30
+		MSBalaclava_DigCamo4,		*,		75,			30
+		MSBalaclava_DigCamo5,		*,		75,			30
+		MSBalaclava_DigCamo6,		*,		75,			30
+		MSBalaclava_DigCamo7,		*,		75,			30
+		MSBalaclava_DigCamo8,		*,		75,			30
+		MSBalaclava_DigCamo9,		*,		75,			30
+		MSBalaclava_DigCamo10,		*,		75,			30
+		MSBalaclava_DigCamo11,		*,		75,			30
+		MSBalaclava_DigCamo12,		*,		75,			30
+		MSBalaclava_DigCamo13,		*,		75,			30
+		MSBalaclava_DigCamo14,		*,		75,			30
+		MSBalaclava_DigCamo15,		*,		75,			30
+		MSBalaclava_DigCamo16,		*,		75,			30
+		MSBalaclava_DigCamo17,		*,		75,			30
+		MSBalaclava_DigCamo18,		*,		75,			30
+		MSBalaclava_DigCamo19,		*,		75,			30
+ 
+ 
+	<Category> Mutated Boots Camo
+		MSBoots_Camo,		*,		100,			40
+		MSBoots_Camo1,		*,		100,			40
+		MSBoots_Camo2,		*,		100,			40
+		MSBoots_Camo3,		*,		100,			40
+		MSBoots_Camo4,		*,		100,			40
+		MSBoots_Camo5,		*,		100,			40
+		MSBoots_Camo6,		*,		100,			40
+		MSBoots_Camo7,		*,		100,			40
+		MSBoots_Camo8,		*,		100,			40
+		MSBoots_Camo9,		*,		100,			40
+		MSBoots_Camo10,		*,		100,			40
+		MSBoots_Camo11,		*,		100,			40
+ 
+	<Category> Mutated Boots Digital Camo
+		MSBoots_DigCamo,		*,		100,			40
+		MSBoots_DigCamo1,		*,		100,			40
+		MSBoots_DigCamo2,		*,		100,			40
+		MSBoots_DigCamo3,		*,		100,			40
+		MSBoots_DigCamo4,		*,		100,			40
+		MSBoots_DigCamo5,		*,		100,			40
+		MSBoots_DigCamo6,		*,		100,			40
+		MSBoots_DigCamo7,		*,		100,			40
+		MSBoots_DigCamo8,		*,		100,			40
+		MSBoots_DigCamo9,		*,		100,			40
+		MSBoots_DigCamo10,		*,		100,			40
+		MSBoots_DigCamo11,		*,		100,			40
+		MSBoots_DigCamo12,		*,		100,			40
+		MSBoots_DigCamo13,		*,		100,			40
+		MSBoots_DigCamo14,		*,		100,			40
+		MSBoots_DigCamo15,		*,		100,			40
+		MSBoots_DigCamo16,		*,		100,			40
+		MSBoots_DigCamo17,		*,		100,			40
+		MSBoots_DigCamo18,		*,		100,			40
+		MSBoots_DigCamo19,		*,		100,			40
+ 
+	<Category> Mutated Gloves Camo
+		MSGloves_Camo,		*,		50,				20
+		MSGloves_Camo1,		*,		50,				20
+		MSGloves_Camo2,		*,		50,				20
+		MSGloves_Camo3,		*,		50,				20
+		MSGloves_Camo4,		*,		50,				20
+		MSGloves_Camo5,		*,		50,				20
+		MSGloves_Camo6,		*,		50,				20
+		MSGloves_Camo7,		*,		50,				20
+		MSGloves_Camo8,		*,		50,				20
+		MSGloves_Camo9,		*,		50,				20
+		MSGloves_Camo10,		*,		50,				20
+		MSGloves_Camo11,		*,		50,				20
+ 
+	<Category> Mutated Gloves Digital Camo
+		MSGloves_DigCamo,		*,		50,				20
+		MSGloves_DigCamo1,		*,		50,				20
+		MSGloves_DigCamo2,		*,		50,				20
+		MSGloves_DigCamo3,		*,		50,				20
+		MSGloves_DigCamo4,		*,		50,				20
+		MSGloves_DigCamo5,		*,		50,				20
+		MSGloves_DigCamo6,		*,		50,				20
+		MSGloves_DigCamo7,		*,		50,				20
+		MSGloves_DigCamo8,		*,		50,				20
+		MSGloves_DigCamo9,		*,		50,				20
+		MSGloves_DigCamo10,		*,		50,				20
+		MSGloves_DigCamo11,		*,		50,				20
+		MSGloves_DigCamo12,		*,		50,				20
+		MSGloves_DigCamo13,		*,		50,				20
+		MSGloves_DigCamo14,		*,		50,				20
+		MSGloves_DigCamo15,		*,		50,				20
+		MSGloves_DigCamo16,		*,		50,				20
+		MSGloves_DigCamo17,		*,		50,				20
+		MSGloves_DigCamo18,		*,		50,				20
+		MSGloves_DigCamo19,		*,		50,				20
+ 
+	<Category> Mutated Backpack Dark Camo
+		MSBackpack_DarkCamo,			*,		1000,			400
+		MSBackpack_DarkCamo1,		*,		1000,			400
+		MSBackpack_DarkCamo2,		*,		1000,			400
+		MSBackpack_DarkCamo3,		*,		1000,			400
+		MSBackpack_DarkCamo4,		*,		1000,			400
+		MSBackpack_DarkCamo5,		*,		1000,			400
+		MSBackpack_DarkCamo6,		*,		1000,			400
+		MSBackpack_DarkCamo7,		*,		1000,			400
+		MSBackpack_DarkCamo8,		*,		1000,			400
+		MSBackpack_DarkCamo9,		*,		1000,			400
+		MSBackpack_DarkCamo10,		*,		1000,			400
+		MSBackpack_DarkCamo11,		*,		1000,			400
+ 
+	<Category> Mutated Backpack Camo
+		MSBackpack_Camo,			*,		1000,			400
+		MSBackpack_Camo1,		*,		1000,			400
+		MSBackpack_Camo2,		*,		1000,			400
+		MSBackpack_Camo3,		*,		1000,			400
+		MSBackpack_Camo4,		*,		1000,			400
+		MSBackpack_Camo5,		*,		1000,			400
+		MSBackpack_Camo6,		*,		1000,			400
+		MSBackpack_Camo7,		*,		1000,			400
+		MSBackpack_Camo8,		*,		1000,			400
+		MSBackpack_Camo9,		*,		1000,			400
+		MSBackpack_Camo10,		*,		1000,			400
+		MSBackpack_Camo11,		*,		1000,			400
+ 
+	<Category> Mutated Backpack Digital Camo
+		MSBackpack_DigCamo,		*,		1000,			400
+		MSBackpack_DigCamo1,		*,		1000,			400
+		MSBackpack_DigCamo2,		*,		1000,			400
+		MSBackpack_DigCamo3,		*,		1000,			400
+		MSBackpack_DigCamo4,		*,		1000,			400
+		MSBackpack_DigCamo5,		*,		1000,			400
+		MSBackpack_DigCamo6,		*,		1000,			400
+		MSBackpack_DigCamo7,		*,		1000,			400
+		MSBackpack_DigCamo8,		*,		1000,			400
+		MSBackpack_DigCamo9,		*,		1000,			400
+		MSBackpack_DigCamo10,		*,		1000,			400
+		MSBackpack_DigCamo11,		*,		1000,			400
+		MSBackpack_DigCamo12,		*,		1000,			400
+		MSBackpack_DigCamo13,		*,		1000,			400
+		MSBackpack_DigCamo14,		*,		1000,			400
+		MSBackpack_DigCamo15,		*,		1000,			400
+		MSBackpack_DigCamo16,		*,		1000,			400
+		MSBackpack_DigCamo17,		*,		1000,			400
+		MSBackpack_DigCamo18,		*,		1000,			400
+		MSBackpack_DigCamo19,		*,		1000,			400
+		
+	<Category> Mutated NVG's
+		MSNVG_Camo,				*,		1000,			400
+		MSNVG_Camo2,			*,		1000,			400
+		MSNVG_Camo3,			*,		1000,			400
+		MSNVG_Camo4,			*,		1000,			400
+		MSNVG_Camo5,			*,		1000,			400
+		MSNVG_Camo6,			*,		1000,			400
+		MSNVG_Camo7,			*,		1000,			400
+		MSNVG_Camo8,			*,		1000,			400
+		MSNVG_Camo9,			*,		1000,			400
+		MSNVG_Camo10,			*,		1000,			400
+		MSNVG_Camo11,			*,		1000,			400
 
 	<Category> Smoke Products
 		CP_Pouch,				            		*,		2500,	1200
