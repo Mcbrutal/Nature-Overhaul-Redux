@@ -63,7 +63,7 @@
 		BoarSteakMeat,								S,		40,			20
 		WolfSteakMeat,								S,		40,			20
 		DeerSteakMeat,								S,		50,			20
-		BearSteakMeat,								S,		100,		50
+		BearSteakMeat,								S,		250,		500
 		CowSteakMeat,								S,		50,			20	
 		Sardines,									S,		70,			40
 		Carp,										S,		100,		50
@@ -93,11 +93,11 @@
 		BeerCan_Budweiser,	    					*,		120,		75
 		BeerCan_MajorHemp,							*,		120,		75
 		BeerCan_BuschLight,							*,		120,		75
-		bl_coffee_bag,								*,		200,		80
+		bl_coffee_bag,								*,		500,		100
 
 	<Category> Medical Supplies
 		//Rag,										1,		10,			-1
-		BandageDressing,							2,		30,			10
+		BandageDressing,							2,		45,			10
 		BloodTestKit,								*,		50,			20
 		//InjectionVial,							*,		50, 		20
 		Thermometer,								*,		50,			20
@@ -127,10 +127,10 @@
 		CP_RollingPapers_Silver,					*,		100,		50
 		CP_RollingPapers_Green,						*,		110,		55
 		CP_CigarettePack_Empty,						*,		50,			25
-		CP_EmptyBag,				       	 		*,		200,		100
-		CP_Bagger,				        			*,		5000,		2500
-		CP_PlasticWrapper,							*,		5000,		2500
-		CP_PlasticRoll,				        		*,		200,		100
+		CP_EmptyBag,				       	 		*,		1250,		150
+		CP_Bagger,				        			*,		7500,		3500
+		CP_PlasticWrapper,							*,		7500,		3500
+		CP_PlasticRoll,				        		*,		400,		150
 		CigarettePack_Chernamorka,					*,		400,		200
 		CigarettePack_Merkur,						*,		500,		250
 		CigarettePack_Partyzanka,					*,		600,		300
@@ -168,14 +168,14 @@
 		Compass,									*,		100,		40
 		OrienteeringCompass,						*,		100,		40	
 		ChernarusMap,								*,		150,		50
-		Lockpick,									*,		2000,		10
+		Lockpick,									*,		2000,		200
 		Binoculars,									*,		300,		15		
-		FishingRod,									*,		600,		25
+		FishingRod,									*,		600,		40
 		Pipe,										*,		200,		25
 		
 	<Category> Electronics
-		Battery9V,									*,		2000,		300
-		PersonalRadio,								*,		100,		50
+		Battery9V,									*,		750,		150
+		PersonalRadio,								*,		3500,		100
 		Megaphone,									*,		300,		125
 		ElectronicRepairKit,						*,		350,		145
 		CableReel,									*,		400,		175
@@ -185,16 +185,16 @@
 		bl_extension_cable_reel,					*,		400,		185
 
 	<Category> DNA Equipment
-		DNA_Workbench_Kit,							*,		2500,		500
+		DNA_Workbench_Kit,							*,		5000,		500
 		DNA_Solder_Kit,		    					*,		2500,		500
 		DNA_HelpingHands_Kit,						*,		2500,		500
 		DNA_Battery_40v,							*,		5000,		1200
 		DNA_Laptop,		        					*,		10000,		4500
-		DNA_Solder,									*,		750,		500
-		DNA_Flux,									*,		750,		500
-		DNA_KeyCard_Blank,							*,		1000,		450
-		DNA_Bolts,									*,		900,		500
-		DNA_CardReader,		    					*,		1000,		450
+		DNA_Solder,									*,		1000,		500
+		DNA_Flux,									*,		1000,		500
+		DNA_KeyCard_Blank,							*,		1500,		500
+		DNA_Bolts,									*,		1000,		500
+		DNA_CardReader,		    					*,		1500,		550
 	
 	<Category> Fire & Lights
 		Chemlight_Blue,								*,		20,			1
@@ -215,10 +215,10 @@
 	
 	<Category> Cooking & Hunting Supplies
 		PurificationTablets,						*,		50,			2
-		Pot,										M,		250,		10
-		FryingPan,									M,		175,		10
-		Tripod,										*,		350,		15
-		BearTrap,									*,		500,		30
+		Pot,										M,		250,		25
+		FryingPan,									M,		175,		15
+		Tripod,										*,		350,		25
+		BearTrap,									*,		1500,		100
 		MediumTent,									*,		3000,		500
 		MediumTent_Green,							*,		3000,		500
 		MediumTent_Orange,							*,		3000,		500
@@ -254,17 +254,17 @@
 		SmallGasCanister,							*,		800,		35
 		MediumGasCanister,							*,		1000,		40
 		LargeGasCanister,							*,		2000,		70
-		CanisterGasoline,							*,		25000,		1200
-		NailBox,									*,		3000,		120
+		CanisterGasoline,							*,		25000,		2500
+		NailBox,									*,		3000,		250
 		BarbedWire,									*,		4500,		200
 		Camonet,									*,		6000,		250
-		CombinationLock,							*,		7000,		250
-		CombinationLock4,							*,		9000,		300
-		CodeLock,		       						*,		1800,		400
-		BarrelHoles_Blue,							*,		800,		300
-		BarrelHoles_Green,							*,		800,		300
-		BarrelHoles_Red,							*,		800,		300
-		BarrelHoles_Yellow,							*,		800,		300
+		CombinationLock,							*,		3000,		225
+		CombinationLock4,							*,		3500,		250
+		CodeLock,		       						*,		5550,		400
+		BarrelHoles_Blue,							*,		1000,		300
+		BarrelHoles_Green,							*,		1000,		300
+		BarrelHoles_Red,							*,		1000,		300
+		BarrelHoles_Yellow,							*,		1000,		300
 		Barrel_Blue,								M,		3000,		350
 		Barrel_Green,								M,		3000,		350
 		Barrel_Red,									M,		3000,		350
@@ -324,12 +324,12 @@
 	<Category> Dog Supplies
 		dog_gasmask,								*,		8000,		675
 		dog_collar,									*,		850,		365
-		dog_collar_blue,							*,		850,		365
-		dog_collar_red,								*,		850,		365
-		dog_collar_green,							*,		850,		365
-		dog_collar_white,							*,		850,		365
-		dog_collar_yellow,							*,		850,		365
-		dog_collar_grey,							*,		850,		365
+		dog_collar_blue,							*,		1000,		365
+		dog_collar_red,								*,		1000,		365
+		dog_collar_green,							*,		1000,		365
+		dog_collar_white,							*,		1000,		365
+		dog_collar_yellow,							*,		1000,		365
+		dog_collar_grey,							*,		1000,		365
 		dog_vest_sheriff,							*,		1200,		555
 		dog_vest_black,								*,		1200,		555
 		dog_vest_black_k9,							*,		1200,		555
@@ -352,15 +352,15 @@
 		bl_cercestis_mirabilis,	       				*,		500,		250
 		bl_dieffenbachia,		       				*,		500,		250
 		bl_monstera,		          				*,		500,		250
-		bl_painting_1_Kit,		       				*,		500,		250
-		bl_painting_2_Kit,		       				*,		500,		250
-		bl_painting_3_Kit,		      				*,		500,		250
-		bl_painting_4_Kit,		       				*,		500,		250
-		bl_painting_5_Kit,		       				*,		500,		250
-		bl_painting_6_Kit,		       				*,		500,		250
-		bl_painting_7_Kit,		       				*,		500,		250
-		bl_painting_8_Kit,		       				*,		500,		250
-		bl_painting_9_Kit,		       				*,		500,		250
+		bl_painting_1_Kit,		       				*,		1250,		250
+		bl_painting_2_Kit,		       				*,		1250,		250
+		bl_painting_3_Kit,		      				*,		1250,		250
+		bl_painting_4_Kit,		       				*,		1250,		250
+		bl_painting_5_Kit,		       				*,		1250,		250
+		bl_painting_6_Kit,		       				*,		1250,		250
+		bl_painting_7_Kit,		       				*,		1250,		250
+		bl_painting_8_Kit,		       				*,		1250,		250
+		bl_painting_9_Kit,		       				*,		1250,		250
 				
 	<Category> Viking Gear
 		rag_viking_drinkhorn,           			*,    	1000,  		750
@@ -389,9 +389,9 @@
 		FangeKnife,		        					W,		650,		225
 		LugWrench,									*,		40,			10
 		Crowbar,									*,		50,			20
-		Shovel,										*,		60,			30
-		Pickaxe,									*,		100,		40
-		SledgeHammer,								*,		120,		60
+		Shovel,										*,		450,			50
+		Pickaxe,									*,		550,		65
+		SledgeHammer,								*,		500,		60
 		PipeWrench,									W,		150,		70
 		WoodAxe,									*,		200,		80
 		FirefighterAxe,								*,		300,		120
@@ -427,20 +427,20 @@
 		Glock19,                					W,		500,		250
 		MKII,                   					W,		450,		225
 		Colt1911,               					W,		1200,		300
-		Engraved1911,           					W,		1600,		500
+		Engraved1911,           					W,		1600,		550
 		Derringer_Black,        					W,		260,		130
 		Derringer_Grey,         					W,		260,		130
 		Derringer_Pink,         					W,		260,		130
-		Longhorn,               					W,		750,		375
-		Magnum,                 					W,		1250,		625
+		Longhorn,               					W,		1750,		550
+		Magnum,                 					W,		2500,		625
 		TF_MakarovPB,								W,		159,		79
 		
 	<Category> Rifles
 		Izh18,				   						W,		350,		175
-		Mosin9130,             						W,		400,		200
-		Mosin9130_Black,       						W,		400,		200
-		Mosin9130_Camo,        						W,		400,		200
-		Mosin9130_Green,       						W,		400,		200
+		Mosin9130,             						W,		1250,		200
+		Mosin9130_Black,       						W,		1250,		200
+		Mosin9130_Camo,        						W,		1250,		200
+		Mosin9130_Green,       						W,		1250,		200
 		Scout_Chernarus,       						W,		1500,		250
 		Scout,                 						W,		1300,		250
 		B95,										W,		2700,		1100
@@ -463,7 +463,7 @@
 		Izh18Shotgun,								W,		400,		200
 		
 	<Category> Submachine Guns
-		CZ61,										W,		9000,		200
+		CZ61,										W,		950,		200
 		UMP45,										W,		1100,		300
 		PP19,										W,		800,		350
 		MP5K,										W,		1000,		350	
@@ -473,85 +473,85 @@
 		TF_AKS74U,			    					W,		1200,		325
 		
 	<Category> Assault Rifles
-		FAMAS,										W,		1300,		390
-		AKM,										W,		2000,		500
-		AK101,										W,		1800,		400
-		AK101_Black,								W,		1800,		400
-		AK101_Green,								W,		1800,		400
-		AK74,										W,		1700,		380
-		AK74_Black,									W,		1700,		380
-		AK74_Green,									W,		1700,		380
-		M4A1,										W,		1900,		435
-		M4A1_Black,									W,		1900,		435
-		M4A1_Green,									W,		1900,		435
-		TF_M4A1_CQBR,								W,		1499,		749
+		FAMAS,										W,		6500,		1150
+		AKM,										W,		8500,		1350
+		AK101,										W,		7500,		1250
+		AK101_Black,								W,		7500,		1250
+		AK101_Green,								W,		7500,		1250
+		AK74,										W,		4500,		750
+		AK74_Black,									W,		4500,		750
+		AK74_Green,									W,		4500,		750
+		M4A1,										W,		6500,		1500
+		M4A1_Black,									W,		6500,		1500
+		M4A1_Green,									W,		6500,		1500
+		TF_M4A1_CQBR,								W,		7250,		1500
 		M16A2,										W,		1700,		380
 		Aug,										W,		2000,		500
 		AugShort,									W,		2000,		500
-		TF_SCAR_L_FDE,								W,		3299,		1649
-		TF_SCAR_L_Black,							W,		3299,		1649
-		TF_SCAR_L_CQC_FDE,							W,		3299,		1649
-		TF_SCAR_L_CQC_Black,						W,		3299,		1649
-		TF_AK101,			    					W,		999,		499
-		TF_AK102,			    					W,		1049,		524
-		TF_AK103,			    					W,		1339,		669
-		TF_AK104,			    					W,		899,		449
-		TF_AK105,			    					W,		1249,		624
-		TF_AK105_Bullpup,							W,		649,		324
-		TF_AK74M,			    					W,		1351,		675
-		TF_AKM,			        					W,		1221,		610
-		TF_AKMN,			    					W,		1321,		660
-		TF_ADAR2_15,								W,		2040,		1020
-		TF_M4A1,			    					W,		799,		399
-		TF_MK47_CQBR,								W,		1402,		701
-		TF_MK47,			    					W,		1785,		892
-		TF_M16A4,			    					W,		989,		494
-		TF_AN94,									W,		2800,		1300
-		TF_AN94M,									W,		2900,		1350
-		TF_OTs_12_Tiss,								W,		5399,		2699
-		TF_OTs_14_Groza,							W,		5399,		2699
+		TF_SCAR_L_FDE,								W,		20000,		6500
+		TF_SCAR_L_Black,							W,		20000,		6500
+		TF_SCAR_L_CQC_FDE,							W,		20000,		6500
+		TF_SCAR_L_CQC_Black,						W,		10000,		6500
+		TF_AK101,			    					W,		16500,		5000
+		TF_AK102,			    					W,		16500,		5000
+		TF_AK103,			    					W,		16500,		5000
+		TF_AK104,			    					W,		16500,		5000
+		TF_AK105,			    					W,		16500,		5000
+		TF_AK105_Bullpup,							W,		16500,		5000
+		TF_AK74M,			    					W,		15000,		4500
+		TF_AKM,			        					W,		16500,		5000
+		TF_AKMN,			    					W,		16500,		5000
+		TF_ADAR2_15,								W,		16500,		5000
+		TF_M4A1,			    					W,		15000,		4000
+		TF_MK47_CQBR,								W,		17500,		4500
+		TF_MK47,			    					W,		17500,		4500
+		TF_M16A4,			    					W,		13500,		3500
+		TF_AN94,									W,		20000,		5000
+		TF_AN94M,									W,		20000,		5000
+		TF_OTs_12_Tiss,								W,		27500,		5000
+		TF_OTs_14_Groza,							W,		27500,		5000
 		
 	<Category> Grenades
-		RGD5Grenade,								1,		300,		100
-		M67Grenade,									1,		300,		100
-		M18SmokeGrenade_Red,						1,		300,		100
-		M18SmokeGrenade_Green,						1,		300,		100
-		M18SmokeGrenade_Yellow,						1,		300,		100
-		M18SmokeGrenade_Purple,						1,		300,		100
-		M18SmokeGrenade_White,						1,		300,		100
-		RDG2SmokeGrenade_Black,						1,		300,		100
-		RDG2SmokeGrenade_White,						1,		300,		100
-		FlashGrenade,								1,		300,		100
-		Ammo_40mm_Smoke_Black,						1,		300,		100
-		Ammo_40mm_Smoke_Green,						1,		300,		100
-		Ammo_40mm_Smoke_Red,						1,		300,		100
-		Ammo_40mm_Smoke_White,						1,		300,		100
+		RGD5Grenade,								1,		5000,		2000
+		M67Grenade,									1,		5500,		2000
+		M18SmokeGrenade_Red,						1,		4500,		1250
+		M18SmokeGrenade_Green,						1,		4500,		1250
+		M18SmokeGrenade_Yellow,						1,		4500,		1250
+		M18SmokeGrenade_Purple,						1,		4500,		1250
+		M18SmokeGrenade_White,						1,		4500,		1250
+		RDG2SmokeGrenade_Black,						1,		4500,		1250
+		RDG2SmokeGrenade_White,						1,		4500,		1250
+		FlashGrenade,								1,		5000,		1500
+		Ammo_40mm_Smoke_Black,						1,		4500,		1000
+		Ammo_40mm_Smoke_Green,						1,		4500,		1000
+		Ammo_40mm_Smoke_Red,						1,		4500,		1000
+		Ammo_40mm_Smoke_White,						1,		4500,		1000
 
 <Trader> Weapon Supplies
 	<Category> Ammunition
 		Ammo_380,									1,		10,			1
-		Ammo_9x19,									1,		10,			1
+		Ammo_9x19,									1,		11,			2
 		Ammo_22,									1,		10,			1
-		Ammo_45ACP,									1,		10,			1
-		Ammo_12gaPellets,							1,		30,			1
-		Ammo_12gaSlug,								1,		40,			2
-		Ammo_9x39,									1,		40,			2
-		Ammo_9x39AP,								1,		50,			3
-		Ammo_357,									1,		50,			3
-		Ammo_308Win,								1,		50,			3
-		Ammo_545x39,								1,		50,			3
-		Ammo_556x45,								1,		50,			3
-		Ammo_762x39,								1,		50,			3
-		Ammo_762x54,								1,		100,		6		
-		Ammo_556x45Tracer,							1,		100,		5
-		Ammo_545x39Tracer,							1,		100,		5
-		Ammo_308WinTracer,							1,		100,		5
-		Ammo_762x39Tracer,							1,		100,		5
-		Ammo_Flare,									1,		150,		7
-	    	Ammo_FlareBlue,							1,		150,		7
-	    	Ammo_FlareGreen,						1,		150,		7
-	    	Ammo_FlareRed,							1,		150,		7
-		Ammo_762x54Tracer,							1,		200,		12		
+		Ammo_45ACP,									1,		12,			2
+		Ammo_12gaPellets,							1,		20,			1
+		Ammo_12gaSlug,								1,		30,			2
+		Ammo_9x39,									1,		35,			3
+		Ammo_9x39AP,								1,		50,			4
+		Ammo_357,									1,		35,			3
+		Ammo_308Win,								1,		50,			5
+		Ammo_545x39,								1,		35,			3
+		Ammo_556x45,								1,		40,			3
+		Ammo_762x39,								1,		40,			3
+		Ammo_762x54,								1,		45,		6		
+		Ammo_556x45Tracer,							1,		40,		4
+		Ammo_545x39Tracer,							1,		40,		3
+		Ammo_308WinTracer,							1,		50,		5
+		Ammo_762x39Tracer,							1,		40,		3
+		Ammo_Flare,									1,		150,		20
+	    	Ammo_FlareBlue,							1,		150,		20
+	    	Ammo_FlareGreen,						1,		150,		20
+	    	Ammo_FlareRed,							1,		150,		20
+		Ammo_762x54Tracer,							1,		45,		6		
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
@@ -594,12 +594,12 @@
 		Mag_Saiga_Drum20Rnd,						M,		480,		110
 		Mag_AKM_30Rnd,								M,		220,		110
 		Mag_AKM_Palm30Rnd,							M,		220,		110
-		Mag_AKM_Drum75Rnd,							M,		480,		220
+		Mag_AKM_Drum75Rnd,							M,		5000,		250
 		Mag_AK101_30Rnd,							M,		220,		110
 		Mag_AK74_30Rnd,								M,		220,		110
 		Mag_STANAG_30Rnd,							M,		220,		110
 		Mag_STANAGCoupled_30Rnd,					M,		480,		130
-		Mag_STANAG_60Rnd,							M,		580,		220
+		Mag_STANAG_60Rnd,							M,		2500,		250
 		Mag_CMAG_10Rnd,								M,		120,		60
 		Mag_CMAG_20Rnd,								M,		180,		80
 		Mag_CMAG_30Rnd,								M,		220,		110
@@ -644,16 +644,16 @@
 		KobraOptic,									*,		600,		220
 		KashtanOptic,								*,		700,		300
 		PUScopeOptic,								*,		900,		500
-		HuntingOptic,								*,		1000,		550
+		HuntingOptic,								*,		1250,		550
 		PSO1Optic,									*,		1100,		600	
 		PSO11Optic,									*,		1400,		840
 		KazuarOptic,								*,		2200,		1400
 		StarlightOptic,								*,		-1,	   		2400
 	
 	<Category> Supressors
-		PistolSuppressor,							*,		1000,		350
-		AK_Suppressor,								*,		250,		125
-		M4_Suppressor,								*,		250,		125
+		PistolSuppressor,							*,		2500,		400
+		AK_Suppressor,								*,		4500,		150
+		M4_Suppressor,								*,		4500,		150
 		
 	<Category> Compensators
 		Mosin_Compensator,							*,		150,		75
@@ -670,65 +670,65 @@
 		TLRLight,									*,		120,		60
 		
 	<Category> TF Magazines
-		TF_Mag_OTs_14_Groza_20Rnd,			        M,		100,		50
-		TF_Mag_SCAR_H_20Rnd_Black,			        M,		100,		50
-		TF_Mag_SCAR_H_20Rnd_FDE,			        M,		100,		50
-		TF_Mag_SCAR_H_20Rnd_Shd,			        M,		100,		50
-		TF_Mag_SCAR_H_25Rnd_Black,			        M,		100,		50
-		TF_Mag_SCAR_H_25Rnd_FDE,			        M,		100,		50
-		TF_Mag_SCAR_H_30Rnd_Black,			        M,		100,		50
-		TF_Mag_SCAR_H_30Rnd_FDE,			        M,		100,		50
-		TF_Mag_SCAR_H_PMAG25Rnd_Black,			    M,		100,		50
-		TF_Mag_SCAR_H_Drum50Rnd,			        M,		100,		50
-		TF_Mag_FAL_Drum50Rnd_Black,			        M,		100,		50
-		TF_Mag_MAR10_10Rnd,			                M,		100,		50
-		TF_Mag_Anzio20_3Rnd,			            M,		100,		50
-		TF_Mag_M14_20Rnd,			                M,		100,		50
-		TF_Mag_M14_10Rnd,			                M,		100,		50
+		TF_Mag_OTs_14_Groza_20Rnd,			        M,		1500,		250
+		TF_Mag_SCAR_H_20Rnd_Black,			        M,		1500,		250
+		TF_Mag_SCAR_H_20Rnd_FDE,			        M,		1500,		250
+		TF_Mag_SCAR_H_20Rnd_Shd,			        M,		1500,		250
+		TF_Mag_SCAR_H_25Rnd_Black,			        M,		1500,		250
+		TF_Mag_SCAR_H_25Rnd_FDE,			        M,		1500,		250
+		TF_Mag_SCAR_H_30Rnd_Black,			        M,		1500,		250
+		TF_Mag_SCAR_H_30Rnd_FDE,			        M,		1500,		250
+		TF_Mag_SCAR_H_PMAG25Rnd_Black,			    M,		1500,		250
+		TF_Mag_SCAR_H_Drum50Rnd,			        M,		4500,		450
+		TF_Mag_FAL_Drum50Rnd_Black,			        M,		4500,		500
+		TF_Mag_MAR10_10Rnd,			                M,		5500,		750
+		TF_Mag_Anzio20_3Rnd,			            M,		7500,		2250
+		TF_Mag_M14_20Rnd,			                M,		1500,		100
+		TF_Mag_M14_10Rnd,			                M,		1500,		100
 		TF_Mag_FiveSeven_20Rnd,			            M,		100,		50
-		TF_Mag_AK74_60Rnd,			                M,		100,		50
-		TF_Mag_AK74_45Rnd,			                M,		100,		50
-		TF_Mag_AKM_Plastic30Rnd,			        M,		100,		50
-		TF_Mag_AKM_30Rnd,			                M,		100,		50
-		TF_Mag_AKM_10Rnd,			                M,		100,		50
-		TF_Mag_AKM_PMAG30Rnd,			            M,		100,		50
-		TF_Mag_AKM_PMAG30Rnd_Banana,			    M,		100,		50
-		TF_Mag_M4_STANAG_30Rnd,			            M,		100,		50
-		TF_Mag_M4_PMAG10Rnd,			            M,		100,		50
-		TF_Mag_M4_PMAG20Rnd,			            M,		100,		50
-		TF_Mag_M4_PMAG30Rnd,			            M,		100,		50
-		TF_Mag_M4_PMAG30Rnd_FDE,			        M,		100,		50
-		TF_Mag_M4_PMAG40Rnd,			            M,		100,		50
-		TF_Mag_M4_PMAG40Rnd_FDE,			        M,		100,		50
-		TF_Mag_MP443_18Rnd,			                M,		100,		50
-		TF_Mag_VPO190_4Rnd,			                M,		100,		50
-		TF_Mag_AK101_Plastic30Rnd,			        M,		100,		50
-		TF_Mag_AK74_Bakelit30Rnd,			        M,		100,		50
-		TF_Mag_AK74_Plum30Rnd,			            M,		100,		50
-		TF_Mag_AK74_Plastic30Rnd,			        M,		100,		50
-		TF_Mag_AKM_Bakelit40Rnd,			        M,		100,		50
-		TF_Mag_AKM_Steel40Rnd,			            M,		100,		50
-		TF_Mag_M240_50Rnd,			                M,		100,		50
-		TF_Mag_M249_200Rnd,			                M,		100,		50
-		TF_Mag_PKM_100Rnd,			                M,		100,		50
-		TF_Mag_SVCh308_10Rnd,			            M,		100,		50
-		TF_Mag_SR25_20Rnd,			                M,		100,		50
+		TF_Mag_AK74_60Rnd,			                M,		2500,		250
+		TF_Mag_AK74_45Rnd,			                M,		1750,		100
+		TF_Mag_AKM_Plastic30Rnd,			        M,		975,		100
+		TF_Mag_AKM_30Rnd,			                M,		1000,		100
+		TF_Mag_AKM_10Rnd,			                M,		950,		100
+		TF_Mag_AKM_PMAG30Rnd,			            M,		1000,		100
+		TF_Mag_AKM_PMAG30Rnd_Banana,			    M,		1000,		100
+		TF_Mag_M4_STANAG_30Rnd,			            M,		1000,		100
+		TF_Mag_M4_PMAG10Rnd,			            M,		1000,		100
+		TF_Mag_M4_PMAG20Rnd,			            M,		1000,		100
+		TF_Mag_M4_PMAG30Rnd,			            M,		1000,		100
+		TF_Mag_M4_PMAG30Rnd_FDE,			        M,		1000,		100
+		TF_Mag_M4_PMAG40Rnd,			            M,		1000,		100
+		TF_Mag_M4_PMAG40Rnd_FDE,			        M,		1000,		100
+		TF_Mag_MP443_18Rnd,			                M,		250,		50
+		TF_Mag_VPO190_4Rnd,			                M,		350,		75
+		TF_Mag_AK101_Plastic30Rnd,			        M,		1000,		100
+		TF_Mag_AK74_Bakelit30Rnd,			        M,		1000,		100
+		TF_Mag_AK74_Plum30Rnd,			            M,		1000,		100
+		TF_Mag_AK74_Plastic30Rnd,			        M,		1000,		100
+		TF_Mag_AKM_Bakelit40Rnd,			        M,		1000,		100
+		TF_Mag_AKM_Steel40Rnd,			            M,		2000,		150
+		TF_Mag_M240_50Rnd,			                M,		4000,		400
+		TF_Mag_M249_200Rnd,			                M,		5000,		450
+		TF_Mag_PKM_100Rnd,			                M,		4500,		400
+		TF_Mag_SVCh308_10Rnd,			            M,		1250,		200
+		TF_Mag_SR25_20Rnd,			                M,		1750,		350
 
 	<Category> TF Attachments
 		TF_Atlas_Bipod,			                    *,		200,		120
 		TF_Harris_Bipod,			                *,		200,		120
 		TF_M14_Adapter,			                    *,		200,		120
-		//TF_RifleSling_Black,			            *,		200,		120
-		//TF_RifleSling_Brown,			            *,		200,		120
-		//TF_RifleSling_OD,			                *,		200,		120
-		TF_AK_6kh5Bayonet,			                *,		139,		120
+		//TF_RifleSling_Black,			            *,		3500,		1000
+		//TF_RifleSling_Brown,			            *,		3500,		1000
+		//TF_RifleSling_OD,			                *,		3500,		1000
+		TF_AK_6kh5Bayonet,			                *,		200,		120
 		TF_6kh5KnifeSheath,			                *,		60,	    	30
 		TF_AK_Tactica_Tula10000Receiver,			*,		300,		150
 		TF_AK_B33Receiver,			                *,		250,		175
 		
 	<Category> TF Optics
-		TF_ElcanSpecterDROptic_FDE,	                *,		2561,		60
-		TF_ElcanSpecterDROptic_Black,	            *,		2561,		60
+		TF_ElcanSpecterDROptic_FDE,	                *,		2561,		750
+		TF_ElcanSpecterDROptic_Black,	            *,		2561,		750
 		TF_ElcanSpecterDR_6xOptic_FDE,	            *,		537,		60
 		TF_ElcanSpecterDR_6xOptic_Black,	        *,		537,		60
 		TF_EOTechXPSOpticDown_Black,	            *,		537,		60
@@ -824,21 +824,21 @@
 		TF_PKP_CNCC46Hndgrd_RIS,			        *,		200,		100
 
 	<Category> TF Muzzles
-		TF_SCAR_Suppressor_Black,		            *,		1500,		175
-		TF_MakarovPB_Suppressor,		            *,		1500,		175
-		TF_OTs_14_Groza_Suppressor,		            *,		1500,		175
+		TF_SCAR_Suppressor_Black,		            *,		4500,		1000
+		TF_MakarovPB_Suppressor,		            *,		3500,		750
+		TF_OTs_14_Groza_Suppressor,		            *,		4500,		1000
 		TF_OTs_14_Groza_Barrel_Grip,		        *,		1500,		175
-		TF_MAR10_Suppressor,		                *,		1500,		175
-		TF_M4_SOCOMSuppressor,		                *,		1500,		175
-		TF_AK_PBS1Suppressor,		                *,		1500,		175
-		TF_AEK999_Suppressor,		                *,		1500,		175
+		TF_MAR10_Suppressor,		                *,		4750,		1000
+		TF_M4_SOCOMSuppressor,		                *,		4500,		1000
+		TF_AK_PBS1Suppressor,		                *,		4000,		1000
+		TF_AEK999_Suppressor,		                *,		4000,		1000
 		TF_PKM_6ch43Compensator,		            *,		1500,		175
 		TF_PKM_6ch63Compensator,		            *,		1500,		175
 		TF_PKM_6ch76Compensator,		            *,		1500,		175
 		TF_AK_6p20Compensator,		                *,		1500,		175
 		TF_AK_ZenitDTK1Compensator,		            *,		1500,		175
 		TF_PKM_SAICompensator,		                *,		1500,		175
-		TF_AK_Rotor43Suppressor,		            *,		1500,		175
+		TF_AK_Rotor43Suppressor,		            *,		4000,		1000
 	
 <Trader> Clothing Trader
 	<Category> Glasses
@@ -1070,9 +1070,9 @@
 		HighCapacityVest_Black,						*,		200,	60
 		HighCapacityVest_Olive,						*,		230,	75
 		PlateCarrierVest,							*,		500,	200
-		PlateCarrierVest_Black,						*,		500,	200
-		PlateCarrierVest_Camo,						*,		500,	200
-		PlateCarrierVest_Green,						*,		500,	200
+		PlateCarrierVest_Black,						*,		1500,	200
+		PlateCarrierVest_Camo,						*,		1500,	200
+		PlateCarrierVest_Green,						*,		1500,	200
 
 	<Category> Jackets & Coats
 		LabCoat,									*,		10,		2
@@ -1335,9 +1335,9 @@
 		GhillieTop_Mossy,		*,		600,	200
 		GhillieTop_Tan,			*,		600,	200
 		GhillieTop_Woodland,	*,		600,	200
-		GhillieSuit_Mossy,		*,		1000,	300
-		GhillieSuit_Tan,		*,		1000,	300
-		GhillieSuit_Woodland,	*,		1000,	300
+		GhillieSuit_Mossy,		*,		2500,	300
+		GhillieSuit_Tan,		*,		2500,	300
+		GhillieSuit_Woodland,	*,		2500,	300
 		
 	<Category> Collectables Wanted
 		SantasBeard,	        *,		-1,	1000
@@ -2768,67 +2768,67 @@
 		Deagle_Gold,            W,		-1,		2000
 
 	<Category> Assault Rifles
-		FAL,					W,		1500,	450
-		TF_SCAR_20_FDE,			W,		4499,	2249
-		TF_SCAR_20_Black,		W,		4499,	2249
-		TF_SCAR_20_Shd,			W,		4499,	2249
-		TF_SCAR_H_FDE,			W,		3499,	1749
-		TF_SCAR_H_Black,		W,		3499,	1749
-		TF_SCAR_H_CQC_FDE,		W,		3499,	1749
-		TF_SCAR_H_CQC_Black,	W,		3499,	1749
+		FAL,					W,		16500,	4500
+		TF_SCAR_20_FDE,			W,		16500,	6500
+		TF_SCAR_20_Black,		W,		16500,	6500
+		TF_SCAR_20_Shd,			W,		16500,	6500
+		TF_SCAR_H_FDE,			W,		16500,	6500
+		TF_SCAR_H_Black,		W,		16500,	6500
+		TF_SCAR_H_CQC_FDE,		W,		16500,	6500
+		TF_SCAR_H_CQC_Black,	W,		16500,	6500
 
 	<Category> Shotguns
-		Saiga,					W,		1000,	3500
+		Saiga,					W,		4500,	3750
 		
 	<Category> Sniper Rifles
 		ASVAL,					W,		2000,	500
 		VSS,					W,		2000,	500
 		SVD,					W,		2000,	500
 		TF_MAR10,			    W,		1956,	978
-		TF_M14_DMR,			    W,		1526,	763
-		TF_M14_EBR,			    W,		1526,	763
-		TF_M14_STD,			    W,		1526,	763
-		TF_SVCh308,			    W,		4050,	1012
-		TF_SVCh,			    W,		4800,	1199
-		TF_SR25,			    W,		4900,	2449
-		TF_Anzio20,			    W,		-1,		6174
+		TF_M14_DMR,			    W,		13000,	3500
+		TF_M14_EBR,			    W,		13000,	3500
+		TF_M14_STD,			    W,		12500,	3500
+		TF_SVCh308,			    W,		12500,	3750
+		TF_SVCh,			    W,		5000,	3500
+		TF_SR25,			    W,		14500,	4500
+		TF_Anzio20,			    W,		-1,		89000
 
 	<Category> Light Machine Guns
-		TF_AEK999,			    W,		10799,	5399
-		TF_M240,			    W,		13200,	3300
-		TF_M249,			    W,		8174,	2043
-		TF_PKM,			        W,		10000,	2499
-		TF_PKP,			        W,		10000,	2499
+		TF_AEK999,			    W,		14500,	5399
+		TF_M240,			    W,		17500,	5600
+		TF_M249,			    W,		17500,	5650
+		TF_PKM,			        W,		16500,	5500
+		TF_PKP,			        W,		17500,	6000
 		
 	<Category> Heavy Munitions
 		TF_M79,			        W,		1148,	574
 		TF_M79_AOR1,			W,		1198,	599
 		M79,		            W,		1148,	574
-		Ammo_40mm_Chemgas,		1,		-1,		300
-		Ammo_40mm_Explosive,	1,		1200,	300
-		Ammo_40mm_Smoke_Black,	1,		300,	100
-		Ammo_40mm_Smoke_Green,	1,		300,	100
-		Ammo_40mm_Smoke_Red,	1,		300,	100
-		Ammo_40mm_Smoke_White,	1,		300,	100
-		TF_EMPGrenade,			1,		600,	100
-		TF_PhosphorusGrenade,	1,		650,	100
-		TF_TeargasGrenade,		1,		600,	100
-		TF_ChemicalGrenade,		1,		-1,		300
-		RemoteDetonator,	    1,		-1,		550
-		ClaymoreMine,	        *,		75000,	1300
-		LandMineTrap,	        1,		5000,	525
-		Plastic_Explosive,	    1,		25000,	1100
+		Ammo_40mm_Chemgas,		1,		-1,		1250
+		Ammo_40mm_Explosive,	1,		5000,	1500
+		Ammo_40mm_Smoke_Black,	1,		4500,	1000
+		Ammo_40mm_Smoke_Green,	1,		4500,	1000
+		Ammo_40mm_Smoke_Red,	1,		4500,	1000
+		Ammo_40mm_Smoke_White,	1,		4500,	1000
+		TF_EMPGrenade,			1,		4000,	1000
+		TF_PhosphorusGrenade,	1,		4500,	1000
+		TF_TeargasGrenade,		1,		4250,	1000
+		TF_ChemicalGrenade,		1,		-1,		1750
+		RemoteDetonator,	    1,		-1,		1250
+		ClaymoreMine,	        *,		75000,	5500
+		LandMineTrap,	        1,		5000,	750
+		Plastic_Explosive,	    1,		25000,	2500
 
 	<Category> SciFi Weaponary
-		Diatium_Power_Cell,					*,		15000,	1200
-		Luke_Skywalker_Lightsaber_Retracted,			*,		10000,	3500
-		Rey_Skywalker_Lightsaber_Retracted,			*,		10000,	3500
-		Obi_Wan_Lightsaber_Retracted,				*,		10000,	3500
-		Mace_Windu_Lightsaber_Retracted,			*,		10000,	3500
-		Ahsoka_Tano_Lightsaber_Retracted,			*,		10000,	3500
-		Sith_Lightsaber_Retracted,				*,		10000,	3500
-		Count_Dooku_Lightsaber_Retracted,			*,		10000,	3500
-		Darksaber_Retracted,					*,		10000,	3500
+		Diatium_Power_Cell,					*,		35000,	16500
+		Luke_Skywalker_Lightsaber_Retracted,			*,		50000,	25000
+		Rey_Skywalker_Lightsaber_Retracted,			*,		50000,	25000
+		Obi_Wan_Lightsaber_Retracted,				*,		50000,	25000
+		Mace_Windu_Lightsaber_Retracted,			*,		50000,	25000
+		Ahsoka_Tano_Lightsaber_Retracted,			*,		50000,	25000
+		Sith_Lightsaber_Retracted,				*,		55000,	30000
+		Count_Dooku_Lightsaber_Retracted,			*,		65000,	35000
+		Darksaber_Retracted,					*,		75000,	40000
 
 	<Category> Ammunition
 		Ammo_380,				1,		10,		1
@@ -2854,10 +2854,10 @@
 	    Ammo_FlareGreen,		1,		150,		7
 	    Ammo_FlareRed,			1,		150,		7
 		Ammo_762x54Tracer,		1,		200,		12
-		TF_Ammo_20mm,		    *,		1360,		20
-		TF_Ammo_20mm_HE,		*,		1260,		20
-		TF_Ammo_57,		        *,		1160,		20
-		TF_Ammo_338LM,		    *,		1460,		20
+		TF_Ammo_20mm,		    *,		1500,		500
+		TF_Ammo_20mm_HE,		*,		1500,		500
+		TF_Ammo_57,		        *,		1160,		450
+		TF_Ammo_338LM,		    *,		1460,		450
 		AmmoBox_380_35rnd,		*,		280,		15
 		AmmoBox_9x19_25rnd,		*,		200,		15
 		AmmoBox_45ACP_25rnd,	*,		200,		15
@@ -2910,44 +2910,44 @@
 		Mag_308WinSnaploader_2Rnd,		M,		250,	125
 
 	<Category> TF Magazines
-		TF_Mag_OTs_14_Groza_20Rnd,			        M,		100,	50
-		TF_Mag_SCAR_H_20Rnd_Black,			        M,		100,	50
-		TF_Mag_SCAR_H_20Rnd_FDE,			        M,		100,	50
-		TF_Mag_SCAR_H_20Rnd_Shd,			        M,		100,	50
-		TF_Mag_SCAR_H_25Rnd_Black,			        M,		100,	50
-		TF_Mag_SCAR_H_25Rnd_FDE,			        M,		100,	50
-		TF_Mag_SCAR_H_30Rnd_Black,			        M,		100,	50
-		TF_Mag_SCAR_H_30Rnd_FDE,			        M,		100,	50
-		TF_Mag_SCAR_H_PMAG25Rnd_Black,			    M,		100,	50
-		TF_Mag_SCAR_H_Drum50Rnd,			        M,		100,	50
-		TF_Mag_FAL_Drum50Rnd_Black,			        M,		100,	50
-		TF_Mag_MAR10_10Rnd,			                M,		100,	50
-		TF_Mag_Anzio20_3Rnd,			            M,		100,	50
-		TF_Mag_M14_20Rnd,			                M,		100,	50
-		TF_Mag_M14_10Rnd,			                M,		100,	50
+		TF_Mag_OTs_14_Groza_20Rnd,			        M,		1500,	250
+		TF_Mag_SCAR_H_20Rnd_Black,			        M,		1500,	250
+		TF_Mag_SCAR_H_20Rnd_FDE,			        M,		1500,	250
+		TF_Mag_SCAR_H_20Rnd_Shd,			        M,		1500,	250
+		TF_Mag_SCAR_H_25Rnd_Black,			        M,		1500,	250
+		TF_Mag_SCAR_H_25Rnd_FDE,			        M,		1500,	250
+		TF_Mag_SCAR_H_30Rnd_Black,			        M,		1500,	250
+		TF_Mag_SCAR_H_30Rnd_FDE,			        M,		1500,	250
+		TF_Mag_SCAR_H_PMAG25Rnd_Black,			    M,		1500,	250
+		TF_Mag_SCAR_H_Drum50Rnd,			        M,		4500,	550
+		TF_Mag_FAL_Drum50Rnd_Black,			        M,		4250,	550
+		TF_Mag_MAR10_10Rnd,			                M,		5500,	750
+		TF_Mag_Anzio20_3Rnd,			            M,		7500,	2250
+		TF_Mag_M14_20Rnd,			                M,		1500,	100
+		TF_Mag_M14_10Rnd,			                M,		1500,	100
 		TF_Mag_FiveSeven_20Rnd,			            M,		100,	50
-		TF_Mag_AK74_60Rnd,			                M,		100,	50
-		TF_Mag_AK74_45Rnd,			                M,		100,	50
-		TF_Mag_AKM_Plastic30Rnd,			        M,		100,	50
-		TF_Mag_AKM_30Rnd,			                M,		100,	50
-		TF_Mag_AKM_10Rnd,			                M,		100,	50
-		TF_Mag_AKM_PMAG30Rnd,			            M,		100,	50
-		TF_Mag_AKM_PMAG30Rnd_Banana,			    M,		100,	50
-		TF_Mag_M4_STANAG_30Rnd,			            M,		100,	50
-		TF_Mag_M4_PMAG10Rnd,			            M,		100,	50
-		TF_Mag_M4_PMAG20Rnd,			            M,		100,	50
-		TF_Mag_M4_PMAG30Rnd,			            M,		100,	50
-		TF_Mag_M4_PMAG30Rnd_FDE,			        M,		100,	50
-		TF_Mag_M4_PMAG40Rnd,			            M,		100,	50
-		TF_Mag_M4_PMAG40Rnd_FDE,			        M,		100,	50
-		TF_Mag_MP443_18Rnd,			                M,		100,	50
-		TF_Mag_VPO190_4Rnd,			                M,		100,	50
-		TF_Mag_AK101_Plastic30Rnd,			        M,		100,	50
-		TF_Mag_AK74_Bakelit30Rnd,			        M,		100,	50
-		TF_Mag_AK74_Plum30Rnd,			            M,		100,	50
-		TF_Mag_AK74_Plastic30Rnd,			        M,		100,	50
-		TF_Mag_AKM_Bakelit40Rnd,			        M,		100,	50
-		TF_Mag_AKM_Steel40Rnd,			            M,		100,	50
+		TF_Mag_AK74_60Rnd,			                M,		2500,	250
+		TF_Mag_AK74_45Rnd,			                M,		1750,	100
+		TF_Mag_AKM_Plastic30Rnd,			        M,		975,	100
+		TF_Mag_AKM_30Rnd,			                M,		1000,	100
+		TF_Mag_AKM_10Rnd,			                M,		950,	100
+		TF_Mag_AKM_PMAG30Rnd,			            M,		1000,	100
+		TF_Mag_AKM_PMAG30Rnd_Banana,			    M,		1000,	100
+		TF_Mag_M4_STANAG_30Rnd,			            M,		1000,	100
+		TF_Mag_M4_PMAG10Rnd,			            M,		1000,	100
+		TF_Mag_M4_PMAG20Rnd,			            M,		1000,	100
+		TF_Mag_M4_PMAG30Rnd,			            M,		1000,	100
+		TF_Mag_M4_PMAG30Rnd_FDE,			        M,		1000,	100
+		TF_Mag_M4_PMAG40Rnd,			            M,		1000,	100
+		TF_Mag_M4_PMAG40Rnd_FDE,			        M,		1000,	100
+		TF_Mag_MP443_18Rnd,			                M,		250,	75
+		TF_Mag_VPO190_4Rnd,			                M,		350,	75
+		TF_Mag_AK101_Plastic30Rnd,			        M,		1000,	100
+		TF_Mag_AK74_Bakelit30Rnd,			        M,		1000,	100
+		TF_Mag_AK74_Plum30Rnd,			            M,		1000,	100
+		TF_Mag_AK74_Plastic30Rnd,			        M,		1000,	100
+		TF_Mag_AKM_Bakelit40Rnd,			        M,		1000,	100
+		TF_Mag_AKM_Steel40Rnd,			            M,		2000,	150
 		TF_Mag_M240_50Rnd,			                M,		100,	50
 		TF_Mag_M249_200Rnd,			                M,		100,	50
 		TF_Mag_PKM_100Rnd,			                M,		100,	50
@@ -3052,21 +3052,21 @@
 		TF_PKP_CNCC46Hndgrd_RIS,			        *,		200,	100
 
 	<Category> TF Muzzles
-		TF_SCAR_Suppressor_Black,		            *,		1500,	175
-		TF_MakarovPB_Suppressor,		            *,		1500,	175
-		TF_OTs_14_Groza_Suppressor,		            *,		1500,	175
-		TF_OTs_14_Groza_Barrel_Grip,		        *,		1500,	175
-		TF_MAR10_Suppressor,		                *,		1500,	175
-		TF_M4_SOCOMSuppressor,		                *,		1500,	175
-		TF_AK_PBS1Suppressor,		                *,		1500,	175
-		TF_AEK999_Suppressor,		                *,		1500,	175
+		TF_SCAR_Suppressor_Black,		            *,		4500,	1000
+		TF_MakarovPB_Suppressor,		            *,		3500,	1000
+		TF_OTs_14_Groza_Suppressor,		            *,		4500,	1000
+		TF_OTs_14_Groza_Barrel_Grip,		        *,		1500,	1000
+		TF_MAR10_Suppressor,		                *,		5500,	1000
+		TF_M4_SOCOMSuppressor,		                *,		4500,	1000
+		TF_AK_PBS1Suppressor,		                *,		4500,	1000
+		TF_AEK999_Suppressor,		                *,		4500,	1000
 		TF_PKM_6ch43Compensator,		            *,		1500,	175
 		TF_PKM_6ch63Compensator,		            *,		1500,	175
 		TF_PKM_6ch76Compensator,		            *,		1500,	175
 		TF_AK_6p20Compensator,		                *,		1500,	175
 		TF_AK_ZenitDTK1Compensator,		            *,		1500,	175
 		TF_PKM_SAICompensator,		                *,		1500,	175
-		TF_AK_Rotor43Suppressor,		            *,		1500,	175
+		TF_AK_Rotor43Suppressor,		            *,		4500,	1000
 
 	<Category> TF Attachments
 		TF_Atlas_Bipod,			                    *,		200,	120
@@ -3104,48 +3104,48 @@
 		Cloak_white,					*,		450,	220
 		
 	<Category> Electronics
-		NVGHeadstrap,								*,		200,	120
-		TF_NVGoggles_AVS9,			                *,		9450,	155
-		TF_NVGoggles_PVS14,			                *,		9450,	155
-		TF_NVGoggles_PVS15,			                *,		9450,	155
-		TF_NVGoggles_PNV10T,			            *,		9450,	155
-		NVGoggles,									*,		8450,	120
+		NVGHeadstrap,								*,		16500,	3500
+		TF_NVGoggles_AVS9,			                *,		42500,	12500
+		TF_NVGoggles_PVS14,			                *,		42500,	12500
+		TF_NVGoggles_PVS15,			                *,		42500,	12500
+		TF_NVGoggles_PNV10T,			            *,		42500,	12500
+		NVGoggles,									*,		42500,	12500
 		
 	<Category> TF Vests
-		TF_PlateCarrierVest_EMR,		            *,		250,	80
-		TF_PlateCarrierVest_Coyote,		            *,		250,	80
-		TF_6sh112_EMR,		                        *,		250,	80
-		TF_6sh112_Syrian,		                    *,		250,	80
-		TF_6B23_112Vest_GFlora_Syrian,		        *,		250,	80
-		TF_6B23_112Vest_EMR_Syrian,		            *,		250,	80
-		TF_6B23_112Vest_GFlora,		                *,		250,	80
-		TF_6B23_112Vest_EMR,		                *,		250,	80
-		TF_6B23Vest_GFlora,		                    *,		250,	80
-		TF_6B23Vest_EMR,		                    *,		250,	80
-		TF_6B43Vest_EMR,		                    *,		250,	80
-		TF_6B43Vest_Syrian,		                    *,		250,	80
-		TF_6B43Vest_6sh112_EMR,		                *,		250,	80
-		TF_6B43Vest_6sh112_Syrian,		            *,		250,	80
-		TF_6B43Vest_6sh112_EMR_Syrian,		        *,		250,	80
-		TF_6B43Vest_6sh112_Syrian_EMR,		        *,		250,	80
-		TF_IMTVVest,		                        *,		250,	80
-		TF_IMTVVest_Khaki,		                    *,		250,	80
-		TF_AVSVest_Coyote,		                    *,		250,	80
-		TF_AVSVest_Tagilla,		                    *,		250,	80
-		TF_JPCVest_MC,		                        *,		250,	80
-		TF_JPCVest_Coyote,		                    *,		250,	80
-		TF_LVMBAVVest_KH,		                    *,		250,	80
+		TF_PlateCarrierVest_EMR,		            *,		38500,	2150
+		TF_PlateCarrierVest_Coyote,		            *,		38500,	2150
+		TF_6sh112_EMR,		                        *,		38500,	2500
+		TF_6sh112_Syrian,		                    *,		38500,	2750
+		TF_6B23_112Vest_GFlora_Syrian,		        *,		38500,	2500
+		TF_6B23_112Vest_EMR_Syrian,		            *,		38500,	2500
+		TF_6B23_112Vest_GFlora,		                *,		38500,	2500
+		TF_6B23_112Vest_EMR,		                *,		38500,	2500
+		TF_6B23Vest_GFlora,		                    *,		38500,	2500
+		TF_6B23Vest_EMR,		                    *,		38500,	2500
+		TF_6B43Vest_EMR,		                    *,		42500,	4500
+		TF_6B43Vest_Syrian,		                    *,		42500,	4500
+		TF_6B43Vest_6sh112_EMR,		                *,		42500,	4500
+		TF_6B43Vest_6sh112_Syrian,		            *,		42500,	4500
+		TF_6B43Vest_6sh112_EMR_Syrian,		        *,		42500,	4500
+		TF_6B43Vest_6sh112_Syrian_EMR,		        *,		42500,	4500
+		TF_IMTVVest,		                        *,		42500,	4500
+		TF_IMTVVest_Khaki,		                    *,		32500,	1500
+		TF_AVSVest_Coyote,		                    *,		32500,	1500
+		TF_AVSVest_Tagilla,		                    *,		32500,	1500
+		TF_JPCVest_MC,		                        *,		32500,	1500
+		TF_JPCVest_Coyote,		                    *,		32500,	1500
+		TF_LVMBAVVest_KH,		                    *,		32500,	1500
 
 	<Category> TF Pouches
-		TF_PlateCarrierPouches_EMR,	                *,		100,		20
-		TF_PlateCarrierPouches_Coyote,	            *,		100,		20
-		TF_PlateCarrierHolster_EMR,	                *,		100,		20
-		TF_PlateCarrierHolster_Coyote,	            *,		100,		20
-		TF_6B43MagPouch,	                        *,		100,		20
-		TF_6B43GrenPouch,	                        *,		100,		20
-		TF_6B43MagPouch_Syrian,                    	*,		100,		20
-		TF_6B43GrenPouch_Syrian,	                *,		100,		20
-		TF_DumpMagPouch,	                        *,		100,		20
+		TF_PlateCarrierPouches_EMR,	                *,		4500,		500
+		TF_PlateCarrierPouches_Coyote,	            *,		4500,		500
+		TF_PlateCarrierHolster_EMR,	                *,		750,		100
+		TF_PlateCarrierHolster_Coyote,	            *,		750,		100
+		TF_6B43MagPouch,	                        *,		4500,		250
+		TF_6B43GrenPouch,	                        *,		4500,		250
+		TF_6B43MagPouch_Syrian,                    	*,		4500,		300
+		TF_6B43GrenPouch_Syrian,	                *,		4500,		250
+		TF_DumpMagPouch,	                        *,		4500,		250
 		TF_DumpMagPouch_Khaki,	                    *,		100,		20
 		TF_3GrenPouch,	                            *,		100,		20
 		TF_3GrenPouch_Khaki,	                    *,		100,		20
@@ -3165,12 +3165,12 @@
 		TF_MedPouch2_Coyote,	                    *,		100,		20
 		TF_MedPouch3,	                            *,		100,		20
 		TF_MedPouch3_Khaki,	                        *,		100,		20
-		TF_AVSMag3Pouch_Coyote,	                    *,		100,		20
-		TF_AVSMag3Pouch_Khaki,	                    *,		100,		20
-		TF_FastMag3Pouch_Khaki,	                    *,		100,		20
-		TF_FastMag3Pouch_Coyote,	                *,		100,		20
-		TF_AFAKMedPouch_Khaki,	                    *,		100,		20
-		TF_AFAKMedPouch_Coyote,	                    *,		100,		20
+		TF_AVSMag3Pouch_Coyote,	                    *,		1500,		20
+		TF_AVSMag3Pouch_Khaki,	                    *,		1500,		20
+		TF_FastMag3Pouch_Khaki,	                    *,		1500,		20
+		TF_FastMag3Pouch_Coyote,	                *,		1500,		100
+		TF_AFAKMedPouch_Khaki,	                    *,		1600,		100
+		TF_AFAKMedPouch_Coyote,	                    *,		1600,		100
 		TF_AVSGren2Pouch_Coyote,	                *,		100,		20
 		TF_AVSGren2Pouch_Khaki,	                    *,		100,		20
 		TF_LargeUtilityPouch_Khaki,	                *,		100,		20
@@ -3191,27 +3191,27 @@
 	<Category> TF Clothing
 		TF_PMK4GasMask,				                *,		120,	40
 		TF_PMK4GasMask_OD,				            *,		120,	40
-		TF_6sh122Pants_Spring,				        *,		100,	40
-		TF_6sh122Pants_Autumn,				        *,		100,	40
-		TF_6sh122Pants_Syrian,				        *,		100,	40
-		TF_6sh122Pants_Syrian_EMR,				    *,		100,	40
-		TF_6sh122Pants_Winter,				        *,		100,	40
-		TF_CargoPantsShort_Black,				    *,		100,	40
-		TF_CargoPantsShort_MARPAT,				    *,		100,	40
-		TF_G3CombatPants_RG,				        *,		100,	40
-		TF_G3CombatPants_MC,				        *,		100,	40
-		TF_G3CombatPants_WD,				        *,		100,	40
-		TF_6sh122Jacket_Spring,				        *,		120,	40
-		TF_6sh122Jacket_Autumn,				        *,		120,	40
-		TF_6sh122Jacket_Syrian,				        *,		120,	40
-		TF_6sh122Jacket_Syrian_EMR,				    *,		120,	40
-		TF_6sh122Jacket_Winter,				        *,		120,	40
-		TF_G3CombatShirt_RG,				        *,		90,	    40
-		TF_G3CombatShirt_MC,				        *,		90,	    40
-		TF_G3CombatShirt_WD,				        *,		90,	    40
-		TF_FannyPack_Coyote,				        *,		90,	    40
-		TF_6B43PelvisArmor,			                *,		1200,	120
-		TF_6B43PelvisArmor_Syrian,			        *,		1200,	120
+		TF_6sh122Pants_Spring,				        *,		1000,	250
+		TF_6sh122Pants_Autumn,				        *,		1000,	250
+		TF_6sh122Pants_Syrian,				        *,		1000,	250
+		TF_6sh122Pants_Syrian_EMR,				    *,		1000,	250
+		TF_6sh122Pants_Winter,				        *,		1000,	250
+		TF_CargoPantsShort_Black,				    *,		1000,	250
+		TF_CargoPantsShort_MARPAT,				    *,		1000,	250
+		TF_G3CombatPants_RG,				        *,		1000,	250
+		TF_G3CombatPants_MC,				        *,		1000,	250
+		TF_G3CombatPants_WD,				        *,		1000,	250
+		TF_6sh122Jacket_Spring,				        *,		1200,	250
+		TF_6sh122Jacket_Autumn,				        *,		1200,	250
+		TF_6sh122Jacket_Syrian,				        *,		1200,	250
+		TF_6sh122Jacket_Syrian_EMR,				    *,		1200,	250
+		TF_6sh122Jacket_Winter,				        *,		1200,	250
+		TF_G3CombatShirt_RG,				        *,		900,	    150
+		TF_G3CombatShirt_MC,				        *,		900,	    150
+		TF_G3CombatShirt_WD,				        *,		900,	    150
+		TF_FannyPack_Coyote,				        *,		900,	    150
+		TF_6B43PelvisArmor,			                *,		1500,	250
+		TF_6B43PelvisArmor_Syrian,			        *,		1500,	275
 
 	<Category> Smoke Products
 		CP_Pouch,				            		*,		2500,	1200
@@ -3248,14 +3248,14 @@
 		CP_CannabisBagBlackFrost,					1,		343,	171
 
 	<Category> Cannabis Bricks
-		CP_CannabisBrickSkunk,						1,		2000,	1000
-		CP_CannabisBrickBlue,						1,		2500,	1250
-		CP_CannabisBrickKush,						1,		3000,	1500
-		CP_CannabisBrickStardawg,					1,		3500,	1750
-		CP_CannabisBrickFuture,						1,		4000,	2000
-		CP_CannabisBrickS1,							1,		4500,	2250
-		CP_CannabisBrickNomad,						1,		5000,	2500
-		CP_CannabisBrickBlackFrost,					1,		5500,	2750
+		CP_CannabisBrickSkunk,						1,		10000,	5000
+		CP_CannabisBrickBlue,						1,		20000,	12500
+		CP_CannabisBrickKush,						1,		32500,	18500
+		CP_CannabisBrickStardawg,					1,		42500,	27500
+		CP_CannabisBrickFuture,						1,		55000,	35000
+		CP_CannabisBrickS1,							1,		150000,	65000
+		CP_CannabisBrickNomad,						1,		150000,	65000
+		CP_CannabisBrickBlackFrost,					1,		225000,	130000
 
 <Trader> Heli Trader
 	<Category> Heli Equipment
@@ -3270,7 +3270,7 @@
 		ADM_ParachuteBag_Target_Speed,  *,    4500,  1900
 		ADM_ParachuteBag_Skull_Speed,   *,    4500,  1900
 		ADM_TactiParaBag_Camo_Speed,    *,    4500,  1900
-		ADM_JetPack_Green,              *,    4500,  1900
+		ADM_JetPack_Green,              *,    -1,  45000
 
 	<Category> Helicopters
 		Helipolice_SIB4,		            V,		1300000,	650000
