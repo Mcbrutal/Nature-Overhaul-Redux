@@ -445,7 +445,7 @@
 		Scout,                 						W,		1300,		250
 		B95,										W,		2700,		1100
 		SSG82,										W,		2500,		1250
-		TF_M1A_Black,								W,		1720,		860
+		TF_M1A_Black,								W,		2250,		860
 		TF_M1A_OD,			    					W,		1720,		860
 		TF_M1A_Tan,			    					W,		1720,		860
 		CZ527,                 						W,		1000,		250
@@ -2816,8 +2816,8 @@
 		TF_ChemicalGrenade,		*,		-1,		1750
 		RemoteDetonator,	    1,		-1,		1250
 		ClaymoreMine,	        *,		75000,	5500
-		LandMineTrap,	        1,		5000,	750
-		Plastic_Explosive,	    1,		25000,	2500
+		LandMineTrap,	        *,		5000,	750
+		Plastic_Explosive,	    *,		25000,	2500
 
 	<Category> SciFi Weaponary
 		Diatium_Power_Cell,					*,		35000,	16500
@@ -4141,7 +4141,7 @@
 
 	<Category> Smoke Products
 		CP_Pouch,				            		*,		2500,	1200
-		CP_Workbench_Kit,				    		*,		15000,	10000
+		CP_Workbench_Kit,				    		*,		5000,	500
 		CP_Relief_Balm,				        		*,		1000,	500
 		CP_RollingPapers,				    		*,		90,		45
 		CP_RollingPapers_Silver,					*,		100,	50
