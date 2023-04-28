@@ -1,6 +1,5 @@
 {
-	"m_DNAConfig_Weapons": [
-		{
+	"m_DNAConfig_Weapons": [{
 			"dna_Tier": "yellow",
 			"dna_WeaponCategory": "main",
 			"dna_TheChosenOne": "Mp133Shotgun",
@@ -481,7 +480,7 @@
 			"dna_HandGuard": "TF_PKP_CNCC46Hndgrd_RIS",
 			"dna_Wrap": ""
 		},
-		
+
 		{
 			"dna_Tier": "red",
 			"dna_WeaponCategory": "main",
