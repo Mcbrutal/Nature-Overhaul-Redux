@@ -512,20 +512,20 @@
 		TF_OTs_14_Groza,							W,		27500,		5000
 		
 	<Category> Grenades
-		RGD5Grenade,								1,		5000,		2000
-		M67Grenade,									1,		5500,		2000
-		M18SmokeGrenade_Red,						1,		4500,		1250
-		M18SmokeGrenade_Green,						1,		4500,		1250
-		M18SmokeGrenade_Yellow,						1,		4500,		1250
-		M18SmokeGrenade_Purple,						1,		4500,		1250
-		M18SmokeGrenade_White,						1,		4500,		1250
-		RDG2SmokeGrenade_Black,						1,		4500,		1250
-		RDG2SmokeGrenade_White,						1,		4500,		1250
-		FlashGrenade,								1,		5000,		1500
-		Ammo_40mm_Smoke_Black,						1,		4500,		1000
-		Ammo_40mm_Smoke_Green,						1,		4500,		1000
-		Ammo_40mm_Smoke_Red,						1,		4500,		1000
-		Ammo_40mm_Smoke_White,						1,		4500,		1000
+		RGD5Grenade,								*,		5000,		2000
+		M67Grenade,									*,		5500,		2000
+		M18SmokeGrenade_Red,						*,		4500,		1250
+		M18SmokeGrenade_Green,						*,		4500,		1250
+		M18SmokeGrenade_Yellow,						*,		4500,		1250
+		M18SmokeGrenade_Purple,						*,		4500,		1250
+		M18SmokeGrenade_White,						*,		4500,		1250
+		RDG2SmokeGrenade_Black,						*,		4500,		1250
+		RDG2SmokeGrenade_White,						*,		4500,		1250
+		FlashGrenade,								*,		5000,		1500
+		Ammo_40mm_Smoke_Black,						*,		4500,		1000
+		Ammo_40mm_Smoke_Green,						*,		4500,		1000
+		Ammo_40mm_Smoke_Red,						*,		4500,		1000
+		Ammo_40mm_Smoke_White,						*,		4500,		1000
 
 <Trader> Weapon Supplies
 	<Category> Ammunition
