@@ -121,15 +121,15 @@
 
 	<Category> Smoke Products
 		CP_Pouch,				        			*,		2500,		1200
-		CP_Workbench_Kit,							*,		15000,		10000
+		CP_Workbench_Kit,							*,		2500,		250
 		CP_Relief_Balm,				        		*,		1000,		500
 		CP_RollingPapers,							*,		90,			45
 		CP_RollingPapers_Silver,					*,		100,		50
 		CP_RollingPapers_Green,						*,		110,		55
 		CP_CigarettePack_Empty,						*,		50,			25
 		CP_EmptyBag,				       	 		*,		1250,		150
-		CP_Bagger,				        			*,		7500,		3500
-		CP_PlasticWrapper,							*,		7500,		3500
+		CP_Bagger,				        			*,		1500,		250
+		CP_PlasticWrapper,							*,		3500,		1250
 		CP_PlasticRoll,				        		*,		400,		150
 		CigarettePack_Chernamorka,					*,		400,		200
 		CigarettePack_Merkur,						*,		500,		250
@@ -281,7 +281,7 @@
 		PepperSeedsPack,							*,		40, 		10
 		ZucchiniSeedsPack,							*,		60, 		20
 		PumpkinSeedsPack,							*,		100, 		30
-		GardenLime,									*,		200,		70
+		GardenLime,									*,		450,		70
 		
 	<Category> Fluffy Pets <3
 		Bear_Beige,									*,		50,			10
@@ -426,8 +426,8 @@
 		P1,                     					W,		550,		275
 		Glock19,                					W,		500,		250
 		MKII,                   					W,		450,		225
-		Colt1911,               					W,		1200,		300
-		Engraved1911,           					W,		1600,		550
+		Colt1911,               					W,		3500,		500
+		Engraved1911,           					W,		4500,		1000
 		Derringer_Black,        					W,		260,		130
 		Derringer_Grey,         					W,		260,		130
 		Derringer_Pink,         					W,		260,		130
@@ -436,58 +436,58 @@
 		TF_MakarovPB,								W,		159,		79
 		
 	<Category> Rifles
-		Izh18,				   						W,		350,		175
-		Mosin9130,             						W,		1250,		200
-		Mosin9130_Black,       						W,		1250,		200
-		Mosin9130_Camo,        						W,		1250,		200
-		Mosin9130_Green,       						W,		1250,		200
-		Scout_Chernarus,       						W,		1500,		250
-		Scout,                 						W,		1300,		250
+		Izh18,				   						W,		4500,		1750
+		Mosin9130,             						W,		12500,		4250
+		Mosin9130_Black,       						W,		12500,		4250
+		Mosin9130_Camo,        						W,		12500,		4250
+		Mosin9130_Green,       						W,		12500,		4250
+		Scout_Chernarus,       						W,		10000,		3750
+		Scout,                 						W,		10000,		3750
 		B95,										W,		2700,		1100
 		SSG82,										W,		2500,		1250
-		TF_M1A_Black,								W,		2250,		860
-		TF_M1A_OD,			    					W,		1720,		860
-		TF_M1A_Tan,			    					W,		1720,		860
-		CZ527,                 						W,		1000,		250
-		CZ550,                 						W,		1200,		300
-		Winchester70,          						W,		1000,		250
-		Repeater,              						W,		600,		300
-		SKS,                   						W,		600,		300
-		Ruger1022,             						W,		300,		150
-		TF_VPO136,			    					W,		1421,		710
-		TF_VPO190,			   						W,		2000,		999
+		TF_M1A_Black,								W,		17500,		5500
+		TF_M1A_OD,			    					W,		17500,		5500
+		TF_M1A_Tan,			    					W,		17500,		5500
+		CZ527,                 						W,		8500,		3000
+		CZ550,                 						W,		16500,		6500
+		Winchester70,          						W,		16500,		6500
+		Repeater,              						W,		3250,		1250
+		SKS,                   						W,		8500,		3500
+		Ruger1022,             						W,		1750,		500
+		TF_VPO136,			    					W,		6750,		3000
+		TF_VPO190,			   						W,		6500,		2750
 		
 	<Category> Shotguns
-		Mp133Shotgun,								W,		500,		250
-		Izh43Shotgun,								W,		900,		400
-		Izh18Shotgun,								W,		400,		200
+		Mp133Shotgun,								W,		3500,		1500
+		Izh43Shotgun,								W,		3000,		1250
+		Izh18Shotgun,								W,		3000,		1250
 		
 	<Category> Submachine Guns
-		CZ61,										W,		950,		200
-		UMP45,										W,		1100,		300
-		PP19,										W,		800,		350
-		MP5K,										W,		1000,		350	
-		AKS74U,										W,		1100,		450
-		AKS74U_Black,								W,		1100,		450
-		AKS74U_Green,								W,		1100,		450
-		TF_AKS74U,			    					W,		1200,		350
+		CZ61,										W,		2500,		750
+		UMP45,										W,		3750,		1750
+		PP19,										W,		3250,		1500
+		MP5K,										W,		3250,		1500	
+		AKS74U,										W,		4000,		2000
+		AKS74U_Black,								W,		4000,		2000
+		AKS74U_Green,								W,		4000,		2000
+		TF_AKS74U,			    					W,		7250,		2750
 		
 	<Category> Assault Rifles
-		FAMAS,										W,		6500,		1150
-		AKM,										W,		8500,		1350
-		AK101,										W,		7500,		1250
-		AK101_Black,								W,		7500,		1250
-		AK101_Green,								W,		7500,		1250
-		AK74,										W,		4500,		750
-		AK74_Black,									W,		4500,		750
-		AK74_Green,									W,		4500,		750
-		M4A1,										W,		6500,		1500
-		M4A1_Black,									W,		6500,		1500
-		M4A1_Green,									W,		6500,		1500
-		TF_M4A1_CQBR,								W,		7250,		1500
-		M16A2,										W,		1700,		380
-		Aug,										W,		2000,		500
-		AugShort,									W,		2000,		500
+		FAMAS,										W,		6500,		3000
+		AKM,										W,		8500,		4000
+		AK101,										W,		7500,		3500
+		AK101_Black,								W,		7500,		3500
+		AK101_Green,								W,		7500,		3500
+		AK74,										W,		4500,		2250
+		AK74_Black,									W,		4500,		2250
+		AK74_Green,									W,		4500,		2250
+		M4A1,										W,		7500,		3500
+		M4A1_Black,									W,		7500,		3500
+		M4A1_Green,									W,		7500,		3500
+		TF_M4A1_CQBR,								W,		7500,		3500
+		M16A2,										W,		6500,		2500
+		Aug,										W,		6500,		2750
+		AugShort,									W,		6500,		2750
 		TF_SCAR_L_FDE,								W,		20000,		6500
 		TF_SCAR_L_Black,							W,		20000,		6500
 		TF_SCAR_L_CQC_FDE,							W,		20000,		6500
@@ -2785,20 +2785,20 @@
 		VSS,					W,		9500,	1500
 		SVD,					W,		11500,	2000
 		TF_MAR10,			    W,		22500,	9500
-		TF_M14_DMR,			    W,		13000,	3500
-		TF_M14_EBR,			    W,		13000,	3500
-		TF_M14_STD,			    W,		12500,	3500
-		TF_SVCh308,			    W,		12500,	4000
-		TF_SVCh,			    W,		11500,	3750
-		TF_SR25,			    W,		14500,	4500
+		TF_M14_DMR,			    W,		17500,	6500
+		TF_M14_EBR,			    W,		17500,	6500
+		TF_M14_STD,			    W,		17500,	6500
+		TF_SVCh308,			    W,		17500,	6500
+		TF_SVCh,			    W,		16500,	6500
+		TF_SR25,			    W,		16500,	6500
 		TF_Anzio20,			    W,		-1,		89000
 
 	<Category> Light Machine Guns
-		TF_AEK999,			    W,		14500,	5399
-		TF_M240,			    W,		17500,	5600
-		TF_M249,			    W,		17500,	5650
-		TF_PKM,			        W,		16500,	5500
-		TF_PKP,			        W,		17500,	6000
+		TF_AEK999,			    W,		19500,	7000
+		TF_M240,			    W,		19500,	7000
+		TF_M249,			    W,		19500,	7000
+		TF_PKM,			        W,		19500,	7000
+		TF_PKP,			        W,		19500,	7250
 		
 	<Category> Heavy Munitions
 		TF_M79,			        W,		22500,	4250
@@ -2831,10 +2831,10 @@
 		Darksaber_Retracted,					*,		75000,	40000
 
 	<Category> Ammunition
-		TF_Ammo_20mm,		    *,		1500,		500
-		TF_Ammo_20mm_HE,		*,		1500,		500
-		TF_Ammo_57,		        *,		1160,		450
-		TF_Ammo_338LM,		    *,		1460,		450
+		TF_Ammo_20mm,		    *,		4000,		1000
+		TF_Ammo_20mm_HE,		*,		4000,		1000
+		TF_Ammo_57,		        *,		2000,		450
+		TF_Ammo_338LM,		    *,		2500,		750
 				
 	<Category> Magazines
 		Mag_IJ70_8Rnd,			M,		30,		15
