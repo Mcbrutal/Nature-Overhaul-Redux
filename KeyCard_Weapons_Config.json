@@ -417,6 +417,19 @@
 		},
 		{
 			"dna_Tier": "purple",
+			"dna_WeaponCategory": "main",
+			"dna_TheChosenOne": "TF_SCAR_H_Black",
+			"dna_Magazine": "TF_Mag_SCAR_H_Drum50Rnd",
+			"dna_Ammunition": "AmmoBox_308Win_20Rnd",
+			"dna_OpticType": "TF_EOTechXPSOpticDown_Black",
+			"dna_Suppressor": "TF_SCAR_Suppressor_Black",
+			"dna_UnderBarrel": "",
+			"dna_ButtStock": "TF_SCAR_StndBttstck_Black",
+			"dna_HandGuard": "TF_SCAR_StndHndgrd",
+			"dna_Wrap": ""
+		},
+		{
+			"dna_Tier": "purple",
 			"dna_WeaponCategory": "side",
 			"dna_TheChosenOne": "Deagle_Gold",
 			"dna_Magazine": "Mag_Deagle_9rnd",
@@ -480,7 +493,6 @@
 			"dna_HandGuard": "TF_PKP_CNCC46Hndgrd_RIS",
 			"dna_Wrap": ""
 		},
-
 		{
 			"dna_Tier": "red",
 			"dna_WeaponCategory": "main",
