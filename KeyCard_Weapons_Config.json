@@ -242,8 +242,8 @@
 			"dna_OpticType": "",
 			"dna_Suppressor": "TF_AK_PBS1Suppressor",
 			"dna_UnderBarrel": "",
-			"dna_ButtStock": "AK_WoodBttstck",
-			"dna_HandGuard": "AK_WoodHndgrd",
+			"dna_ButtStock": "TF_AK_Zenit_PT1Bttstck",
+			"dna_HandGuard": "TF_AKS74U_CAAHndgrd_RIS",
 			"dna_Wrap": ""
 		},
 		{
@@ -501,8 +501,8 @@
 			"dna_Ammunition": "TF_Ammo_338LM",
 			"dna_OpticType": "HuntingOptic",
 			"dna_Suppressor": "TF_MAR10_Suppressor",
-			"dna_UnderBarrel": "",
-			"dna_ButtStock": "",
+			"dna_UnderBarrel": "TF_Harris_Bipod",
+			"dna_ButtStock": "TF_M4_B5PrecisionBttstck",
 			"dna_HandGuard": "",
 			"dna_Wrap": ""
 		},
