@@ -124,7 +124,7 @@
             "dna_Wrap": ""
         },
         {
-            "dna_TheChosenOne": "SKS",
+            "dna_TheChosenOne": "SKS_Black",
             "dna_Magazine": "",
             "dna_SpareMagCount": ,
             "dna_Ammunition": "AmmoBox_762x39_20Rnd",
@@ -134,7 +134,7 @@
             "dna_UnderBarrel": "",
             "dna_ButtStock": "",
             "dna_HandGuard": "",
-            "dna_Wrap": "GhillieAtt_Woodland"
+            "dna_Wrap": ""
         }
     ],
     "dna_SpawnLootSet1": 1,
