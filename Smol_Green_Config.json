@@ -59,6 +59,19 @@
             "dna_Wrap": ""
         },
         {
+            "dna_TheChosenOne": "TF_AK103",
+            "dna_Magazine": "TF_Mag_AKM_30Rnd",
+            "dna_SpareMagCount": 3,
+            "dna_Ammunition": "AmmoBox_762x39_20Rnd",
+            "dna_SpareAmmoCount": 5,
+            "dna_OpticType": "",
+            "dna_Suppressor": "",
+            "dna_UnderBarrel": "",
+            "dna_ButtStock": "AK_PlasticBttstck_Black",
+            "dna_HandGuard": "AK_PlasticHndgrd",
+            "dna_Wrap": ""
+        },
+        {
             "dna_TheChosenOne": "TF_AK104",
             "dna_Magazine": "TF_Mag_AKM_30Rnd",
             "dna_SpareMagCount": 3,
@@ -80,9 +93,9 @@
             "dna_OpticType": "TF_OKP7Optic",
             "dna_Suppressor": "TF_AK_PBS1Suppressor",
             "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
-            "dna_HandGuard": "AK_PlasticHndgrd",
-            "dna_Wrap": "AK_PlasticBttstck_Black"
+            "dna_ButtStock": "AK_PlasticBttstck_Black",
+            "dna_HandGuard": "TF_AKS74U_ZenitB11PlasticHndgrd_RIS",
+            "dna_Wrap": ""
         },
         {
             "dna_TheChosenOne": "TF_AKM",
