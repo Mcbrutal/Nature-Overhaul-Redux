@@ -14,9 +14,9 @@
             "dna_SpareAmmoCount": 5,
             "dna_OpticType": "ACOGOptic",
             "dna_Suppressor": "",
-            "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
-            "dna_HandGuard": "",
+            "dna_UnderBarrel": "TF_Atlas_Bipod",
+            "dna_ButtStock": "TF_M16_Bttstck",
+            "dna_HandGuard": "TF_M16_KACHndgrd_RIS",
             "dna_Wrap": ""
         },
         {
@@ -27,9 +27,9 @@
             "dna_SpareAmmoCount": 5,
             "dna_OpticType": "TF_EOTechXPSOpticDown_Black",
             "dna_Suppressor": "",
-            "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
-            "dna_HandGuard": "",
+            "dna_UnderBarrel": "TF_AFG_RIS_Grip_FDE",
+            "dna_ButtStock": "TF_M4CraneBttstck",
+            "dna_HandGuard": "TF_M4_DD12Hndgrd_RIS_FDE",
             "dna_Wrap": ""
         },
         {
@@ -41,8 +41,8 @@
             "dna_OpticType": "M4_CarryHandleOptic",
             "dna_Suppressor": "",
             "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
-            "dna_HandGuard": "",
+            "dna_ButtStock": "TF_M4CraneBttstck",
+            "dna_HandGuard": "M4_PlasticHndgrd",
             "dna_Wrap": ""
         },
         {
@@ -54,8 +54,8 @@
             "dna_OpticType": "",
             "dna_Suppressor": "",
             "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
-            "dna_HandGuard": "",
+            "dna_ButtStock": "AK_WoodBttstck",
+            "dna_HandGuard": "AK_WoodHndgrd",
             "dna_Wrap": ""
         },
         {
@@ -67,21 +67,21 @@
             "dna_OpticType": "TF_OKP7Optic",
             "dna_Suppressor": "",
             "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
-            "dna_HandGuard": "",
+            "dna_ButtStock": "AK74_WoodBttstck",
+            "dna_HandGuard": "AK74_Hndgrd",
             "dna_Wrap": ""
         },
         {
             "dna_TheChosenOne": "TF_AKM",
             "dna_Magazine": "Mag_AKM_Drum75Rnd",
             "dna_SpareMagCount": 2,
-            "dna_Ammunition": "AmmoBox_762x39_20Rnd",
+            "dna_Ammunition": "AmmoBox_762x39Tracer_20Rnd",
             "dna_SpareAmmoCount": 7,
             "dna_OpticType": "",
             "dna_Suppressor": "",
-            "dna_UnderBarrel": "",
+            "dna_UnderBarrel": "TF_AFG_RIS_Grip_Black",
             "dna_ButtStock": "",
-            "dna_HandGuard": "",
+            "dna_HandGuard": "AK_RailHndgrd_Black",
             "dna_Wrap": ""
         },
         {
@@ -92,9 +92,9 @@
             "dna_SpareAmmoCount": 5,
             "dna_OpticType": "TF_HAMROptic_Black",
             "dna_Suppressor": "",
-            "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
-            "dna_HandGuard": "",
+            "dna_UnderBarrel": "TF_Atlas_Bipod",
+            "dna_ButtStock": "TF_M4_B5PrecisionBttstck",
+            "dna_HandGuard": "TF_M4_DD12Hndgrd_RIS_FDE",
             "dna_Wrap": ""
         },
         {
@@ -106,8 +106,8 @@
             "dna_OpticType": "TF_EOTechXPSOpticDown_Black",
             "dna_Suppressor": "",
             "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
-            "dna_HandGuard": "",
+            "dna_ButtStock": "TF_M4_B5PrecisionBttstck",
+            "dna_HandGuard": "TF_M4_DD9Hndgrd_RIS_FDE",
             "dna_Wrap": ""
         },
         {
@@ -119,7 +119,7 @@
             "dna_OpticType": "",
             "dna_Suppressor": "",
             "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
+            "dna_ButtStock": "Saiga_Bttstck",
             "dna_HandGuard": "",
             "dna_Wrap": ""
         },
@@ -129,11 +129,11 @@
             "dna_SpareMagCount": 4,
             "dna_Ammunition": "AmmoBox_9x39_20Rnd",
             "dna_SpareAmmoCount": 7,
-            "dna_OpticType": "TF_OKP7Optic",
-            "dna_Suppressor": "",
+            "dna_OpticType": "",
+            "dna_Suppressor": "TF_OTs_14_Groza_Suppressor",
             "dna_UnderBarrel": "",
-            "dna_ButtStock": "",
-            "dna_HandGuard": "",
+            "dna_ButtStock": "AK_PlasticBttstck_Black",
+            "dna_HandGuard": "AK_PlasticHndgrd",
             "dna_Wrap": ""
         }
     ],
