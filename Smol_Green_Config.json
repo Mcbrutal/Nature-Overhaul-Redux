@@ -64,12 +64,25 @@
             "dna_SpareMagCount": 3,
             "dna_Ammunition": "AmmoBox_762x39_20Rnd",
             "dna_SpareAmmoCount": 5,
-            "dna_OpticType": "TF_OKP7Optic",
+            "dna_OpticType": "",
             "dna_Suppressor": "",
             "dna_UnderBarrel": "",
             "dna_ButtStock": "AK74_WoodBttstck",
             "dna_HandGuard": "AK74_Hndgrd",
             "dna_Wrap": ""
+        },
+        {
+            "dna_TheChosenOne": "TF_AK104",
+            "dna_Magazine": "TF_Mag_AKM_30Rnd",
+            "dna_SpareMagCount": 3,
+            "dna_Ammunition": "AmmoBox_762x39_20Rnd",
+            "dna_SpareAmmoCount": 5,
+            "dna_OpticType": "TF_OKP7Optic",
+            "dna_Suppressor": "TF_AK_PBS1Suppressor",
+            "dna_UnderBarrel": "",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "AK_PlasticHndgrd",
+            "dna_Wrap": "AK_PlasticBttstck_Black"
         },
         {
             "dna_TheChosenOne": "TF_AKM",
@@ -129,11 +142,11 @@
             "dna_SpareMagCount": 4,
             "dna_Ammunition": "AmmoBox_9x39_20Rnd",
             "dna_SpareAmmoCount": 7,
-            "dna_OpticType": "",
+            "dna_OpticType": "TF_OKP7Optic",
             "dna_Suppressor": "TF_OTs_14_Groza_Suppressor",
             "dna_UnderBarrel": "",
             "dna_ButtStock": "AK_PlasticBttstck_Black",
-            "dna_HandGuard": "AK_PlasticHndgrd",
+            "dna_HandGuard": "TF_AKS74U_ZenitB11PlasticHndgrd_RIS",
             "dna_Wrap": ""
         }
     ],
@@ -176,6 +189,7 @@
         "NailBox",
         "Shovel",
         "WoodAxe",
-        "Screwdriver"
+        "Screwdriver",
+        "Battery9V"
     ]
 }
