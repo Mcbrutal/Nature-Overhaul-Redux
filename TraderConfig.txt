@@ -2832,8 +2832,8 @@
 		TF_M14_EBR,			    W,		17500,	6500
 		TF_M14_STD,			    W,		17500,	6500
 		TF_SVCh308,			    W,		17500,	6500
-		TF_SVCh,			    W,		16500,	6500
-		TF_SR25,			    W,		16500,	6500
+		TF_SVCh,			    W,		17500,	6500
+		TF_SR25,			    W,		17500,	6500
 		TF_Anzio20,			    W,		-1,		89000
 
 	<Category> Light Machine Guns
