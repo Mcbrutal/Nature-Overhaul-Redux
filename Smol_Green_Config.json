@@ -7,7 +7,7 @@
     "dna_WeaponCount": 1,
     "weaponTypesGreen": [
         {
-            "dna_TheChosenOne": "",
+            "dna_TheChosenOne": "TF_M16A4",
             "dna_Magazine": "",
             "dna_SpareMagCount": ,
             "dna_Ammunition": "",
@@ -20,7 +20,7 @@
             "dna_Wrap": ""
         },
         {
-            "dna_TheChosenOne": "",
+            "dna_TheChosenOne": "TF_M4A1",
             "dna_Magazine": "",
             "dna_SpareMagCount": ,
             "dna_Ammunition": "",
@@ -33,7 +33,7 @@
             "dna_Wrap": ""
         },
         {
-            "dna_TheChosenOne": "",
+            "dna_TheChosenOne": "TF_M4A1_CQBR",
             "dna_Magazine": "",
             "dna_SpareMagCount": ,
             "dna_Ammunition": "",
@@ -46,7 +46,7 @@
             "dna_Wrap": ""
         },
         {
-            "dna_TheChosenOne": "",
+            "dna_TheChosenOne": "TF_AK103",
             "dna_Magazine": "",
             "dna_SpareMagCount": ,
             "dna_Ammunition": "",
@@ -59,7 +59,7 @@
             "dna_Wrap": ""
         },
         {
-            "dna_TheChosenOne": "",
+            "dna_TheChosenOne": "TF_AK104",
             "dna_Magazine": "",
             "dna_SpareMagCount": ,
             "dna_Ammunition": "",
@@ -72,7 +72,7 @@
             "dna_Wrap": ""
         },
         {
-            "dna_TheChosenOne": "",
+            "dna_TheChosenOne": "TF_AKM",
             "dna_Magazine": "",
             "dna_SpareMagCount": ,
             "dna_Ammunition": "",
@@ -85,7 +85,7 @@
             "dna_Wrap": ""
         },
         {
-            "dna_TheChosenOne": "",
+            "dna_TheChosenOne": "TF_MK47",
             "dna_Magazine": "",
             "dna_SpareMagCount": ,
             "dna_Ammunition": "",
@@ -98,7 +98,7 @@
             "dna_Wrap": ""
         },
         {
-            "dna_TheChosenOne": "",
+            "dna_TheChosenOne": "TF_MK47_CQBR",
             "dna_Magazine": "",
             "dna_SpareMagCount": ,
             "dna_Ammunition": "",
@@ -111,7 +111,7 @@
             "dna_Wrap": ""
         },
         {
-            "dna_TheChosenOne": "",
+            "dna_TheChosenOne": "Saiga",
             "dna_Magazine": "",
             "dna_SpareMagCount": ,
             "dna_Ammunition": "",
@@ -124,7 +124,7 @@
             "dna_Wrap": ""
         },
         {
-            "dna_TheChosenOne": "",
+            "dna_TheChosenOne": "TF_OTs_12_Tiss",
             "dna_Magazine": "",
             "dna_SpareMagCount": ,
             "dna_Ammunition": "",
