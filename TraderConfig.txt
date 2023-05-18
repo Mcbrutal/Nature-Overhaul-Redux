@@ -152,26 +152,42 @@
 		MoneyRuble100,								1,		100,		-1
 
 <Trader> Misc Trader
-	<Category> Tools (small)
-		Screwdriver,								*,		30,			10
-		Wrench,										*,		30,			10
+	<Category> Repair Kits
 		SewingKit,									*,		40, 		10
 		Fabric,										1,		40, 		10
-		Pliers,										*,		40, 		10
 		LeatherSewingKit,							*,		50, 		20
 		Whetstone,									*,		50,			20
+		WeaponCleaningKit,							*,		80, 		30
+		
+	<Category> Tools
+		Screwdriver,								*,		30,			10
 		Hammer,										*,		70,			30
 		Hacksaw,									*,		70,			30
 		HandSaw,									*,		70,			30
-		WeaponCleaningKit,							*,		80, 		30
-		CanOpener,									*,		100,		40
-		Compass,									*,		100,		40
-		OrienteeringCompass,						*,		100,		40	
-		ChernarusMap,								*,		150,		50
-		Lockpick,									*,		2000,		200
-		Binoculars,									*,		300,		15		
-		FishingRod,									*,		600,		40
-		Pipe,										*,		200,		25
+		Pliers,										*,		40, 		10
+		Wrench,										*,		30,			10	
+		Pipe,										W,		250,		45
+		LugWrench,									*,		40,			10
+		Crowbar,									*,		50,			20
+		Shovel,										*,		450,		50
+		Pickaxe,									*,		550,		65
+		SledgeHammer,								*,		500,		60
+		PipeWrench,									W,		150,		70
+		Hatchet,									*,		100,		40
+		WoodAxe,									*,		200,		80
+		FirefighterAxe,								*,		300,		120
+		FirefighterAxe_Green,						*,		300,		120
+		FirefighterAxe_Black,						*,		300,		120
+				
+	<Category> Knives
+		CrudeMachete,		    					W,		650,		225
+		KukriKnife,		        					W,		650,		225
+		FangeKnife,		        					W,		650,		225
+		KitchenKnife,								*,		80,			40
+		SteakKnife,									*,		90,			40
+		HuntingKnife,								*,		90,			40
+		CombatKnife,								*,		100,		50
+		Machete,									*,		120,		60
 		
 	<Category> Electronics
 		Battery9V,									*,		750,		150
@@ -215,11 +231,16 @@
 	
 	<Category> Cooking & Hunting Supplies
 		PurificationTablets,						*,		50,			2
+		CanOpener,									*,		100,		40
+		Compass,									*,		100,		40
+		OrienteeringCompass,						*,		100,		40	
+		ChernarusMap,								*,		150,		50
 		Pot,										M,		250,		25
 		FryingPan,									M,		175,		15
 		Tripod,										*,		350,		25
 		BearTrap,									*,		1500,		100
 		MediumTent,									*,		3000,		500
+		br_sleepingbag,								*,		50000,		1000
 		MediumTent_Green,							*,		3000,		500
 		MediumTent_Orange,							*,		3000,		500
 		CarTent,									*,		5000,		700
@@ -228,7 +249,13 @@
 		PartyTent_Blue,								*,		7000,		1200
 		PartyTent_Brown,							*,		7000,		1200
 		PartyTent_Lunapark,							*,		7000,		1200
-	
+
+	<Category> Security Items
+		CombinationLock,							*,		3000,		225
+		CombinationLock4,							*,		3500,		250
+		CodeLock,		       						*,		5550,		400
+		Lockpick,									*,		2000,		200
+		
 	<Category> Hardware Supplies
 		Paper,										*,		1,			0
 		Pen_Blue,									*,		20,			1
@@ -258,9 +285,6 @@
 		NailBox,									*,		3000,		250
 		BarbedWire,									*,		4500,		200
 		Camonet,									*,		6000,		250
-		CombinationLock,							*,		3000,		225
-		CombinationLock4,							*,		3500,		250
-		CodeLock,		       						*,		5550,		400
 		BarrelHoles_Blue,							*,		1000,		300
 		BarrelHoles_Green,							*,		1000,		300
 		BarrelHoles_Red,							*,		1000,		300
@@ -275,6 +299,11 @@
 		AlarmClock_Green,							*,		300,		150
 		AlarmClock_Red,								*,		300,		150
 		KitchenTimer,								*,		300,		150
+		R22R_Sandbag,								*,		1000,		300
+		R22R_Components,							*,		1000,		300
+		R22R_Metal_Parts,							*,		1000,		300
+		R22R_Scrap_Metal_Rusty,						*,		1000,		250
+		R22R_Scrap_Metal_Clean,						*,		1500,		300
 	
 	<Category> Seeds & Lime
 		TomatoSeedsPack,							*,		40, 		10
@@ -377,31 +406,13 @@
 <Trader> Weapon Trader
 	<Category> Melee	
 		BrassKnuckles_Shiny,						W,		220,		60
-		Pipe,										W,		250,		45
 		Pitchfork,									W,		300,		50
 		Broom,										W,		250,		50
 		Broom_Birch,								W,		250,		75
 		BaseballBat,								W,		350,		100
 		NailedBaseballBat,							W,		450,		150
 		BarbedBaseballBat,							W,		450,		150
-		CrudeMachete,		    					W,		650,		225
-		KukriKnife,		        					W,		650,		225
-		FangeKnife,		        					W,		650,		225
-		LugWrench,									*,		40,			10
-		Crowbar,									*,		50,			20
-		Shovel,										*,		450,			50
-		Pickaxe,									*,		550,		65
-		SledgeHammer,								*,		500,		60
-		PipeWrench,									W,		150,		70
-		WoodAxe,									*,		200,		80
-		FirefighterAxe,								*,		300,		120
-		KitchenKnife,								*,		80,			40
-		SteakKnife,									*,		90,			40
-		HuntingKnife,								*,		90,			40
-		Hatchet,									*,		100,		40
-		CombatKnife,								*,		100,		50
-		Machete,									*,		120,		60
-
+				
 	<Category> Viking Weapons
 		rag_viking_axe,                 			*,    	4500,  		600
 		rag_viking_knife,               			*,    	3750,  		250
@@ -415,7 +426,6 @@
 		rag_viking_flamberge_sword,     			*,    	-1,  		5000
 		rag_viking_axe_doubled,         			*,    	-1,  		5500
 		rag_viking_dragonslayer_axe,    			*,    	-1,  		6500
-		
 		
 	<Category> Sidearms
 		Flaregun,               					W,		80,			40
@@ -512,20 +522,25 @@
 		TF_OTs_14_Groza,							W,		27500,		5000
 		
 	<Category> Grenades
-		RGD5Grenade,								1,		5000,		2000
-		M67Grenade,									1,		5500,		2000
-		M18SmokeGrenade_Red,						1,		4500,		1250
-		M18SmokeGrenade_Green,						1,		4500,		1250
-		M18SmokeGrenade_Yellow,						1,		4500,		1250
-		M18SmokeGrenade_Purple,						1,		4500,		1250
-		M18SmokeGrenade_White,						1,		4500,		1250
-		RDG2SmokeGrenade_Black,						1,		4500,		1250
-		RDG2SmokeGrenade_White,						1,		4500,		1250
-		FlashGrenade,								1,		5000,		1500
-		Ammo_40mm_Smoke_Black,						1,		4500,		1000
-		Ammo_40mm_Smoke_Green,						1,		4500,		1000
-		Ammo_40mm_Smoke_Red,						1,		4500,		1000
-		Ammo_40mm_Smoke_White,						1,		4500,		1000
+		RGD5Grenade,								W,		1000,		250
+		M67Grenade,									W,		1000,		250
+		M18SmokeGrenade_Red,						W,		500,		150
+		M18SmokeGrenade_Green,						W,		500,		150
+		M18SmokeGrenade_Yellow,						W,		500,		150
+		M18SmokeGrenade_Purple,						W,		500,		150
+		M18SmokeGrenade_White,						W,		500,		150
+		RDG2SmokeGrenade_Black,						W,		500,		150
+		RDG2SmokeGrenade_White,						W,		500,		150
+		FlashGrenade,								W,		600,		165
+		Ammo_40mm_Smoke_Black,						W,		500,		150
+		Ammo_40mm_Smoke_Green,						W,		500,		150
+		Ammo_40mm_Smoke_Red,						W,		500,		150
+		Ammo_40mm_Smoke_White,						W,		500,		150
+		AM_Improvised_Grenade,						W,		350,		100
+		AM_Smoke_Improvised_Grenade_Red,			W,		350,		100
+		AM_Smoke_Improvised_Grenade_Green,			W,		350,		100
+		AM_Smoke_Improvised_Grenade_White,			W,		350,		100
+		AM_Smoke_Improvised_Grenade_Black,			W,		350,		100
 
 <Trader> Weapon Supplies
 	<Category> Ammunition
@@ -585,18 +600,22 @@
 		Mag_1911_7Rnd,								M,		40,			20
 		Mag_FNX45_15Rnd,							M,		40,			20
 		Mag_CZ527_5rnd,								M,		60,			30
+		Mag_Ruger1022_15Rnd,						M,		30,			15
 		Mag_CZ61_20Rnd,								M,		100,		50
 		Mag_UMP_25Rnd,								M,		150,		75
 		Mag_MP5_30Rnd,								M,		200,		100
 		Mag_FAL_20Rnd,								M,		100,		50
 		Mag_Saiga_5Rnd,								M,		100,		50
+		Mag_SSG82_5rnd,								M,		100,		50
 		Mag_Saiga_8Rnd,								M,		220,		60
 		Mag_Saiga_Drum20Rnd,						M,		480,		110
 		Mag_AKM_30Rnd,								M,		220,		110
 		Mag_AKM_Palm30Rnd,							M,		220,		110
 		Mag_AKM_Drum75Rnd,							M,		5000,		250
 		Mag_AK101_30Rnd,							M,		220,		110
+		Mag_Aug_30Rnd,								M,		220,		110
 		Mag_AK74_30Rnd,								M,		220,		110
+		Mag_VAL_20Rnd,								M,		100,		50
 		Mag_STANAG_30Rnd,							M,		220,		110
 		Mag_STANAGCoupled_30Rnd,					M,		480,		130
 		Mag_STANAG_60Rnd,							M,		2500,		250
@@ -604,9 +623,28 @@
 		Mag_CMAG_20Rnd,								M,		180,		80
 		Mag_CMAG_30Rnd,								M,		220,		110
 		Mag_CMAG_40Rnd,								M,		300,		150
+		Mag_PP19_64Rnd,								M,		300,		150
 		Mag_VSS_10Rnd,								M,		220,		110
 		Mag_SVD_10Rnd,								M,		250,		125
 		Mag_308WinSnaploader_2Rnd,					M,		250,		125
+
+	<Category> Ammo Making
+		PressCasingholder, 							1, 		20000,	1000
+		PressBody, 									1, 		20000,	1000
+		PressMountPlate, 							1, 		20000,	1000
+		PressHandle, 								1, 		20000,	1000
+		PressMechanism, 							1, 		20000,	1000
+		PressMechaismhandle, 						1, 		20000,	1000
+		Scale, 										1, 		8000,	1000
+		Funnel, 									1, 		8000,	1000
+		Gunpowder, 									1, 		200,	75
+		Sulfur20LbBag, 								1, 		8000,	1000
+		Potassium_Nitrate, 							1, 		2000,	1000
+		EmptyCrucible, 								1, 		8000,	1000
+		StrongRifleCasingMold, 						1, 		4000,	1000
+		StrongRifleTipsMold, 						1, 		4000,	1000
+		StrongPistolCasingMold, 					1, 		4000,	1000
+		StrongPistolTipsMold, 						1, 		4000,	1000
 		
 	<Category> Handguards
 		MP5_PlasticHndgrd,							*,		100,		50
@@ -614,6 +652,8 @@
 		AK74_Hndgrd,								*,		150,		75
 		AK_WoodHndgrd,								*,		200,		100
 		AK_RailHndgrd,								*,		200,		100
+		AK_RailHndgrd_Black,						*,		200,		100
+		AK_RailHndgrd_Green,						*,		200,		100
 		AK_PlasticHndgrd,							*,		200,		100
 		M4_PlasticHndgrd,							*,		150,		75
 		M4_RISHndgrd,								*,		200,		100
@@ -627,24 +667,30 @@
 		AKS74U_Bttstck,								*,		150,		75
 		AK74_WoodBttstck,							*,		150,		75
 		AK_PlasticBttstck,							*,		100,		50
+		AK_PlasticBttstck_Black,					*,		100,		50
+		AK_PlasticBttstck_Green,					*,		100,		50
 		AK_WoodBttstck,								*,		150,		75
 		AK_FoldingBttstck,							*,		250,		125
+		Fal_FoldingBttstck,							*,		250,		125
+		Fal_OeBttstck,								*,		250,		125
 		M4_OEBttstck,								*,		150,		75
 		M4_CQBBttstck,								*,		150,		75
 		M4_MPBttstck,								*,		150,		75
 	
 	<Category> Optics
+		ReflexOptic,								*,		150,		60
 		M4_CarryHandleOptic,						*,		150,		60
 		BUISOptic,									*,		150,		60
+		PistolOptic,								*,		150,		60
 		FNP45_MRDSOptic,							*,		250,		100
 		ACOGOptic,									*,		300,		120
 		ACOGOptic_6x,								*,		600,		220
 		M68Optic,									*,		500,		200
-		M4_T3NRDSOptic,								*,		500,		200
-		KobraOptic,									*,		600,		220
 		KashtanOptic,								*,		700,		300
 		PUScopeOptic,								*,		900,		500
+		KobraOptic,									*,		900,		500
 		HuntingOptic,								*,		1250,		550
+		M4_T3NRDSOptic,								*,		700,		300
 		PSO1Optic,									*,		1100,		600	
 		PSO11Optic,									*,		1400,		840
 		KazuarOptic,								*,		2200,		1400
@@ -995,11 +1041,6 @@
 
 	<Category> Masks
 		SurgicalMask,								*,		15,		3
-		BandanaMask_PolkaPattern,					*,		25,		6
-		BandanaMask_RedPattern,						*,		25,		6
-		BandanaMask_BlackPattern,					*,		25,		6
-		BandanaMask_GreenPattern,					*,		30,		8
-		BandanaMask_CamoPattern,					*,		35,		10
 		NioshFaceMask,								*,		40,		10
 		HockeyMask,									*,		40,		10
 		//HoxtonMask,								*,		40,		10
@@ -1060,16 +1101,16 @@
 		ReflexVest,									*,		5,		1
 		PoliceVest,									*,		35,		10
 		HuntingVest,								*,		55,		18
-		PressVest_LightBlue,						*,		300,		100
-		PressVest_Blue,								*,		300,		100
+		PressVest_LightBlue,						*,		300,	100
+		PressVest_Blue,								*,		300,	100
 		UKAssVest_Black,							*,		90,		30
 		UKAssVest_Khaki,							*,		90,		30
 		UKAssVest_Olive,							*,		90,		30
 		UKAssVest_Camo,								*,		100,	35
 		SmershVest,									*,		150,	50
-		HighCapacityVest_Black,						*,		200,	60
+		HighCapacityVest_Black,						*,		230,	75
 		HighCapacityVest_Olive,						*,		230,	75
-		PlateCarrierVest,							*,		500,	200
+		PlateCarrierVest,							*,		1500,	200
 		PlateCarrierVest_Black,						*,		1500,	200
 		PlateCarrierVest_Camo,						*,		1500,	200
 		PlateCarrierVest_Green,						*,		1500,	200
@@ -1312,7 +1353,6 @@
 		Wellies_Black,			*,		85,		25
 		Wellies_Green,			*,		90,		28
 		TTSKOBoots,				*,		100,	35
-		MilitaryBoots_Redpunk,	*,		100,	35
 		MilitaryBoots_Bluerock,	*,		105,	35
 		MilitaryBoots_Beige,	*,		110,	35
 		MilitaryBoots_Brown,	*,		110,	35
@@ -1350,7 +1390,9 @@
 		WitchHood_Brown,		*,		-1,	1000
 		WitchHood_Red,		    *,		-1,	1000
 		TF_Foil_hat,			*,		-1,	1000
-		HuntingBag_Hannah,			*,	-1,	5000
+		HuntingBag_Hannah,		*,		-1,	5000
+		MilitaryBoots_Redpunk,	*,		-1,	1000
+		DarkMotoHelmet_YellowScarred,	*,	-1,	5000
 
 	<Category> Holster & Pouches
 		ChestHolster,		            *,		600,	300
@@ -1404,39 +1446,39 @@
 
 	<Category> We Buy Leather
 		TannedLeather,			        *,		-1,		150
-		LeatherGloves_Beige,			*,		-1,		1650
-		LeatherGloves_Black,			*,		-1,		1650
-		LeatherGloves_Brown,			*,		-1,		1650
-		LeatherGloves_Natural,			*,		-1,		1600
-		LeatherHat_Beige,			    *,		-1,		1650
-		LeatherHat_Black,			    *,		-1,		1650
-		LeatherHat_Brown,			    *,		-1,		1650
-		LeatherHat_Natural,			    *,		-1,		1600
-		LeatherShirt_Natural,			*,		-1,		2500
-		LeatherStorageVest_Beige,		*,		-1,		2550
-		LeatherStorageVest_Black,		*,		-1,		2550
-		LeatherStorageVest_Brown,		*,		-1,		2550
-		LeatherStorageVest_Natural,		*,		-1,		2500
-		LeatherJacket_Beige,			*,		-1,		1550
-		LeatherJacket_Black,			*,		-1,		1550
-		LeatherJacket_Brown,			*,		-1,		1550
-		LeatherJacket_Natural,			*,		-1,		1500
-		LeatherPants_Beige,			    *,		-1,		1550
-		LeatherPants_Black,			    *,		-1,		1550
-		LeatherPants_Brown,			    *,		-1,		1550
-		LeatherPants_Natural,			*,		-1,		1500
-		LeatherShoes_Beige,			    *,		-1,		1550
-		LeatherShoes_Black,			    *,		-1,		1550
-		LeatherShoes_Brown,			    *,		-1,		1550
-		LeatherShoes_Natural,			*,		-1,		1500
-		CourierBag,			            *,		-1,		300
-		FurCourierBag,			        *,		-1,		550
-		FurImprovisedBag,			    *,		-1,		1475
-		ImprovisedBag,			        *,		-1,		350
-		LeatherSack_Beige,			    *,		-1,		850
-		LeatherSack_Black,			    *,		-1,		850
-		LeatherSack_Brown,			    *,		-1,		850
-		LeatherSack_Natural,			*,		-1,		800
+		LeatherGloves_Beige,			*,		-1,		2650
+		LeatherGloves_Black,			*,		-1,		2850
+		LeatherGloves_Brown,			*,		-1,		2750
+		LeatherGloves_Natural,			*,		-1,		2600
+		LeatherHat_Beige,			    *,		-1,		2650
+		LeatherHat_Black,			    *,		-1,		2850
+		LeatherHat_Brown,			    *,		-1,		2750
+		LeatherHat_Natural,			    *,		-1,		2600
+		LeatherShirt_Natural,			*,		-1,		3500
+		LeatherStorageVest_Beige,		*,		-1,		3550
+		LeatherStorageVest_Black,		*,		-1,		3850
+		LeatherStorageVest_Brown,		*,		-1,		3750
+		LeatherStorageVest_Natural,		*,		-1,		3500
+		LeatherJacket_Beige,			*,		-1,		2550
+		LeatherJacket_Black,			*,		-1,		2850
+		LeatherJacket_Brown,			*,		-1,		2750
+		LeatherJacket_Natural,			*,		-1,		2500
+		LeatherPants_Beige,			    *,		-1,		2550
+		LeatherPants_Black,			    *,		-1,		2850
+		LeatherPants_Brown,			    *,		-1,		2750
+		LeatherPants_Natural,			*,		-1,		2500
+		LeatherShoes_Beige,			    *,		-1,		2750
+		LeatherShoes_Black,			    *,		-1,		2850
+		LeatherShoes_Brown,			    *,		-1,		2750
+		LeatherShoes_Natural,			*,		-1,		2500
+		CourierBag,			            *,		-1,		1000
+		FurCourierBag,			        *,		-1,		1650
+		FurImprovisedBag,			    *,		-1,		2575
+		ImprovisedBag,			        *,		-1,		1450
+		LeatherSack_Beige,			    *,		-1,		1950
+		LeatherSack_Black,			    *,		-1,		1950
+		LeatherSack_Brown,			    *,		-1,		1950
+		LeatherSack_Natural,			*,		-1,		1800
 		
 	<Category> Viking Clothes
 		rag_viking_leather_vest,        *,    -1,  1550
@@ -1580,32 +1622,32 @@
 		TrafficCone,					*,		520,	200
 		
 	<Category> Vanilla Vehicles
-		OffroadHatchback,		V,		14000,	8000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
-		OffroadHatchback_Blue,	V,		14000,	8000
-		OffroadHatchback_White,	V,		14000,	8000
-		Hatchback_02,			V,		16000,	9600
-		Hatchback_02_Blue,		V,		16000,	9600
-		Hatchback_02_Black,		V,		16000,	9600
-		Sedan_02,				V,		18000,	10200
-		Sedan_02_Red,			V,		18000,	10200
-		Sedan_02_Grey,			V,		18000,	10200
-		CivilianSedan,			V,		20000,	11000
-		CivilianSedan_Wine,		V,		20000,	11000
-		CivilianSedan_Black,	V,		20000,	11000
-		Truck_01_Covered,		V,		50000,	30000
-        Truck_01_Covered_Blue,	V,		50000,	30000
-        Truck_01_Covered_Orange,V,		50000,	30000
-		Offroad_02,             V,		50000,	30000
+		OffroadHatchback,					V,		14000,	8000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
+		OffroadHatchback_Blue,				V,		14000,	8000
+		OffroadHatchback_White,				V,		14000,	8000
+		Hatchback_02,						V,		16000,	9600
+		Hatchback_02_Blue,					V,		16000,	9600
+		Hatchback_02_Black,					V,		16000,	9600
+		Sedan_02,							V,		18000,	10200
+		Sedan_02_Red,						V,		18000,	10200
+		Sedan_02_Grey,						V,		18000,	10200
+		CivilianSedan,						V,		20000,	11000
+		CivilianSedan_Wine,					V,		20000,	11000
+		CivilianSedan_Black,				V,		20000,	11000
+		Truck_01_Covered,					V,		80000,	65000
+        Truck_01_Covered_Blue,				V,		80000,	65000
+        Truck_01_Covered_Orange,			V,		80000,	65000
+		Offroad_02,             			V,		90000,	75000
 	
 	<Category> Vanilla Vehicle Parts
-		HeadlightH7_Box,		*,		30,		15
-		SparkPlug,				*,		60,		40
-		EngineOil,				*,		70,		40
-		CarBattery,				*,		100,	50
-		Blowtorch,						*,		200,	50
-		TruckBattery,			*,		180,	100
-		CarRadiator,			*,		200,	100
-		TireRepairKit,			*,		220,	100
+		HeadlightH7_Box,					*,		30,		15
+		SparkPlug,							*,		60,		40
+		EngineOil,							*,		70,		40
+		CarBattery,							*,		100,	50
+		Blowtorch,							*,		200,	50
+		TruckBattery,						*,		180,	100
+		CarRadiator,						*,		500,	100
+		TireRepairKit,						*,		220,	100
 		HatchbackHood,						*,		300,	100
 		HatchbackHood_Blue,					*,		300,	100
 		HatchbackHood_White,				*,		300,	100
@@ -1848,7 +1890,7 @@
 
 
 	<Category> ZiS5
-				ZiS5_Benzovoz,		                    VNK,		410000,200000
+				ZiS5_Benzovoz,		                    VNK,		950000,450000
 				ZiS5_kung,		                        VNK,		150000,74000
 				ZiS5_kung_tent,		                    *,		1500,500
 				ZiS5_Benzovoz_wheel,		            *,		1000,450
@@ -1904,7 +1946,7 @@
 
 	<Category> UAZ_31519_Police
 				UAZ_31519_Police,		                VNK,		120000,55000
-				UAZ_31519_Police_wheel,		            *,		1000,325722
+				UAZ_31519_Police_wheel,		            *,		1000,800
 				UAZ_31519_Police_doors_driver,		    *,		1650,800
 				UAZ_31519_Police_doors_codriver,		*,		1650,800
 				UAZ_31519_Police_doors_cargo1,		    *,		1650,800
@@ -1915,7 +1957,7 @@
 
 	<Category> Mercedes_G4_W31
 				Mercedes_G4_W31,		                VNK,		1000000,400000
-				Mercedes_G4_W31_Wheel,		            *,		1000,389856
+				Mercedes_G4_W31_Wheel,		            *,		1000,800
 				Mercedes_G4_W31_doors_driver,		    *,		1650,800
 				Mercedes_G4_W31_doors_codriver,		    *,		1650,800
 				Mercedes_G4_W31_doors_cargo1,		    *,		1650,800
@@ -2660,7 +2702,7 @@
 
 	<Category> Gaz_53RF
 				Gaz_53RF,		                        VNK,		230000,114000
-				Gaz_53RF_petrol_truck,		            VNK,		310000,154000
+				Gaz_53RF_petrol_truck,		            VNK,		1200000,550000
 				Gaz_53RF_wheel,		                    *,		1000,450
 				Gaz_53RF_WheelDouble,		            *,		2000,750
 				gaz53rf_tent,		                    *,		1500,500
@@ -2804,40 +2846,90 @@
 		TF_M79,			        W,		22500,	4250
 		TF_M79_AOR1,			W,		22500,	4250
 		M79,		            W,		22500,	4250
-		Ammo_40mm_Chemgas,		1,		-1,		1500
-		Ammo_40mm_Explosive,	1,		5000,	1500
-		Ammo_40mm_Smoke_Black,	1,		4500,	1000
-		Ammo_40mm_Smoke_Green,	1,		4500,	1000
-		Ammo_40mm_Smoke_Red,	1,		4500,	1000
-		Ammo_40mm_Smoke_White,	1,		4500,	1000
-		TF_EMPGrenade,			*,		4000,	1000
-		TF_PhosphorusGrenade,	*,		4500,	1000
-		TF_TeargasGrenade,		*,		4250,	1000
-		TF_ChemicalGrenade,		*,		-1,		1750
-		RemoteDetonator,	    1,		-1,		1250
-		ClaymoreMine,	        *,		75000,	5500
-		LandMineTrap,	        *,		5000,	750
-		Plastic_Explosive,	    *,		25000,	2500
+		Ammo_40mm_Chemgas,		W,		-1,		1500
+		Ammo_40mm_Explosive,	W,		2000,	750
+		Ammo_40mm_Smoke_Black,	W,		500,	150
+		Ammo_40mm_Smoke_Green,	W,		500,	150
+		Ammo_40mm_Smoke_Red,	W,		500,	150
+		Ammo_40mm_Smoke_White,	W,		500,	150
+		TF_EMPGrenade,			W,		600,	200
+		TF_PhosphorusGrenade,	W,		600,	200
+		TF_TeargasGrenade,		W,		650,	200
+		TF_ChemicalGrenade,		W,		-1,		1750
+		RemoteDetonator,	    W,		-1,		1250
+		ClaymoreMine,	        W,		5000,	1000
+		LandMineTrap,	        W,		1500,	750
+		Plastic_Explosive,	    W,		8000,	2500
 
 	<Category> SciFi Weaponary
-		Diatium_Power_Cell,					*,		35000,	16500
-		Luke_Skywalker_Lightsaber_Retracted,			*,		50000,	25000
+		Diatium_Power_Cell,							*,		35000,	16500
+		Luke_Skywalker_Lightsaber_Retracted,		*,		50000,	25000
 		Rey_Skywalker_Lightsaber_Retracted,			*,		50000,	25000
 		Obi_Wan_Lightsaber_Retracted,				*,		50000,	25000
 		Mace_Windu_Lightsaber_Retracted,			*,		50000,	25000
 		Ahsoka_Tano_Lightsaber_Retracted,			*,		50000,	25000
-		Sith_Lightsaber_Retracted,				*,		55000,	30000
+		Sith_Lightsaber_Retracted,					*,		55000,	30000
 		Count_Dooku_Lightsaber_Retracted,			*,		65000,	35000
-		Darksaber_Retracted,					*,		75000,	40000
+		BeskarSpear,								*,		65000,	35000
+		Darksaber_Retracted,						*,		75000,	40000
 
 	<Category> Ammunition
-		TF_Ammo_20mm,		    *,		4000,		1000
-		TF_Ammo_20mm_HE,		*,		4000,		1000
-		TF_Ammo_57,		        *,		2000,		450
-		TF_Ammo_338LM,		    *,		2500,		750
+		TF_Ammo_20mm,		    					*,		4000,		1000
+		TF_Ammo_20mm_HE,							*,		4000,		1000
+		TF_Ammo_57,		        					*,		2000,		450
+		TF_Ammo_338LM,		    					*,		2500,		750
+		Ammo_380,									1,		10,			1
+		Ammo_9x19,									1,		11,			2
+		Ammo_22,									1,		10,			1
+		Ammo_45ACP,									1,		12,			2
+		Ammo_12gaPellets,							1,		20,			1
+		Ammo_12gaSlug,								1,		30,			2
+		Ammo_9x39,									1,		35,			3
+		Ammo_9x39AP,								1,		50,			4
+		Ammo_357,									1,		35,			3
+		Ammo_308Win,								1,		50,			5
+		Ammo_545x39,								1,		35,			3
+		Ammo_556x45,								1,		40,			3
+		Ammo_762x39,								1,		40,			3
+		Ammo_762x54,								1,		45,			6		
+		Ammo_556x45Tracer,							1,		40,			4
+		Ammo_545x39Tracer,							1,		40,			3
+		Ammo_308WinTracer,							1,		50,			5
+		Ammo_762x39Tracer,							1,		40,			3
+		Ammo_Flare,									1,		150,		20
+	    Ammo_FlareBlue,								1,		150,		20
+	    Ammo_FlareGreen,							1,		150,		20
+	    Ammo_FlareRed,								1,		150,		20
+		Ammo_762x54Tracer,							1,		45,			6		
+		// When changing Prices here keep in Mind that Players
+		// can just unpack the Ammoboxes and sell the Ammo seperatly!
+		// Originally the Ammoboxes buying Price is 20% less than
+		// buying single Ammo. The Selling Price is the same as
+		// selling the Ammo seperately.
+		AmmoBox_380_35rnd,							*,		280,		15
+		AmmoBox_9x19_25rnd,							*,		200,		15
+		AmmoBox_45ACP_25rnd,						*,		200,		15
+		AmmoBox_22_50Rnd,							*,		600,		20
+		AmmoBox_00buck_10rnd,						*,		240,		10
+		AmmoBox_12gaSlug_10Rnd,						*,		320,		20
+		AmmoBox_12gaRubberSlug_10Rnd,				*,		200,		15
+		AmmoBox_9x39_20Rnd,							*,		320,		20
+		AmmoBox_9x39AP_20Rnd,						*,		800,		60
+		AmmoBox_357_20Rnd,							*,		800,		60
+		AmmoBox_308Win_20Rnd,						*,		800,		60
+		AmmoBox_545x39_20Rnd,						*,		800,		60
+		AmmoBox_556x45_20Rnd,						*,		800,		60
+		AmmoBox_762x39_20Rnd,						*,		800,		60
+		AmmoBox_762x54_20Rnd,						*,		2000,		120		
+		AmmoBox_308WinTracer_20Rnd,					*,		1600,		80
+		AmmoBox_545x39Tracer_20Rnd,					*,		1600, 		80
+		AmmoBox_556x45Tracer_20Rnd,					*,		1600,		80
+		AmmoBox_762x39Tracer_20Rnd,					*,		1600,		80
+		AmmoBox_762x54Tracer_20Rnd,					*,		2000,		200
 				
 	<Category> Magazines
 		Mag_IJ70_8Rnd,			M,		30,		15
+		Mag_Deagle_9rnd,		M,		40,		20
 		Mag_CZ75_15Rnd,			M,		40,		20
 		Mag_Glock_15Rnd,		M,		40,		20
 		Mag_MKII_10Rnd,			M,		40,		20
@@ -2845,6 +2937,7 @@
 		Mag_FNX45_15Rnd,		M,		40,		20
 		Mag_CZ527_5rnd,			M,		60,		30
 		Mag_CZ61_20Rnd,			M,		100,	50
+		Mag_CZ550_10Rnd,		M,		100,	50
 		Mag_UMP_25Rnd,			M,		150,	75
 		Mag_MP5_30Rnd,			M,		200,	100
 		Mag_FAL_20Rnd,			M,		100,	50
@@ -4148,8 +4241,8 @@
 		CP_RollingPapers_Green,						*,		110,	55
 		CP_CigarettePack_Empty,						*,		50,		25
 		CP_EmptyBag,				        		*,		200,	100
-		CP_Bagger,				            		*,		5000,	2500
-		CP_PlasticWrapper,				    		*,		5000,	2500
+		CP_Bagger,				            		1,		5000,	2500
+		CP_PlasticWrapper,				    		1,		5000,	2500
 		CP_PlasticRoll,				        		*,		200,	100
 		CigarettePack_Chernamorka,				    *,		400,	200
 		CigarettePack_Merkur,				    	*,		500,	250
