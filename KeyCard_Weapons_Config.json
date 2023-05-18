@@ -18,7 +18,7 @@
 			"dna_TheChosenOne": "TF_ADAR2_15",
 			"dna_Magazine": "TF_Mag_M4_PMAG20Rnd",
 			"dna_Ammunition": "AmmoBox_556x45_20Rnd",
-			"dna_OpticType": "HuntingOptic",
+			"dna_OpticType": "",
 			"dna_Suppressor": "TF_SCAR_Suppressor_Black",
 			"dna_UnderBarrel": "",
 			"dna_ButtStock": "TF_M4_ADARBttstck",
