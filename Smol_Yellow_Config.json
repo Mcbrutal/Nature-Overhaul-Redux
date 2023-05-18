@@ -85,7 +85,7 @@
             "dna_Wrap": ""
         },
         {
-            "dna_TheChosenOne": "TF_AKM",
+            "dna_TheChosenOne": "TF_VPO136",
             "dna_Magazine": "Mag_AKM_30Rnd",
             "dna_SpareMagCount": 3,
             "dna_Ammunition": "AmmoBox_762x39_20Rnd",
@@ -93,8 +93,8 @@
             "dna_OpticType": "",
             "dna_Suppressor": "",
             "dna_UnderBarrel": "",
-            "dna_ButtStock": "AK_WoodBttstck",
-            "dna_HandGuard": "AK_WoodHndgrd",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "",
             "dna_Wrap": ""
         },
         {
