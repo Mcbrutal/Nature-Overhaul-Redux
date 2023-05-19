@@ -2929,7 +2929,6 @@
 		AmmoBox_762x54Tracer_20Rnd,					*,		2000,		200
 				
 	<Category> Magazines
-		Mag_Scout_5Rnd,		M,		100,	50
 		Mag_IJ70_8Rnd,			M,		30,		15
 		Mag_Deagle_9rnd,		M,		40,		20
 		Mag_CZ75_15Rnd,			M,		40,		20
@@ -2937,7 +2936,9 @@
 		Mag_MKII_10Rnd,			M,		40,		20
 		Mag_1911_7Rnd,			M,		40,		20
 		Mag_FNX45_15Rnd,		M,		40,		20
-		Mag_CZ527_5rnd,			M,		60,		30
+		Mag_CZ527_5rnd,			M,		100,		50
+		Mag_Scout_5Rnd,			M,		100,		50
+		Mag_SSG82_5rnd,			M,		100,		50
 		Mag_CZ61_20Rnd,			M,		100,	50
 		Mag_CZ550_10Rnd,		M,		100,	50
 		Mag_UMP_25Rnd,			M,		150,	75
