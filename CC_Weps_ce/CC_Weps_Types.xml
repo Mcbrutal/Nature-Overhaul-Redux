@@ -938,7 +938,7 @@
 		<usage name="Military"/>
 	</type>
 	<type name="CC_MK14_Mag">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>60</restock>
 		<min>1</min>
