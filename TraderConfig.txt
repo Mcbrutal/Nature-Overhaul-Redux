@@ -4329,7 +4329,7 @@
 		SIBPolice_bladem2,		            *,		500,		180
 		
 	<Category> Zombie Hunter 505
-		ZombieZone_Heli,		            V,		1300000,	650000
+		ZombieZone_Heli,		            V,		1400000,	700000
 		SIBPolice_Door_1_1_ZombieZone,		*,		500,		180
 		SIBPolice_Door_1_2_ZombieZone,		*,		500,		180
 		SIBPolice_Door_2_1_ZombieZone,		*,		500,		180
@@ -4397,7 +4397,7 @@
 		SIBUH1D_bladem2,		            *,		500,		180
 		
 	<Category> Vietnam Transport UH1D
-		HelicopterSIB_UH1D_Vietnam
+		HelicopterSIB_UH1D_Vietnam,		    V,		1000000,	550000
 		SIBUH1D_Door_1_1_Vietnam,		    *,		500,		180
 		SIBUH1D_Door_1_2_Vietnam,		    *,		500,		180
 		SIBUH1D_Door_2_1_Vietnam,		    *,		500,		180
@@ -4407,7 +4407,7 @@
 		SIBUH1D_bladem2,		            *,		500,		180
 		
 	<Category> Vietnam Medic UH1D
-		UH1D_medic
+		UH1D_medic,		            		V,		1000000,	550000
 		SIBUH1D_Door_1_1_medic,		    	*,		500,		180
 		SIBUH1D_Door_1_2_medic,		    	*,		500,		180
 		SIBUH1D_Door_2_1_medic,		    	*,		500,		180
@@ -4428,7 +4428,7 @@
 		sibmh6_bladem2,		            	*,		500,		180
 		
 	<Category> Galaxy MH6
-		BZKheli_Galaxy_MH6
+		BZKheli_Galaxy_MH6,		            V,		1700000,	850000
 		sibmh6_blade1,		                *,		500,		180
 		sibmh6_blade2,		                *,		500,		180
 		sibmh6_blade3,		                *,		500,		180
@@ -4438,7 +4438,7 @@
 		sibmh6_bladem2,		            	*,		500,		180
 		
 	<Category> Navy MH6
-		helicoptersib_mh-6_SaltLyfe
+		helicoptersib_mh-6_SaltLyfe,		V,		1650000,	825000
 		sibmh6_blade1,		                *,		500,		180
 		sibmh6_blade2,		                *,		500,		180
 		sibmh6_blade3,		                *,		500,		180
@@ -4448,7 +4448,7 @@
 		sibmh6_bladem2,		            	*,		500,		180
 		
 	<Category> Apocalypse MH6
-		BZKheli_MH6
+		BZKheli_MH6,		                V,		1600000,	750000
 		sibmh6_blade1,		                *,		500,		180
 		sibmh6_blade2,		                *,		500,		180
 		sibmh6_blade3,		                *,		500,		180
@@ -4458,7 +4458,7 @@
 		sibmh6_bladem2,		            	*,		500,		180
 		
 	<Category> Skull MH6
-		helicoptersib_mh-6_vipskull
+		helicoptersib_mh-6_vipskull,		V,		1700000,	850000
 		sibmh6_blade1,		                *,		500,		180
 		sibmh6_blade2,		                *,		500,		180
 		sibmh6_blade3,		                *,		500,		180
@@ -4481,7 +4481,7 @@
 		SIBec135_impeller2,		        	*,		500,		180
 		
 	<Category> Medic Hell EC135
-		Heliec135_SIB_hell,		        	V,		1400000,	700000
+		Heliec135_SIB_hell,		        	V,		1450000,	700000
 		SIBec135_Door_1_1_hell,		    	*,		500,		180
 		SIBec135_Door_1_2_hell,		    	*,		500,		180
 		SIBec135_Door_2_1_hell,		    	*,		500,		180
@@ -4494,7 +4494,7 @@
 		SIBec135_impeller2,		        	*,		500,		180
 		
 	<Category> Black n Blue EC135
-		HelicopterSIB_EC135_new1
+		HelicopterSIB_EC135_new1,		    V,		1400000,	700000
 		SIBec135_Door_1_1_new1,		    	*,		500,		180
 		SIBec135_Door_1_2_new1,		    	*,		500,		180
 		SIBec135_Door_2_1_new1,		    	*,		500,		180
