@@ -4294,138 +4294,258 @@
 		ADM_TactiParaBag_Camo_Speed,    *,    4500,  1900
 		ADM_JetPack_Green,              *,    -1,  45000
 
-	<Category> Helicopters
-		Helipolice_SIB4,		            V,		1300000,	650000
-		Helipolice_swat_SIB5,		        V,		1300000,	650000
-		HeliSIB_UH1D,		                V,		1000000,	550000
-		HeliSIB_UH1D_airforce,		        V,		1000000,	550000
-		HeliSIB_UH1D_iron,		            V,		1000000,	550000
-		HeliSIB_UH1D_navy,		            V,		1000000,	550000
-		Heliblack_hawk_SIB,		        	V,		1500000,	750000
-		Heliblack_hawk_SIB_camo,	        V,		1500000,	750000
-		HeliMI17_SIB,		                V,		2000000,	1000000
-		HeliMH6_SIB,		                V,		1600000,	750000
-		HeliSIB_hommade,		            V,		600000,		300000
-		Heliec135_SIB,		                V,		1400000,	700000
-		Heliec135_SIB_hell,		        	V,		1400000,	700000
-		ZombieZone_Heli,		            V,		1300000,	650000
 
-	<Category> Helicopter Parts
-		SIBPolice_Door_1_1,		        	*,		500,	180
-		SIBPolice_Door_1_2,		        	*,		500,	180
-		SIBPolice_Door_2_1,		        	*,		500,	180
-		SIBPolice_Door_2_2,		        	*,		500,	180
-		SIBPolice_blade1,		            *,		500,	180
-		SIBPolice_blade2,		            *,		500,	180
-		SIBPolice_blade3,		            *,		500,	180
-		SIBPolice_blade4,		            *,		500,	180
-		SIBPolice_bladem1,		            *,		500,	180
-		SIBPolice_bladem2,		            *,		500,	180
-		SIBPolice_Door_1_1_swat,	        *,		500,	180
-		SIBPolice_Door_1_2_swat,	        *,		500,	180
-		SIBPolice_Door_2_1_swat,	        *,		500,	180
-		SIBPolice_Door_2_2_swat,	        *,		500,	180
-		SIBPolice_Door_1_1_Pixel,	        *,		500,	180
-		SIBPolice_Door_1_2_Pixel,	        *,		500,	180
-		SIBPolice_Door_2_1_Pixel,	        *,		500,	180
-		SIBPolice_Door_2_2_Pixel,	        *,		500,	180
-		SIBPolice_Door_1_1_BlackCamo,		*,		500,	180
-		SIBPolice_Door_1_2_BlackCamo,		*,		500,	180
-		SIBPolice_Door_2_1_BlackCamo,		*,		500,	180
-		SIBPolice_Door_2_2_BlackCamo,		*,		500,	180
-		SIBPolice_Door_1_1_WhiteCamo,		*,		500,	180
-		SIBPolice_Door_1_2_WhiteCamo,		*,		500,	180
-		SIBPolice_Door_2_1_WhiteCamo,		*,		500,	180
-		SIBPolice_Door_2_2_WhiteCamo,		*,		500,	180
-		SIBPolice_Door_1_1_raid,		    *,		500,	180
-		SIBPolice_Door_1_2_raid,		    *,		500,	180
-		SIBPolice_Door_2_1_raid,		    *,		500,	180
-		SIBPolice_Door_2_2_raid,		    *,		500,	180
-		SIBPolice_Door_1_1_ZombieZone,		*,		500,	180
-		SIBPolice_Door_1_2_ZombieZone,		*,		500,	180
-		SIBPolice_Door_2_1_ZombieZone,		*,		500,	180
-		SIBPolice_Door_2_2_ZombieZone,		*,		500,	180
-		SIBUH1D_Door_1_1,		            *,		500,	180
-		SIBUH1D_Door_1_2,		            *,		500,	180
-		SIBUH1D_Door_2_1,		            *,		500,	180
-		SIBUH1D_Door_2_2,		            *,		500,	180
-		SIBUH1D_blade1,		            	*,		500,	180
-		SIBUH1D_blade2,		            	*,		500,	180
-		SIBUH1D_bladem1,		            *,		500,	180
-		SIBUH1D_bladem2,		            *,		500,	180
-		SIBUH1D_Door_1_1_medic,		    	*,		500,	180
-		SIBUH1D_Door_1_2_medic,		    	*,		500,	180
-		SIBUH1D_Door_2_1_medic,		    	*,		500,	180
-		SIBUH1D_Door_2_2_medic,		    	*,		500,	180
-		SIBUH1D_Door_1_1_iron,		        *,		500,	180
-		SIBUH1D_Door_1_2_iron,		        *,		500,	180
-		SIBUH1D_Door_2_1_iron,		        *,		500,	180
-		SIBUH1D_Door_2_2_iron,		        *,		500,	180
-		SIBUH1D_Door_1_1_taxi,		        *,		500,	180
-		SIBUH1D_Door_1_2_taxi,		        *,		500,	180
-		SIBUH1D_Door_2_1_taxi,		        *,		500,	180
-		SIBUH1D_Door_2_2_taxi,		        *,		500,	180
-		SIBUH1D_Door_1_1_navy,		        *,		500,	180
-		SIBUH1D_Door_1_2_navy,		        *,		500,	180
-		SIBUH1D_Door_2_1_navy,		        *,		500,	180
-		SIBUH1D_Door_2_2_navy,		        *,		500,	180
-		SIBblack_hawk_Door_1_1,		    	*,		500,	180
-		SIBblack_hawk_Door_1_2,		    	*,		500,	180
-		SIBblack_hawk_Door_2_1,		    	*,		500,	180
-		SIBblack_hawk_Door_2_2,		    	*,		500,	180
-		SIBblack_hawk_blade1,		        *,		500,	180
-		SIBblack_hawk_blade2,		        *,		500,	180
-		SIBblack_hawk_blade3,		        *,		500,	180
-		SIBblack_hawk_blade4,		        *,		500,	180
-		SIBblack_hawk_bladem1,		        *,		500,	180
-		SIBblack_hawk_bladem2,		        *,		500,	180
-		SIBblack_hawk_bladem3,		        *,		500,	180
-		SIBblack_hawk_bladem4,		        *,		500,	180
-		SIBblack_hawk_Door_1_1_camo,		*,		500,	180
-		SIBblack_hawk_Door_1_2_camo,		*,		500,	180
-		SIBblack_hawk_Door_2_1_camo,		*,		500,	180
-		SIBblack_hawk_Door_2_2_camo,		*,		500,	180
-		SIBblack_hawk_blade1,		        *,		500,	180
-		SIBblack_hawk_blade2,		        *,		500,	180
-		SIBblack_hawk_blade3,		        *,		500,	180
-		SIBblack_hawk_blade4,		        *,		500,	180
-		SIBblack_hawk_bladem1,		        *,		500,	180
-		SIBblack_hawk_bladem2,		        *,		500,	180
-		SIBblack_hawk_bladem3,		        *,		500,	180
-		SIBblack_hawk_bladem4,		        *,		500,	180
-		MI17_blade1,		                *,		500,	180
-		MI17_blade2,		                *,		500,	180
-		MI17_blade3,		                *,		500,	180
-		MI17_blade4,		                *,		500,	180
-		MI17_blade5,		                *,		500,	180
-		MI17_bladem1,		                *,		500,	180
-		MI17_bladem2,		                *,		500,	180
-		MI17_bladem3,		                *,		500,	180
-		hommade_blade1,		            	*,		500,	180
-		hommade_blade2,		            	*,		500,	180
-		hommade_bladem1,		            *,		500,	180
-		hommade_bladem2,		            *,		500,	180
-		sibmh6_blade1,		                *,		500,	180
-		sibmh6_blade2,		                *,		500,	180
-		sibmh6_blade3,		                *,		500,	180
-		sibmh6_blade4,		                *,		500,	180
-		sibmh6_blade5,		                *,		500,	180
-		sibmh6_bladem1,		            	*,		500,	180
-		sibmh6_bladem2,		            	*,		500,	180
-		SIBec135_Door_1_1,		            *,		500,	180
-		SIBec135_Door_1_2,		            *,		500,	180
-		SIBec135_Door_2_1,		            *,		500,	180
-		SIBec135_Door_2_2,		            *,		500,	180
-		SIBec135_Door_1_1_hell,		    	*,		500,	180
-		SIBec135_Door_1_2_hell,		    	*,		500,	180
-		SIBec135_Door_2_1_hell,		    	*,		500,	180
-		SIBec135_Door_2_2_hell,		    	*,		500,	180
-		SIBec135_blade1,		            *,		500,	180
-		SIBec135_blade2,		            *,		500,	180
-		SIBec135_blade3,		            *,		500,	180
-		SIBec135_blade4,		            *,		500,	180
-		SIBec135_impeller1,		        	*,		500,	180
-		SIBec135_impeller2,		        	*,		500,	180
+	<Category> Gyro Homemade
+		HeliSIB_hommade,		            V,		600000,		300000
+		hommade_blade1,		            	*,		500,		180
+		hommade_blade2,		            	*,		500,		180
+		hommade_bladem1,		            *,		500,		180
+		hommade_bladem2,		            *,		500,		180
+		
+	<Category> Police 505
+		Helipolice_SIB4,		            V,		1300000,	650000
+		SIBPolice_Door_1_1,		        	*,		500,		180
+		SIBPolice_Door_1_2,		        	*,		500,		180
+		SIBPolice_Door_2_1,		        	*,		500,		180
+		SIBPolice_Door_2_2,		        	*,		500,		180
+		SIBPolice_blade1,		            *,		500,		180
+		SIBPolice_blade2,		            *,		500,		180
+		SIBPolice_blade3,		            *,		500,		180
+		SIBPolice_blade4,		            *,		500,		180
+		SIBPolice_bladem1,		            *,		500,		180
+		SIBPolice_bladem2,		            *,		500,		180
+		
+	<Category> Swat 505
+		Helipolice_swat_SIB5,		        V,		1300000,	650000
+		SIBPolice_Door_1_1_swat,	        *,		500,		180
+		SIBPolice_Door_1_2_swat,	        *,		500,		180
+		SIBPolice_Door_2_1_swat,	        *,		500,		180
+		SIBPolice_Door_2_2_swat,	        *,		500,		180
+		SIBPolice_blade1,		            *,		500,		180
+		SIBPolice_blade2,		            *,		500,		180
+		SIBPolice_blade3,		            *,		500,		180
+		SIBPolice_blade4,		            *,		500,		180
+		SIBPolice_bladem1,		            *,		500,		180
+		SIBPolice_bladem2,		            *,		500,		180
+		
+	<Category> Zombie Hunter 505
+		ZombieZone_Heli,		            V,		1300000,	650000
+		SIBPolice_Door_1_1_ZombieZone,		*,		500,		180
+		SIBPolice_Door_1_2_ZombieZone,		*,		500,		180
+		SIBPolice_Door_2_1_ZombieZone,		*,		500,		180
+		SIBPolice_Door_2_2_ZombieZone,		*,		500,		180
+		SIBPolice_blade1,		            *,		500,		180
+		SIBPolice_blade2,		            *,		500,		180
+		SIBPolice_blade3,		            *,		500,		180
+		SIBPolice_blade4,		            *,		500,		180
+		SIBPolice_bladem1,		            *,		500,		180
+		SIBPolice_bladem2,		            *,		500,		180
+		
+	<Category> Iroquois UH1D
+		HeliSIB_UH1D,		                V,		1000000,	550000
+		SIBUH1D_Door_1_1,		            *,		500,		180
+		SIBUH1D_Door_1_2,		            *,		500,		180
+		SIBUH1D_Door_2_1,		            *,		500,		180
+		SIBUH1D_Door_2_2,		            *,		500,		180
+		SIBUH1D_blade1,		            	*,		500,		180
+		SIBUH1D_blade2,		            	*,		500,		180
+		SIBUH1D_bladem1,		            *,		500,		180
+		SIBUH1D_bladem2,		            *,		500,		180
+		
+	<Category> Yellow Air Force UH1D
+		HeliSIB_UH1D_airforce,		        V,		1000000,	550000
+		SIBUH1D_Door_1_1_airforce,		    *,		500,		180
+		SIBUH1D_Door_1_2_airforce,		    *,		500,		180
+		SIBUH1D_Door_2_1_airforce,		    *,		500,		180
+		SIBUH1D_Door_2_2_airforce,		    *,		500,		180
+		SIBUH1D_blade1,		            	*,		500,		180
+		SIBUH1D_blade2,		            	*,		500,		180
+		SIBUH1D_bladem1,		            *,		500,		180
+		SIBUH1D_bladem2,		            *,		500,		180
+		
+	<Category> Blue Air Force UH1D
+		HelicopterSIB_UH1D_new1
+		SIBUH1D_Door_1_1_new1,		        *,		500,		180
+		SIBUH1D_Door_1_2_new1,		        *,		500,		180
+		SIBUH1D_Door_2_1_new1,		        *,		500,		180
+		SIBUH1D_Door_2_2_new1,		        *,		500,		180
+		SIBUH1D_blade1,		            	*,		500,		180
+		SIBUH1D_blade2,		            	*,		500,		180
+		SIBUH1D_bladem1,		            *,		500,		180
+		SIBUH1D_bladem2,		            *,		500,		180
+		
+	<Category> Iron Medic UH1D
+		HeliSIB_UH1D_iron,		            V,		1000000,	550000
+		SIBUH1D_Door_1_1_iron,		        *,		500,		180
+		SIBUH1D_Door_1_2_iron,		        *,		500,		180
+		SIBUH1D_Door_2_1_iron,		        *,		500,		180
+		SIBUH1D_Door_2_2_iron,		        *,		500,		180
+		SIBUH1D_blade1,		            	*,		500,		180
+		SIBUH1D_blade2,		            	*,		500,		180
+		SIBUH1D_bladem1,		            *,		500,		180
+		SIBUH1D_bladem2,		            *,		500,		180
+		
+	<Category> Navy UH1D
+		HeliSIB_UH1D_navy,		            V,		1000000,	550000
+		SIBUH1D_Door_1_1_navy,		        *,		500,		180
+		SIBUH1D_Door_1_2_navy,		        *,		500,		180
+		SIBUH1D_Door_2_1_navy,		        *,		500,		180
+		SIBUH1D_Door_2_2_navy,		        *,		500,		180
+		SIBUH1D_blade1,		            	*,		500,		180
+		SIBUH1D_blade2,		            	*,		500,		180
+		SIBUH1D_bladem1,		            *,		500,		180
+		SIBUH1D_bladem2,		            *,		500,		180
+		
+	<Category> Vietnam Transport UH1D
+		HelicopterSIB_UH1D_Vietnam
+		SIBUH1D_Door_1_1_Vietnam,		    *,		500,		180
+		SIBUH1D_Door_1_2_Vietnam,		    *,		500,		180
+		SIBUH1D_Door_2_1_Vietnam,		    *,		500,		180
+		SIBUH1D_Door_2_2_Vietnam,		    *,		500,		180
+		SIBUH1D_blade2,		            	*,		500,		180
+		SIBUH1D_bladem1,		            *,		500,		180
+		SIBUH1D_bladem2,		            *,		500,		180
+		
+	<Category> Vietnam Medic UH1D
+		UH1D_medic
+		SIBUH1D_Door_1_1_medic,		    	*,		500,		180
+		SIBUH1D_Door_1_2_medic,		    	*,		500,		180
+		SIBUH1D_Door_2_1_medic,		    	*,		500,		180
+		SIBUH1D_Door_2_2_medic,		    	*,		500,		180
+		SIBUH1D_blade1,		            	*,		500,		180
+		SIBUH1D_blade2,		            	*,		500,		180
+		SIBUH1D_bladem1,		            *,		500,		180
+		SIBUH1D_bladem2,		            *,		500,		180
+		
+	<Category> Civillian MH6
+		HeliMH6_SIB,		                V,		1600000,	750000
+		sibmh6_blade1,		                *,		500,		180
+		sibmh6_blade2,		                *,		500,		180
+		sibmh6_blade3,		                *,		500,		180
+		sibmh6_blade4,		                *,		500,		180
+		sibmh6_blade5,		                *,		500,		180
+		sibmh6_bladem1,		            	*,		500,		180
+		sibmh6_bladem2,		            	*,		500,		180
+		
+	<Category> Galaxy MH6
+		BZKheli_Galaxy_MH6
+		sibmh6_blade1,		                *,		500,		180
+		sibmh6_blade2,		                *,		500,		180
+		sibmh6_blade3,		                *,		500,		180
+		sibmh6_blade4,		                *,		500,		180
+		sibmh6_blade5,		                *,		500,		180
+		sibmh6_bladem1,		            	*,		500,		180
+		sibmh6_bladem2,		            	*,		500,		180
+		
+	<Category> Navy MH6
+		helicoptersib_mh-6_SaltLyfe
+		sibmh6_blade1,		                *,		500,		180
+		sibmh6_blade2,		                *,		500,		180
+		sibmh6_blade3,		                *,		500,		180
+		sibmh6_blade4,		                *,		500,		180
+		sibmh6_blade5,		                *,		500,		180
+		sibmh6_bladem1,		            	*,		500,		180
+		sibmh6_bladem2,		            	*,		500,		180
+		
+	<Category> Apocalypse MH6
+		BZKheli_MH6
+		sibmh6_blade1,		                *,		500,		180
+		sibmh6_blade2,		                *,		500,		180
+		sibmh6_blade3,		                *,		500,		180
+		sibmh6_blade4,		                *,		500,		180
+		sibmh6_blade5,		                *,		500,		180
+		sibmh6_bladem1,		            	*,		500,		180
+		sibmh6_bladem2,		            	*,		500,		180
+		
+	<Category> Skull MH6
+		helicoptersib_mh-6_vipskull
+		sibmh6_blade1,		                *,		500,		180
+		sibmh6_blade2,		                *,		500,		180
+		sibmh6_blade3,		                *,		500,		180
+		sibmh6_blade4,		                *,		500,		180
+		sibmh6_blade5,		                *,		500,		180
+		sibmh6_bladem1,		            	*,		500,		180
+		sibmh6_bladem2,		            	*,		500,		180
+		
+	<Category> Medic EC135
+		Heliec135_SIB,		                V,		1400000,	700000
+		SIBec135_Door_1_1,		            *,		500,		180
+		SIBec135_Door_1_2,		            *,		500,		180
+		SIBec135_Door_2_1,		            *,		500,		180
+		SIBec135_Door_2_2,		            *,		500,		180
+		SIBec135_blade1,		            *,		500,		180
+		SIBec135_blade2,		            *,		500,		180
+		SIBec135_blade3,		            *,		500,		180
+		SIBec135_blade4,		            *,		500,		180
+		SIBec135_impeller1,		        	*,		500,		180
+		SIBec135_impeller2,		        	*,		500,		180
+		
+	<Category> Medic Hell EC135
+		Heliec135_SIB_hell,		        	V,		1400000,	700000
+		SIBec135_Door_1_1_hell,		    	*,		500,		180
+		SIBec135_Door_1_2_hell,		    	*,		500,		180
+		SIBec135_Door_2_1_hell,		    	*,		500,		180
+		SIBec135_Door_2_2_hell,		    	*,		500,		180
+		SIBec135_blade1,		            *,		500,		180
+		SIBec135_blade2,		            *,		500,		180
+		SIBec135_blade3,		            *,		500,		180
+		SIBec135_blade4,		            *,		500,		180
+		SIBec135_impeller1,		        	*,		500,		180
+		SIBec135_impeller2,		        	*,		500,		180
+		
+	<Category> Black n Blue EC135
+		HelicopterSIB_EC135_new1
+		SIBec135_Door_1_1_new1,		    	*,		500,		180
+		SIBec135_Door_1_2_new1,		    	*,		500,		180
+		SIBec135_Door_2_1_new1,		    	*,		500,		180
+		SIBec135_Door_2_2_new1,		    	*,		500,		180
+		SIBec135_blade1,		            *,		500,		180
+		SIBec135_blade2,		            *,		500,		180
+		SIBec135_blade3,		            *,		500,		180
+		SIBec135_blade4,		            *,		500,		180
+		SIBec135_impeller1,		        	*,		500,		180
+		SIBec135_impeller2,		        	*,		500,		180
+		
+	<Category> Black Hawk
+		Heliblack_hawk_SIB,		        	V,		1500000,	750000
+		SIBblack_hawk_Door_1_1,		    	*,		500,		180
+		SIBblack_hawk_Door_1_2,		    	*,		500,		180
+		SIBblack_hawk_Door_2_1,		    	*,		500,		180
+		SIBblack_hawk_Door_2_2,		    	*,		500,		180
+		SIBblack_hawk_blade1,		        *,		500,		180
+		SIBblack_hawk_blade2,		        *,		500,		180
+		SIBblack_hawk_blade3,		        *,		500,		180
+		SIBblack_hawk_blade4,		        *,		500,		180
+		SIBblack_hawk_bladem1,		        *,		500,		180
+		SIBblack_hawk_bladem2,		        *,		500,		180
+		SIBblack_hawk_bladem3,		        *,		500,		180
+		SIBblack_hawk_bladem4,		        *,		500,		180
+		
+	<Category> Black Hawk Camo
+		Heliblack_hawk_SIB_camo,	        V,		1500000,	750000
+		SIBblack_hawk_Door_1_1_camo,		*,		500,		180
+		SIBblack_hawk_Door_1_2_camo,		*,		500,		180
+		SIBblack_hawk_Door_2_1_camo,		*,		500,		180
+		SIBblack_hawk_Door_2_2_camo,		*,		500,		180
+		SIBblack_hawk_blade1,		        *,		500,		180
+		SIBblack_hawk_blade2,		        *,		500,		180
+		SIBblack_hawk_blade3,		        *,		500,		180
+		SIBblack_hawk_blade4,		        *,		500,		180
+		SIBblack_hawk_bladem1,		        *,		500,		180
+		SIBblack_hawk_bladem2,		        *,		500,		180
+		SIBblack_hawk_bladem3,		        *,		500,		180
+		SIBblack_hawk_bladem4,		        *,		500,		180
+		
+	<Category> Mil Mi-17
+		HeliMI17_SIB,		                V,		2000000,	1000000
+		MI17_blade1,		                *,		500,		180
+		MI17_blade2,		                *,		500,		180
+		MI17_blade3,		                *,		500,		180
+		MI17_blade4,		                *,		500,		180
+		MI17_blade5,		                *,		500,		180
+		MI17_bladem1,		                *,		500,		180
+		MI17_bladem2,		                *,		500,		180
+		MI17_bladem3,		                *,		500,		180
 
 	<Category> Vehicle Repair
 		HeadlightH7_Box,				*,		30,		15
