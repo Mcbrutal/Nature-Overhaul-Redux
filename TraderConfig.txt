@@ -2185,43 +2185,6 @@
 				PAZ_672_doors_driver_orang,		        *,		1650,800
 				PAZ_672_doors_codriver_orang,		    *,		1650,800
 
-
-	<Category> BTR_80
-				BTR_80,		                            VNK,		1200000,598000
-				BTR_80_camo,		                    VNK,		1200000,598000
-				BTR_80_camo2,		                    VNK,		1200000,598000
-				BTR_80_rust,		                    VNK,		1200000,598000
-				BTR_80_P,		                        VNK,		1000000,498000
-				BTR_80_P_camo,		                    VNK,		1000000,498000
-				BTR_80_P_camo2,		                    VNK,		1000000,498000
-				BTR_80_P_rust,		                    VNK,		1000000,498000
-				BTR_80_Wheel,		                    *,		1000,450
-				BTR_80_doors_driver,		            *,		1650,800
-				BTR_80_doors_codriver,		            *,		1650,800
-				BTR_80_doors_cargo1,		            *,		1650,800
-				BTR_80_doors_cargo2,		            *,		1650,800
-				BTR_80_doors_cargo3,		            *,		1650,800
-				BTR_80_doors_cargo4,		            *,		1650,800
-				BTR_80_doors_driver_camo,		        *,		1650,800
-				BTR_80_doors_codriver_camo,		        *,		1650,800
-				BTR_80_doors_cargo1_camo,		        *,		1650,800
-				BTR_80_doors_cargo2_camo,		        *,		1650,800
-				BTR_80_doors_cargo3_camo,		        *,		1650,800
-				BTR_80_doors_cargo4_camo,		        *,		1650,800
-				BTR_80_doors_driver_camo2,		        *,		1650,800
-				BTR_80_doors_codriver_camo2,		    *,		1650,800
-				BTR_80_doors_cargo1_camo2,		        *,		1650,800
-				BTR_80_doors_cargo2_camo2,		        *,		1650,800
-				BTR_80_doors_cargo3_camo2,		        *,		1650,800
-				BTR_80_doors_cargo4_camo2,		        *,		1650,800
-				BTR_80_doors_driver_rust,		        *,		1650,800
-				BTR_80_doors_codriver_rust,		        *,		1650,800
-				BTR_80_doors_cargo1_rust,		        *,		1650,800
-				BTR_80_doors_cargo2_rust,		        *,		1650,800
-				BTR_80_doors_cargo3_rust,		        *,		1650,800
-				BTR_80_doors_cargo4_rust,		        *,		1650,800
-
-
 	<Category> LUAZ_969
 				LUAZ_969,		                        VNK,		110000,54000
 				LUAZ_969_green,		                    VNK,		110000,54000
@@ -2271,14 +2234,6 @@
 				kraz_255B_doors_trunk,		            *,		1650,800
 				Kraz_255B_doors_trunk_kung,		        *,		1650,800
 				kraz_255B_doors_hood,		            *,		1650,800
-
-	<Category> VBL
-				VBL,		                            VNK,		95000,46000
-				VBL_wheel,		                        *,		1000,450
-				VBL_doors_driver,		                *,		1650,800
-				VBL_doors_codriver,		                *,		1650,800
-				VBL_doors_cargo1,		                *,		1650,800
-				VBL_doors_trunk,		                *,		1650,800
 
 	<Category> KAVZ685_RF
 				KAVZ685_RF,		                        VNK,		160000,78000
@@ -2387,6 +2342,36 @@
 				vaz_2106_RF_doors_hood_yellow,		    *,		1650,800
 				vaz_2106_RF_doors_trunk_yellow,		    *,		1650,800
 
+	<Category> VAZ_21099R
+				VAZ_21099R,		                    	VNK,		80000,	39000
+				VAZ_21099R_black,		        		VNK,		80000,	39000
+				VAZ_21099R_white,		                VNK,		80000,	39000
+				VAZ_21099R_blue,		                VNK,		80000,	39000
+				VAZ_21099R_wheel,		                *,			1000,	450
+				VAZ_21099R_doors_driver,		        *,			1650,	800
+				VAZ_21099R_doors_codriver,		        *,			1650,	800
+				VAZ_21099R_doors_cargo1,		        *,			1650,	800
+				VAZ_21099R_doors_cargo2,		        *,			1650,	800
+				VAZ_21099R_doors_hood,		            *,			1650,	800
+				VAZ_21099R_doors_trunk,		        	*,			1650,	800
+				VAZ_21099R_doors_driver_black,		    *,			1650,	800
+				VAZ_21099R_doors_codriver_black,		*,			1650,	800
+				VAZ_21099R_doors_cargo1_black,		    *,			1650,	800
+				VAZ_21099R_doors_cargo2_black,		    *,			1650,	800
+				VAZ_21099R_doors_hood_black,		    *,			1650,	800
+				VAZ_21099R_doors_trunk_black,		    *,			1650,	800
+				VAZ_21099R_doors_driver_white,		    *,			1650,	800
+				VAZ_21099R_doors_codriver_white,		*,			1650,	800
+				VAZ_21099R_doors_cargo1_white,		    *,			1650,	800
+				VAZ_21099R_doors_cargo2_white,		    *,			1650,	800
+				VAZ_21099R_doors_hood_white,		    *,			1650,	800
+				VAZ_21099R_doors_trunk_white,		    *,			1650,	800
+				VAZ_21099R_doors_driver_blue,		    *,			1650,	800
+				VAZ_21099R_doors_codriver_blue,		    *,			1650,	800
+				VAZ_21099R_doors_cargo1_blue,		    *,			1650,	800
+				VAZ_21099R_doors_cargo2_blue,		    *,			1650,	800
+				VAZ_21099R_doors_hood_blue,		        *,			1650,	800
+				VAZ_21099R_doors_trunk_blue,		    *,			1650,	800
 
 	<Category> VAZ_2109_RF
 				VAZ_2109_RF,		                    VNK,		115000,56000
@@ -2508,29 +2493,6 @@
 				azlk_400_doors_cargo2_beige,		    *,		1650,800
 				azlk_400_doors_hood_beige,		        *,		1650,800
 
-
-	<Category> BRDM2_RF
-				BRDM2_RF,		                        VNK,		310000,154000
-				BRDM2_RF_camo,		                    VNK,		310000,154000
-				BRDM2_RF_winter,		                *,		310000,154000
-				BRDM2_RF_wheel,		                    *,		1000,450
-				BRDM2_RF_doors_driver,		            *,		1650,800
-				BRDM2_RF_doors_codriver,		        *,		1650,800
-				BRDM2_RF_doors_cargo1,		            *,		1650,800
-				BRDM2_RF_doors_cargo2,		            *,		1650,800
-				BRDM2_RF_doors_hood,		            *,		1650,800
-				BRDM2_RF_doors_driver_camo,		        *,		1650,800
-				BRDM2_RF_doors_codriver_camo,		    *,		1650,800
-				BRDM2_RF_doors_cargo1_camo,		        *,		1650,800
-				BRDM2_RF_doors_cargo2_camo,		        *,		1650,800
-				BRDM2_RF_doors_hood_camo,		        *,		1650,800
-				BRDM2_RF_doors_driver_winter,		    *,		1650,800
-				BRDM2_RF_doors_codriver_winter,		    *,		1650,800
-				BRDM2_RF_doors_cargo1_winter,		    *,		1650,800
-				BRDM2_RF_doors_cargo2_winter,		    *,		1650,800
-				BRDM2_RF_doors_hood_winter,		        *,		1650,800
-
-
 	<Category> moskvich_407
 				moskvich_407,		                    VNK,		110000,54000
 				moskvich_407_double_red,		        VNK,		110000,54000
@@ -2597,79 +2559,6 @@
 				KubanG1_doors_hood_green,		        *,		1650,800
 				KubanG1_doors_trunk_green,		        *,		1650,800
 
-
-	<Category> GAZ21_Volga
-				GAZ21_Volga,		                    VNK,		50000,24000
-				GAZ21_Volga_black,		                VNK,		50000,24000
-				GAZ21_Volga_green,		                VNK,		50000,24000
-				GAZ21_Volga_wheel,		                *,		1000,450
-				GAZ21_roof_rack,		                *,		1000,450
-				GAZ21_Volga_doors_driver,		        *,		1650,800
-				GAZ21_Volga_doors_codriver,		        *,		1650,800
-				GAZ21_Volga_doors_cargo1,		        *,		1650,800
-				GAZ21_Volga_doors_cargo2,		        *,		1650,800
-				GAZ21_Volga_doors_hood,		            *,		1650,800
-				GAZ21_Volga_doors_trunk,		        *,		1650,800
-				GAZ21_Volga_doors_driver_black,		    *,		1650,800
-				GAZ21_Volga_doors_codriver_black,		*,		1650,800
-				GAZ21_Volga_doors_cargo1_black,		    *,		1650,800
-				GAZ21_Volga_doors_cargo2_black,		    *,		1650,800
-				GAZ21_Volga_doors_hood_black,		    *,		1650,800
-				GAZ21_Volga_doors_trunk_black,		    *,		1650,800
-				GAZ21_Volga_doors_driver_green,		    *,		1650,800
-				GAZ21_Volga_doors_codriver_green,		*,		1650,800
-				GAZ21_Volga_doors_cargo1_green,		    *,		1650,800
-				GAZ21_Volga_doors_cargo2_green,		    *,		1650,800
-				GAZ21_Volga_doors_hood_green,		    *,		1650,800
-				GAZ21_Volga_doors_trunk_green,		    *,		1650,800
-
-
-	<Category> opel_blitz
-				opel_blitz,		                        VNK,		190000,94000
-				opel_blitz_grey,		                VNK,		190000,94000
-				opel_blitz_wheel,		                *,		1000,450
-				opel_blitz_WheelDouble,		            *,		2000,750
-				opel_blitz_tent,		                *,		1500,500
-				opel_blitz_doors_driver,		        *,		1650,800
-				opel_blitz_doors_driver_grey,		    *,		1650,800
-				opel_blitz_doors_codriver,		        *,		1650,800
-				opel_blitz_doors_codriver_grey,		    *,		1650,800
-				opel_blitz_doors_hood,		            *,		1650,800
-				opel_blitz_doors_hood_grey,		        *,		1650,800
-				opel_blitz_doors_hood_two,		        *,		1650,800
-				opel_blitz_doors_hood_two_grey,		    *,		1650,800
-				opel_blitz_doors_trunk,		            *,		1650,800
-				opel_blitz_doors_trunk_grey,		    *,		1650,800
-
-	<Category> Motorbike
-				motorbike,		                        *,		160000,79000
-				motorbike_green,		                *,		160000,79000
-				motorbike_sand,		                    *,		160000,79000
-				BMW_R75_wheel,		                    *,		1000,450
-				motorbike_ammo_box,		                *,		1500,500
-
-	<Category> m4_tractor
-				m4_tractor,		                        *,		370000,184000
-				m4_tractor_usa,		                    *,		370000,184000
-				m4_tractor_winter,		                *,		370000,184000
-				m4_tractor_wheel,		                *,		2000,750
-
-	<Category> artillery_tractor
-				artillery_tractor,		                VNK,		410000,204000
-				artillery_tractor_camo,		            VNK,		410000,204000
-				artillery_tractor_kung,		            VNK,		410000,204000
-				artillery_tractor_kung_camo,		    VNK,		410000,204000
-				artillery_tractor_wheel,		        *,		2000,750
-				artillery_tractor_tent,		            *,		1500,500
-				artillery_tractor_doors_driver,		    *,		1650,800
-				artillery_tractor_doors_driver_camo,	*,		1650,800
-				artillery_tractor_doors_codriver,		*,		1650,800
-				artillery_tractor_doors_codriver_camo,	*,		1650,800
-				artillery_tractor_doors_hood,		    *,		1650,800
-				artillery_tractor_doors_hood_camo,		*,		1650,800
-				artillery_tractor_doors_trunk,		    *,		1650,800
-
-
 	<Category> GAZ_13_Chaika
 				GAZ_13_Chaika,		                    VNK,		130000,64000
 				GAZ_13_Chaika_black_rust,		        VNK,		130000,64000
@@ -2700,6 +2589,54 @@
 				GAZ_13_Chaika_doors_trunk_black_rust,	*,		1650,800
 				GAZ_13_Chaika_doors_trunk_white,		*,		1650,800
 
+	<Category> GAZ21_Volga
+				GAZ21_Volga,		                    VNK,		50000,24000
+				GAZ21_Volga_black,		                VNK,		50000,24000
+				GAZ21_Volga_green,		                VNK,		50000,24000
+				GAZ21_Volga_wheel,		                *,		1000,450
+				GAZ21_roof_rack,		                *,		1000,450
+				GAZ21_Volga_doors_driver,		        *,		1650,800
+				GAZ21_Volga_doors_codriver,		        *,		1650,800
+				GAZ21_Volga_doors_cargo1,		        *,		1650,800
+				GAZ21_Volga_doors_cargo2,		        *,		1650,800
+				GAZ21_Volga_doors_hood,		            *,		1650,800
+				GAZ21_Volga_doors_trunk,		        *,		1650,800
+				GAZ21_Volga_doors_driver_black,		    *,		1650,800
+				GAZ21_Volga_doors_codriver_black,		*,		1650,800
+				GAZ21_Volga_doors_cargo1_black,		    *,		1650,800
+				GAZ21_Volga_doors_cargo2_black,		    *,		1650,800
+				GAZ21_Volga_doors_hood_black,		    *,		1650,800
+				GAZ21_Volga_doors_trunk_black,		    *,		1650,800
+				GAZ21_Volga_doors_driver_green,		    *,		1650,800
+				GAZ21_Volga_doors_codriver_green,		*,		1650,800
+				GAZ21_Volga_doors_cargo1_green,		    *,		1650,800
+				GAZ21_Volga_doors_cargo2_green,		    *,		1650,800
+				GAZ21_Volga_doors_hood_green,		    *,		1650,800
+				GAZ21_Volga_doors_trunk_green,		    *,		1650,800
+
+	<Category> opel_blitz
+				opel_blitz,		                        VNK,		190000,94000
+				opel_blitz_grey,		                VNK,		190000,94000
+				opel_blitz_wheel,		                *,		1000,450
+				opel_blitz_WheelDouble,		            *,		2000,750
+				opel_blitz_tent,		                *,		1500,500
+				opel_blitz_doors_driver,		        *,		1650,800
+				opel_blitz_doors_driver_grey,		    *,		1650,800
+				opel_blitz_doors_codriver,		        *,		1650,800
+				opel_blitz_doors_codriver_grey,		    *,		1650,800
+				opel_blitz_doors_hood,		            *,		1650,800
+				opel_blitz_doors_hood_grey,		        *,		1650,800
+				opel_blitz_doors_hood_two,		        *,		1650,800
+				opel_blitz_doors_hood_two_grey,		    *,		1650,800
+				opel_blitz_doors_trunk,		            *,		1650,800
+				opel_blitz_doors_trunk_grey,		    *,		1650,800
+
+	<Category> Motorbike
+				motorbike,		                        *,		160000,79000
+				motorbike_green,		                *,		160000,79000
+				motorbike_sand,		                    *,		160000,79000
+				BMW_R75_wheel,		                    *,		1000,450
+				motorbike_ammo_box,		                *,		1500,500
 
 	<Category> Gaz_53RF
 				Gaz_53RF,		                        VNK,		230000,114000
@@ -2712,6 +2649,31 @@
 				Gaz_53RF_doors_hood,		            *,		1650,800
 				Gaz_53RF_doors_trunk,		            *,		1650,800
 
+	<Category> KAMAZ_4310RUS
+				KAMAZ_4310RUS,		                    VNK,		230000,114000
+				KAMAZ_4310RUS_blue,		                VNK,		230000,114000
+				KAMAZ_4310RUS_orange,		            VNK,		230000,114000
+				KAMAZ_4310RUS_kung,		                VNK,		230000,114000
+				KAMAZ_4310RUS_kung_orange,		        VNK,		230000,114000
+				KAMAZ_4310RUS_kung_oon,		            VNK,		230000,114000
+				KAMAZ_4310RUS_Wheel,		            *,		1000,450
+				KAMAZ_4310RUS_tent,		                *,		1500,500
+				KAMAZ_4310RUS_doors_driver,		        *,		1650,800
+				KAMAZ_4310RUS_doors_codriver,	        *,		1650,800
+				KAMAZ_4310RUS_doors_hood,		        *,		1650,800
+				KAMAZ_4310RUS_doors_trunk,		        *,		1650,800
+				KAMAZ_4310RUS_doors_driver_blue,		*,		1650,800
+				KAMAZ_4310RUS_doors_codriver_blue,	    *,		1650,800
+				KAMAZ_4310RUS_doors_hood_blue,		    *,		1650,800
+				KAMAZ_4310RUS_doors_trunk_blue,		    *,		1650,800
+				KAMAZ_4310RUS_doors_driver_orange,		*,		1650,800
+				KAMAZ_4310RUS_doors_codriver_orange,	*,		1650,800
+				KAMAZ_4310RUS_doors_hood_orange,		*,		1650,800
+				KAMAZ_4310RUS_doors_trunk_orange,		*,		1650,800
+				KAMAZ_4310RUS_doors_driver_oon,		    *,		1650,800
+				KAMAZ_4310RUS_doors_codriver_oon,	    *,		1650,800
+				KAMAZ_4310RUS_doors_hood_oon,		    *,		1650,800
+				KAMAZ_4310RUS_doors_trunk_oon,		    *,		1650,800
 
 	<Category> ZAZ_968
 				ZAZ_968,		                        VNK,		140000,69000
@@ -2736,6 +2698,69 @@
 				ZAZ_968_doors_hood_milicia,		        *,		1650,800
 				ZAZ_968_doors_trunk_milicia,		    *,		1650,800
 
+	<Category> BRDM2_RF
+				BRDM2_RF,		                        VNK,		310000,154000
+				BRDM2_RF_camo,		                    VNK,		310000,154000
+				BRDM2_RF_winter,		                *,		310000,154000
+				BRDM2_RF_wheel,		                    *,		1000,450
+				BRDM2_RF_doors_driver,		            *,		1650,800
+				BRDM2_RF_doors_codriver,		        *,		1650,800
+				BRDM2_RF_doors_cargo1,		            *,		1650,800
+				BRDM2_RF_doors_cargo2,		            *,		1650,800
+				BRDM2_RF_doors_hood,		            *,		1650,800
+				BRDM2_RF_doors_driver_camo,		        *,		1650,800
+				BRDM2_RF_doors_codriver_camo,		    *,		1650,800
+				BRDM2_RF_doors_cargo1_camo,		        *,		1650,800
+				BRDM2_RF_doors_cargo2_camo,		        *,		1650,800
+				BRDM2_RF_doors_hood_camo,		        *,		1650,800
+				BRDM2_RF_doors_driver_winter,		    *,		1650,800
+				BRDM2_RF_doors_codriver_winter,		    *,		1650,800
+				BRDM2_RF_doors_cargo1_winter,		    *,		1650,800
+				BRDM2_RF_doors_cargo2_winter,		    *,		1650,800
+				BRDM2_RF_doors_hood_winter,		        *,		1650,800
+
+	<Category> VBL
+				VBL,		                            VNK,		95000,46000
+				VBL_wheel,		                        *,		1000,450
+				VBL_doors_driver,		                *,		1650,800
+				VBL_doors_codriver,		                *,		1650,800
+				VBL_doors_cargo1,		                *,		1650,800
+				VBL_doors_trunk,		                *,		1650,800
+
+	<Category> BTR_80
+				BTR_80,		                            VNK,		1200000,598000
+				BTR_80_camo,		                    VNK,		1200000,598000
+				BTR_80_camo2,		                    VNK,		1200000,598000
+				BTR_80_rust,		                    VNK,		1200000,598000
+				BTR_80_P,		                        VNK,		1000000,498000
+				BTR_80_P_camo,		                    VNK,		1000000,498000
+				BTR_80_P_camo2,		                    VNK,		1000000,498000
+				BTR_80_P_rust,		                    VNK,		1000000,498000
+				BTR_80_Wheel,		                    *,		1000,450
+				BTR_80_doors_driver,		            *,		1650,800
+				BTR_80_doors_codriver,		            *,		1650,800
+				BTR_80_doors_cargo1,		            *,		1650,800
+				BTR_80_doors_cargo2,		            *,		1650,800
+				BTR_80_doors_cargo3,		            *,		1650,800
+				BTR_80_doors_cargo4,		            *,		1650,800
+				BTR_80_doors_driver_camo,		        *,		1650,800
+				BTR_80_doors_codriver_camo,		        *,		1650,800
+				BTR_80_doors_cargo1_camo,		        *,		1650,800
+				BTR_80_doors_cargo2_camo,		        *,		1650,800
+				BTR_80_doors_cargo3_camo,		        *,		1650,800
+				BTR_80_doors_cargo4_camo,		        *,		1650,800
+				BTR_80_doors_driver_camo2,		        *,		1650,800
+				BTR_80_doors_codriver_camo2,		    *,		1650,800
+				BTR_80_doors_cargo1_camo2,		        *,		1650,800
+				BTR_80_doors_cargo2_camo2,		        *,		1650,800
+				BTR_80_doors_cargo3_camo2,		        *,		1650,800
+				BTR_80_doors_cargo4_camo2,		        *,		1650,800
+				BTR_80_doors_driver_rust,		        *,		1650,800
+				BTR_80_doors_codriver_rust,		        *,		1650,800
+				BTR_80_doors_cargo1_rust,		        *,		1650,800
+				BTR_80_doors_cargo2_rust,		        *,		1650,800
+				BTR_80_doors_cargo3_rust,		        *,		1650,800
+				BTR_80_doors_cargo4_rust,		        *,		1650,800
 
 	<Category> MTLB_RF
 				MTLB_RF,		                        VNK,		1200000,599000
@@ -2763,6 +2788,47 @@
 				MTLB_RF_doors_hood_camo2,		        *,		1650,800
 				MTLB_RF_doors_trunk_camo2,		        *,		1650,800
 				MTLB_RF_doors_trunk0_camo2,		        *,		1650,800
+
+	<Category> m4_tractor
+				m4_tractor,		                        *,		370000,184000
+				m4_tractor_usa,		                    *,		370000,184000
+				m4_tractor_winter,		                *,		370000,184000
+				m4_tractor_wheel,		                *,		2000,750
+
+	<Category> artillery_tractor
+				artillery_tractor,		                VNK,		410000,204000
+				artillery_tractor_camo,		            VNK,		410000,204000
+				artillery_tractor_kung,		            VNK,		410000,204000
+				artillery_tractor_kung_camo,		    VNK,		410000,204000
+				artillery_tractor_wheel,		        *,		2000,750
+				artillery_tractor_tent,		            *,		1500,500
+				artillery_tractor_doors_driver,		    *,		1650,800
+				artillery_tractor_doors_driver_camo,	*,		1650,800
+				artillery_tractor_doors_codriver,		*,		1650,800
+				artillery_tractor_doors_codriver_camo,	*,		1650,800
+				artillery_tractor_doors_hood,		    *,		1650,800
+				artillery_tractor_doors_hood_camo,		*,		1650,800
+				artillery_tractor_doors_trunk,		    *,		1650,800				
+
+	<Category> T-34 Tank
+				T_34_76,		                        VNK,		1200000,599000
+				T_34_76_camo,		                    VNK,		1200000,599000
+				T_34_76_camo2,		                    VNK,		1200000,599000
+				T_34_76_wheel,		                    *,		1000,450
+				T_34_76_wheel_camo,		                *,		1000,450
+				T_34_76_wheel_camo2,		            *,		1000,450
+				T_34_76_doors_driver,		            *,		1650,800
+				T_34_76_doors_cargo1,		            *,		1650,800
+				T_34_76_doors_cargo2,		            *,		1650,800
+				T_34_76_doors_trunk,		            *,		1650,800
+				T_34_76_doors_driver_camo,		        *,		1650,800
+				T_34_76_doors_cargo1_camo,		        *,		1650,800
+				T_34_76_doors_cargo2_camo,		        *,		1650,800
+				T_34_76_doors_trunk_camo,		        *,		1650,800
+				T_34_76_doors_driver_camo2,		        *,		1650,800
+				T_34_76_doors_cargo1_camo2,		        *,		1650,800
+				T_34_76_doors_cargo2_camo2,		        *,		1650,800
+				T_34_76_doors_trunk_camo2,		        *,		1650,800
 				
 	<Category> Keys
 				MCK_CarKey_Base, 				*, 	5000,	-1
@@ -4293,7 +4359,6 @@
 		ADM_ParachuteBag_Skull_Speed,   *,    4500,  1900
 		ADM_TactiParaBag_Camo_Speed,    *,    4500,  1900
 		ADM_JetPack_Green,              *,    -1,  45000
-
 
 	<Category> Gyro Homemade
 		HeliSIB_hommade,		            V,		600000,		300000
