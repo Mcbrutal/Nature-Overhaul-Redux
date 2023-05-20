@@ -404,10 +404,13 @@
 		rag_viking_mug,                 			*,    	1000,  		750
 
 <Trader> Weapon Trader
+	<Category> Watergun
+		CC_Watergun,			    				W,		799,		399
+	
 	<Category> Melee	
-		BrassKnuckles_Shiny,						W,		220,		60
-		Pitchfork,									W,		300,		50
-		Broom,										W,		250,		50
+		BrassKnuckles_Shiny,							W,		220,		60
+		Pitchfork,								W,		300,		50
+		Broom,									W,		250,		50
 		Broom_Birch,								W,		250,		75
 		BaseballBat,								W,		350,		100
 		NailedBaseballBat,							W,		450,		150
@@ -426,82 +429,98 @@
 		rag_viking_flamberge_sword,     			*,    	-1,  		5000
 		rag_viking_axe_doubled,         			*,    	-1,  		5500
 		rag_viking_dragonslayer_axe,    			*,    	-1,  		6500
+		CC_Vaxe,                 				*,    	4500,  		600
+		CC_Cutlass,               				*,    	6500,  		600
+		CC_Spear,             					*,    	6500,  		500
+		CC_Cudgel,               				*,    	5500,  		600
+		CC_Warhammer,              				*,    	6500,  		550
+		CC_Katar,               				*,    	6500,  		600
+		CC_Sebsword,               				*,    	6500,  		600
+		
 		
 	<Category> Sidearms
-		Flaregun,               					W,		80,			40
+		Flaregun,               					W,		80,		40
 		MakarovIJ70,            					W,		300,		150
 		CZ75,                   					W,		600,		150
 		FNX45,                  					W,		1000,		375
-		TF_MP443,			    					W,		799,		399
+		TF_MP443,			    				W,		799,		399
 		P1,                     					W,		550,		275
 		Glock19,                					W,		500,		250
 		MKII,                   					W,		450,		225
-		Colt1911,               					W,		3500,		500
-		Engraved1911,           					W,		4500,		1000
+		Colt1911,               					W,		1000,		375
+		Engraved1911,           					W,		2000,		500
 		Derringer_Black,        					W,		260,		130
 		Derringer_Grey,         					W,		260,		130
 		Derringer_Pink,         					W,		260,		130
 		Longhorn,               					W,		1750,		550
 		Magnum,                 					W,		2500,		625
-		TF_MakarovPB,								W,		159,		79
+		TF_MakarovPB,							W,		159,		79
+		CC_ClaudiaPistol,                   				W,		500,		120
+		CC_HKP7,                   					W,		600,		150
+		CC_VP70,                					W,		500,		250
 		
 	<Category> Rifles
-		Izh18,				   						W,		4500,		1750
+		Izh18,				   				W,		4500,		1750
 		Mosin9130,             						W,		12500,		4250
 		Mosin9130_Black,       						W,		12500,		4250
 		Mosin9130_Camo,        						W,		12500,		4250
 		Mosin9130_Green,       						W,		12500,		4250
 		Scout_Chernarus,       						W,		10000,		3750
 		Scout,                 						W,		10000,		3750
-		B95,										W,		16500,		6500
-		SSG82,										W,		8000,		3750
-		TF_M1A_Black,								W,		17500,		5500
-		TF_M1A_OD,			    					W,		17500,		5500
-		TF_M1A_Tan,			    					W,		17500,		5500
+		B95,								W,		16500,		6500
+		SSG82,								W,		8000,		3750
+		TF_M1A_Black,							W,		17500,		5500
+		TF_M1A_OD,			    				W,		17500,		5500
+		TF_M1A_Tan,			    				W,		17500,		5500
 		CZ527,                 						W,		8500,		3000
 		CZ550,                 						W,		16500,		6500
 		Winchester70,          						W,		16500,		6500
 		Repeater,              						W,		3250,		1250
 		SKS,                   						W,		8500,		3500
 		Ruger1022,             						W,		1750,		500
-		TF_VPO136,			    					W,		6750,		3000
-		TF_VPO190,			   						W,		6500,		2750
+		TF_VPO136,			    				W,		6750,		3000
+		TF_VPO190,			   				W,		6500,		2750
+		CC_Carcano,                 					W,		16500,		6500
 		
 	<Category> Shotguns
 		Mp133Shotgun,								W,		3500,		1500
 		Izh43Shotgun,								W,		3000,		1250
 		Izh18Shotgun,								W,		3000,		1250
+		CC_1887,								W,		4000,		2000
 		
 	<Category> Submachine Guns
-		CZ61,										W,		2500,		750
-		UMP45,										W,		3750,		1750
-		PP19,										W,		3250,		1500
-		MP5K,										W,		3250,		1500	
-		AKS74U,										W,		4000,		2000
+		CZ61,									W,		2500,		750
+		UMP45,									W,		3750,		1750
+		PP19,									W,		3250,		1500
+		MP5K,									W,		3250,		1500	
+		AKS74U,									W,		4000,		2000
 		AKS74U_Black,								W,		4000,		2000
 		AKS74U_Green,								W,		4000,		2000
 		TF_AKS74U,			    					W,		7250,		2750
+		CC_Mac10,								W,		3250,		1500
+		CC_Mors,								W,		3250,		1500
+		CC_Thompson,								W,		5000,		1250
 		
 	<Category> Assault Rifles
-		FAMAS,										W,		6500,		3000
-		AKM,										W,		8500,		4000
-		AK101,										W,		7500,		3500
+		FAMAS,									W,		6500,		3000
+		AKM,									W,		8500,		4000
+		AK101,									W,		7500,		3500
 		AK101_Black,								W,		7500,		3500
 		AK101_Green,								W,		7500,		3500
-		AK74,										W,		4500,		2250
-		AK74_Black,									W,		4500,		2250
-		AK74_Green,									W,		4500,		2250
-		M4A1,										W,		7500,		3500
-		M4A1_Black,									W,		7500,		3500
-		M4A1_Green,									W,		7500,		3500
+		AK74,									W,		4500,		2250
+		AK74_Black,								W,		4500,		2250
+		AK74_Green,								W,		4500,		2250
+		M4A1,									W,		7500,		3500
+		M4A1_Black,								W,		7500,		3500
+		M4A1_Green,								W,		7500,		3500
 		TF_M4A1_CQBR,								W,		7500,		3500
-		M16A2,										W,		6500,		2500
-		Aug,										W,		6500,		2750
-		AugShort,									W,		6500,		2750
+		M16A2,									W,		6500,		2500
+		Aug,									W,		6500,		2750
+		AugShort,								W,		6500,		2750
 		TF_SCAR_L_FDE,								W,		20000,		6500
 		TF_SCAR_L_Black,							W,		20000,		6500
 		TF_SCAR_L_CQC_FDE,							W,		20000,		6500
-		TF_SCAR_L_CQC_Black,						W,		10000,		6500
+		TF_SCAR_L_CQC_Black,							W,		10000,		6500
 		TF_AK101,			    					W,		16500,		5000
 		TF_AK102,			    					W,		16500,		5000
 		TF_AK103,			    					W,		16500,		5000
@@ -516,14 +535,14 @@
 		TF_MK47_CQBR,								W,		17500,		4500
 		TF_MK47,			    					W,		17500,		4500
 		TF_M16A4,			    					W,		13500,		3500
-		TF_AN94,									W,		20000,		5000
-		TF_AN94M,									W,		20000,		5000
+		TF_AN94,								W,		20000,		5000
+		TF_AN94M,								W,		20000,		5000
 		TF_OTs_12_Tiss,								W,		27500,		5000
 		TF_OTs_14_Groza,							W,		27500,		5000
 		
 	<Category> Grenades
-		RGD5Grenade,								W,		1000,		250
-		M67Grenade,									W,		1000,		250
+		RGD5Grenade,							W,		1000,		250
+		M67Grenade,							W,		1000,		250
 		M18SmokeGrenade_Red,						W,		500,		150
 		M18SmokeGrenade_Green,						W,		500,		150
 		M18SmokeGrenade_Yellow,						W,		500,		150
@@ -531,56 +550,63 @@
 		M18SmokeGrenade_White,						W,		500,		150
 		RDG2SmokeGrenade_Black,						W,		500,		150
 		RDG2SmokeGrenade_White,						W,		500,		150
-		FlashGrenade,								W,		600,		165
+		FlashGrenade,							W,		600,		165
 		Ammo_40mm_Smoke_Black,						W,		500,		150
 		Ammo_40mm_Smoke_Green,						W,		500,		150
 		Ammo_40mm_Smoke_Red,						W,		500,		150
 		Ammo_40mm_Smoke_White,						W,		500,		150
 		AM_Improvised_Grenade,						W,		350,		100
-		AM_Smoke_Improvised_Grenade_Red,			W,		350,		100
-		AM_Smoke_Improvised_Grenade_Green,			W,		350,		100
-		AM_Smoke_Improvised_Grenade_White,			W,		350,		100
-		AM_Smoke_Improvised_Grenade_Black,			W,		350,		100
+		AM_Smoke_Improvised_Grenade_Red,				W,		350,		100
+		AM_Smoke_Improvised_Grenade_Green,				W,		350,		100
+		AM_Smoke_Improvised_Grenade_White,				W,		350,		100
+		AM_Smoke_Improvised_Grenade_Black,				W,		350,		100
 
 <Trader> Weapon Supplies
 	<Category> Ammunition
-		Ammo_380,									1,		10,			1
-		Ammo_9x19,									1,		11,			2
-		Ammo_22,									1,		10,			1
-		Ammo_45ACP,									1,		12,			2
+		Ammo_380,								1,		10,			1
+		Ammo_9x19,								1,		11,			2
+		Ammo_22,								1,		10,			1
+		Ammo_45ACP,								1,		12,			2
 		Ammo_12gaPellets,							1,		20,			1
 		Ammo_12gaSlug,								1,		30,			2
-		Ammo_9x39,									1,		35,			3
+		Ammo_9x39,								1,		35,			3
 		Ammo_9x39AP,								1,		50,			4
-		Ammo_357,									1,		35,			3
+		Ammo_357,								1,		35,			3
 		Ammo_308Win,								1,		50,			5
 		Ammo_545x39,								1,		35,			3
 		Ammo_556x45,								1,		40,			3
 		Ammo_762x39,								1,		40,			3
-		Ammo_762x54,								1,		45,		6		
-		Ammo_556x45Tracer,							1,		40,		4
-		Ammo_545x39Tracer,							1,		40,		3
-		Ammo_308WinTracer,							1,		50,		5
-		Ammo_762x39Tracer,							1,		40,		3
-		Ammo_Flare,									1,		150,		20
-	    	Ammo_FlareBlue,							1,		150,		20
-	    	Ammo_FlareGreen,						1,		150,		20
-	    	Ammo_FlareRed,							1,		150,		20
-		Ammo_762x54Tracer,							1,		45,		6		
+		Ammo_762x54,								1,		45,			6		
+		Ammo_556x45Tracer,							1,		40,			4
+		Ammo_545x39Tracer,							1,		40,			3
+		Ammo_308WinTracer,							1,		50,			5
+		Ammo_762x39Tracer,							1,		40,			3
+		Ammo_Flare,								1,		150,			20
+	    	Ammo_FlareBlue,								1,		150,			20
+	    	Ammo_FlareGreen,							1,		150,			20
+	    	Ammo_FlareRed,								1,		150,			20
+		Ammo_762x54Tracer,							1,		45,			6
+		Bullet_CC_44_Ammo,							1,		50,			2
+		Bullet_CC_50cal_Ammo,							1,		3000,			750
+		Bullet_CC_65Carcano_Ammo,						1,		50,			2
+		Bullet_CC_50AE_Ammo,							1,		65,			3
+		Bullet_CC_Ssk_Ammo,							1,		2500,			500
+		Bullet_CC_3006_Ammo,							1,		50,			2
+		CC_Water_Round,								1,		1,			1
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
 		// buying single Ammo. The Selling Price is the same as
 		// selling the Ammo seperately.
-		AmmoBox_380_35rnd,							*,		280,		15
-		AmmoBox_9x19_25rnd,							*,		200,		15
+		AmmoBox_380_35rnd,						*,		280,		15
+		AmmoBox_9x19_25rnd,						*,		200,		15
 		AmmoBox_45ACP_25rnd,						*,		200,		15
-		AmmoBox_22_50Rnd,							*,		600,		20
+		AmmoBox_22_50Rnd,						*,		600,		20
 		AmmoBox_00buck_10rnd,						*,		240,		10
 		AmmoBox_12gaSlug_10Rnd,						*,		320,		20
-		AmmoBox_9x39_20Rnd,							*,		320,		20
+		AmmoBox_9x39_20Rnd,						*,		320,		20
 		AmmoBox_9x39AP_20Rnd,						*,		800,		60
-		AmmoBox_357_20Rnd,							*,		800,		60
+		AmmoBox_357_20Rnd,						*,		800,		60
 		AmmoBox_308Win_20Rnd,						*,		800,		60
 		AmmoBox_545x39_20Rnd,						*,		800,		60
 		AmmoBox_556x45_20Rnd,						*,		800,		60
@@ -591,16 +617,25 @@
 		AmmoBox_556x45Tracer_20Rnd,					*,		1600,		80
 		AmmoBox_762x39Tracer_20Rnd,					*,		1600,		80
 		AmmoBox_762x54Tracer_20Rnd,					*,		2000,		200
+		CC_44_Ammo,							*,		1000,		100
+		CC_50cal_Ammo,							*,		30000,		7500
+		CC_65Carcano_Ammo,						*,		800,		60
+		CC_50AE_Ammo,							*,		1300,		120
+		CC_Ssk_Ammo,							*,		25000,		5000
+		CC_3006_Ammo,							*,		800,		60
 		
 	<Category> Magazines
-		Mag_IJ70_8Rnd,								M,		30,			15
-		Mag_CZ75_15Rnd,								M,		40,			20
-		Mag_Glock_15Rnd,							M,		40,			20
-		Mag_MKII_10Rnd,								M,		40,			20
-		Mag_1911_7Rnd,								M,		40,			20
-		Mag_FNX45_15Rnd,							M,		40,			20
-		Mag_CZ527_5rnd,								M,		60,			30
-		Mag_Ruger1022_15Rnd,						M,		30,			15
+		Mag_Deagle_9rnd,							M,		50,		20
+		Mag_IJ70_8Rnd,								M,		30,		15
+		Mag_CZ75_15Rnd,								M,		40,		20
+		Mag_Glock_15Rnd,							M,		40,		20
+		Mag_MKII_10Rnd,								M,		40,		20
+		Mag_1911_7Rnd,								M,		40,		20
+		Mag_FNX45_15Rnd,							M,		40,		20
+		Mag_CZ527_5rnd,								M,		60,		30
+		Mag_CZ550_4rnd,								M,		60,		30
+		Mag_CZ550_10rnd,							M,		100,		50
+		Mag_Ruger1022_15Rnd,							M,		30,		15
 		Mag_CZ61_20Rnd,								M,		100,		50
 		Mag_UMP_25Rnd,								M,		150,		75
 		Mag_MP5_30Rnd,								M,		200,		100
@@ -609,7 +644,7 @@
 		Mag_SSG82_5rnd,								M,		100,		50
 		Mag_Scout_5Rnd,								M,		100,		50
 		Mag_Saiga_8Rnd,								M,		220,		60
-		Mag_Saiga_Drum20Rnd,						M,		480,		110
+		Mag_Saiga_Drum20Rnd,							M,		480,		110
 		Mag_AKM_30Rnd,								M,		220,		110
 		Mag_AKM_Palm30Rnd,							M,		220,		110
 		Mag_AKM_Drum75Rnd,							M,		5000,		250
@@ -618,7 +653,7 @@
 		Mag_AK74_30Rnd,								M,		220,		110
 		Mag_VAL_20Rnd,								M,		100,		50
 		Mag_STANAG_30Rnd,							M,		220,		110
-		Mag_STANAGCoupled_30Rnd,					M,		480,		130
+		Mag_STANAGCoupled_30Rnd,						M,		480,		130
 		Mag_STANAG_60Rnd,							M,		2500,		250
 		Mag_CMAG_10Rnd,								M,		120,		60
 		Mag_CMAG_20Rnd,								M,		180,		80
@@ -627,7 +662,25 @@
 		Mag_PP19_64Rnd,								M,		300,		150
 		Mag_VSS_10Rnd,								M,		220,		110
 		Mag_SVD_10Rnd,								M,		250,		125
-		Mag_308WinSnaploader_2Rnd,					M,		250,		125
+		Mag_308WinSnaploader_2Rnd,						M,		100,		50
+		Mag_357Speedloader_6Rnd,						M,		100,		50
+		CC_93R_Mag,								M,		100,		50
+		CC_Barrett_Mag,								M,		5000,		1000
+		CC_65Carcano,								M,		100,		50
+		CC_ClaudiaPistol_Mag,							M,		40,		20
+		CC_Deserteagle_Mag,							M,		200,		100
+		CC_DVL10_Mag,								M,		300,		150
+		CC_G3_Mag,								M,		300,		150
+		CC_Mac10_Mag,								M,		100,		50
+		CC_magshotgun_Mag,							M,		500,		250
+		CC_Mors_Mag,								M,		100,		50
+		CC_Salesmanpistol_Mag,							M,		100,		50
+		CC_Thompson_Mag,							M,		300,		150
+		CC_Automag_Mag,								M,		200,		100
+		CC_Torx_Mag,								M,		300,		150
+		CC_VP70_Mag,								M,		40,		20
+		CC_Vector_Mag,								M,		300,		150
+		CC_PSG1_Mag,								M,		300,		150
 
 	<Category> Ammo Making
 		PressCasingholder, 							1, 		20000,	1000
@@ -2873,41 +2926,71 @@
 		
 	<Category> Sidearms
 		TF_FiveSeven,			W,		1409,	704
-		Deagle,                 W,		2000,	500
-		Deagle_Gold,            W,		-1,		2000
+		Deagle,                 	W,		2000,	500
+		Deagle_Gold,            	W,		-1,	2000
+		CC_93R,               		W,		3500,	1000
+		CC_Deserteagle,                 W,		5000,	2000
+		CC_Auto9,                  	W,		3500,	1000
+		CC_M2Hel,                  	W,		3500,	1000
+		CC_Salesmanpistol,              W,		2000,	500
+		CC_Seriesd,                 	W,		5000,	2000
+		CC_TFK,              		W,		2000,	500
+		CC_Automag,                 	W,		5000,	2000
+		CC_Thunder,                 	W,		5000,	2000
+		CC_Unica,                 	W,		5000,	2000
+		CC_KokiesKimber,              	W,		2000,	500
+		CC_Ruger,              		W,		2000,	500
 
 	<Category> Assault Rifles
-		FAL,					W,		16500,	4500
+		FAL,				W,		16500,	4500
 		TF_SCAR_20_FDE,			W,		16500,	6500
 		TF_SCAR_20_Black,		W,		16500,	6500
 		TF_SCAR_20_Shd,			W,		16500,	6500
 		TF_SCAR_H_FDE,			W,		16500,	6500
 		TF_SCAR_H_Black,		W,		16500,	6500
 		TF_SCAR_H_CQC_FDE,		W,		16500,	6500
-		TF_SCAR_H_CQC_Black,	W,		16500,	6500
+		TF_SCAR_H_CQC_Black,		W,		16500,	6500
+		CC_AR,				W,		15000,	5000
+		CC_G3,				W,		16500,	4500
+		CC_Ma37,			W,		30000,	7500
 
 	<Category> Shotguns
-		Saiga,					W,		4500,	3750
+		Saiga,				W,		4500,	3750
+		CC_Benelli,			W,		5500,	4000
+		CC_Magshotgun,			W,		7500,	4500
+		CC_Spas,			W,		5500,	4000
+	
+	<Category> SMGs
+		CC_Vector,				W,		4500,	3750
+		CC_MPX,					W,		4500,	3750
 		
 	<Category> Sniper Rifles
 		ASVAL,					W,		9500,	1500
 		VSS,					W,		9500,	1500
 		SVD,					W,		11500,	2000
-		TF_MAR10,			    W,		22500,	9500
-		TF_M14_DMR,			    W,		17500,	6500
-		TF_M14_EBR,			    W,		17500,	6500
-		TF_M14_STD,			    W,		17500,	6500
-		TF_SVCh308,			    W,		17500,	6500
-		TF_SVCh,			    W,		17500,	6500
-		TF_SR25,			    W,		17500,	6500
-		TF_Anzio20,			    W,		-1,		89000
+		TF_MAR10,			    	W,		22500,	9500
+		TF_M14_DMR,			    	W,		17500,	6500
+		TF_M14_EBR,			    	W,		17500,	6500
+		TF_M14_STD,			    	W,		17500,	6500
+		TF_SVCh308,			    	W,		17500,	6500
+		TF_SVCh,			    	W,		17500,	6500
+		TF_SR25,			    	W,		17500,	6500
+		TF_Anzio20,			    	W,		-1,	89000
+		CC_Barrett,			    	W,		35000,	9000
+		CC_DVL10,			    	W,		17500,	6500
+		CC_Ion,			    		W,		25000,	8000
+		CC_Showstopper,			    	W,		17500,	6500
+		CC_Ssk,			    		W,		30000,	8500
+		CC_Torx,			    	W,		19500,	7000
+		CC_PSG1,			    	W,		17500,	6500
 
 	<Category> Light Machine Guns
-		TF_AEK999,			    W,		19500,	7000
-		TF_M240,			    W,		19500,	7000
-		TF_M249,			    W,		19500,	7000
-		TF_PKM,			        W,		19500,	7000
-		TF_PKP,			        W,		19500,	7250
+		TF_AEK999,			    	W,		19500,	7000
+		TF_M240,			    	W,		19500,	7000
+		TF_M249,			    	W,		19500,	7000
+		TF_PKM,			        	W,		19500,	7000
+		TF_PKP,			        	W,		19500,	7250
+		CC_Mg42,			        W,		19500,	7250
 		
 	<Category> Heavy Munitions
 		TF_M79,			        W,		22500,	4250
@@ -2941,33 +3024,40 @@
 		Darksaber_Retracted,						*,		75000,	40000
 
 	<Category> Ammunition
-		TF_Ammo_20mm,		    					*,		4000,		1000
+		TF_Ammo_20mm,		    						*,		4000,		1000
 		TF_Ammo_20mm_HE,							*,		4000,		1000
 		TF_Ammo_57,		        					*,		2000,		450
-		TF_Ammo_338LM,		    					*,		2500,		750
-		Ammo_380,									1,		10,			1
-		Ammo_9x19,									1,		11,			2
-		Ammo_22,									1,		10,			1
-		Ammo_45ACP,									1,		12,			2
-		Ammo_12gaPellets,							1,		20,			1
-		Ammo_12gaSlug,								1,		30,			2
-		Ammo_9x39,									1,		35,			3
-		Ammo_9x39AP,								1,		50,			4
-		Ammo_357,									1,		35,			3
-		Ammo_308Win,								1,		50,			5
-		Ammo_545x39,								1,		35,			3
-		Ammo_556x45,								1,		40,			3
-		Ammo_762x39,								1,		40,			3
-		Ammo_762x54,								1,		45,			6		
-		Ammo_556x45Tracer,							1,		40,			4
-		Ammo_545x39Tracer,							1,		40,			3
-		Ammo_308WinTracer,							1,		50,			5
-		Ammo_762x39Tracer,							1,		40,			3
-		Ammo_Flare,									1,		150,		20
-	    Ammo_FlareBlue,								1,		150,		20
-	    Ammo_FlareGreen,							1,		150,		20
-	    Ammo_FlareRed,								1,		150,		20
-		Ammo_762x54Tracer,							1,		45,			6		
+		TF_Ammo_338LM,		    						*,		2500,		750
+		Ammo_380,								1,		10,		1
+		Ammo_9x19,								1,		11,		2
+		Ammo_22,								1,		10,		1
+		Ammo_45ACP,								1,		12,		2
+		Ammo_12gaPellets,							1,		20,		1
+		Ammo_12gaSlug,								1,		30,		2
+		Ammo_9x39,								1,		35,		3
+		Ammo_9x39AP,								1,		50,		4
+		Ammo_357,								1,		35,		3
+		Ammo_308Win,								1,		50,		5
+		Ammo_545x39,								1,		35,		3
+		Ammo_556x45,								1,		40,		3
+		Ammo_762x39,								1,		40,		3
+		Ammo_762x54,								1,		45,		6		
+		Ammo_556x45Tracer,							1,		40,		4
+		Ammo_545x39Tracer,							1,		40,		3
+		Ammo_308WinTracer,							1,		50,		5
+		Ammo_762x39Tracer,							1,		40,		3
+		Ammo_Flare,								1,		150,		20
+	    	Ammo_FlareBlue,								1,		150,		20
+	    	Ammo_FlareGreen,							1,		150,		20
+	    	Ammo_FlareRed,								1,		150,		20
+		Ammo_762x54Tracer,							1,		45,		6
+		Bullet_CC_Ion_Ammo,							1,		50,		10
+		Bullet_CC_44_Ammo,							1,		50,			2
+		Bullet_CC_50cal_Ammo,							1,		3000,			750
+		Bullet_CC_65Carcano_Ammo,						1,		50,			2
+		Bullet_CC_50AE_Ammo,							1,		65,			3
+		Bullet_CC_Ssk_Ammo,							1,		2500,			500
+		Bullet_CC_3006_Ammo,							1,		50,			2
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
@@ -2979,7 +3069,7 @@
 		AmmoBox_22_50Rnd,							*,		600,		20
 		AmmoBox_00buck_10rnd,						*,		240,		10
 		AmmoBox_12gaSlug_10Rnd,						*,		320,		20
-		AmmoBox_12gaRubberSlug_10Rnd,				*,		200,		15
+		AmmoBox_12gaRubberSlug_10Rnd,					*,		200,		15
 		AmmoBox_9x39_20Rnd,							*,		320,		20
 		AmmoBox_9x39AP_20Rnd,						*,		800,		60
 		AmmoBox_357_20Rnd,							*,		800,		60
@@ -2993,6 +3083,13 @@
 		AmmoBox_556x45Tracer_20Rnd,					*,		1600,		80
 		AmmoBox_762x39Tracer_20Rnd,					*,		1600,		80
 		AmmoBox_762x54Tracer_20Rnd,					*,		2000,		200
+		CC_Ion_Ammo,							*,		5000,		1000
+		CC_44_Ammo,							*,		1000,		100
+		CC_50cal_Ammo,							*,		30000,		7500
+		CC_65Carcano_Ammo,						*,		800,		60
+		CC_50AE_Ammo,							*,		1300,		120
+		CC_Ssk_Ammo,							*,		25000,		5000
+		CC_3006_Ammo,							*,		800,		60
 				
 	<Category> Magazines
 		Mag_IJ70_8Rnd,			M,		30,		15
@@ -3005,29 +3102,45 @@
 		Mag_CZ527_5rnd,			M,		100,		50
 		Mag_Scout_5Rnd,			M,		100,		50
 		Mag_SSG82_5rnd,			M,		100,		50
-		Mag_CZ61_20Rnd,			M,		100,	50
-		Mag_CZ550_10Rnd,		M,		100,	50
-		Mag_UMP_25Rnd,			M,		150,	75
-		Mag_MP5_30Rnd,			M,		200,	100
-		Mag_FAL_20Rnd,			M,		100,	50
-		Mag_Saiga_5Rnd,			M,		100,	50
-		Mag_Saiga_8Rnd,			M,		220,	60
-		Mag_Saiga_Drum20Rnd,	M,		480,	110
-		Mag_AKM_30Rnd,			M,		220,	110
-		Mag_AKM_Palm30Rnd,		M,		220,	110
-		Mag_AKM_Drum75Rnd,		M,		480,	220
-		Mag_AK101_30Rnd,		M,		220,	110
-		Mag_AK74_30Rnd,			M,		220,	110
-		Mag_STANAG_30Rnd,		M,		220,	110
-		Mag_STANAGCoupled_30Rnd,M,		480,	130
-		Mag_STANAG_60Rnd,		M,		580,	220
-		Mag_CMAG_10Rnd,			M,		120,	60
-		Mag_CMAG_20Rnd,			M,		180,	80
-		Mag_CMAG_30Rnd,			M,		220,	110
-		Mag_CMAG_40Rnd,			M,		300,	150
-		Mag_VSS_10Rnd,			M,		220,	110
-		Mag_SVD_10Rnd,			M,		250,	125
-		Mag_308WinSnaploader_2Rnd,		M,		250,	125
+		Mag_CZ61_20Rnd,			M,		100,		50
+		Mag_CZ550_10Rnd,		M,		100,		50
+		Mag_UMP_25Rnd,			M,		150,		75
+		Mag_MP5_30Rnd,			M,		200,		100
+		Mag_FAL_20Rnd,			M,		100,		50
+		Mag_Saiga_5Rnd,			M,		100,		50
+		Mag_Saiga_8Rnd,			M,		220,		60
+		Mag_Saiga_Drum20Rnd,		M,		480,		110
+		Mag_AKM_30Rnd,			M,		220,		110
+		Mag_AKM_Palm30Rnd,		M,		220,		110
+		Mag_AKM_Drum75Rnd,		M,		480,		220
+		Mag_AK101_30Rnd,		M,		220,		110
+		Mag_AK74_30Rnd,			M,		220,		110
+		Mag_STANAG_30Rnd,		M,		220,		110
+		Mag_STANAGCoupled_30Rnd,	M,		480,		130
+		Mag_STANAG_60Rnd,		M,		580,		220
+		Mag_CMAG_10Rnd,			M,		120,		60
+		Mag_CMAG_20Rnd,			M,		180,		80
+		Mag_CMAG_30Rnd,			M,		220,		110
+		Mag_CMAG_40Rnd,			M,		300,		150
+		Mag_VSS_10Rnd,			M,		220,		110
+		Mag_SVD_10Rnd,			M,		250,		125
+		Mag_308WinSnaploader_2Rnd,	M,		250,		125
+		CC_Mg42_Mag,			M,		4500,		450
+		CC_93R_Mag,								M,		100,		50
+		CC_Barrett_Mag,								M,		5000,		1000
+		CC_ClaudiaPistol_Mag,							M,		40,		20
+		CC_Deserteagle_Mag,							M,		200,		100
+		CC_DVL10_Mag,								M,		300,		150
+		CC_G3_Mag,								M,		300,		150
+		CC_Mac10_Mag,								M,		100,		50
+		CC_magshotgun_Mag,							M,		500,		250
+		CC_Mors_Mag,								M,		100,		50
+		CC_Salesmanpistol_Mag,							M,		100,		50
+		CC_Thompson_Mag,							M,		300,		150
+		CC_Automag_Mag,								M,		200,		100
+		CC_Torx_Mag,								M,		300,		150
+		CC_VP70_Mag,								M,		40,		20
+		CC_Vector_Mag,								M,		300,		150
 
 	<Category> TF Magazines
 		TF_Mag_OTs_14_Groza_20Rnd,			        M,		1500,		250
