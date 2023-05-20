@@ -537,7 +537,7 @@
 		<value name="Tier4"/>
 	</type>
 	<type name="CC_Ion">
-		<nominal>1</nominal>
+		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>60</restock>
 		<min>1</min>
