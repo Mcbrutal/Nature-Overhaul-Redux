@@ -94,7 +94,7 @@
             "dna_Suppressor": "TF_AK_PBS1Suppressor",
             "dna_UnderBarrel": "",
             "dna_ButtStock": "AK_PlasticBttstck_Black",
-            "dna_HandGuard": "TF_AKS74U_ZenitB11PlasticHndgrd_RIS",
+            "dna_HandGuard": "TF_AK_ZenitB30B31Hndgrd_RIS",
             "dna_Wrap": ""
         },
         {
@@ -107,7 +107,7 @@
             "dna_Suppressor": "",
             "dna_UnderBarrel": "TF_AFG_RIS_Grip_Black",
             "dna_ButtStock": "",
-            "dna_HandGuard": "AK_RailHndgrd_Black",
+            "dna_HandGuard": "TF_AK_ZenitB30B31Hndgrd_RIS",
             "dna_Wrap": ""
         },
         {
