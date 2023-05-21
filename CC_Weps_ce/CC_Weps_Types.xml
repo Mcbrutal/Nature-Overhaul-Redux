@@ -597,14 +597,12 @@
 		<lifetime>3600</lifetime>
 		<restock>60</restock>
 		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>0</quantmin>
+		<quantmax>0</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="weapons"/>
-		<usage name="Military"/>
-		<value name="Tier3"/>
-		<value name="Tier4"/>
+
 	</type>
 	<type name="CC_Showstopper">
 		<nominal>4</nominal>
@@ -636,18 +634,16 @@
 	</type>
 	<!-- Goof Guns -->
 	<type name="CC_Watergun">
-		<nominal>4</nominal>
+		<nominal>0</nominal>
 		<lifetime>3600</lifetime>
 		<restock>60</restock>
-		<min>3</min>
+		<min>0</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="weapons"/>
-		<usage name="Farm"/>
-		<usage name="Town"/>
-		<usage name="Village"/>
+
 	</type>
 	<!-- Ammo -->
 	<type name="CC_3006_Ammo">
@@ -945,10 +941,9 @@
 		<quantmin>0</quantmin>
 		<quantmax>0</quantmax>
 		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="weapons"/>
-		<tag name="shelves"/>
-		<usage name="Military"/>
+
 	</type>
 	<type name="CC_PSG1_Mag">
 		<nominal>4</nominal>
