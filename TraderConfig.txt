@@ -4542,7 +4542,7 @@
 		SIBUH1D_bladem2,		            *,		500,		180
 		
 	<Category> Blue Air Force UH1D
-		HelicopterSIB_UH1D_new1
+		HeliSIB_UH1D_new1
 		SIBUH1D_Door_1_1_new1,		        *,		500,		180
 		SIBUH1D_Door_1_2_new1,		        *,		500,		180
 		SIBUH1D_Door_2_1_new1,		        *,		500,		180
@@ -4575,7 +4575,7 @@
 		SIBUH1D_bladem2,		            *,		500,		180
 		
 	<Category> Vietnam Transport UH1D
-		HelicopterSIB_UH1D_Vietnam,		    V,		1000000,	550000
+		HeliSIB_UH1D_Vietnam,		    V,		1000000,	550000
 		SIBUH1D_Door_1_1_Vietnam,		    *,		500,		180
 		SIBUH1D_Door_1_2_Vietnam,		    *,		500,		180
 		SIBUH1D_Door_2_1_Vietnam,		    *,		500,		180
@@ -4585,7 +4585,7 @@
 		SIBUH1D_bladem2,		            *,		500,		180
 		
 	<Category> Vietnam Medic UH1D
-		UH1D_medic,		            		V,		1000000,	550000
+		HeliSIB_UH1D_medic,		            		V,		1000000,	550000
 		SIBUH1D_Door_1_1_medic,		    	*,		500,		180
 		SIBUH1D_Door_1_2_medic,		    	*,		500,		180
 		SIBUH1D_Door_2_1_medic,		    	*,		500,		180
@@ -4616,7 +4616,7 @@
 		sibmh6_bladem2,		            	*,		500,		180
 		
 	<Category> Navy MH6
-		helicoptersib_mh-6_SaltLyfe,		V,		1650000,	825000
+		HeliMH6_SIB_SaltLyfe,				V,		1650000,	825000
 		sibmh6_blade1,		                *,		500,		180
 		sibmh6_blade2,		                *,		500,		180
 		sibmh6_blade3,		                *,		500,		180
@@ -4636,7 +4636,7 @@
 		sibmh6_bladem2,		            	*,		500,		180
 		
 	<Category> Skull MH6
-		helicoptersib_mh-6_vipskull,		V,		1700000,	850000
+		HeliMH6_SIB_vipskull,				V,		1700000,	850000
 		sibmh6_blade1,		                *,		500,		180
 		sibmh6_blade2,		                *,		500,		180
 		sibmh6_blade3,		                *,		500,		180
@@ -4672,7 +4672,7 @@
 		SIBec135_impeller2,		        	*,		500,		180
 		
 	<Category> Black n Blue EC135
-		HelicopterSIB_EC135_new1,		    V,		1400000,	700000
+		HeliSIB_EC135_new1,		    V,		1400000,	700000
 		SIBec135_Door_1_1_new1,		    	*,		500,		180
 		SIBec135_Door_1_2_new1,		    	*,		500,		180
 		SIBec135_Door_2_1_new1,		    	*,		500,		180
