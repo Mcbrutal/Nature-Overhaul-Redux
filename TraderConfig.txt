@@ -1673,22 +1673,22 @@
 		TrafficCone,					*,		520,	200
 		
 	<Category> Vanilla Vehicles
-		OffroadHatchback,					V,		14000,	8000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
-		OffroadHatchback_Blue,				V,		14000,	8000
-		OffroadHatchback_White,				V,		14000,	8000
-		Hatchback_02,						V,		16000,	9600
-		Hatchback_02_Blue,					V,		16000,	9600
-		Hatchback_02_Black,					V,		16000,	9600
-		Sedan_02,							V,		18000,	10200
-		Sedan_02_Red,						V,		18000,	10200
-		Sedan_02_Grey,						V,		18000,	10200
-		CivilianSedan,						V,		20000,	11000
-		CivilianSedan_Wine,					V,		20000,	11000
-		CivilianSedan_Black,				V,		20000,	11000
-		Truck_01_Covered,					V,		80000,	65000
-        Truck_01_Covered_Blue,				V,		80000,	65000
-        Truck_01_Covered_Orange,			V,		80000,	65000
-		Offroad_02,             			V,		90000,	75000
+		OffroadHatchback,					VNK,		14000,	8000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
+		OffroadHatchback_Blue,				VNK,		14000,	8000
+		OffroadHatchback_White,				VNK,		14000,	8000
+		Hatchback_02,						VNK,		16000,	9600
+		Hatchback_02_Blue,					VNK,		16000,	9600
+		Hatchback_02_Black,					VNK,		16000,	9600
+		Sedan_02,							VNK,		18000,	10200
+		Sedan_02_Red,						VNK,		18000,	10200
+		Sedan_02_Grey,						VNK,		18000,	10200
+		CivilianSedan,						VNK,		20000,	11000
+		CivilianSedan_Wine,					VNK,		20000,	11000
+		CivilianSedan_Black,				VNK,		20000,	11000
+		Truck_01_Covered,					VNK,		80000,	65000
+        Truck_01_Covered_Blue,				VNK,		80000,	65000
+        Truck_01_Covered_Orange,			VNK,		80000,	65000
+		Offroad_02,             			VNK,		90000,	75000
 	
 	<Category> Vanilla Vehicle Parts
 		HeadlightH7_Box,					*,		30,		15
@@ -4471,14 +4471,14 @@
 		ADM_JetPack_Green,              *,    -1,  45000
 
 	<Category> Gyro Homemade
-		HeliSIB_hommade,		            V,		600000,		300000
+		HeliSIB_hommade,		            VNK,		600000,		300000
 		hommade_blade1,		            	*,		500,		180
 		hommade_blade2,		            	*,		500,		180
 		hommade_bladem1,		            *,		500,		180
 		hommade_bladem2,		            *,		500,		180
 		
 	<Category> Police 505
-		Helipolice_SIB4,		            V,		1300000,	650000
+		Helipolice_SIB4,		            VNK,		1300000,	650000
 		SIBPolice_Door_1_1,		        	*,		500,		180
 		SIBPolice_Door_1_2,		        	*,		500,		180
 		SIBPolice_Door_2_1,		        	*,		500,		180
@@ -4491,7 +4491,7 @@
 		SIBPolice_bladem2,		            *,		500,		180
 		
 	<Category> Swat 505
-		Helipolice_swat_SIB5,		        V,		1300000,	650000
+		Helipolice_swat_SIB5,		        VNK,		1300000,	650000
 		SIBPolice_Door_1_1_swat,	        *,		500,		180
 		SIBPolice_Door_1_2_swat,	        *,		500,		180
 		SIBPolice_Door_2_1_swat,	        *,		500,		180
@@ -4504,7 +4504,7 @@
 		SIBPolice_bladem2,		            *,		500,		180
 		
 	<Category> Zombie Hunter 505
-		ZombieZone_Heli,		            V,		1400000,	700000
+		ZombieZone_Heli,		            VNK,		1400000,	700000
 		SIBPolice_Door_1_1_ZombieZone,		*,		500,		180
 		SIBPolice_Door_1_2_ZombieZone,		*,		500,		180
 		SIBPolice_Door_2_1_ZombieZone,		*,		500,		180
@@ -4517,7 +4517,7 @@
 		SIBPolice_bladem2,		            *,		500,		180
 		
 	<Category> Iroquois UH1D
-		HeliSIB_UH1D,		                V,		1000000,	550000
+		HeliSIB_UH1D,		                VNK,		1000000,	550000
 		SIBUH1D_Door_1_1,		            *,		500,		180
 		SIBUH1D_Door_1_2,		            *,		500,		180
 		SIBUH1D_Door_2_1,		            *,		500,		180
@@ -4528,7 +4528,7 @@
 		SIBUH1D_bladem2,		            *,		500,		180
 		
 	<Category> Yellow Air Force UH1D
-		HeliSIB_UH1D_airforce,		        V,		1000000,	550000
+		HeliSIB_UH1D_airforce,		        VNK,		1000000,	550000
 		SIBUH1D_Door_1_1_airforce,		    *,		500,		180
 		SIBUH1D_Door_1_2_airforce,		    *,		500,		180
 		SIBUH1D_Door_2_1_airforce,		    *,		500,		180
@@ -4539,7 +4539,7 @@
 		SIBUH1D_bladem2,		            *,		500,		180
 		
 	<Category> Blue Air Force UH1D
-		HeliSIB_UH1D_new1
+		HeliSIB_UH1D_new1,		        	VNK,		1000000,	550000
 		SIBUH1D_Door_1_1_new1,		        *,		500,		180
 		SIBUH1D_Door_1_2_new1,		        *,		500,		180
 		SIBUH1D_Door_2_1_new1,		        *,		500,		180
@@ -4550,7 +4550,7 @@
 		SIBUH1D_bladem2,		            *,		500,		180
 		
 	<Category> Iron Medic UH1D
-		HeliSIB_UH1D_iron,		            V,		1000000,	550000
+		HeliSIB_UH1D_iron,		            VNK,		1000000,	550000
 		SIBUH1D_Door_1_1_iron,		        *,		500,		180
 		SIBUH1D_Door_1_2_iron,		        *,		500,		180
 		SIBUH1D_Door_2_1_iron,		        *,		500,		180
@@ -4561,7 +4561,7 @@
 		SIBUH1D_bladem2,		            *,		500,		180
 		
 	<Category> Navy UH1D
-		HeliSIB_UH1D_navy,		            V,		1000000,	550000
+		HeliSIB_UH1D_navy,		            VNK,		1000000,	550000
 		SIBUH1D_Door_1_1_navy,		        *,		500,		180
 		SIBUH1D_Door_1_2_navy,		        *,		500,		180
 		SIBUH1D_Door_2_1_navy,		        *,		500,		180
@@ -4572,7 +4572,7 @@
 		SIBUH1D_bladem2,		            *,		500,		180
 		
 	<Category> Vietnam Transport UH1D
-		HeliSIB_UH1D_Vietnam,		    V,		1000000,	550000
+		HeliSIB_UH1D_Vietnam,		    	VNK,		1000000,	550000
 		SIBUH1D_Door_1_1_Vietnam,		    *,		500,		180
 		SIBUH1D_Door_1_2_Vietnam,		    *,		500,		180
 		SIBUH1D_Door_2_1_Vietnam,		    *,		500,		180
@@ -4582,7 +4582,7 @@
 		SIBUH1D_bladem2,		            *,		500,		180
 		
 	<Category> Vietnam Medic UH1D
-		HeliSIB_UH1D_medic,		            		V,		1000000,	550000
+		HeliSIB_UH1D_medic,		            VNK,		1000000,	550000
 		SIBUH1D_Door_1_1_medic,		    	*,		500,		180
 		SIBUH1D_Door_1_2_medic,		    	*,		500,		180
 		SIBUH1D_Door_2_1_medic,		    	*,		500,		180
@@ -4593,7 +4593,7 @@
 		SIBUH1D_bladem2,		            *,		500,		180
 		
 	<Category> Civillian MH6
-		HeliMH6_SIB,		                V,		1600000,	750000
+		HeliMH6_SIB,		                VNK,		1600000,	750000
 		sibmh6_blade1,		                *,		500,		180
 		sibmh6_blade2,		                *,		500,		180
 		sibmh6_blade3,		                *,		500,		180
@@ -4603,7 +4603,7 @@
 		sibmh6_bladem2,		            	*,		500,		180
 		
 	<Category> Galaxy MH6
-		BZKheli_Galaxy_MH6,		            V,		1700000,	850000
+		BZKheli_Galaxy_MH6,		            VNK,		1700000,	850000
 		sibmh6_blade1,		                *,		500,		180
 		sibmh6_blade2,		                *,		500,		180
 		sibmh6_blade3,		                *,		500,		180
@@ -4613,7 +4613,7 @@
 		sibmh6_bladem2,		            	*,		500,		180
 		
 	<Category> Navy MH6
-		HeliMH6_SIB_SaltLyfe,				V,		1650000,	825000
+		HeliMH6_SIB_SaltLyfe,				VNK,		1650000,	825000
 		sibmh6_blade1,		                *,		500,		180
 		sibmh6_blade2,		                *,		500,		180
 		sibmh6_blade3,		                *,		500,		180
@@ -4623,7 +4623,7 @@
 		sibmh6_bladem2,		            	*,		500,		180
 		
 	<Category> Apocalypse MH6
-		BZKheli_MH6,		                V,		1600000,	750000
+		BZKheli_MH6,		                VNK,		1600000,	750000
 		sibmh6_blade1,		                *,		500,		180
 		sibmh6_blade2,		                *,		500,		180
 		sibmh6_blade3,		                *,		500,		180
@@ -4633,7 +4633,7 @@
 		sibmh6_bladem2,		            	*,		500,		180
 		
 	<Category> Skull MH6
-		HeliMH6_SIB_vipskull,				V,		1700000,	850000
+		HeliMH6_SIB_vipskull,				VNK,		1700000,	850000
 		sibmh6_blade1,		                *,		500,		180
 		sibmh6_blade2,		                *,		500,		180
 		sibmh6_blade3,		                *,		500,		180
@@ -4643,7 +4643,7 @@
 		sibmh6_bladem2,		            	*,		500,		180
 		
 	<Category> Medic EC135
-		Heliec135_SIB,		                V,		1400000,	700000
+		Heliec135_SIB,		                VNK,		1400000,	700000
 		SIBec135_Door_1_1,		            *,		500,		180
 		SIBec135_Door_1_2,		            *,		500,		180
 		SIBec135_Door_2_1,		            *,		500,		180
@@ -4656,7 +4656,7 @@
 		SIBec135_impeller2,		        	*,		500,		180
 		
 	<Category> Medic Hell EC135
-		Heliec135_SIB_hell,		        	V,		1450000,	700000
+		Heliec135_SIB_hell,		        	VNK,		1450000,	700000
 		SIBec135_Door_1_1_hell,		    	*,		500,		180
 		SIBec135_Door_1_2_hell,		    	*,		500,		180
 		SIBec135_Door_2_1_hell,		    	*,		500,		180
@@ -4669,7 +4669,7 @@
 		SIBec135_impeller2,		        	*,		500,		180
 		
 	<Category> Black n Blue EC135
-		HeliSIB_EC135_new1,		    V,		1400000,	700000
+		HeliSIB_EC135_new1,		    		VNK,		1400000,	700000
 		SIBec135_Door_1_1_new1,		    	*,		500,		180
 		SIBec135_Door_1_2_new1,		    	*,		500,		180
 		SIBec135_Door_2_1_new1,		    	*,		500,		180
@@ -4682,7 +4682,7 @@
 		SIBec135_impeller2,		        	*,		500,		180
 		
 	<Category> Black Hawk
-		Heliblack_hawk_SIB,		        	V,		1500000,	750000
+		Heliblack_hawk_SIB,		        	VNK,		1500000,	750000
 		SIBblack_hawk_Door_1_1,		    	*,		500,		180
 		SIBblack_hawk_Door_1_2,		    	*,		500,		180
 		SIBblack_hawk_Door_2_1,		    	*,		500,		180
@@ -4697,7 +4697,7 @@
 		SIBblack_hawk_bladem4,		        *,		500,		180
 		
 	<Category> Black Hawk Camo
-		Heliblack_hawk_SIB_camo,	        V,		1500000,	750000
+		Heliblack_hawk_SIB_camo,	        VNK,		1500000,	750000
 		SIBblack_hawk_Door_1_1_camo,		*,		500,		180
 		SIBblack_hawk_Door_1_2_camo,		*,		500,		180
 		SIBblack_hawk_Door_2_1_camo,		*,		500,		180
@@ -4712,7 +4712,7 @@
 		SIBblack_hawk_bladem4,		        *,		500,		180
 		
 	<Category> Mil Mi-17
-		HeliMI17_SIB,		                V,		2000000,	1000000
+		HeliMI17_SIB,		                VNK,		2000000,	1000000
 		MI17_blade1,		                *,		500,		180
 		MI17_blade2,		                *,		500,		180
 		MI17_blade3,		                *,		500,		180
