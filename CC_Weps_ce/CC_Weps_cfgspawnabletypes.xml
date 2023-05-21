@@ -6,9 +6,13 @@
 	<type name="CC_AR">
 		<attachments chance="0.20">
 			<item name="ACOGOptic" chance="0.30" />
-			<item name="HuntingOptic" chance="0.10" />
+			<item name="ReflexOptic" chance="0.30" />
+			<item name="M4_T3NRDSOptic" chance="0.30" />
+			<item name="M68Optic" chance="0.30" />
+			<item name="BUISOptic" chance="0.30" />
+			<item name="M4_CarryHandleOptic" chance="0.30" />
 		</attachments>
-		<attachments chance="0.20">
+		<attachments chance="0.25">
 			<item name="Mag_CMAG_40Rnd" chance="0.30" />
 			<item name="Mag_STANAG_30Rnd" chance="0.70" />
 		</attachments>
