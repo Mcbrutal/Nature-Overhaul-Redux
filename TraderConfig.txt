@@ -636,8 +636,8 @@
 		Mag_CZ527_5rnd,								M,		60,		30
 		Mag_CZ550_4rnd,								M,		60,		30
 		Mag_CZ550_10rnd,							M,		100,		50
-		Mag_Ruger1022_15Rnd,						M,		30,		15
-		Mag_Ruger1022_30Rnd,						M,		30,		15
+		Mag_Ruger1022_15Rnd,							M,		30,		15
+		Mag_Ruger1022_30Rnd,							M,		30,		15
 		Mag_CZ61_20Rnd,								M,		100,		50
 		Mag_UMP_25Rnd,								M,		150,		75
 		Mag_MP5_30Rnd,								M,		200,		100
@@ -646,24 +646,23 @@
 		Mag_SSG82_5rnd,								M,		100,		50
 		Mag_Scout_5Rnd,								M,		100,		50
 		Mag_Saiga_8Rnd,								M,		220,		60
-		Mag_Saiga_Drum20Rnd,						M,		480,		110
+		Mag_Saiga_Drum20Rnd,							M,		480,		110
 		Mag_AKM_30Rnd,								M,		220,		110
 		Mag_AKM_Palm30Rnd,							M,		220,		110
 		Mag_AKM_Drum75Rnd,							M,		5000,		250
 		Mag_AK101_30Rnd,							M,		220,		110
 		Mag_Aug_30Rnd,								M,		220,		110
 		Mag_AK74_30Rnd,								M,		220,		110
-		Mag_AK74_30Rnd_Black,				M,		220,		110
-		Mag_AK74_30Rnd_Green,				M,		220,		110
-		Mag_AK74_45Rnd,					M,		300,		150
+		Mag_AK74_45Rnd,								M,		300,		150
 		Mag_VAL_20Rnd,								M,		100,		50
 		Mag_STANAG_30Rnd,							M,		220,		110
-		Mag_STANAGCoupled_30Rnd,					M,		480,		130
+		Mag_STANAGCoupled_30Rnd,						M,		480,		130
 		Mag_STANAG_60Rnd,							M,		2500,		250
 		Mag_CMAG_10Rnd,								M,		120,		60
 		Mag_CMAG_20Rnd,								M,		180,		80
 		Mag_CMAG_30Rnd,								M,		220,		110
 		Mag_CMAG_40Rnd,								M,		300,		150
+		Mag_Aug_30Rnd,							M,		220,		110
 		Mag_PP19_64Rnd,								M,		300,		150
 		Mag_VSS_10Rnd,								M,		220,		110
 		Mag_SVD_10Rnd,								M,		250,		125
@@ -3120,8 +3119,6 @@
 		Mag_AKM_Drum75Rnd,		M,		480,		220
 		Mag_AK101_30Rnd,		M,		220,		110
 		Mag_AK74_30Rnd,			M,		220,		110
-		Mag_AK74_30Rnd_Black,			M,		220,		110
-		Mag_AK74_30Rnd_Green,			M,		220,		110
 		Mag_AK74_45Rnd,			M,		300,		150
 		Mag_STANAG_30Rnd,		M,		220,		110
 		Mag_STANAGCoupled_30Rnd,	M,		480,		130
