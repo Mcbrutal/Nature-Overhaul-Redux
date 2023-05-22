@@ -4440,14 +4440,14 @@
 		CP_CigarettePack_CannabisBlackFrost,			*,		3430,	1715
 
 	<Category> Cannabis Bags
-		CP_CannabisBagSkunk,						1,		125,	62
-		CP_CannabisBagBlue,						1,		156,	78
-		CP_CannabisBagKush,						1,		187,	93
-		CP_CannabisBagStardawg,						1,		218,	109
-		CP_CannabisBagFuture,						1,		250,	125
-		CP_CannabisBagS1,						1,		281,	140
-		CP_CannabisBagNomad,						1,		312,	156
-		CP_CannabisBagBlackFrost,					1,		343,	171
+		CP_CannabisBagSkunk,						1,		312,	62
+		CP_CannabisBagBlue,						1,		781,	78
+		CP_CannabisBagKush,						1,		1156,	93
+		CP_CannabisBagStardawg,						1,		1718,	109
+		CP_CannabisBagFuture,						1,		2187,	125
+		CP_CannabisBagS1,						1,		4062,	140
+		CP_CannabisBagNomad,						1,		4687,	156
+		CP_CannabisBagBlackFrost,					1,		7187,	171
 
 	<Category> Cannabis Bricks
 		CP_CannabisBrickSkunk,						1,		10000,	5000
@@ -4456,7 +4456,7 @@
 		CP_CannabisBrickStardawg,					1,		42500,	27500
 		CP_CannabisBrickFuture,						1,		55000,	35000
 		CP_CannabisBrickS1,						1,		150000,	65000
-		CP_CannabisBrickNomad,						1,		150000,	65000
+		CP_CannabisBrickNomad,						1,		150000,	75000
 		CP_CannabisBrickBlackFrost,					1,		225000,	115000
 
 <Trader> Heli Trader
