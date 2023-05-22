@@ -479,7 +479,6 @@
 		Repeater,              						W,		3250,		1250
 		SKS,                   						W,		8500,		3500
 		Ruger1022,             						W,		1750,		500
-		Trumpet,             						W,		1750,		500
 		TF_VPO136,			    					W,		6750,		3000
 		TF_VPO190,			   						W,		6500,		2750
 		CC_Carcano,                 				W,		10000,		3500
@@ -496,7 +495,6 @@
 		UMP45,										W,		3750,		1750
 		PP19,										W,		3250,		1500
 		MP5K,										W,		3250,		1500
-		PM73Rak,										W,		3250,		1500
 		AKS74U,										W,		4000,		2000
 		AKS74U_Black,								W,		4000,		2000
 		AKS74U_Green,								W,		4000,		2000
@@ -644,8 +642,6 @@
 		Mag_UMP_25Rnd,								M,		150,		75
 		Mag_MP5_30Rnd,								M,		200,		100
 		Mag_MP5_15Rnd,								M,		100,		50
-		Mag_PM73_25Rnd,								M,		200,		100
-		Mag_PM73_15Rnd,								M,		100,		50
 		Mag_FAL_20Rnd,								M,		100,		50
 		Mag_Saiga_5Rnd,								M,		100,		50
 		Mag_SSG82_5rnd,								M,		100,		50
@@ -3132,8 +3128,6 @@
 		Mag_UMP_25Rnd,			M,		150,		75
 		Mag_MP5_30Rnd,			M,		200,		100
 		Mag_MP5_15Rnd,			M,		100,		50
-		Mag_PM73_25Rnd,			M,		200,		100
-		Mag_PM73_15Rnd,			M,		100,		50
 		Mag_FAL_20Rnd,			M,		100,		50
 		Mag_Saiga_5Rnd,			M,		100,		50
 		Mag_Saiga_8Rnd,			M,		220,		60
