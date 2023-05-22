@@ -641,6 +641,7 @@
 		Mag_CZ61_20Rnd,								M,		100,		50
 		Mag_UMP_25Rnd,								M,		150,		75
 		Mag_MP5_30Rnd,								M,		200,		100
+		Mag_MP5_15Rnd,								M,		100,		50
 		Mag_FAL_20Rnd,								M,		100,		50
 		Mag_Saiga_5Rnd,								M,		100,		50
 		Mag_SSG82_5rnd,								M,		100,		50
@@ -3126,6 +3127,7 @@
 		Mag_CZ550_10Rnd,		M,		100,		50
 		Mag_UMP_25Rnd,			M,		150,		75
 		Mag_MP5_30Rnd,			M,		200,		100
+		Mag_MP5_15Rnd,			M,		100,		50
 		Mag_FAL_20Rnd,			M,		100,		50
 		Mag_Saiga_5Rnd,			M,		100,		50
 		Mag_Saiga_8Rnd,			M,		220,		60
