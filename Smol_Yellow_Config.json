@@ -189,6 +189,45 @@
             "dna_Wrap": ""
         },
         {
+            "dna_TheChosenOne": "CC_KokiesKimber",
+            "dna_Magazine": "CC_Salesmanpistol_Mag",
+            "dna_SpareMagCount": 5,
+            "dna_Ammunition": "AmmoBox_45ACP_25rnd",
+            "dna_SpareAmmoCount": 5,
+            "dna_OpticType": "",
+            "dna_Suppressor": "",
+            "dna_UnderBarrel": "",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "",
+            "dna_Wrap": ""
+        },
+        {
+            "dna_TheChosenOne": "CC_TFK",
+            "dna_Magazine": "CC_Salesmanpistol_Mag",
+            "dna_SpareMagCount": 5,
+            "dna_Ammunition": "AmmoBox_45ACP_25rnd",
+            "dna_SpareAmmoCount": 5,
+            "dna_OpticType": "",
+            "dna_Suppressor": "",
+            "dna_UnderBarrel": "",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "",
+            "dna_Wrap": ""
+        },
+        {
+            "dna_TheChosenOne": "CC_Salesmanpistol",
+            "dna_Magazine": "CC_Salesmanpistol_Mag",
+            "dna_SpareMagCount": 5,
+            "dna_Ammunition": "AmmoBox_45ACP_25rnd",
+            "dna_SpareAmmoCount": 5,
+            "dna_OpticType": "",
+            "dna_Suppressor": "",
+            "dna_UnderBarrel": "",
+            "dna_ButtStock": "",
+            "dna_HandGuard": "",
+            "dna_Wrap": ""
+        },
+        {
             "dna_TheChosenOne": "CZ527",
             "dna_Magazine": "Mag_CZ527_5rnd",
             "dna_SpareMagCount": 5,
