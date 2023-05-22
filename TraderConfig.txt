@@ -9,8 +9,8 @@
         //                                                                                             //
         /////////////////////////////////////////////////////////////////////////////////////////////////
 
-	<CurrencyName> #tm_ruble									// Currency Name (Only used for the Text in the upper right Corner of the Trader Menu)
-		<Currency> MoneyRuble1, 	1							// Currency Classname, Currency Money Value
+	<CurrencyName> #tm_ruble												// Currency Name (Only used for the Text in the upper right Corner of the Trader Menu)
+		<Currency> MoneyRuble1, 	1										// Currency Classname, Currency Money Value
 		<Currency> MoneyRuble5, 	5
 		<Currency> MoneyRuble10, 	10
 		<Currency> MoneyRuble25, 	25
@@ -18,8 +18,8 @@
 		<Currency> MoneyRuble100, 	100
 
 
-<Trader> Consume Trader										// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
-	<Category> Vegetables									// Category Name
+<Trader> Consume Trader														// Trader Name (first Trader has ID = 0, second Trader has ID = 1, and so on..)
+	<Category> Vegetables													// Category Name
 		CaninaBerry,								*,		1,			-1	// Item Classname, Quantity, Buyvalue, Sellvalue
 		SambucusBerry,								*,		1,			-1	// Quantity * means max value; Quantity V means Vehicle; Quantity VNK means Vehicle without Key; Quantity M means Magazine; Quantity W means Weapon; Quantity S means Steack Meat; Quantity K means Key Duplication
 		Plum,										*,		10,			-1	// Buyvalue -1 means it can not be bought
@@ -120,20 +120,20 @@
 		Morphine,									*,		250,		15
 
 	<Category> Smoke Products
-		CP_Pouch,				        	*,		2500,		1200
-		CP_Workbench_Kit,					*,		2500,		250
-		CP_Relief_Balm,				        	*,		1000,		500
-		CP_RollingPapers,					*,		90,		45
-		CP_RollingPapers_Silver,				*,		100,		50
-		CP_RollingPapers_Green,					*,		110,		55
-		CP_CigarettePack_Empty,					*,		50,		25
-		CP_EmptyBag,				       	 	*,		1250,		150
-		CP_Bagger,				        	*,		1500,		250
-		CP_PlasticWrapper,					*,		3500,		1250
-		CP_PlasticRoll,				        	*,		400,		150
-		CigarettePack_Chernamorka,				*,		400,		200
-		CigarettePack_Merkur,					*,		500,		250
-		CigarettePack_Partyzanka,				*,		600,		300
+		CP_Pouch,				        			*,		2500,		1200
+		CP_Workbench_Kit,							*,		2500,		250
+		CP_Relief_Balm,				        		*,		1000,		500
+		CP_RollingPapers,							*,		90,			45
+		CP_RollingPapers_Silver,					*,		100,		50
+		CP_RollingPapers_Green,						*,		110,		55
+		CP_CigarettePack_Empty,						*,		50,			25
+		CP_EmptyBag,				       	 		*,		1250,		150
+		CP_Bagger,				        			*,		1500,		250
+		CP_PlasticWrapper,							*,		3500,		1250
+		CP_PlasticRoll,				        		*,		400,		150
+		CigarettePack_Chernamorka,					*,		400,		200
+		CigarettePack_Merkur,						*,		500,		250
+		CigarettePack_Partyzanka,					*,		600,		300
 		CP_CigarettePack_CannabisSkunk,				*,		1250,		625
 		CP_CigarettePack_CannabisBlue,				*,		1560,		780
 		CP_CigarettePack_CannabisKush,				*,		1870,		935
@@ -141,7 +141,7 @@
 		CP_CigarettePack_CannabisFuture,			*,		2500,		1250
 		CP_CigarettePack_CannabisS1,				*,		2810,		1405
 		CP_CigarettePack_CannabisNomad,				*,		3120,		1560
-		CP_CigarettePack_CannabisBlackFrost,			*,		3430,		1715
+		CP_CigarettePack_CannabisBlackFrost,		*,		3430,		1715
 		
 	<Category> Money Exchange
 		MoneyRuble1,								1,		1,			-1
@@ -406,9 +406,9 @@
 <Trader> Weapon Trader
 	
 	<Category> Melee	
-		BrassKnuckles_Shiny,							W,		220,		60
-		Pitchfork,								W,		300,		50
-		Broom,									W,		250,		50
+		BrassKnuckles_Shiny,						W,		220,		60
+		Pitchfork,									W,		300,		50
+		Broom,										W,		250,		50
 		Broom_Birch,								W,		250,		75
 		BaseballBat,								W,		350,		100
 		NailedBaseballBat,							W,		450,		150
@@ -427,17 +427,17 @@
 		rag_viking_flamberge_sword,     			*,    	-1,  		5000
 		rag_viking_axe_doubled,         			*,    	-1,  		5500
 		rag_viking_dragonslayer_axe,    			*,    	-1,  		6500
-		CC_Vaxe,                 				*,    	4500,  		600
-		CC_Cutlass,               				*,    	6500,  		600
-		CC_Spear,             					*,    	6500,  		500
+		CC_Vaxe,                 					*,    	4500,  		600
+		CC_Cutlass,               					*,    	6500,  		600
+		CC_Spear,             						*,    	6500,  		500
 															   
-		CC_Warhammer,              				*,    	6500,  		550
-		CC_Katar,               				*,    	6500,  		600
-		CC_Sebsword,               				*,    	6500,  		600
+		CC_Warhammer,              					*,    	6500,  		550
+		CC_Katar,               					*,    	6500,  		600
+		CC_Sebsword,               					*,    	6500,  		600
 		
 		
 		<Category> Sidearms
-		Flaregun,               					W,		80,		40
+		Flaregun,               					W,		80,			40
 		MakarovIJ70,            					W,		300,		150
 		CZ75,                   					W,		600,		150
 		FNX45,                  					W,		1000,		375
@@ -487,41 +487,41 @@
 		Mp133Shotgun,								W,		3500,		1500
 		Izh43Shotgun,								W,		3000,		1250
 		Izh18Shotgun,								W,		3000,		1250
-		CC_1887,								W,		4000,		2000
+		CC_1887,									W,		4000,		2000
 		
 	<Category> Submachine Guns
-		CZ61,									W,		2500,		750
-		UMP45,									W,		3750,		1750
-		PP19,									W,		3250,		1500
-		MP5K,									W,		3250,		1500	
-		AKS74U,									W,		4000,		2000
+		CZ61,										W,		2500,		750
+		UMP45,										W,		3750,		1750
+		PP19,										W,		3250,		1500
+		MP5K,										W,		3250,		1500	
+		AKS74U,										W,		4000,		2000
 		AKS74U_Black,								W,		4000,		2000
 		AKS74U_Green,								W,		4000,		2000
 		TF_AKS74U,			    					W,		7250,		2750
-		CC_Mac10,								W,		3250,		1500
-		CC_Mors,								W,		3250,		1500
+		CC_Mac10,									W,		3250,		1500
+		CC_Mors,									W,		3250,		1500
 		CC_Thompson,								W,		5000,		1250
 		
 	<Category> Assault Rifles
-		FAMAS,									W,		6500,		3000
-		AKM,									W,		8500,		4000
-		AK101,									W,		7500,		3500
+		FAMAS,										W,		6500,		3000
+		AKM,										W,		8500,		4000
+		AK101,										W,		7500,		3500
 		AK101_Black,								W,		7500,		3500
 		AK101_Green,								W,		7500,		3500
-		AK74,									W,		4500,		2250
-		AK74_Black,								W,		4500,		2250
-		AK74_Green,								W,		4500,		2250
-		M4A1,									W,		7500,		3500
-		M4A1_Black,								W,		7500,		3500
-		M4A1_Green,								W,		7500,		3500
+		AK74,										W,		4500,		2250
+		AK74_Black,									W,		4500,		2250
+		AK74_Green,									W,		4500,		2250
+		M4A1,										W,		7500,		3500
+		M4A1_Black,									W,		7500,		3500
+		M4A1_Green,									W,		7500,		3500
 		TF_M4A1_CQBR,								W,		7500,		3500
-		M16A2,									W,		6500,		2500
-		Aug,									W,		6500,		2750
-		AugShort,								W,		6500,		2750
+		M16A2,										W,		6500,		2500
+		Aug,										W,		6500,		2750
+		AugShort,									W,		6500,		2750
 		TF_SCAR_L_FDE,								W,		20000,		6500
 		TF_SCAR_L_Black,							W,		20000,		6500
 		TF_SCAR_L_CQC_FDE,							W,		20000,		6500
-		TF_SCAR_L_CQC_Black,							W,		10000,		6500
+		TF_SCAR_L_CQC_Black,						W,		10000,		6500
 		TF_AK101,			    					W,		16500,		5000
 		TF_AK102,			    					W,		16500,		5000
 		TF_AK103,			    					W,		16500,		5000
@@ -536,14 +536,14 @@
 		TF_MK47_CQBR,								W,		17500,		4500
 		TF_MK47,			    					W,		17500,		4500
 		TF_M16A4,			    					W,		13500,		3500
-		TF_AN94,								W,		20000,		5000
-		TF_AN94M,								W,		20000,		5000
+		TF_AN94,									W,		20000,		5000
+		TF_AN94M,									W,		20000,		5000
 		TF_OTs_12_Tiss,								W,		27500,		5000
 		TF_OTs_14_Groza,							W,		27500,		5000
 		
 	<Category> Grenades
-		RGD5Grenade,							W,		1000,		250
-		M67Grenade,							W,		1000,		250
+		RGD5Grenade,								W,		1000,		250
+		M67Grenade,									W,		1000,		250
 		M18SmokeGrenade_Red,						W,		500,		150
 		M18SmokeGrenade_Green,						W,		500,		150
 		M18SmokeGrenade_Yellow,						W,		500,		150
@@ -551,28 +551,28 @@
 		M18SmokeGrenade_White,						W,		500,		150
 		RDG2SmokeGrenade_Black,						W,		500,		150
 		RDG2SmokeGrenade_White,						W,		500,		150
-		FlashGrenade,							W,		600,		165
+		FlashGrenade,								W,		600,		165
 		Ammo_40mm_Smoke_Black,						W,		500,		150
 		Ammo_40mm_Smoke_Green,						W,		500,		150
 		Ammo_40mm_Smoke_Red,						W,		500,		150
 		Ammo_40mm_Smoke_White,						W,		500,		150
 		AM_Improvised_Grenade,						W,		350,		100
-		AM_Smoke_Improvised_Grenade_Red,				W,		350,		100
-		AM_Smoke_Improvised_Grenade_Green,				W,		350,		100
-		AM_Smoke_Improvised_Grenade_White,				W,		350,		100
-		AM_Smoke_Improvised_Grenade_Black,				W,		350,		100
+		AM_Smoke_Improvised_Grenade_Red,			W,		350,		100
+		AM_Smoke_Improvised_Grenade_Green,			W,		350,		100
+		AM_Smoke_Improvised_Grenade_White,			W,		350,		100
+		AM_Smoke_Improvised_Grenade_Black,			W,		350,		100
 
 <Trader> Weapon Supplies
 	<Category> Ammunition
-		Ammo_380,								1,		10,			1
-		Ammo_9x19,								1,		11,			2
-		Ammo_22,								1,		10,			1
-		Ammo_45ACP,								1,		12,			2
+		Ammo_380,									1,		10,			1
+		Ammo_9x19,									1,		11,			2
+		Ammo_22,									1,		10,			1
+		Ammo_45ACP,									1,		12,			2
 		Ammo_12gaPellets,							1,		20,			1
 		Ammo_12gaSlug,								1,		30,			2
-		Ammo_9x39,								1,		35,			3
+		Ammo_9x39,									1,		35,			3
 		Ammo_9x39AP,								1,		50,			4
-		Ammo_357,								1,		35,			3
+		Ammo_357,									1,		35,			3
 		Ammo_308Win,								1,		50,			5
 		Ammo_545x39,								1,		35,			3
 		Ammo_556x45,								1,		40,			3
@@ -582,31 +582,31 @@
 		Ammo_545x39Tracer,							1,		40,			3
 		Ammo_308WinTracer,							1,		50,			5
 		Ammo_762x39Tracer,							1,		40,			3
-		Ammo_Flare,								1,		150,			20
-	    	Ammo_FlareBlue,								1,		150,			20
-	    	Ammo_FlareGreen,							1,		150,			20
-	    	Ammo_FlareRed,								1,		150,			20
+		Ammo_Flare,									1,		150,		20
+	    Ammo_FlareBlue,								1,		150,		20
+	    Ammo_FlareGreen,							1,		150,		20
+	    Ammo_FlareRed,								1,		150,		20
 		Ammo_762x54Tracer,							1,		45,			6
 		Bullet_CC_44_Ammo,							1,		50,			2
-		Bullet_CC_50cal_Ammo,							1,		3000,			750
-		Bullet_CC_65Carcano_Ammo,						1,		50,			2
-		Bullet_CC_50AE_Ammo,							1,		65,			3
-		Bullet_CC_Ssk_Ammo,							1,		2500,			500
-		Bullet_CC_3006_Ammo,							1,		50,			2
+		Bullet_CC_50cal_Ammo,						1,		3000,		750
+		Bullet_CC_65Carcano_Ammo,					1,		50,			2
+		Bullet_CC_50AE_Ammo,						1,		65,			3
+		Bullet_CC_Ssk_Ammo,							1,		2500,		500
+		Bullet_CC_3006_Ammo,						1,		50,			2
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
 		// buying single Ammo. The Selling Price is the same as
 		// selling the Ammo seperately.
-		AmmoBox_380_35rnd,						*,		280,		15
-		AmmoBox_9x19_25rnd,						*,		200,		15
+		AmmoBox_380_35rnd,							*,		280,		15
+		AmmoBox_9x19_25rnd,							*,		200,		15
 		AmmoBox_45ACP_25rnd,						*,		200,		15
-		AmmoBox_22_50Rnd,						*,		600,		20
+		AmmoBox_22_50Rnd,							*,		600,		20
 		AmmoBox_00buck_10rnd,						*,		240,		10
 		AmmoBox_12gaSlug_10Rnd,						*,		320,		20
-		AmmoBox_9x39_20Rnd,						*,		320,		20
+		AmmoBox_9x39_20Rnd,							*,		320,		20
 		AmmoBox_9x39AP_20Rnd,						*,		800,		60
-		AmmoBox_357_20Rnd,						*,		800,		60
+		AmmoBox_357_20Rnd,							*,		800,		60
 		AmmoBox_308Win_20Rnd,						*,		800,		60
 		AmmoBox_545x39_20Rnd,						*,		800,		60
 		AmmoBox_556x45_20Rnd,						*,		800,		60
@@ -617,12 +617,12 @@
 		AmmoBox_556x45Tracer_20Rnd,					*,		1600,		80
 		AmmoBox_762x39Tracer_20Rnd,					*,		1600,		80
 		AmmoBox_762x54Tracer_20Rnd,					*,		2000,		200
-		CC_44_Ammo,							*,		1000,		100
-		CC_50cal_Ammo,							*,		30000,		7500
-		CC_65Carcano_Ammo,						*,		800,		60
-		CC_50AE_Ammo,							*,		1300,		120
-		CC_Ssk_Ammo,							*,		25000,		5000
-		CC_3006_Ammo,							*,		800,		60
+		CC_44_Ammo,									*,		1000,		100
+		CC_50cal_Ammo,								*,		30000,		7500
+		CC_65Carcano_Ammo,							*,		800,		60
+		CC_50AE_Ammo,								*,		1300,		120
+		CC_Ssk_Ammo,								*,		25000,		5000
+		CC_3006_Ammo,								*,		800,		60
 		
 	<Category> Magazines
 		Mag_Deagle_9rnd,							M,		50,		20
@@ -635,7 +635,7 @@
 		Mag_CZ527_5rnd,								M,		60,		30
 		Mag_CZ550_4rnd,								M,		60,		30
 		Mag_CZ550_10rnd,							M,		100,		50
-		Mag_Ruger1022_15Rnd,							M,		30,		15
+		Mag_Ruger1022_15Rnd,						M,		30,		15
 		Mag_CZ61_20Rnd,								M,		100,		50
 		Mag_UMP_25Rnd,								M,		150,		75
 		Mag_MP5_30Rnd,								M,		200,		100
@@ -644,7 +644,7 @@
 		Mag_SSG82_5rnd,								M,		100,		50
 		Mag_Scout_5Rnd,								M,		100,		50
 		Mag_Saiga_8Rnd,								M,		220,		60
-		Mag_Saiga_Drum20Rnd,							M,		480,		110
+		Mag_Saiga_Drum20Rnd,						M,		480,		110
 		Mag_AKM_30Rnd,								M,		220,		110
 		Mag_AKM_Palm30Rnd,							M,		220,		110
 		Mag_AKM_Drum75Rnd,							M,		5000,		250
@@ -653,7 +653,7 @@
 		Mag_AK74_30Rnd,								M,		220,		110
 		Mag_VAL_20Rnd,								M,		100,		50
 		Mag_STANAG_30Rnd,							M,		220,		110
-		Mag_STANAGCoupled_30Rnd,						M,		480,		130
+		Mag_STANAGCoupled_30Rnd,					M,		480,		130
 		Mag_STANAG_60Rnd,							M,		2500,		250
 		Mag_CMAG_10Rnd,								M,		120,		60
 		Mag_CMAG_20Rnd,								M,		180,		80
@@ -662,23 +662,23 @@
 		Mag_PP19_64Rnd,								M,		300,		150
 		Mag_VSS_10Rnd,								M,		220,		110
 		Mag_SVD_10Rnd,								M,		250,		125
-		Mag_308WinSnaploader_2Rnd,						M,		100,		50
-		Mag_357Speedloader_6Rnd,						M,		100,		50
-		CC_93R_Mag,								M,		100,		50
+		Mag_308WinSnaploader_2Rnd,					M,		100,		50
+		Mag_357Speedloader_6Rnd,					M,		100,		50
+		CC_93R_Mag,									M,		100,		50
 		CC_Barrett_Mag,								M,		5000,		1000
 		CC_65Carcano,								M,		100,		50
-		CC_ClaudiaPistol_Mag,							M,		40,		20
+		CC_ClaudiaPistol_Mag,						M,		40,			20
 		CC_Deserteagle_Mag,							M,		200,		100
 		CC_DVL10_Mag,								M,		300,		150
-		CC_G3_Mag,								M,		300,		150
+		CC_G3_Mag,									M,		300,		150
 		CC_Mac10_Mag,								M,		100,		50
 		CC_magshotgun_Mag,							M,		500,		250
 		CC_Mors_Mag,								M,		100,		50
-		CC_Salesmanpistol_Mag,							M,		100,		50
+		CC_Salesmanpistol_Mag,						M,		100,		50
 		CC_Thompson_Mag,							M,		300,		150
 		CC_Automag_Mag,								M,		200,		100
 		CC_Torx_Mag,								M,		300,		150
-		CC_VP70_Mag,								M,		40,		20
+		CC_VP70_Mag,								M,		40,			20
 		CC_Vector_Mag,								M,		300,		150
 		CC_PSG1_Mag,								M,		300,		150
 
@@ -1041,8 +1041,8 @@
 		NBCHoodGray,								*,		100,	30		
 
 	<Category> Helmets
-		ConstructionHelmet_Yellow,					*,	30,		7
-		ConstructionHelmet_Orange,					*,	30,		7
+		ConstructionHelmet_Yellow,					*,		30,		7
+		ConstructionHelmet_Orange,					*,		30,		7
 		ConstructionHelmet_Red,						*,		30,		7
 		ConstructionHelmet_Blue,					*,		30,		7
 		ConstructionHelmet_White,					*,		30,		7
@@ -1361,58 +1361,58 @@
 		NBCPantsYellow,								*,		200,	65
 	
 	<Category> Shoes & Boots
-		AthleticShoes_Blue,		*,		17,		4
-		AthleticShoes_Grey,		*,		20,		5
-		AthleticShoes_Brown,	*,		20,		5
-		AthleticShoes_Black,	*,		23,		5
-		AthleticShoes_Green,	*,		23,		5
-		JoggingShoes_Violet,	*,		30,		7
-		JoggingShoes_Red,		*,		30,		7
-		JoggingShoes_Blue,		*,		30,		7
-		JoggingShoes_White,		*,		30,		7
-		JoggingShoes_Black,		*,		30,		7
-		Sneakers_Red,			*,		30,		7
-		Sneakers_White,			*,		30,		7
-		Sneakers_Gray,			*,		30,		7
-		Sneakers_Black,			*,		31,		7
-		Sneakers_Green,			*,		32,		7
-		DressShoes_White,		*,		32,		7
-		DressShoes_Brown,		*,		35,		8
-		DressShoes_Black,		*,		35,		8
-		DressShoes_Beige,		*,		35,		8
-		DressShoes_Sunburst,	*,		35,		8
-		HikingBootsLow_Blue,	*,		45,		12
-		HikingBootsLow_Grey,	*,		45,		12
-		HikingBootsLow_Beige,	*,		48,		13
-		HikingBootsLow_Black,	*,		50,		14
-		WorkingBoots_Yellow,	*,		55,		12
-		WorkingBoots_Grey,		*,		60,		15
-		WorkingBoots_Beige,		*,		60,		15
-		WorkingBoots_Brown,		*,		60,		15
-		WorkingBoots_Green,		*,		65,		17
-		HikingBoots_Brown,		*,		75,		20
-		HikingBoots_Black,		*,		75,		20
-		CombatBoots_Grey,		*,		80,		22
-		CombatBoots_Beige,		*,		80,		22
-		CombatBoots_Brown,		*,		80,		22
-		CombatBoots_Black,		*,		80,		22
-		CombatBoots_Green,		*,		80,		22
-		JungleBoots_Beige,		*,		85,		24
-		JungleBoots_Brown,		*,		85,		24
-		JungleBoots_Black,		*,		85,		24
-		JungleBoots_Olive,		*,		85,		24
-		JungleBoots_Green,		*,		85,		24
-		Wellies_Grey,			*,		85,		25
-		Wellies_Brown,			*,		85,		25
-		Wellies_Black,			*,		85,		25
-		Wellies_Green,			*,		90,		28
-		TTSKOBoots,				*,		100,	35
-		MilitaryBoots_Bluerock,	*,		105,	35
-		MilitaryBoots_Beige,	*,		110,	35
-		MilitaryBoots_Brown,	*,		110,	35
-		MilitaryBoots_Black,	*,		110,	35
-		NBCBootsGray,			*,		150,	50
-		NBCBootsYellow,			*,		150,	50
+		AthleticShoes_Blue,							*,		17,		4
+		AthleticShoes_Grey,							*,		20,		5
+		AthleticShoes_Brown,						*,		20,		5
+		AthleticShoes_Black,						*,		23,		5
+		AthleticShoes_Green,						*,		23,		5
+		JoggingShoes_Violet,						*,		30,		7
+		JoggingShoes_Red,							*,		30,		7
+		JoggingShoes_Blue,							*,		30,		7
+		JoggingShoes_White,							*,		30,		7
+		JoggingShoes_Black,							*,		30,		7
+		Sneakers_Red,								*,		30,		7
+		Sneakers_White,								*,		30,		7
+		Sneakers_Gray,								*,		30,		7
+		Sneakers_Black,								*,		31,		7
+		Sneakers_Green,								*,		32,		7
+		DressShoes_White,							*,		32,		7
+		DressShoes_Brown,							*,		35,		8
+		DressShoes_Black,							*,		35,		8
+		DressShoes_Beige,							*,		35,		8
+		DressShoes_Sunburst,						*,		35,		8
+		HikingBootsLow_Blue,						*,		45,		12
+		HikingBootsLow_Grey,						*,		45,		12
+		HikingBootsLow_Beige,						*,		48,		13
+		HikingBootsLow_Black,						*,		50,		14
+		WorkingBoots_Yellow,						*,		55,		12
+		WorkingBoots_Grey,							*,		60,		15
+		WorkingBoots_Beige,							*,		60,		15
+		WorkingBoots_Brown,							*,		60,		15
+		WorkingBoots_Green,							*,		65,		17
+		HikingBoots_Brown,							*,		75,		20
+		HikingBoots_Black,							*,		75,		20
+		CombatBoots_Grey,							*,		80,		22
+		CombatBoots_Beige,							*,		80,		22
+		CombatBoots_Brown,							*,		80,		22
+		CombatBoots_Black,							*,		80,		22
+		CombatBoots_Green,							*,		80,		22
+		JungleBoots_Beige,							*,		85,		24
+		JungleBoots_Brown,							*,		85,		24
+		JungleBoots_Black,							*,		85,		24
+		JungleBoots_Olive,							*,		85,		24
+		JungleBoots_Green,							*,		85,		24
+		Wellies_Grey,								*,		85,		25
+		Wellies_Brown,								*,		85,		25
+		Wellies_Black,								*,		85,		25
+		Wellies_Green,								*,		90,		28
+		TTSKOBoots,									*,		100,	35
+		MilitaryBoots_Bluerock,						*,		105,	35
+		MilitaryBoots_Beige,						*,		110,	35
+		MilitaryBoots_Brown,						*,		110,	35
+		MilitaryBoots_Black,						*,		110,	35
+		NBCBootsGray,								*,		150,	50
+		NBCBootsYellow,								*,		150,	50
 
 	<Category> Ghillie
 		// Keep in Mind that Players can also 
