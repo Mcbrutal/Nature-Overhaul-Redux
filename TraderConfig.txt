@@ -3924,6 +3924,7 @@
 		MSGhillieHoodCamo8,			*,		12500,		5000
 		MSGhillieHoodCamo9,			*,		12500,		5000
 		MSGhillieHoodCamo10,		*,		12500,		5000
+		MSGhillieHoodCamo11,		*,		12500,		5000
  
 	<Category> Mutated Ghillie Hood Camouflaged
 		MSGhillieHood_Alpha,		*,		12500,		5000
