@@ -102,6 +102,7 @@
 		//InjectionVial,							*,		50, 		20
 		Thermometer,								*,		50,			20
 		DisinfectantSpray,							*,		80,			50
+		IodineTincture,							*,		80,			50
 		//Syringe,									*,		80, 		50
 		Heatpack,									*,		100,		50
 		StartKitIV,									*,		100,		60
