@@ -414,6 +414,8 @@
 		BaseballBat,								W,		350,		100
 		NailedBaseballBat,							W,		450,		150
 		BarbedBaseballBat,							W,		450,		150
+		Sword,                 					*,    	4500,  		600
+		Mace,                 					*,    	4500,  		600
 				
 	<Category> Viking Weapons
 		rag_viking_axe,                 			*,    	4500,  		600
@@ -431,7 +433,6 @@
 		CC_Vaxe,                 					*,    	4500,  		600
 		CC_Cutlass,               					*,    	6500,  		600
 		CC_Spear,             						*,    	6500,  		500
-															   
 		CC_Warhammer,              					*,    	6500,  		550
 		CC_Katar,               					*,    	6500,  		600
 		CC_Sebsword,               					*,    	6500,  		600
@@ -484,8 +485,12 @@
 		CC_Carcano,                 				W,		10000,		3500
 		CC_Showstopper,			    				W,		9000,		3000
 																								
-	<Category> Shotguns
+	<Category> Shotguns and Bows
 		Mp133Shotgun,								W,		3500,		1500
+		Crossbow_Autumn,								W,		3500,		1500
+		Crossbow_Black,								W,		3500,		1500
+		Crossbow_Summer,								W,		3500,		1500
+		Crossbow_Wood,								W,		3500,		1500
 		Izh43Shotgun,								W,		3000,		1250
 		Izh18Shotgun,								W,		3000,		1250
 		CC_1887,									W,		4000,		2000
@@ -594,6 +599,9 @@
 		Bullet_CC_50AE_Ammo,						1,		65,			3
 		Bullet_CC_Ssk_Ammo,							1,		2500,		500
 		Bullet_CC_3006_Ammo,						1,		50,			2
+		Ammo_HuntingBolt,								1,		50,			10
+		Ammo_ImprovisedBolt_1,								1,		5,			1
+		Ammo_ImprovisedBolt_2,								1,		10,			5
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
@@ -988,6 +996,13 @@
 		OMNOGloves_Gray,							*,		40,		12
 		OMNOGloves_Brown,							*,		40,		12
 		NBCGlovesGray,								*,		65,		20
+		WoolGlovesFingerless_Black,						*,		25,		6
+		WoolGlovesFingerless_Green,						*,		25,		6
+		WoolGlovesFingerless_Tan,						*,		25,		6
+		WoolGloves_Black,						*,		25,		6
+		WoolGloves_Green,						*,		25,		6
+		WoolGloves_Tan,						*,		25,		6
+		WoolGloves_White,						*,		25,		6
 
 	<Category> Hats & Caps
 		MedicalScrubsHat_Blue,						*,		2,		1
@@ -1468,6 +1483,12 @@
 		HuntingBag_Hannah,		*,		-1,	5000
 		MilitaryBoots_Redpunk,	*,		-1,	1000
 		DarkMotoHelmet_YellowScarred,	*,	-1,	5000
+		NorseHelm,		*,	-1,	5000
+		MedievalBoots,		*,	-1,	10000
+		Chestplate,		*,	-1,	10000
+		Chainmail_Leggings,		*,	-1,	10000
+		Chainmail_Coif,		*,	-1,	10000
+		Chainmail,		*,	-1,	10000
 
 	<Category> Holster & Pouches
 		ChestHolster,		            *,		600,	300
