@@ -3020,7 +3020,6 @@
 		CC_Barrett,			    	W,		35000,	9000
 		CC_DVL10,			    	W,		17500,	6500
 		CC_Ion,			    		W,		25000,	8000
-		CC_Showstopper,			    	W,		17500,	6500
 		CC_Ssk,			    		W,		30000,	8500
 		CC_Torx,			    	W,		19500,	7000
 		CC_PSG1,			    	W,		17500,	6500
@@ -3092,13 +3091,6 @@
 	    	Ammo_FlareGreen,							1,		150,		20
 	    	Ammo_FlareRed,								1,		150,		20
 		Ammo_762x54Tracer,							1,		45,		6
-		Bullet_CC_Ion_Ammo,							1,		50,		10
-		Bullet_CC_44_Ammo,							1,		50,			2
-		Bullet_CC_50cal_Ammo,							1,		3000,			750
-		Bullet_CC_65Carcano_Ammo,						1,		50,			2
-		Bullet_CC_50AE_Ammo,							1,		65,			3
-		Bullet_CC_Ssk_Ammo,							1,		2500,			500
-		Bullet_CC_3006_Ammo,							1,		50,			2
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
