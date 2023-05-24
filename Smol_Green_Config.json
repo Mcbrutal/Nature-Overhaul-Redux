@@ -165,7 +165,7 @@
         {
             "dna_TheChosenOne": "CC_Benelli",
             "dna_Magazine": "",
-            "dna_SpareMagCount": ,
+            "dna_SpareMagCount": 0,
             "dna_Ammunition": "AmmoBox_00buck_10rnd",
             "dna_SpareAmmoCount": 5,
             "dna_OpticType": "",
