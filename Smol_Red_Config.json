@@ -61,7 +61,7 @@
         {
             "dna_TheChosenOne": "CC_Ion",
             "dna_Magazine": "",
-            "dna_SpareMagCount": ,
+            "dna_SpareMagCount": 0,
             "dna_Ammunition": "CC_Ion_Ammo",
             "dna_SpareAmmoCount": 7,
             "dna_OpticType": "ACOGOptic",
@@ -126,9 +126,9 @@
         {
             "dna_TheChosenOne": "TF_M79",
             "dna_Magazine": "",
-            "dna_SpareMagCount": ,
+            "dna_SpareMagCount": 0,
             "dna_Ammunition": "Ammo_40mm_Chemgas",
-            "dna_SpareAmmoCount": ,
+            "dna_SpareAmmoCount": 5,
             "dna_OpticType": "",
             "dna_Suppressor": "",
             "dna_UnderBarrel": "",
@@ -139,9 +139,9 @@
         {
             "dna_TheChosenOne": "M79",
             "dna_Magazine": "",
-            "dna_SpareMagCount": ,
+            "dna_SpareMagCount": 0,
             "dna_Ammunition": "Ammo_40mm_Chemgas",
-            "dna_SpareAmmoCount": ,
+            "dna_SpareAmmoCount": 5,
             "dna_OpticType": "",
             "dna_Suppressor": "",
             "dna_UnderBarrel": "",
