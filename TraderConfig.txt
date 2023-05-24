@@ -592,12 +592,6 @@
 	    Ammo_FlareGreen,							1,		150,		20
 	    Ammo_FlareRed,								1,		150,		20
 		Ammo_762x54Tracer,							1,		45,			6
-		Bullet_CC_44_Ammo,							1,		50,			2
-		Bullet_CC_50cal_Ammo,						1,		3000,		750
-		Bullet_CC_65Carcano_Ammo,					1,		50,			2
-		Bullet_CC_50AE_Ammo,						1,		65,			3
-		Bullet_CC_Ssk_Ammo,							1,		2500,		500
-		Bullet_CC_3006_Ammo,						1,		50,			2
 		Ammo_HuntingBolt,							1,		50,			10
 		Ammo_ImprovisedBolt_1,						1,		5,			1
 		Ammo_ImprovisedBolt_2,						1,		10,			5
