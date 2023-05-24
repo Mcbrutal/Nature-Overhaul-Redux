@@ -3142,7 +3142,7 @@
 		Mag_AKM_Palm30Rnd,		M,		220,		110
 		Mag_AKM_Palm30Rnd_Black,	M,		220,		110
 		Mag_AKM_Palm30Rnd_Green,	M,		220,		110
-		Mag_AKM_Drum75Rnd,		M,		480,		220
+		Mag_AKM_Drum75Rnd,		M,		5000,		220
 		Mag_AKM_Drum75Rnd_Green,	M,		5000,		250
 		Mag_AKM_Drum75Rnd_Black,	M,		5000,		250
 		Mag_AK101_30Rnd,		M,		220,		110
