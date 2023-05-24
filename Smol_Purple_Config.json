@@ -22,7 +22,7 @@
         {
             "dna_TheChosenOne": "CC_Ssk",
             "dna_Magazine": "",
-            "dna_SpareMagCount": ,
+            "dna_SpareMagCount": 0,
             "dna_Ammunition": "CC_Ssk_Ammo",
             "dna_SpareAmmoCount": 5,
             "dna_OpticType": "HuntingOptic",
@@ -61,7 +61,7 @@
         {
             "dna_TheChosenOne": "CC_Seriesd",
             "dna_Magazine": "",
-            "dna_SpareMagCount": ,
+            "dna_SpareMagCount": 0,
             "dna_Ammunition": "CC_44_Ammo",
             "dna_SpareAmmoCount": 5,
             "dna_OpticType": "",
@@ -74,7 +74,7 @@
         {
             "dna_TheChosenOne": "CC_Thunder",
             "dna_Magazine": "",
-            "dna_SpareMagCount": ,
+            "dna_SpareMagCount": 0,
             "dna_Ammunition": "CC_50cal_Ammo",
             "dna_SpareAmmoCount": 5,
             "dna_OpticType": "",
@@ -87,7 +87,7 @@
         {
             "dna_TheChosenOne": "M79",
             "dna_Magazine": "",
-            "dna_SpareMagCount": ,
+            "dna_SpareMagCount": 0,
             "dna_Ammunition": "Ammo_40mm_Explosive",
             "dna_SpareAmmoCount": 5,
             "dna_OpticType": "",
@@ -113,7 +113,7 @@
         {
             "dna_TheChosenOne": "TF_M79",
             "dna_Magazine": "Ammo_40mm_Explosive",
-            "dna_SpareMagCount": ,
+            "dna_SpareMagCount": 0,
             "dna_Ammunition": "",
             "dna_SpareAmmoCount": ,
             "dna_OpticType": "",
