@@ -75,7 +75,7 @@
             "dna_TheChosenOne": "TF_SVCh",
             "dna_Magazine": "Mag_SVD_10Rnd",
             "dna_SpareMagCount": 5,
-            "dna_Ammunition": "",
+            "dna_Ammunition": "AmmoBox_762x54_20Rnd",
             "dna_SpareAmmoCount": 5,
             "dna_OpticType": "HuntingOptic",
             "dna_Suppressor": "",
