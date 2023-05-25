@@ -685,7 +685,6 @@
 		Mag_VSS_10Rnd,								M,		220,		110
 		Mag_SVD_10Rnd,								M,		250,		125
 		Mag_308WinSnaploader_2Rnd,					M,		100,		50
-		Mag_357Speedloader_6Rnd,					M,		100,		50
 		CC_93R_Mag,									M,		100,		50
 		CC_Barrett_Mag,								M,		5000,		1000
 		CC_65Carcano,								M,		100,		50
