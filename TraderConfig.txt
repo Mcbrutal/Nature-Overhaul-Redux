@@ -287,6 +287,8 @@
 		NailBox,									*,		3000,		250
 		BarbedWire,									*,		4500,		200
 		Camonet,									*,		6000,		250
+		Chopper_Coffin,								*,		3000,	1000
+		Chopper_Coffin_2,							*,		3000,	1000
 		BarrelHoles_Blue,							*,		1000,		300
 		BarrelHoles_Green,							*,		1000,		300
 		BarrelHoles_Red,							*,		1000,		300
@@ -301,11 +303,6 @@
 		AlarmClock_Green,							*,		300,		150
 		AlarmClock_Red,								*,		300,		150
 		KitchenTimer,								*,		300,		150
-		R22R_Sandbag,								*,		1000,		300
-		R22R_Components,							*,		1000,		300
-		R22R_Metal_Parts,							*,		1000,		300
-		R22R_Scrap_Metal_Rusty,						*,		1000,		250
-		R22R_Scrap_Metal_Clean,						*,		1500,		300
 	
 	<Category> Seeds & Lime
 		TomatoSeedsPack,							*,		40, 		10
@@ -399,14 +396,91 @@
 		rag_viking_sundial_kit,         			*,    	5000,  		2500
 		rag_viking_lantern,             			*,    	2500,  		1000
 		viking_shelter_kit,             			*,    	50000, 		12000
-		rag_viking_pot,                				*,    	1000,  		500
+		rag_viking_pot,                				M,    	1000,  		500
 		rag_viking_table_kit,           			*,    	1300,  		750
 		rag_viking_warbanner_kit,       			*,    	3000,  		800
 		rag_viking_horn,                			*,    	3000,  		750
 		rag_viking_mug,                 			*,    	1000,  		750
 
+	<Category> BBP Classic Build Kits
+		BBP_T1_WallKit,									*,		2000,		100
+		BBP_T1_Wall_HalfKit,							*,		2000,		100
+		BBP_T1_DoorKit,									*,		3000,		150
+		BBP_T1_GateKit,									*,		4000,		200
+		BBP_T1_WindowKit,								*,		3000,		150
+		BBP_T1_RoofKit,									*,		2000,		100
+		BBP_T1_FloorKit,								*,		2000,		100
+		BBP_T1_Floor_HatchKit,							*,		3000,		150
+		BBP_T1_StairKit,								*,		3000,		150
+		BBP_T1_RampKit,									*,		3000,		150
+		BBP_T1_Roof_HatchKit,							*,		3000,		150
+		BBP_T1_Ramp_WideKit,							*,		3000,		160
+		BBP_T1_FoundationKit,							*,		3000,		150
+		BBP_T2_WallKit,									*,		4000,		200
+		BBP_T2_Wall_HalfKit,							*,		4000,		200
+		BBP_T2_DoorKit,									*,		6000,		300
+		BBP_T2_GateKit,									*,		8000,		400
+		BBP_T2_RoofKit,									*,		4000,		200
+		BBP_T2_FloorKit,								*,		4000,		200
+		BBP_T2_WindowKit,								*,		6000,		300
+		BBP_T2_FoundationKit,							*,		6000,		300
+		BBP_T2_Roof_HatchKit,							*,		6000,		300
+		BBP_T2_StairKit,								*,		6000,		300
+		BBP_PillarKit,									*,		2000,		100
+		BBP_Sun_Shade,									*,		600,		300
+		
+			<Category> BBP Decor
+		BBP_Wood_Storage,								*,		1000,		500
+		BBP_Old_Lamp,									*,		600,		300
+		BBP_Floor_Lamp,									*,		800,		400
+		BBP_Painting,									*,		200,		100
+		BBP_Painting_1,									*,		200,		100
+		BBP_Painting_2,									*,		200,		100
+		BBP_Xmas_Tree,									*,		400,		200
+		BBP_MagnetBox,									*,		100,		50
+		BBP_Letter_Large_A,								*,		100,		50
+		BBP_Letter_Large_B,								*,		100,		50
+		BBP_Letter_Large_C,								*,		100,		50
+		BBP_Letter_Large_D,								*,		100,		50
+		BBP_Letter_Large_E,								*,		100,		50
+		BBP_Letter_Large_F,								*,		100,		50
+		BBP_Letter_Large_G,								*,		100,		50
+		BBP_Letter_Large_H,								*,		100,		50
+		BBP_Letter_Large_I,								*,		100,		50
+		BBP_Letter_Large_J,								*,		100,		50
+		BBP_Letter_Large_K,								*,		100,		50
+		BBP_Letter_Large_L,								*,		100,		50
+		BBP_Letter_Large_M,								*,		100,		50
+		BBP_Letter_Large_N,								*,		100,		50
+		BBP_Letter_Large_O,								*,		100,		50
+		BBP_Letter_Large_P,								*,		100,		50
+		BBP_Letter_Large_Q,								*,		100,		50
+		BBP_Letter_Large_R,								*,		100,		50
+		BBP_Letter_Large_S,								*,		100,		50
+		BBP_Letter_Large_T,								*,		100,		50
+		BBP_Letter_Large_U,								*,		100,		50
+		BBP_Letter_Large_V,								*,		100,		50
+		BBP_Letter_Large_W,								*,		100,		50
+		BBP_Letter_Large_X,								*,		100,		50
+		BBP_Letter_Large_Y,								*,		100,		50
+		BBP_Letter_Large_Z,								*,		100,		50
+		BBP_Golf,										*,		80,			40
+		BBP_Gang_Plug,									*,		800,		400
+		BBP_Carpet,										*,		200,		100
+		BBP_Wallpaper,									*,		200,		100
+		BBP_BedKit,										*,		800,		400
+		BBP_Bedding,									*,		120,		60
+		BBP_Step_LadderKit,								*,		800,		400
+		BBP_Plaster,									*,		200,		100
+		BBP_Wheelbarrow,								*,		400,		200
+		BBP_Toilet,										*,		600,		300
+		BBP_SofaKit,									*,		800,		400
+		BBP_Dance_FloorKit,								*,		400,		200
+		BBP_XmasLights_9v,								*,		80,			40
+		BBP_XmasLights_Solar,							*,		120,		60
+
 <Trader> Weapon Trader
-	
+
 	<Category> Melee	
 		BrassKnuckles_Shiny,						W,		220,		60
 		Pitchfork,									W,		300,		50
@@ -592,6 +666,12 @@
 	    Ammo_FlareGreen,							1,		150,		20
 	    Ammo_FlareRed,								1,		150,		20
 		Ammo_762x54Tracer,							1,		45,			6
+		Bullet_CC_44_Ammo,							1,		50,			2
+		Bullet_CC_50cal_Ammo,						1,		3000,		750
+		Bullet_CC_65Carcano_Ammo,					1,		50,			2
+		Bullet_CC_50AE_Ammo,						1,		65,			3
+		Bullet_CC_Ssk_Ammo,							1,		2500,		500
+		Bullet_CC_3006_Ammo,						1,		50,			2
 		Ammo_HuntingBolt,							1,		50,			10
 		Ammo_ImprovisedBolt_1,						1,		5,			1
 		Ammo_ImprovisedBolt_2,						1,		10,			5
@@ -685,6 +765,7 @@
 		Mag_VSS_10Rnd,								M,		220,		110
 		Mag_SVD_10Rnd,								M,		250,		125
 		Mag_308WinSnaploader_2Rnd,					M,		100,		50
+		Mag_357Speedloader_6Rnd,					M,		100,		50
 		CC_93R_Mag,									M,		100,		50
 		CC_Barrett_Mag,								M,		5000,		1000
 		CC_65Carcano,								M,		100,		50
@@ -1442,6 +1523,53 @@
 		NBCBootsGray,								*,		150,	50
 		NBCBootsYellow,								*,		150,	50
 
+	<Category> Rocker Items
+		Chopper_BeanieHat_Black_IronMaiden,					*,		50,		15
+		Chopper_BeanieHat_Black_Slayer,						*,		50,		15
+		Chopper_RidersJacket_Slayer_HellAwaits,				*,		80,		50
+		Chopper_DenimJacket_Battle,							*,		70,		40
+		Chopper_Hoodie_Black_LedZeppelin,					*,		60,		30
+		Chopper_Hoodie_Black_Misfits,						*,		60,		30
+		Chopper_Hoodie_Black_Slipknot,						*,		60,		30
+		Chopper_Hoodie_Black_Tool,							*,		60,		30
+		Chopper_TShirt_White_OperationIvy,					*,		30,		10
+		Chopper_TShirt_Black_Nirvana,						*,		30,		10
+		Chopper_TShirt_Black_CannibalCorpse_Butchered,		*,		30,		10
+		Chopper_TShirt_Black_IronMaiden_Killers,			*,		30,		10
+		Chopper_TShirt_Black_Metallica_KillEmAll,			*,		30,		10
+		Chopper_TShirt_Black_Pantera_Vulgar,				*,		30,		10
+		Chopper_TShirt_Black_PinkFloyd_DarkSide,			*,		30,		10
+		Chopper_TShirt_Black_Sepultura_Arise,				*,		30,		10
+		Chopper_TShirt_Black_BlackSabbath,					*,		30,		10
+		Chopper_TShirt_Black_Death,							*,		30,		10
+		Chopper_TShirt_Black_SpiceGirls,					*,		30,		10
+		Chopper_MiniDress_Black,							*,		120,	60
+		Chopper_MiniDress_White,							*,		120,	60
+		Chopper_MiniDress_Red,								*,		120,	60
+		Chopper_MiniDress_Silver,							*,		120,	60
+		Chopper_MiniDress_Black_GnR,						*,		120,	60
+		Chopper_MiniDress_Black_Megadeth,					*,		120,	60
+		Chopper_MiniDress_White_Motorhead,					*,		120,	60
+		Chopper_Skirt_Black,								*,		50,		15
+		Chopper_ShortJeans_Black,							*,		50,		15
+		Chopper_ShortJeans_Gold,							*,		50,		15
+		Chopper_ShortJeans_Silver,							*,		50,		15
+		Chopper_HuntingBag_Invisible,						*,		2000,	420 	// Remove if required
+		Chopper_ConcealBag_Invisible,						*,		4000,	800 	// Remove if required
+		Chopper_Hoodie_Black_ACDC,							*,		60,		30
+		Chopper_Hoodie_Red_BeastieBoys,						*,		60,		30
+		Chopper_TShirt_Black_DawnOfTheDead,					*,		30,		10
+		Chopper_TShirt_Black_JurassicPark,					*,		30,		10
+		Chopper_TShirt_Black_NWA,							*,		30,		10
+		Chopper_TShirt_White_ImWithStupid,					*,		30,		10
+		Chopper_TShirt_Prepper,								*,		30,		10
+		Chopper_TShirt_Black_PhilCollins,					*,		30,		10
+		Chopper_TShirt_White_BarryManilow,					*,		30,		10
+		Chopper_Skirt_Pink,									*,		50,		15
+		Chopper_NurseDress_White,							*,		120,	60
+		Chopper_NurseBoots_White,							*,		70,		40
+		Chopper_LongGloves_White,							*,		40,		20
+
 	<Category> Ghillie
 		// Keep in Mind that Players can also 
 		// craft Ghillie Clothing and sell them!
@@ -1477,10 +1605,10 @@
 		DarkMotoHelmet_YellowScarred,	*,	-1,	5000
 		NorseHelm,		*,	-1,	5000
 		MedievalBoots,		*,	-1,	10000
-		Chestplate,		*,	-1,	10000
-		Chainmail_Leggings,		*,	-1,	10000
-		Chainmail_Coif,		*,	-1,	10000
-		Chainmail,		*,	-1,	10000
+		Chestplate,		*,	-1,	2000
+		Chainmail_Leggings,		*,	-1,	1000
+		Chainmail_Coif,		*,	-1,	1000
+		Chainmail,		*,	-1,	1000
 
 	<Category> Holster & Pouches
 		ChestHolster,		            *,		600,	300
@@ -3013,6 +3141,7 @@
 		CC_Barrett,			    	W,		35000,	9000
 		CC_DVL10,			    	W,		17500,	6500
 		CC_Ion,			    		W,		25000,	8000
+		CC_Showstopper,			    	W,		17500,	6500
 		CC_Ssk,			    		W,		30000,	8500
 		CC_Torx,			    	W,		19500,	7000
 		CC_PSG1,			    	W,		17500,	6500
@@ -3084,6 +3213,13 @@
 	    	Ammo_FlareGreen,							1,		150,		20
 	    	Ammo_FlareRed,								1,		150,		20
 		Ammo_762x54Tracer,							1,		45,		6
+		Bullet_CC_Ion_Ammo,							1,		50,		10
+		Bullet_CC_44_Ammo,							1,		50,			2
+		Bullet_CC_50cal_Ammo,							1,		3000,			750
+		Bullet_CC_65Carcano_Ammo,						1,		50,			2
+		Bullet_CC_50AE_Ammo,							1,		65,			3
+		Bullet_CC_Ssk_Ammo,							1,		2500,			500
+		Bullet_CC_3006_Ammo,							1,		50,			2
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
@@ -3141,7 +3277,7 @@
 		Mag_AKM_Palm30Rnd,		M,		220,		110
 		Mag_AKM_Palm30Rnd_Black,	M,		220,		110
 		Mag_AKM_Palm30Rnd_Green,	M,		220,		110
-		Mag_AKM_Drum75Rnd,		M,		5000,		220
+		Mag_AKM_Drum75Rnd,		M,		480,		220
 		Mag_AKM_Drum75Rnd_Green,	M,		5000,		250
 		Mag_AKM_Drum75Rnd_Black,	M,		5000,		250
 		Mag_AK101_30Rnd,		M,		220,		110
