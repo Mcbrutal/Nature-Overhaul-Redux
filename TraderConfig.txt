@@ -255,6 +255,7 @@
 	<Category> Security Items
 		CombinationLock,							*,		3000,		225
 		CombinationLock4,							*,		3500,		250
+		CodeLockRemote,		       					*,		5550,		400
 		CodeLock,		       						*,		5550,		400
 		Lockpick,									*,		2000,		200
 		
