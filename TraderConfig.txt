@@ -657,21 +657,15 @@
 		Ammo_556x45,								1,		40,			3
 		Ammo_762x39,								1,		40,			3
 		Ammo_762x54,								1,		45,			6		
-		Ammo_556x45Tracer,							1,		40,			4
-		Ammo_545x39Tracer,							1,		40,			3
-		Ammo_308WinTracer,							1,		50,			5
-		Ammo_762x39Tracer,							1,		40,			3
+		Ammo_556x45Tracer,							1,		80,			4
+		Ammo_545x39Tracer,							1,		80,			3
+		Ammo_308WinTracer,							1,		80,			5
+		Ammo_762x39Tracer,							1,		80,			3
 		Ammo_Flare,									1,		150,		20
 	    Ammo_FlareBlue,								1,		150,		20
 	    Ammo_FlareGreen,							1,		150,		20
 	    Ammo_FlareRed,								1,		150,		20
-		Ammo_762x54Tracer,							1,		45,			6
-		Bullet_CC_44_Ammo,							1,		50,			2
-		Bullet_CC_50cal_Ammo,						1,		3000,		750
-		Bullet_CC_65Carcano_Ammo,					1,		50,			2
-		Bullet_CC_50AE_Ammo,						1,		65,			3
-		Bullet_CC_Ssk_Ammo,							1,		2500,		500
-		Bullet_CC_3006_Ammo,						1,		50,			2
+		Ammo_762x54Tracer,							1,		100,			6
 		Ammo_HuntingBolt,							1,		50,			10
 		Ammo_ImprovisedBolt_1,						1,		5,			1
 		Ammo_ImprovisedBolt_2,						1,		10,			5
@@ -698,7 +692,7 @@
 		AmmoBox_545x39Tracer_20Rnd,					*,		1600, 		80
 		AmmoBox_556x45Tracer_20Rnd,					*,		1600,		80
 		AmmoBox_762x39Tracer_20Rnd,					*,		1600,		80
-		AmmoBox_762x54Tracer_20Rnd,					*,		2000,		200
+		AmmoBox_762x54Tracer_20Rnd,					*,		2000,		100
 		CC_44_Ammo,									*,		1000,		100
 		CC_50cal_Ammo,								*,		30000,		7500
 		CC_65Carcano_Ammo,							*,		800,		60
@@ -765,7 +759,6 @@
 		Mag_VSS_10Rnd,								M,		220,		110
 		Mag_SVD_10Rnd,								M,		250,		125
 		Mag_308WinSnaploader_2Rnd,					M,		100,		50
-		Mag_357Speedloader_6Rnd,					M,		100,		50
 		CC_93R_Mag,									M,		100,		50
 		CC_Barrett_Mag,								M,		5000,		1000
 		CC_65Carcano,								M,		100,		50
@@ -3141,7 +3134,6 @@
 		CC_Barrett,			    	W,		35000,	9000
 		CC_DVL10,			    	W,		17500,	6500
 		CC_Ion,			    		W,		25000,	8000
-		CC_Showstopper,			    	W,		17500,	6500
 		CC_Ssk,			    		W,		30000,	8500
 		CC_Torx,			    	W,		19500,	7000
 		CC_PSG1,			    	W,		17500,	6500
@@ -3204,15 +3196,15 @@
 		Ammo_556x45,								1,		40,		3
 		Ammo_762x39,								1,		40,		3
 		Ammo_762x54,								1,		45,		6		
-		Ammo_556x45Tracer,							1,		40,		4
-		Ammo_545x39Tracer,							1,		40,		3
-		Ammo_308WinTracer,							1,		50,		5
-		Ammo_762x39Tracer,							1,		40,		3
+		Ammo_556x45Tracer,							1,		80,		4
+		Ammo_545x39Tracer,							1,		80,		3
+		Ammo_308WinTracer,							1,		80,		5
+		Ammo_762x39Tracer,							1,		80,		3
 		Ammo_Flare,								1,		150,		20
 	    	Ammo_FlareBlue,								1,		150,		20
 	    	Ammo_FlareGreen,							1,		150,		20
 	    	Ammo_FlareRed,								1,		150,		20
-		Ammo_762x54Tracer,							1,		45,		6
+		Ammo_762x54Tracer,							1,		100,		6
 		Bullet_CC_Ion_Ammo,							1,		50,		10
 		Bullet_CC_44_Ammo,							1,		50,			2
 		Bullet_CC_50cal_Ammo,							1,		3000,			750
