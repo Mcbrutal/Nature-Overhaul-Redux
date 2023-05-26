@@ -2355,7 +2355,7 @@
 
 
 	<Category> GAZ_66_kuzov
-				GAZ_66_kuzoVNK,		                    VNK,		190000,	94000
+				GAZ_66_kuzov,		                    VNK,		190000,	94000
 				GAZ_66_kuzov_camo,		                VNK,		190000,	94000
 				GAZ_66_kuzov_zima_camo,		            VNK,		190000,	94000
 				GAZ_66_Wheel,		                    *,			1000,	450
