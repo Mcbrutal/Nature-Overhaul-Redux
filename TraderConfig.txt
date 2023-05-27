@@ -5455,7 +5455,6 @@
 		
 <Trader> Heli Trader
 	<Category> Heli Equipment
-		rf_helipad_kit,                 *,    25000, 2500
 		ADM_ParachuteBag_Fabric,        *,    2500,  1000
 		ADM_ParachuteBag_RWB,           *,    2500,  1000
 		ADM_ParachuteBag_Target,        *,    2500,  1000
