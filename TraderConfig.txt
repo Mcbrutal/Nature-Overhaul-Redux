@@ -1184,6 +1184,8 @@
 		TankerHelmet,								*,		100,	25
 		GreatHelm,									*,		120,	30
 		ZSh3PilotHelmet,							*,		130,	35
+		ZSh3PilotHelmet_Green,							*,		130,	35
+		ZSh3PilotHelmet_Black,							*,		130,	35
 		FirefightersHelmet_Yellow,					*,		150,	40
 		FirefightersHelmet_Red,						*,		150,	40
 		FirefightersHelmet_White,					*,		150,	40
