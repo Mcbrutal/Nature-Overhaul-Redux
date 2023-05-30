@@ -271,7 +271,11 @@
 		Cassette_Eminem_TheEminemShow,               *,        1000,            250
 		Cassette_Evanescense_GreatestHits,           *,        1000,            250
 		Cassette_Tupac_GreatestHits,                 *,        1000,            250
-		
+		Cassette_Mo3boosie,							 *,        1000,            250
+		Cassette_WeezyDreams,						 *,        1000,            250
+		Cassette_SuicideBoys,                    	 *,        1000,           	250
+		Cassette_VaporsPlaylist,                     *,        1000,            250
+
 	<Category> FoXyCassettes Singles Pack 01
 		Cassette_ABBA_DancingQueen,						*,        1000,            250
 		Cassette_ACDC_BackInBlack,						*,        1000,            250
@@ -1058,8 +1062,11 @@
 		FryingPan,									M,		175,		15
 		Tripod,										*,		350,		25
 		BearTrap,									*,		1500,		100
-		MediumTent,									*,		3000,		500
+		FishNetTrap,								*,		500,		150
+		FishingRod,									*,		500,		150
+		Hook,										*,		50,			15
 		br_sleepingbag,								*,		50000,		1000
+		MediumTent,									*,		3000,		500
 		MediumTent_Green,							*,		3000,		500
 		MediumTent_Orange,							*,		3000,		500
 		CarTent,									*,		5000,		700
@@ -3275,11 +3282,11 @@
 				KAVZ685_RF_doors_trunk,		            *,			1650,	800
 				KAVZ685_RF_doors_driver_beige,		    *,			1650,	800
 				KAVZ685_RF_doors_cargo1_beige,		    *,			1650,	800
-				KAVZ685_RF_doors_hood,1_beige,		    *,			1650,	800
-				KAVZ685_RF_doors_trunk,1_beige,		    *,			1650,	800
+				KAVZ685_RF_doors_hood1_beige,		    *,			1650,	800
+				KAVZ685_RF_doors_trunk1_beige,		    *,			1650,	800
 				KAVZ685_RF_doors_driver_red,		    *,			1650,	800
 				KAVZ685_RF_doors_cargo1_red,		    *,			1650,	800
-				KAVZ685_RF_doors_hood,1_red,		    *,			1650,	800
+				KAVZ685_RF_doors_hood1_red,		    	*,			1650,	800
 				KAVZ685_RF_doors_trunk_red,		        *,			1650,	800
 				KAVZ685_RF_doors_driver_green,		    *,			1650,	800
 				KAVZ685_RF_doors_cargo1_green,		    *,			1650,	800
@@ -3985,16 +3992,25 @@
 		Plastic_Explosive,	    W,		8000,	2500
 
 	<Category> SciFi Weaponary
-		Diatium_Power_Cell,							*,		35000,	16500
-		Luke_Skywalker_Lightsaber_Retracted,		*,		50000,	25000
-		Rey_Skywalker_Lightsaber_Retracted,			*,		50000,	25000
-		Obi_Wan_Lightsaber_Retracted,				*,		50000,	25000
-		Mace_Windu_Lightsaber_Retracted,			*,		50000,	25000
-		Ahsoka_Tano_Lightsaber_Retracted,			*,		50000,	25000
-		Sith_Lightsaber_Retracted,					*,		55000,	30000
-		Count_Dooku_Lightsaber_Retracted,			*,		65000,	35000
-		BeskarSpear,								*,		65000,	35000
-		Darksaber_Retracted,						*,		75000,	40000
+		Diatium_Power_Cell,											*,		35000,	16500
+		Luke_Skywalker_Lightsaber_Retracted,						*,		50000,	25000
+		Rey_Skywalker_Lightsaber_Retracted,							*,		50000,	25000
+		Obi_Wan_Lightsaber_Retracted,								*,		50000,	25000
+		Mace_Windu_Lightsaber_Retracted,							*,		50000,	25000
+		Ahsoka_Tano_Lightsaber_Retracted,							*,		50000,	25000
+		Sith_Lightsaber_Retracted,									*,		55000,	30000
+		Count_Dooku_Lightsaber_Retracted,							*,		65000,	35000
+		BeskarSpear,												*,		65000,	35000
+		Darksaber_Retracted,										*,		75000,	40000
+		OVERKILL_Luke_Skywalker_Lightsaber_Retracted,	    		*,		-1,		250000
+		OVERKILL_Rey_Skywalker_Lightsaber_Retracted,	    		*,		-1,		250000
+		OVERKILL_Obi_Wan_Lightsaber_Retracted,	    				*,		-1,		250000
+		OVERKILL_Mace_Windu_Lightsaber_Retracted,	    			*,		-1,		250000
+		OVERKILL_Ahsoka_Tano_Lightsaber_Retracted,	    			*,		-1,		250000
+		OVERKILL_Sith_Lightsaber_Retracted,	    					*,		-1,		250000
+		OVERKILL_Count_Dooku_Lightsaber_Retracted,	    			*,		-1,		250000
+		OVERKILL_Darksaber_Retracted,	    						*,		-1,		250000
+		
 
 	<Category> Ammunition
 		TF_Ammo_20mm,		    						*,		4000,		1000
