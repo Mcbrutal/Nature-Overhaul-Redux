@@ -1,0 +1,787 @@
+[{
+		"ID": 1,
+		"Cooldown": -1,
+		"TimeLimit": 7200,
+		"Name": "Your Guide",
+		"Description": "Welcome, survivor! Let's see if you can handle the basics. Upon completion of the mission, you will receive a reward. You can access these quests by pressing P or change this hot key in your game options. ESC to exit",
+		"RequiredQuests": [],
+		"Targets": [{
+				"type": "WaterBottle",
+				"questType": 2,
+				"count": 1,
+				"extra": "",
+				"description": "Drink water from a plastic bottle",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "SpaghettiCan_Opened",
+				"questType": 2,
+				"count": 1,
+				"extra": "",
+				"description": "Find and eat canned spaghetti",
+				"conditions": [-1, -1]
+			}
+		],
+		"Rewards": [{
+				"type": "TetracyclineAntibiotics",
+				"count": 1,
+				"extra": "",
+				"description": "Antibiotics",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "IodineTincture",
+				"count": 1,
+				"extra": "",
+				"description": "Iodine for your cuts",
+				"conditions": [1, 1]
+			}
+		]
+	},
+	{
+		"ID": 2,
+		"Cooldown": -1,
+		"TimeLimit": 604800,
+		"Name": "Wilderness Survival 101a",
+		"Description": "This is the first course for basic survival training for the wilds of Chernarus. Gather materials for a camp.",
+		"RequiredQuests": [1],
+		"Targets": [{
+				"type": "ActionMineBush",
+				"questType": 8,
+				"count": 60,
+				"extra": "",
+				"description": "Cut down bushes with knife or hatchet",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionMineRock",
+				"questType": 8,
+				"count": 16,
+				"extra": "",
+				"description": "Mine stones with a pick axe",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionBreakLongWoodenStick",
+				"questType": 8,
+				"count": 3,
+				"extra": "",
+				"description": "Break the long stick",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionMineTree",
+				"questType": 8,
+				"count": 1,
+				"extra": "",
+				"description": "Chop down a tree for firewood",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "AnimalBase",
+				"count": 1,
+				"questType": 1,
+				"extra": "",
+				"description": "Kill an animal for food and pelt",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionSkinning",
+				"questType": 8,
+				"count": 1,
+				"extra": "AnimalBase",
+				"description": "Cut up the carcass of the killed animal",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionBuildShelter",
+				"questType": 8,
+				"count": 1,
+				"extra": "",
+				"description": "Build a leather or stick shelter",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionLightItemOnFire",
+				"questType": 8,
+				"count": 1,
+				"extra": "Fireplace",
+				"description": "Light your first campfire",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionCookOnStick",
+				"questType": 8,
+				"count": 1,
+				"extra": "AnimalBase",
+				"description": "Cook meat on a stick",
+				"conditions": [-1, -1]
+			}
+		],
+		"Rewards": [{
+				"type": "WoodAxe",
+				"count": 1,
+				"extra": "",
+				"description": "Wooden Axe",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "BoonieHat_Blue",
+				"count": 1,
+				"extra": "",
+				"description": "Hat",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "USMCPants_Woodland",
+				"count": 1,
+				"extra": "",
+				"description": "Pants",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "HuntingJacket_Autumn",
+				"count": 1,
+				"extra": "",
+				"description": "Hunting Jacket",
+				"conditions": [2, 1]
+			}
+		]
+	},
+	{
+		"ID": 3,
+		"Cooldown": -1,
+		"TimeLimit": 604800,
+		"Name": "Wilderness Survival 101b",
+		"Description": "Survival and exploration training focus on hydration",
+		"RequiredQuests": [2],
+		"Targets": [{
+				"type": "ActionDrinkWellContinuous",
+				"count": 1,
+				"questType": 8,
+				"extra": "",
+				"description": "Drink from a well",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionDrinkPondContinuous",
+				"count": 1,
+				"questType": 8,
+				"extra": "",
+				"description": "Drink from the pond",
+				"conditions": [-1, -1]
+			}
+		],
+		"Rewards": [{
+				"type": "PurificationTablets",
+				"count": 1,
+				"extra": "",
+				"description": "Water purification tablets",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "Canteen",
+				"count": 1,
+				"extra": "",
+				"description": "Canteen",
+				"conditions": [1, 1]
+			}
+		]
+	},
+	{
+		"ID": 4,
+		"Cooldown": -1,
+		"TimeLimit": -1,
+		"Name": "Wilderness Survival 101c",
+		"Description": "For fishing, you need a fishing rod, you can make your own from a long stick and rope, and you will also need a hook. You can make it out of bones.",
+		"RequiredQuests": [3],
+		"Targets": [{
+				"type": "ImprovisedFishingRod",
+				"questType": 4,
+				"count": 1,
+				"extra": "",
+				"description": "Make a improvised fishing rod"
+			},
+			{
+				"type": "BoneHook",
+				"questType": 4,
+				"count": 2,
+				"extra": "",
+				"description": "Sharpen the hook from a bone"
+			},
+			{
+				"type": "Carp",
+				"questType": 5,
+				"count": 2,
+				"extra": "",
+				"description": "Catch carp"
+			},
+			{
+				"type": "Mackerel",
+				"questType": 5,
+				"count": 2,
+				"extra": "",
+				"description": "Catch mackerel"
+			},
+			{
+				"type": "ActionCookOnStick",
+				"questType": 8,
+				"count": 4,
+				"extra": "CarpFilletMeat",
+				"description": "Cook carp on a stick",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionCookOnStick",
+				"questType": 8,
+				"count": 4,
+				"extra": "MackerelFilletMeat",
+				"description": "Cook mackerel on a stick",
+				"conditions": [-1, -1]
+			}
+		],
+		"Rewards": [{
+				"type": "Worm",
+				"count": 5,
+				"extra": ""
+			},
+			{
+				"type": "FishingRod",
+				"count": 1,
+				"extra": "",
+				"description": "Fishing Rod",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "Hook",
+				"count": 3,
+				"extra": "",
+				"description": "Fish Hooks",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "MediumTent_Green",
+				"count": 1,
+				"extra": "",
+				"description": "Green Tent",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "CodeLock",
+				"count": 1,
+				"extra": "",
+				"description": "Code Lock",
+				"conditions": [1, 1]
+			}
+		]
+	},
+	{
+		"ID": 2,
+		"Cooldown": 14400,
+		"TimeLimit": 14400,
+		"Name": "Traveller",
+		"Description": "Visit these locations",
+		"RequiredQuests": [],
+		"Targets": [{
+				"type": "12057.559 0 3592.203",
+				"questType": 7,
+				"count": 1,
+				"extra": "",
+				"description": "Kamyshovo",
+				"conditions": [300, -1]
+			},
+			{
+				"type": "10478.281 0 2351.914",
+				"questType": 7,
+				"count": 1,
+				"extra": "",
+				"description": "Elektrozavodsk",
+				"conditions": [200, -1]
+			}
+		],
+		"Rewards": [{
+				"type": "Canvas_Backpack_Purple",
+				"count": 1,
+				"extra": "",
+				"description": "Large backpack",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "CrudeMachete",
+				"count": 1,
+				"extra": "",
+				"description": "Crude Machete",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "Sheriff_Badge",
+				"count": 1,
+				"extra": "",
+				"description": "Sheriff Badge",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "OrienteeringCompass",
+				"count": 1,
+				"extra": "",
+				"description": "Compass",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "DNA_KeyCard_Yellow_Inactive",
+				"count": 1,
+				"extra": "",
+				"description": "Yellow KeyCard",
+				"conditions": [2, 1]
+			}
+		]
+	},
+
+
+	{
+		"ID": 3,
+		"Cooldown": -1,
+		"TimeLimit": 604800,
+		"Name": "The Fighter",
+		"Description": "Teaching self-defense skills",
+		"RequiredQuests": [],
+		"Targets": [{
+			"type": "ZombieBase",
+			"count": 15,
+			"questType": 1,
+			"extra": "",
+			"description": "Kill the zombies",
+			"conditions": [-1, -1]
+		}],
+		"Rewards": [{
+				"type": "PlateCarrierVest_Black",
+				"count": 1,
+				"extra": "",
+				"description": "Worn body armor",
+				"conditions": [1, 1]
+			}
+
+		]
+	},
+
+	{
+		"ID": 4,
+		"Cooldown": -1,
+		"TimeLimit": 604800,
+		"Name": "Drinker",
+		"Description": "Survival and exploration training",
+		"RequiredQuests": [],
+		"Targets": [{
+				"type": "ActionDrinkWellContinuous",
+				"count": 5,
+				"questType": 8,
+				"extra": "",
+				"description": "Drink from a well",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionDrinkPondContinuous",
+				"count": 5,
+				"questType": 8,
+				"extra": "",
+				"description": "Drink from the pond",
+				"conditions": [-1, -1]
+			}
+		],
+		"Rewards": [{
+				"type": "WaterPouch_Natural",
+				"count": 1,
+				"extra": "",
+				"description": "Natural leather bottle",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "PeachesCan",
+				"count": 1,
+				"extra": "",
+				"description": "Canned peaches",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "CanOpener",
+				"count": 1,
+				"extra": "",
+				"description": "Tin opener",
+				"conditions": [1, 1]
+			}
+		]
+	},
+
+	{
+		"ID": 5,
+		"Cooldown": -1,
+		"TimeLimit": 604800,
+		"Name": "Survivalist",
+		"Description": "Survival Skills Training",
+		"RequiredQuests": [],
+		"Targets": [{
+			"type": "ActionBuildShelter",
+			"count": 1,
+			"questType": 8,
+			"extra": "",
+			"description": "Build a leather shelter",
+			"conditions": [-1, -1]
+		}],
+		"Rewards": [{
+				"type": "ChestHolster",
+				"count": 1,
+				"extra": "",
+				"description": "Chest holster",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "MakarovIJ70",
+				"count": 1,
+				"extra": "",
+				"description": "Makarov pistol",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "AmmoBox_380_35rnd",
+				"count": 1,
+				"extra": "",
+				"description": "Cartridges for Makarov pistol",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "PistolSuppressor",
+				"count": 1,
+				"extra": "",
+				"description": "Silencer",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "Mag_IJ70_8rnd",
+				"count": 2,
+				"extra": "",
+				"description": "Makarov clip",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "WeaponCleaningKit",
+				"count": 1,
+				"extra": "",
+				"description": "Gun cleaning kit",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "PorkCan",
+				"count": 3,
+				"extra": "",
+				"description": "Canned pork",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "Chips",
+				"count": 3,
+				"extra": "",
+				"description": "Chips",
+				"conditions": [1, 1]
+			}
+		]
+	},
+	{
+		"ID": 6,
+		"Cooldown": 604800,
+		"TimeLimit": 604800,
+		"Name": "Jedi Master",
+		"Description": "Be one with the force and rid Cherno of the infected plague",
+		"RequiredQuests": [],
+		"Targets": [{
+			"type": "ZombieBase",
+			"count": 1000,
+			"questType": 1,
+			"extra": "",
+			"description": "Kill 1000 zombies! May the force be with you...",
+			"conditions": [-1, -1]
+		}],
+		"Rewards": [{
+				"type": "OVERKILL_Luke_Skywalker_Lightsaber_Retracted",
+				"count": 1,
+				"extra": "",
+				"description": "Luke Skywalker Lightsaber Overkill",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "Diatium_Power_Cell",
+				"count": 1,
+				"extra": "",
+				"description": "Power Cell",
+				"conditions": [1, 1]
+			}
+
+		]
+	},
+	{
+		"ID": 7,
+		"Cooldown": 604800,
+		"TimeLimit": 604800,
+		"Name": "Turn to the Darkside",
+		"Description": "Continue to be the zombie killing maniac you always wanted to be. Killem All!",
+		"RequiredQuests": [6],
+		"Targets": [{
+			"type": "ZombieBase",
+			"count": 1000,
+			"questType": 1,
+			"extra": "",
+			"description": "Kill 1500 zombies! Feel the power of the darkside!",
+			"conditions": [-1, -1]
+		}],
+		"Rewards": [{
+				"type": "OVERKILL_Sith_Lightsaber_Retracted",
+				"count": 1,
+				"extra": "",
+				"description": "Sith Lightsaber Overkill",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "Diatium_Power_Cell",
+				"count": 1,
+				"extra": "",
+				"description": "Power Cell",
+				"conditions": [1, 1]
+			}
+
+		]
+	},
+	{
+		"ID": 8,
+		"Cooldown": -1,
+		"TimeLimit": 604800,
+		"Name": "Medic!",
+		"Description": "First Aid basics",
+		"RequiredQuests": [],
+		"Targets": [{
+				"type": "ActionBandageSelf",
+				"questType": 8,
+				"count": 10,
+				"extra": "",
+				"description": "Stop the bleeding by bandaging your wound",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionGiveBloodSelf",
+				"questType": 8,
+				"count": 2,
+				"extra": "",
+				"description": "Give yourself blood",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionGiveBloodTarget",
+				"questType": 8,
+				"count": 2,
+				"extra": "",
+				"description": "Give another player blood",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionGiveSalineSelf",
+				"questType": 8,
+				"count": 2,
+				"extra": "",
+				"description": "Give yourself saline",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionGiveSalineTarget",
+				"questType": 8,
+				"count": 2,
+				"extra": "",
+				"description": "Give another saline",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionMeasureTemperatureSelf",
+				"questType": 8,
+				"count": 1,
+				"extra": "",
+				"description": "Check your body temperature",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionMeasureTemperatureTarget",
+				"questType": 8,
+				"count": 1,
+				"extra": "",
+				"description": "Check someones temperature",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionSewSelf",
+				"questType": 8,
+				"count": 5,
+				"extra": "",
+				"description": "Stop the bleeding by sewing your wound",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionSewTarget",
+				"questType": 8,
+				"count": 5,
+				"extra": "",
+				"description": "Stop the bleeding by sewing someones wound",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionSplintSelf",
+				"questType": 8,
+				"count": 1,
+				"extra": "",
+				"description": "Fix your broken leg",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionSplintTarget",
+				"questType": 8,
+				"count": 1,
+				"extra": "",
+				"description": "Fix a friends broken leg",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionTestBloodSelf",
+				"questType": 8,
+				"count": 1,
+				"extra": "",
+				"description": "Give yourself a blood test",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionTestBloodTarget",
+				"questType": 8,
+				"count": 2,
+				"extra": "",
+				"description": "Give a friend a blood test",
+				"conditions": [-1, -1]
+			}
+		],
+		"Rewards": [{
+				"type": "FirstAidKit",
+				"count": 1,
+				"extra": "",
+				"description": "First Aid Kit",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "TetracyclineAntibiotics",
+				"count": 1,
+				"extra": "",
+				"description": "Antibiotics",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "FirstAidKit",
+				"count": 1,
+				"extra": "",
+				"description": "Pants",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "VitaminBottle",
+				"count": 1,
+				"extra": "",
+				"description": "Vitamins",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "Epinephrine",
+				"count": 1,
+				"extra": "",
+				"description": "Epinephrine",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "Morphine",
+				"count": 1,
+				"extra": "",
+				"description": "Morphine",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "BloodTestKit",
+				"count": 1,
+				"extra": "",
+				"description": "BloodTestKit",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "DisinfectantAlcohol",
+				"count": 1,
+				"extra": "",
+				"description": "Alcohol",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "MedicalScrubsHat_White",
+				"count": 1,
+				"extra": "",
+				"description": "Medical Scrubs Hat",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "ParamedicJacket_Crimson",
+				"count": 1,
+				"extra": "",
+				"description": "Paramedic Jacket",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "ParamedicPants_Crimson",
+				"count": 1,
+				"extra": "",
+				"description": "ParamedicPants",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "SurgicalGloves_White",
+				"count": 1,
+				"extra": "",
+				"description": "SurgicalGloves",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "MilitaryBoots_Redpunk",
+				"count": 1,
+				"extra": "",
+				"description": "MilitaryBoots",
+				"conditions": [2, 1]
+			},
+			{
+				"type": "Zen_Virus_Cure_Microscope",
+				"count": 1,
+				"extra": "",
+				"description": "Zen Virus Microscope",
+				"conditions": [2, 1]
+			}
+		]
+	},
+	{
+		"ID": 9,
+		"Cooldown": 604800,
+		"TimeLimit": 7200,
+		"Name": "Castle Raider",
+		"Description": "Visit Bandit Island",
+		"RequiredQuests": [3],
+		"Targets": [{
+			"type": "13472.20 0 3324.81",
+			"questType": 7,
+			"count": 1,
+			"extra": "",
+			"description": "Voron Castle",
+			"conditions": [5, -1]
+		}],
+		"Rewards": [{
+			"type": "DNA_KeyCard_Red_Inactive",
+			"count": 1,
+			"extra": "",
+			"description": "Red KeyCard",
+			"conditions": [-1, -1]
+		}]
+	}
+]
