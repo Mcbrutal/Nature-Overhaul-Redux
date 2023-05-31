@@ -253,12 +253,12 @@
 		]
 	},
 	{
-		"ID": 3,
+		"ID": 4,
 		"Cooldown": -1,
 		"TimeLimit": 604800,
 		"Name": "Wilderness Survival 101c",
 		"Description": "For fishing, you need a fishing rod, you can make your own from a long stick and rope, and you will also need a hook. You can make it out of bones.",
-		"RequiredQuests": [2],
+		"RequiredQuests": [3],
 		"Targets": [{
 				"type": "ImprovisedFishingRod",
 				"questType": 4,
@@ -341,12 +341,12 @@
 	},
 
 {
-		"ID": 4,
+		"ID": 5,
 		"Cooldown": 86400,
 		"TimeLimit": 86400,
 		"Name": "Fighting Instincts I",
 		"Description": "Teaching self-defense skills",
-		"RequiredQuests": [3],
+		"RequiredQuests": [4],
 		"Targets": [{
 			"type": "ZombieBase",
 			"count": 100,
@@ -374,12 +374,12 @@
 	},
 	
 	{
-		"ID": 5,
+		"ID": 6,
 		"Cooldown": 86400,
 		"TimeLimit": 86400,
 		"Name": "Fighting Instincts II",
 		"Description": "Teaching self-defense skills I AM THE LAW",
-		"RequiredQuests": [4],
+		"RequiredQuests": [5],
 		"Targets": [{
 			"type": "ZmbM_PolicemanFat",
 			"count": 10,
@@ -431,12 +431,12 @@
 	},
 	
 	{
-		"ID": 6,
+		"ID": 7,
 		"Cooldown": 86400,
 		"TimeLimit": 86400,
 		"Name": "Fighting Instincts III",
 		"Description": "Teaching self-defense skills Military",
-		"RequiredQuests": [5],
+		"RequiredQuests": [6],
 		"Targets": [{
 			"type": "ZmbM_usSoldier_Heavy_Woodland",
 			"count": 20,
@@ -480,7 +480,7 @@
 	},
 	
 	{
-		"ID": 7,
+		"ID": 8,
 		"Cooldown": 14400,
 		"TimeLimit": 14400,
 		"Name": "Traveller",
@@ -535,12 +535,12 @@
 	},
 
 	{
-		"ID": 6,
+		"ID": 9,
 		"Cooldown": 604800,
 		"TimeLimit": 604800,
 		"Name": "Jedi Master",
 		"Description": "Be one with the force and rid Cherno of the infected plague",
-		"RequiredQuests": [5],
+		"RequiredQuests": [7],
 		"Targets": [{
 			"type": "ZombieBase",
 			"count": 1000,
@@ -567,12 +567,12 @@
 		]
 	},
 	{
-		"ID": 8,
+		"ID": 10,
 		"Cooldown": 604800,
 		"TimeLimit": 604800,
 		"Name": "Turn to the Darkside",
 		"Description": "Continue to be the zombie killing maniac you always wanted to be. Killem All!",
-		"RequiredQuests": [6],
+		"RequiredQuests": [9],
 		"Targets": [{
 			"type": "ZombieBase",
 			"count": 1000,
@@ -599,7 +599,7 @@
 		]
 	},
 	{
-		"ID": 9,
+		"ID": 11,
 		"Cooldown": -1,
 		"TimeLimit": 604800,
 		"Name": "Medic!",
@@ -811,12 +811,12 @@
 		]
 	},
 	{
-		"ID": 10,
+		"ID": 12,
 		"Cooldown": 604800,
 		"TimeLimit": 7200,
 		"Name": "Castle Raider",
 		"Description": "Visit Bandit Island",
-		"RequiredQuests": [6],
+		"RequiredQuests": [10],
 		"Targets": [{
 			"type": "13472.20 0 3324.81",
 			"questType": 7,
