@@ -110,75 +110,75 @@
 				"conditions": [-1, -1]
 			},
 			{
-				"type": "ActionCookOnStick",
-				"questType": 8,
+				"type": "ChickenBreastMeat",
+				"questType": 2,
 				"count": 1,
-				"extra": "ChickenBreastMeat",
-				"description": "Cook meat on a stick",
+				"extra": "",
+				"description": "Find Chicken Breast",
 				"conditions": [-1, -1]
 			},
 			{
-				"type": "ActionCookOnStick",
-				"questType": 8,
+				"type": "GoatSteakMeat",
+				"questType": 2,
 				"count": 1,
-				"extra": "GoatSteakMeat",
-				"description": "Cook meat on a stick",
+				"extra": "",
+				"description": "Find Goat Steak",
 				"conditions": [-1, -1]
 			},
 			{
-				"type": "ActionCookOnStick",
-				"questType": 8,
+				"type": "SheepSteakMeat",
+				"questType": 2,
 				"count": 1,
-				"extra": "SheepSteakMeat",
-				"description": "Cook meat on a stick",
+				"extra": "",
+				"description": "Find Sheep Steak",
 				"conditions": [-1, -1]
 			},
 			{
-				"type": "ActionCookOnStick",
-				"questType": 8,
+				"type": "PigSteakMeat",
+				"questType": 2,
 				"count": 1,
-				"extra": "PigSteakMeat",
-				"description": "Cook meat on a stick",
+				"extra": "",
+				"description": "Find Pig Steak",
 				"conditions": [-1, -1]
 			},
 			{
-				"type": "ActionCookOnStick",
-				"questType": 8,
+				"type": "BoarSteakMeat",
+				"questType": 2,
 				"count": 1,
-				"extra": "BoarSteakMeat",
-				"description": "Cook meat on a stick",
+				"extra": "",
+				"description": "Find Boar Steak",
 				"conditions": [-1, -1]
 			},
 			{
-				"type": "ActionCookOnStick",
-				"questType": 8,
+				"type": "WolfSteakMeat",
+				"questType": 2,
 				"count": 1,
-				"extra": "WolfSteakMeat",
-				"description": "Cook meat on a stick",
+				"extra": "",
+				"description": "Find Wolf Steak",
 				"conditions": [-1, -1]
 			},
 			{
-				"type": "ActionCookOnStick",
-				"questType": 8,
+				"type": "DeerSteakMeat",
+				"questType": 2,
 				"count": 1,
-				"extra": "DeerSteakMeat",
-				"description": "Cook meat on a stick",
+				"extra": "",
+				"description": "Find Deer Steak",
 				"conditions": [-1, -1]
 			},
 			{
-				"type": "ActionCookOnStick",
-				"questType": 8,
+				"type": "BearSteakMeat",
+				"questType": 2,
 				"count": 1,
-				"extra": "BearSteakMeat",
-				"description": "Cook meat on a stick",
+				"extra": "",
+				"description": "Find Bear Steak",
 				"conditions": [-1, -1]
 			},
 			{
-				"type": "ActionCookOnStick",
-				"questType": 8,
+				"type": "CowSteakMeat",
+				"questType": 2,
 				"count": 1,
-				"extra": "CowSteakMeat",
-				"description": "Cook meat on a stick",
+				"extra": "",
+				"description": "Find Cow Steak",
 				"conditions": [-1, -1]
 			}
 		],
@@ -253,12 +253,12 @@
 		]
 	},
 	{
-		"ID": 4,
+		"ID": 3,
 		"Cooldown": -1,
-		"TimeLimit": -1,
+		"TimeLimit": 604800,
 		"Name": "Wilderness Survival 101c",
 		"Description": "For fishing, you need a fishing rod, you can make your own from a long stick and rope, and you will also need a hook. You can make it out of bones.",
-		"RequiredQuests": [3],
+		"RequiredQuests": [2],
 		"Targets": [{
 				"type": "ImprovisedFishingRod",
 				"questType": 4,
@@ -340,13 +340,152 @@
 		]
 	},
 
+{
+		"ID": 4,
+		"Cooldown": 86400,
+		"TimeLimit": 86400,
+		"Name": "Fighting Instincts I",
+		"Description": "Teaching self-defense skills",
+		"RequiredQuests": [3],
+		"Targets": [{
+			"type": "ZombieBase",
+			"count": 100,
+			"questType": 1,
+			"extra": "",
+			"description": "Kill Infected",
+			"conditions": [-1, -1]
+		}],
+		"Rewards": [{
+				"type": "PlateCarrierVest_Black",
+				"count": 1,
+				"extra": "",
+				"description": "Worn body armor",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "DNA_KeyCard_Yellow_Inactive",
+				"count": 1,
+				"extra": "",
+				"description": "Yellow KeyCard",
+				"conditions": [2, 1]
+			}
+
+		]
+	},
+	
 	{
 		"ID": 5,
+		"Cooldown": 86400,
+		"TimeLimit": 86400,
+		"Name": "Fighting Instincts II",
+		"Description": "Teaching self-defense skills I AM THE LAW",
+		"RequiredQuests": [4],
+		"Targets": [{
+			"type": "ZmbM_PolicemanFat",
+			"count": 10,
+			"questType": 1,
+			"extra": "",
+			"description": "Kill Infected Policeman",
+			"conditions": [-1, -1]
+		},
+		{
+			"type": "ZmbF_PoliceWomanNormal",
+			"count": 10,
+			"questType": 1,
+			"extra": "",
+			"description": "Kill Infected Police Woman",
+			"conditions": [-1, -1]
+		},
+		{
+			"type": "ZmbM_PolicemanSpecForce",
+			"count": 5,
+			"questType": 1,
+			"extra": "",
+			"description": "Kill Infected Policeman Spec Force",
+			"conditions": [-1, -1]
+		},
+		{
+			"type": "ZmbM_PolicemanSpecForce_Heavy",
+			"count": 5,
+			"questType": 1,
+			"extra": "",
+			"description": "Kill Infected Policeman Spec Force Heavy",
+			"conditions": [-1, -1]
+		}],
+		"Rewards": [{
+				"type": "PlateCarrierVest_Black",
+				"count": 1,
+				"extra": "",
+				"description": "Worn body armor",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "DNA_KeyCard_Yellow_Inactive",
+				"count": 1,
+				"extra": "",
+				"description": "Yellow KeyCard",
+				"conditions": [2, 1]
+			}
+
+		]
+	},
+	
+	{
+		"ID": 6,
+		"Cooldown": 86400,
+		"TimeLimit": 86400,
+		"Name": "Fighting Instincts III",
+		"Description": "Teaching self-defense skills Military",
+		"RequiredQuests": [5],
+		"Targets": [{
+			"type": "ZmbM_usSoldier_Heavy_Woodland",
+			"count": 20,
+			"questType": 1,
+			"extra": "",
+			"description": "Kill Infected US Soldier Heavy Woodland",
+			"conditions": [-1, -1]
+		},
+		{
+			"type": "ZmbM_usSoldier_normal_Woodland",
+			"count": 20,
+			"questType": 1,
+			"extra": "",
+			"description": "Kill Infected US Soldier",
+			"conditions": [-1, -1]
+		},
+		{
+			"type": "ZmbM_SoldierNormal",
+			"count": 20,
+			"questType": 1,
+			"extra": "",
+			"description": "Kill Infected Soldier",
+			"conditions": [-1, -1]
+		}],
+		"Rewards": [{
+				"type": "PlateCarrierVest_Black",
+				"count": 1,
+				"extra": "",
+				"description": "Worn body armor",
+				"conditions": [1, 1]
+			},
+			{
+				"type": "DNA_KeyCard_Blue_Inactive",
+				"count": 1,
+				"extra": "",
+				"description": "Blue KeyCard",
+				"conditions": [2, 1]
+			}
+
+		]
+	},
+	
+	{
+		"ID": 7,
 		"Cooldown": 14400,
 		"TimeLimit": 14400,
 		"Name": "Traveller",
 		"Description": "Visit these locations",
-		"RequiredQuests": [],
+		"RequiredQuests": [3],
 		"Targets": [{
 				"type": "12057.559 0 3592.203",
 				"questType": 7,
@@ -391,50 +530,17 @@
 				"extra": "",
 				"description": "Compass",
 				"conditions": [2, 1]
-			},
-			{
-				"type": "DNA_KeyCard_Yellow_Inactive",
-				"count": 1,
-				"extra": "",
-				"description": "Yellow KeyCard",
-				"conditions": [2, 1]
 			}
 		]
 	},
 
 	{
 		"ID": 6,
-		"Cooldown": -1,
-		"TimeLimit": 604800,
-		"Name": "Fighting Instincts",
-		"Description": "Teaching self-defense skills",
-		"RequiredQuests": [],
-		"Targets": [{
-			"type": "ZombieBase",
-			"count": 100,
-			"questType": 1,
-			"extra": "",
-			"description": "Kill Infected",
-			"conditions": [-1, -1]
-		}],
-		"Rewards": [{
-				"type": "PlateCarrierVest_Black",
-				"count": 1,
-				"extra": "",
-				"description": "Worn body armor",
-				"conditions": [1, 1]
-			}
-
-		]
-	},
-
-	{
-		"ID": 7,
 		"Cooldown": 604800,
 		"TimeLimit": 604800,
 		"Name": "Jedi Master",
 		"Description": "Be one with the force and rid Cherno of the infected plague",
-		"RequiredQuests": [],
+		"RequiredQuests": [5],
 		"Targets": [{
 			"type": "ZombieBase",
 			"count": 1000,
@@ -466,7 +572,7 @@
 		"TimeLimit": 604800,
 		"Name": "Turn to the Darkside",
 		"Description": "Continue to be the zombie killing maniac you always wanted to be. Killem All!",
-		"RequiredQuests": [7],
+		"RequiredQuests": [6],
 		"Targets": [{
 			"type": "ZombieBase",
 			"count": 1000,
@@ -498,7 +604,7 @@
 		"TimeLimit": 604800,
 		"Name": "Medic!",
 		"Description": "First Aid basics",
-		"RequiredQuests": [],
+		"RequiredQuests": [3],
 		"Targets": [{
 				"type": "ActionBandageSelf",
 				"questType": 8,
