@@ -48,7 +48,7 @@
 		"Targets": [{
 				"type": "ActionMineBush",
 				"questType": 8,
-				"count": 60,
+				"count": 20,
 				"extra": "",
 				"description": "Cut down bushes with knife or hatchet",
 				"conditions": [-1, -1]
@@ -113,7 +113,71 @@
 				"type": "ActionCookOnStick",
 				"questType": 8,
 				"count": 1,
-				"extra": "AnimalBase",
+				"extra": "ChickenBreastMeat",
+				"description": "Cook meat on a stick",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionCookOnStick",
+				"questType": 8,
+				"count": 1,
+				"extra": "GoatSteakMeat",
+				"description": "Cook meat on a stick",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionCookOnStick",
+				"questType": 8,
+				"count": 1,
+				"extra": "SheepSteakMeat",
+				"description": "Cook meat on a stick",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionCookOnStick",
+				"questType": 8,
+				"count": 1,
+				"extra": "PigSteakMeat",
+				"description": "Cook meat on a stick",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionCookOnStick",
+				"questType": 8,
+				"count": 1,
+				"extra": "BoarSteakMeat",
+				"description": "Cook meat on a stick",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionCookOnStick",
+				"questType": 8,
+				"count": 1,
+				"extra": "WolfSteakMeat",
+				"description": "Cook meat on a stick",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionCookOnStick",
+				"questType": 8,
+				"count": 1,
+				"extra": "DeerSteakMeat",
+				"description": "Cook meat on a stick",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionCookOnStick",
+				"questType": 8,
+				"count": 1,
+				"extra": "BearSteakMeat",
+				"description": "Cook meat on a stick",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ActionCookOnStick",
+				"questType": 8,
+				"count": 1,
+				"extra": "CowSteakMeat",
 				"description": "Cook meat on a stick",
 				"conditions": [-1, -1]
 			}
@@ -275,7 +339,7 @@
 			}
 		]
 	},
-	
+
 	{
 		"ID": 5,
 		"Cooldown": 14400,
