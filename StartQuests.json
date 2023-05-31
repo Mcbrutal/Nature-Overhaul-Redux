@@ -3,7 +3,7 @@
 		"Cooldown": -1,
 		"TimeLimit": 7200,
 		"Name": "Your Guide",
-		"Description": "Welcome, survivor! Let's see if you can handle the basics. Upon completion of the mission, you will receive a reward. You can access these quests by pressing P or change this hot key in your game options. ESC to exit",
+		"Description": "Welcome, survivor! This is your mission diary. Upon completing a task, you will receive a reward. Let's get started.  //// You can access these quests by pressing P or change this hot key in your game options. Press ESC to exit. ////",
 		"RequiredQuests": [],
 		"Targets": [{
 				"type": "WaterBottle",
