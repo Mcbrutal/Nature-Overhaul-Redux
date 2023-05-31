@@ -38,6 +38,7 @@
 			}
 		]
 	},
+
 	{
 		"ID": 2,
 		"Cooldown": -1,
@@ -212,6 +213,7 @@
 			}
 		]
 	},
+
 	{
 		"ID": 3,
 		"Cooldown": -1,
@@ -252,101 +254,14 @@
 			}
 		]
 	},
+
 	{
 		"ID": 4,
-		"Cooldown": -1,
-		"TimeLimit": 604800,
-		"Name": "Wilderness Survival 101c",
-		"Description": "For fishing, you need a fishing rod, you can make your own from a long stick and rope, and you will also need a hook. You can make it out of bones.",
-		"RequiredQuests": [3],
-		"Targets": [{
-				"type": "ImprovisedFishingRod",
-				"questType": 4,
-				"count": 1,
-				"extra": "",
-				"description": "Make a improvised fishing rod"
-			},
-			{
-				"type": "BoneHook",
-				"questType": 4,
-				"count": 2,
-				"extra": "",
-				"description": "Sharpen the hook from a bone"
-			},
-			{
-				"type": "Carp",
-				"questType": 5,
-				"count": 2,
-				"extra": "",
-				"description": "Catch carp"
-			},
-			{
-				"type": "Mackerel",
-				"questType": 5,
-				"count": 2,
-				"extra": "",
-				"description": "Catch mackerel"
-			},
-			{
-				"type": "ActionCookOnStick",
-				"questType": 8,
-				"count": 4,
-				"extra": "CarpFilletMeat",
-				"description": "Cook carp on a stick",
-				"conditions": [-1, -1]
-			},
-			{
-				"type": "ActionCookOnStick",
-				"questType": 8,
-				"count": 4,
-				"extra": "MackerelFilletMeat",
-				"description": "Cook mackerel on a stick",
-				"conditions": [-1, -1]
-			}
-		],
-		"Rewards": [{
-				"type": "Worm",
-				"count": 5,
-				"extra": ""
-			},
-			{
-				"type": "FishingRod",
-				"count": 1,
-				"extra": "",
-				"description": "Fishing Rod",
-				"conditions": [1, 1]
-			},
-			{
-				"type": "Hook",
-				"count": 3,
-				"extra": "",
-				"description": "Fish Hooks",
-				"conditions": [1, 1]
-			},
-			{
-				"type": "MediumTent_Green",
-				"count": 1,
-				"extra": "",
-				"description": "Green Tent",
-				"conditions": [1, 1]
-			},
-			{
-				"type": "CodeLock",
-				"count": 1,
-				"extra": "",
-				"description": "Code Lock",
-				"conditions": [1, 1]
-			}
-		]
-	},
-
-{
-		"ID": 5,
 		"Cooldown": 86400,
 		"TimeLimit": 86400,
 		"Name": "Fighting Instincts I",
 		"Description": "Teaching self-defense skills",
-		"RequiredQuests": [4],
+		"RequiredQuests": [3],
 		"Targets": [{
 			"type": "ZombieBase",
 			"count": 100,
@@ -372,46 +287,47 @@
 
 		]
 	},
-	
+
 	{
-		"ID": 6,
-		"Cooldown": 86400,
-		"TimeLimit": 86400,
+		"ID": 5,
+		"Cooldown": 172800,
+		"TimeLimit": 172800,
 		"Name": "Fighting Instincts II",
 		"Description": "Teaching self-defense skills I AM THE LAW",
-		"RequiredQuests": [5],
+		"RequiredQuests": [4],
 		"Targets": [{
-			"type": "ZmbM_PolicemanFat",
-			"count": 10,
-			"questType": 1,
-			"extra": "",
-			"description": "Kill Infected Policeman",
-			"conditions": [-1, -1]
-		},
-		{
-			"type": "ZmbF_PoliceWomanNormal",
-			"count": 10,
-			"questType": 1,
-			"extra": "",
-			"description": "Kill Infected Police Woman",
-			"conditions": [-1, -1]
-		},
-		{
-			"type": "ZmbM_PolicemanSpecForce",
-			"count": 5,
-			"questType": 1,
-			"extra": "",
-			"description": "Kill Infected Policeman Spec Force",
-			"conditions": [-1, -1]
-		},
-		{
-			"type": "ZmbM_PolicemanSpecForce_Heavy",
-			"count": 5,
-			"questType": 1,
-			"extra": "",
-			"description": "Kill Infected Policeman Spec Force Heavy",
-			"conditions": [-1, -1]
-		}],
+				"type": "ZmbM_PolicemanFat",
+				"count": 10,
+				"questType": 1,
+				"extra": "",
+				"description": "Kill Infected Policeman",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ZmbF_PoliceWomanNormal",
+				"count": 10,
+				"questType": 1,
+				"extra": "",
+				"description": "Kill Infected Police Woman",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ZmbM_PolicemanSpecForce",
+				"count": 5,
+				"questType": 1,
+				"extra": "",
+				"description": "Kill Infected Policeman Spec Force",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ZmbM_PolicemanSpecForce_Heavy",
+				"count": 5,
+				"questType": 1,
+				"extra": "",
+				"description": "Kill Infected Policeman Spec Force Heavy",
+				"conditions": [-1, -1]
+			}
+		],
 		"Rewards": [{
 				"type": "PlateCarrierVest_Black",
 				"count": 1,
@@ -420,47 +336,48 @@
 				"conditions": [1, 1]
 			},
 			{
-				"type": "DNA_KeyCard_Yellow_Inactive",
+				"type": "DNA_KeyCard_Green_Inactive",
 				"count": 1,
 				"extra": "",
-				"description": "Yellow KeyCard",
+				"description": "Green KeyCard",
 				"conditions": [2, 1]
 			}
 
 		]
 	},
-	
+
 	{
-		"ID": 7,
-		"Cooldown": 86400,
-		"TimeLimit": 86400,
+		"ID": 6,
+		"Cooldown": 259200,
+		"TimeLimit": 259200,
 		"Name": "Fighting Instincts III",
 		"Description": "Teaching self-defense skills Military",
-		"RequiredQuests": [6],
+		"RequiredQuests": [5],
 		"Targets": [{
-			"type": "ZmbM_usSoldier_Heavy_Woodland",
-			"count": 20,
-			"questType": 1,
-			"extra": "",
-			"description": "Kill Infected US Soldier Heavy Woodland",
-			"conditions": [-1, -1]
-		},
-		{
-			"type": "ZmbM_usSoldier_normal_Woodland",
-			"count": 20,
-			"questType": 1,
-			"extra": "",
-			"description": "Kill Infected US Soldier",
-			"conditions": [-1, -1]
-		},
-		{
-			"type": "ZmbM_SoldierNormal",
-			"count": 20,
-			"questType": 1,
-			"extra": "",
-			"description": "Kill Infected Soldier",
-			"conditions": [-1, -1]
-		}],
+				"type": "ZmbM_usSoldier_Heavy_Woodland",
+				"count": 20,
+				"questType": 1,
+				"extra": "",
+				"description": "Kill Infected US Soldier Heavy Woodland",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ZmbM_usSoldier_normal_Woodland",
+				"count": 20,
+				"questType": 1,
+				"extra": "",
+				"description": "Kill Infected US Soldier",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "ZmbM_SoldierNormal",
+				"count": 20,
+				"questType": 1,
+				"extra": "",
+				"description": "Kill Infected Soldier",
+				"conditions": [-1, -1]
+			}
+		],
 		"Rewards": [{
 				"type": "PlateCarrierVest_Black",
 				"count": 1,
@@ -478,9 +395,9 @@
 
 		]
 	},
-	
+
 	{
-		"ID": 8,
+		"ID": 7,
 		"Cooldown": 14400,
 		"TimeLimit": 14400,
 		"Name": "Traveller",
@@ -535,12 +452,12 @@
 	},
 
 	{
-		"ID": 9,
+		"ID": 8,
 		"Cooldown": 604800,
 		"TimeLimit": 604800,
 		"Name": "Jedi Master",
 		"Description": "Be one with the force and rid Cherno of the infected plague",
-		"RequiredQuests": [7],
+		"RequiredQuests": [6],
 		"Targets": [{
 			"type": "ZombieBase",
 			"count": 1000,
@@ -567,12 +484,12 @@
 		]
 	},
 	{
-		"ID": 10,
+		"ID": 9,
 		"Cooldown": 604800,
 		"TimeLimit": 604800,
 		"Name": "Turn to the Darkside",
 		"Description": "Continue to be the zombie killing maniac you always wanted to be. Killem All!",
-		"RequiredQuests": [9],
+		"RequiredQuests": [8],
 		"Targets": [{
 			"type": "ZombieBase",
 			"count": 1000,
@@ -599,7 +516,7 @@
 		]
 	},
 	{
-		"ID": 11,
+		"ID": 10,
 		"Cooldown": -1,
 		"TimeLimit": 604800,
 		"Name": "Medic!",
@@ -811,12 +728,12 @@
 		]
 	},
 	{
-		"ID": 12,
+		"ID": 11,
 		"Cooldown": 604800,
 		"TimeLimit": 7200,
 		"Name": "Castle Raider",
 		"Description": "Visit Bandit Island",
-		"RequiredQuests": [10],
+		"RequiredQuests": [9],
 		"Targets": [{
 			"type": "13472.20 0 3324.81",
 			"questType": 7,
