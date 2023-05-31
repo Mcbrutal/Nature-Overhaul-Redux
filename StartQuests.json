@@ -275,8 +275,9 @@
 			}
 		]
 	},
+	
 	{
-		"ID": 2,
+		"ID": 5,
 		"Cooldown": 14400,
 		"TimeLimit": 14400,
 		"Name": "Traveller",
@@ -337,20 +338,19 @@
 		]
 	},
 
-
 	{
-		"ID": 3,
+		"ID": 6,
 		"Cooldown": -1,
 		"TimeLimit": 604800,
-		"Name": "The Fighter",
+		"Name": "Fighting Instincts",
 		"Description": "Teaching self-defense skills",
 		"RequiredQuests": [],
 		"Targets": [{
 			"type": "ZombieBase",
-			"count": 15,
+			"count": 100,
 			"questType": 1,
 			"extra": "",
-			"description": "Kill the zombies",
+			"description": "Kill Infected",
 			"conditions": [-1, -1]
 		}],
 		"Rewards": [{
@@ -365,128 +365,7 @@
 	},
 
 	{
-		"ID": 4,
-		"Cooldown": -1,
-		"TimeLimit": 604800,
-		"Name": "Drinker",
-		"Description": "Survival and exploration training",
-		"RequiredQuests": [],
-		"Targets": [{
-				"type": "ActionDrinkWellContinuous",
-				"count": 5,
-				"questType": 8,
-				"extra": "",
-				"description": "Drink from a well",
-				"conditions": [-1, -1]
-			},
-			{
-				"type": "ActionDrinkPondContinuous",
-				"count": 5,
-				"questType": 8,
-				"extra": "",
-				"description": "Drink from the pond",
-				"conditions": [-1, -1]
-			}
-		],
-		"Rewards": [{
-				"type": "WaterPouch_Natural",
-				"count": 1,
-				"extra": "",
-				"description": "Natural leather bottle",
-				"conditions": [1, 1]
-			},
-			{
-				"type": "PeachesCan",
-				"count": 1,
-				"extra": "",
-				"description": "Canned peaches",
-				"conditions": [1, 1]
-			},
-			{
-				"type": "CanOpener",
-				"count": 1,
-				"extra": "",
-				"description": "Tin opener",
-				"conditions": [1, 1]
-			}
-		]
-	},
-
-	{
-		"ID": 5,
-		"Cooldown": -1,
-		"TimeLimit": 604800,
-		"Name": "Survivalist",
-		"Description": "Survival Skills Training",
-		"RequiredQuests": [],
-		"Targets": [{
-			"type": "ActionBuildShelter",
-			"count": 1,
-			"questType": 8,
-			"extra": "",
-			"description": "Build a leather shelter",
-			"conditions": [-1, -1]
-		}],
-		"Rewards": [{
-				"type": "ChestHolster",
-				"count": 1,
-				"extra": "",
-				"description": "Chest holster",
-				"conditions": [1, 1]
-			},
-			{
-				"type": "MakarovIJ70",
-				"count": 1,
-				"extra": "",
-				"description": "Makarov pistol",
-				"conditions": [1, 1]
-			},
-			{
-				"type": "AmmoBox_380_35rnd",
-				"count": 1,
-				"extra": "",
-				"description": "Cartridges for Makarov pistol",
-				"conditions": [1, 1]
-			},
-			{
-				"type": "PistolSuppressor",
-				"count": 1,
-				"extra": "",
-				"description": "Silencer",
-				"conditions": [1, 1]
-			},
-			{
-				"type": "Mag_IJ70_8rnd",
-				"count": 2,
-				"extra": "",
-				"description": "Makarov clip",
-				"conditions": [1, 1]
-			},
-			{
-				"type": "WeaponCleaningKit",
-				"count": 1,
-				"extra": "",
-				"description": "Gun cleaning kit",
-				"conditions": [1, 1]
-			},
-			{
-				"type": "PorkCan",
-				"count": 3,
-				"extra": "",
-				"description": "Canned pork",
-				"conditions": [1, 1]
-			},
-			{
-				"type": "Chips",
-				"count": 3,
-				"extra": "",
-				"description": "Chips",
-				"conditions": [1, 1]
-			}
-		]
-	},
-	{
-		"ID": 6,
+		"ID": 7,
 		"Cooldown": 604800,
 		"TimeLimit": 604800,
 		"Name": "Jedi Master",
@@ -518,12 +397,12 @@
 		]
 	},
 	{
-		"ID": 7,
+		"ID": 8,
 		"Cooldown": 604800,
 		"TimeLimit": 604800,
 		"Name": "Turn to the Darkside",
 		"Description": "Continue to be the zombie killing maniac you always wanted to be. Killem All!",
-		"RequiredQuests": [6],
+		"RequiredQuests": [7],
 		"Targets": [{
 			"type": "ZombieBase",
 			"count": 1000,
@@ -550,7 +429,7 @@
 		]
 	},
 	{
-		"ID": 8,
+		"ID": 9,
 		"Cooldown": -1,
 		"TimeLimit": 604800,
 		"Name": "Medic!",
@@ -762,12 +641,12 @@
 		]
 	},
 	{
-		"ID": 9,
+		"ID": 10,
 		"Cooldown": 604800,
 		"TimeLimit": 7200,
 		"Name": "Castle Raider",
 		"Description": "Visit Bandit Island",
-		"RequiredQuests": [3],
+		"RequiredQuests": [6],
 		"Targets": [{
 			"type": "13472.20 0 3324.81",
 			"questType": 7,
