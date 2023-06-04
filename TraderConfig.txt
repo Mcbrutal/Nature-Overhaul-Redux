@@ -109,6 +109,8 @@
 		SalineBag,									*,		150,		80
 		BloodBagEmpty,								*,		180,		100
 		FirstAidKit,								*,		200,		100
+		Syringe,									*,		10000,		500
+		Zen_Virus_Cure_Petridish,					*,		10000,		500
 		//Defibrillator,							*,		350, 		20
 		
 	<Category> Medications
@@ -1112,8 +1114,8 @@
 		NailBox,									*,		3000,		250
 		BarbedWire,									*,		4500,		200
 		Camonet,									*,		6000,		250
-		Chopper_Coffin,								*,		3000,	1000
-		Chopper_Coffin_2,							*,		3000,	1000
+		Chopper_Coffin,								M,		3000,		1000
+		Chopper_Coffin_2,							M,		3000,		1000
 		BarrelHoles_Blue,							*,		1000,		300
 		BarrelHoles_Green,							*,		1000,		300
 		BarrelHoles_Red,							*,		1000,		300
@@ -1319,6 +1321,7 @@
 				
 	<Category> Viking Weapons
 		rag_viking_axe,                 			*,    	4500,  		600
+		rag_viking_spear,                 			*,    	4500,  		600
 		rag_viking_knife,               			*,    	3750,  		250
 		rag_viking_halbert,             			*,    	6500,  		500
 		rag_viking_hammer,              			*,    	6500,  		550
@@ -1490,10 +1493,10 @@
 	    Ammo_FlareBlue,								1,		150,		20
 	    Ammo_FlareGreen,							1,		150,		20
 	    Ammo_FlareRed,								1,		150,		20
-		Ammo_762x54Tracer,							1,		100,			6
-		Ammo_HuntingBolt,							1,		50,			10
-		Ammo_ImprovisedBolt_1,						1,		5,			1
-		Ammo_ImprovisedBolt_2,						1,		10,			5
+		Ammo_762x54Tracer,							1,		100,		60
+		Ammo_HuntingBolt,							5,		150,		75
+		Ammo_ImprovisedBolt_1,						5,		100,		50
+		Ammo_ImprovisedBolt_2,						5,		75,			45
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
@@ -2006,7 +2009,6 @@
 		DarkMotoHelmet_Black,						*,		85,		23
 		DarkMotoHelmet_Green,						*,		90,		25
 		TankerHelmet,								*,		100,	25
-		GreatHelm,									*,		120,	30
 		ZSh3PilotHelmet,							*,		130,	35
 		ZSh3PilotHelmet_Green,							*,		130,	35
 		ZSh3PilotHelmet_Black,							*,		130,	35
@@ -2409,25 +2411,31 @@
 		GhillieSuit_Woodland,	*,		2500,	300
 		
 	<Category> Collectables Wanted
-		SantasBeard,	        *,		-1,	1000
-		SantasHat,			    *,		-1,	1000
-		PumpkinHelmet,		    *,		-1,	1000
-		WitchHat,		        *,		-1,	2000
-		Cauldron,		        *,		-1,	3000
-		CrookedNose,		    *,		-1,	300
-		WitchHood_Black,		*,		-1,	1000
-		WitchHood_Brown,		*,		-1,	1000
-		WitchHood_Red,		    *,		-1,	1000
-		TF_Foil_hat,			*,		-1,	1000
-		HuntingBag_Hannah,		*,		-1,	5000
-		MilitaryBoots_Redpunk,	*,		-1,	1000
-		DarkMotoHelmet_YellowScarred,	*,	-1,	5000
-		NorseHelm,		*,	-1,	5000
-		MedievalBoots,		*,	-1,	10000
-		Chestplate,		*,	-1,	2000
-		Chainmail_Leggings,		*,	-1,	1000
-		Chainmail_Coif,		*,	-1,	1000
-		Chainmail,		*,	-1,	1000
+		SantasBeard,	        		*,		-1,	1000
+		SantasHat,			    		*,		-1,	1000
+		PumpkinHelmet,		    		*,		-1,	1000
+		WitchHat,		        		*,		-1,	2500
+		Cauldron,		        		*,		-1,	500
+		CrookedNose,		    		*,		-1,	500
+		WitchHood_Black,				*,		-1,	1000
+		WitchHood_Brown,				*,		-1,	1000
+		WitchHood_Red,		    		*,		-1,	1000
+		TF_Foil_hat,					*,		-1,	1000
+		BabyYoda_Plush,					*,		-1,	2000
+		StormtrooperHelmet,				*,		-1,	5000
+		MandalorianHelmet,				*,		-1,	5000
+		HuntingBag_Hannah,				*,		-1,	5000
+		MilitaryBoots_Redpunk,			*,		-1,	1000
+		SH_JacketProtect,				*,		-1,	5000
+		SH_PantsProtect,				*,		-1,	5000
+		DarkMotoHelmet_YellowScarred,	*,		-1,	5000
+		NorseHelm,						*,		-1,	5000
+		GreatHelm,						*,		-1,	5000
+		MedievalBoots,					*,		-1,	5000
+		Chestplate,						*,		-1,	2000
+		Chainmail_Leggings,				*,		-1,	1000
+		Chainmail_Coif,					*,		-1,	1000
+		Chainmail,						*,		-1,	1000
 
 	<Category> Holster & Pouches
 		ChestHolster,		            *,		600,	300
@@ -2655,6 +2663,8 @@
 		CarTent,						*,		5000,	700
 		Roadflare,						*,		4,		2
 		TrafficCone,					*,		520,	200
+		Garage_Sign_PlayerKit,			*,		250000,	120000
+		Garage_Sign_PlayerKit_2,		*,		500000,	245000
 		
 	<Category> Vanilla Vehicles
 		OffroadHatchback,					VNK,		14000,	8000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
@@ -4058,7 +4068,7 @@
 		AmmoBox_22_50Rnd,							*,		600,		20
 		AmmoBox_00buck_10rnd,						*,		240,		10
 		AmmoBox_12gaSlug_10Rnd,						*,		320,		20
-		AmmoBox_12gaRubberSlug_10Rnd,					*,		200,		15
+		AmmoBox_12gaRubberSlug_10Rnd,				*,		200,		15
 		AmmoBox_9x39_20Rnd,							*,		320,		20
 		AmmoBox_9x39AP_20Rnd,						*,		800,		60
 		AmmoBox_357_20Rnd,							*,		800,		60
@@ -4337,14 +4347,6 @@
 		TF_Maska1Helmet,	                        *,		10000,	3750
 		TF_Maska1Visor,	                            *,		750,	110
 		TF_Maska1SchVisor,	                        *,		750,	110
-
-	<Category> SciFi Headgear
-		StormtrooperHelmet,				*,		50000,	12500
-		MandalorianHelmet,				*,		50000,	16500
-		Cloak_tan,						*,		16500,	3500
-		Cloak_brown,					*,		16500,	3500
-		Cloak_black,					*,		16500,	3500
-		Cloak_white,					*,		16500,	3500
 		
 	<Category> Electronics
 		NVGHeadstrap,								*,		16500,	3500
@@ -4434,21 +4436,11 @@
 	<Category> TF Clothing
 		TF_PMK4GasMask,				                *,		120,	40
 		TF_PMK4GasMask_OD,				            *,		120,	40
-		TF_6sh122Pants_Spring,				        *,		1000,	250
-		TF_6sh122Pants_Autumn,				        *,		1000,	250
-		TF_6sh122Pants_Syrian,				        *,		1000,	250
-		TF_6sh122Pants_Syrian_EMR,				    *,		1000,	250
-		TF_6sh122Pants_Winter,				        *,		1000,	250
 		TF_CargoPantsShort_Black,				    *,		1000,	250
 		TF_CargoPantsShort_MARPAT,				    *,		1000,	250
 		TF_G3CombatPants_RG,				        *,		1000,	250
 		TF_G3CombatPants_MC,				        *,		1000,	250
 		TF_G3CombatPants_WD,				        *,		1000,	250
-		TF_6sh122Jacket_Spring,				        *,		1200,	250
-		TF_6sh122Jacket_Autumn,				        *,		1200,	250
-		TF_6sh122Jacket_Syrian,				        *,		1200,	250
-		TF_6sh122Jacket_Syrian_EMR,				    *,		1200,	250
-		TF_6sh122Jacket_Winter,				        *,		1200,	250
 		TF_G3CombatShirt_RG,				        *,		900,	    150
 		TF_G3CombatShirt_MC,				        *,		900,	    150
 		TF_G3CombatShirt_WD,				        *,		900,	    150
@@ -5471,17 +5463,18 @@
 		
 <Trader> Heli Trader
 	<Category> Heli Equipment
-		ADM_ParachuteBag_Fabric,        *,    2500,  1000
-		ADM_ParachuteBag_RWB,           *,    2500,  1000
-		ADM_ParachuteBag_Target,        *,    2500,  1000
-		ADM_ParachuteBag_Skull,         *,    2500,  1000
-		ADM_TactiParaBag_Camo,          *,    2500,  1000
-		ADM_ParachuteBag_Fabric_Speed,  *,    4500,  1000
-		ADM_ParachuteBag_RWB_Speed,     *,    4500,  1900
-		ADM_ParachuteBag_Target_Speed,  *,    4500,  1900
-		ADM_ParachuteBag_Skull_Speed,   *,    4500,  1900
-		ADM_TactiParaBag_Camo_Speed,    *,    4500,  1900
-		ADM_JetPack_Green,              *,    -1,  45000
+		rf_helipad_kit, 				*,		125000, 25000
+		ADM_ParachuteBag_Fabric,        *,		2500,	1000
+		ADM_ParachuteBag_RWB,           *,		2500,	1000
+		ADM_ParachuteBag_Target,        *,		2500,	1000
+		ADM_ParachuteBag_Skull,         *,		2500,	1000
+		ADM_TactiParaBag_Camo,          *,		2500,	1000
+		ADM_ParachuteBag_Fabric_Speed,  *,		4500,	1000
+		ADM_ParachuteBag_RWB_Speed,     *,		4500,	1900
+		ADM_ParachuteBag_Target_Speed,  *,		4500,	1900
+		ADM_ParachuteBag_Skull_Speed,   *,		4500,	1900
+		ADM_TactiParaBag_Camo_Speed,    *,		4500,	1900
+		ADM_JetPack_Green,              *,		-1,		45000
 
 	<Category> Gyro Homemade
 		HeliSIB_hommade,		            VNK,		600000,		300000
