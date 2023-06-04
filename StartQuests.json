@@ -51,7 +51,7 @@
 				"questType": 8,
 				"count": 20,
 				"extra": "",
-				"description": "Cut down bushes with knife or hatchet",
+				"description": "Cut down bushes",
 				"conditions": [-1, -1]
 			},
 			{
@@ -59,7 +59,7 @@
 				"questType": 8,
 				"count": 16,
 				"extra": "",
-				"description": "Mine stones with a pick axe",
+				"description": "Mine stones / pick axe",
 				"conditions": [-1, -1]
 			},
 			{
@@ -67,7 +67,7 @@
 				"questType": 8,
 				"count": 3,
 				"extra": "",
-				"description": "Break the long stick",
+				"description": "Break a long stick",
 				"conditions": [-1, -1]
 			},
 			{
@@ -75,7 +75,7 @@
 				"questType": 8,
 				"count": 1,
 				"extra": "",
-				"description": "Chop down a tree for firewood",
+				"description": "Chop down a tree",
 				"conditions": [-1, -1]
 			},
 			{
@@ -83,7 +83,7 @@
 				"count": 1,
 				"questType": 1,
 				"extra": "",
-				"description": "Kill an animal for food and pelt",
+				"description": "Kill an animal",
 				"conditions": [-1, -1]
 			},
 			{
@@ -91,7 +91,7 @@
 				"questType": 8,
 				"count": 1,
 				"extra": "AnimalBase",
-				"description": "Cut up the carcass of the killed animal",
+				"description": "Animal Skinning",
 				"conditions": [-1, -1]
 			},
 			{
@@ -99,7 +99,7 @@
 				"questType": 8,
 				"count": 1,
 				"extra": "",
-				"description": "Build a leather or stick shelter",
+				"description": "Build a stick shelter",
 				"conditions": [-1, -1]
 			},
 			{
@@ -107,7 +107,7 @@
 				"questType": 8,
 				"count": 1,
 				"extra": "Fireplace",
-				"description": "Light your first campfire",
+				"description": "Light a campfire",
 				"conditions": [-1, -1]
 			},
 			{
@@ -242,7 +242,7 @@
 				"type": "PurificationTablets",
 				"count": 1,
 				"extra": "",
-				"description": "Water purification tablets",
+				"description": "Purification tablets",
 				"conditions": [1, 1]
 			},
 			{
@@ -255,13 +255,108 @@
 		]
 	},
 
-	{
+{
 		"ID": 4,
+		"Cooldown": -1,
+		"TimeLimit": 604800,
+		"Name": "Wilderness Survival 101c",
+		"Description": "For fishing, you need a fishing rod, you can make your own from a long stick and rope, and you will also need a hook. You can make it out of bones.",
+		"RequiredQuests": [3],
+		"Targets": [{
+				"type": "ImprovisedFishingRod",
+				"questType": 4,
+				"count": 1,
+				"extra": "",
+				"description": "Craft improvised fishing rod",
+				"conditions": [-1, -1]
+			},
+			{
+                "type" : "ActionDigWorms",
+                "questType": 8,
+                "count": 6,
+                "extra": "",
+                "description": "Dig Worms",
+                "conditions": [-1, -1]
+            },
+			{
+				"type": "BoneHook",
+				"questType": 4,
+				"count": 2,
+				"extra": "",
+				"description": "Sharpen bone hook",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "Carp",
+				"questType": 5,
+				"count": 2,
+				"extra": "",
+				"description": "Catch carp",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "Mackerel",
+				"questType": 5,
+				"count": 2,
+				"extra": "",
+				"description": "Catch mackerel",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "CarpFilletMeat",
+				"questType": 2,
+				"count": 4,
+				"extra": "CarpFilletMeat",
+				"description": "Gut the carp",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "MackerelFilletMeat",
+				"questType": 2,
+				"count": 4,
+				"extra": "MackerelFilletMeat",
+				"description": "Gut the Mackerel",
+				"conditions": [-1, -1]
+			}
+		],
+		"Rewards": [{
+				"type": "FishingRod",
+				"count": 1,
+				"extra": "",
+				"description": "Fishing Rod",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "Hook",
+				"count": 3,
+				"extra": "",
+				"description": "Fish Hooks",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "MediumTent_Green",
+				"count": 1,
+				"extra": "",
+				"description": "Green Tent",
+				"conditions": [-1, -1]
+			},
+			{
+				"type": "CodeLock",
+				"count": 1,
+				"extra": "",
+				"description": "Code Lock",
+				"conditions": [-1, -1]
+			}
+		]
+	},
+	
+	{
+		"ID": 5,
 		"Cooldown": 86400,
 		"TimeLimit": 86400,
 		"Name": "Fighting Instincts I",
 		"Description": "Teaching self-defense skills",
-		"RequiredQuests": [3],
+		"RequiredQuests": [4],
 		"Targets": [{
 			"type": "ZombieBase",
 			"count": 100,
@@ -289,18 +384,18 @@
 	},
 
 	{
-		"ID": 5,
+		"ID": 6,
 		"Cooldown": 172800,
 		"TimeLimit": 172800,
 		"Name": "Fighting Instincts II",
-		"Description": "Teaching self-defense skills I AM THE LAW",
-		"RequiredQuests": [4],
+		"Description": "Teaching self-defense skills I AM THE LAW!  Kill these infected.",
+		"RequiredQuests": [5],
 		"Targets": [{
 				"type": "ZmbM_PolicemanFat",
 				"count": 10,
 				"questType": 1,
 				"extra": "",
-				"description": "Kill Infected Policeman",
+				"description": "Policeman",
 				"conditions": [-1, -1]
 			},
 			{
@@ -308,7 +403,7 @@
 				"count": 10,
 				"questType": 1,
 				"extra": "",
-				"description": "Kill Infected Police Woman",
+				"description": "Police Woman",
 				"conditions": [-1, -1]
 			},
 			{
@@ -316,7 +411,7 @@
 				"count": 5,
 				"questType": 1,
 				"extra": "",
-				"description": "Kill Infected Policeman Spec Force",
+				"description": "Police Spec Force",
 				"conditions": [-1, -1]
 			},
 			{
@@ -324,7 +419,7 @@
 				"count": 5,
 				"questType": 1,
 				"extra": "",
-				"description": "Kill Infected Policeman Spec Force Heavy",
+				"description": "Police Spec Force Heavy",
 				"conditions": [-1, -1]
 			}
 		],
@@ -347,18 +442,18 @@
 	},
 
 	{
-		"ID": 6,
+		"ID": 7,
 		"Cooldown": 259200,
 		"TimeLimit": 259200,
 		"Name": "Fighting Instincts III",
-		"Description": "Teaching self-defense skills Military",
-		"RequiredQuests": [5],
+		"Description": "Teaching self-defense skills Military. Kill these infected.",
+		"RequiredQuests": [6],
 		"Targets": [{
-				"type": "ZmbM_usSoldier_Heavy_Woodland",
+				"type": "ZmbM_SoldierNormal",
 				"count": 20,
 				"questType": 1,
 				"extra": "",
-				"description": "Kill Infected US Soldier Heavy Woodland",
+				"description": "Normal Soldier",
 				"conditions": [-1, -1]
 			},
 			{
@@ -366,15 +461,15 @@
 				"count": 20,
 				"questType": 1,
 				"extra": "",
-				"description": "Kill Infected US Soldier",
+				"description": "USSoldier Woodland",
 				"conditions": [-1, -1]
 			},
 			{
-				"type": "ZmbM_SoldierNormal",
+				"type": "ZmbM_usSoldier_Heavy_Woodland",
 				"count": 20,
 				"questType": 1,
 				"extra": "",
-				"description": "Kill Infected Soldier",
+				"description": "USSoldier Heavy Woodland",
 				"conditions": [-1, -1]
 			}
 		],
@@ -392,13 +487,12 @@
 				"description": "Blue KeyCard",
 				"conditions": [2, 1]
 			}
-
 		]
 	},
 
 	{
-		"ID": 7,
-		"Cooldown": 14400,
+		"ID": 8,
+		"Cooldown": -1,
 		"TimeLimit": 14400,
 		"Name": "Traveller",
 		"Description": "Visit these locations",
@@ -452,18 +546,18 @@
 	},
 
 	{
-		"ID": 8,
+		"ID": 9,
 		"Cooldown": 604800,
 		"TimeLimit": 604800,
 		"Name": "Jedi Master",
 		"Description": "Be one with the force and rid Cherno of the infected plague",
-		"RequiredQuests": [6],
+		"RequiredQuests": [7],
 		"Targets": [{
 			"type": "ZombieBase",
 			"count": 1000,
 			"questType": 1,
 			"extra": "",
-			"description": "Kill 1000 zombies! May the force be with you...",
+			"description": "Kill 1000 zombies!",
 			"conditions": [-1, -1]
 		}],
 		"Rewards": [{
@@ -471,31 +565,30 @@
 				"count": 1,
 				"extra": "",
 				"description": "Luke Skywalker Lightsaber Overkill",
-				"conditions": [1, 1]
+				"conditions": [-1, -1]
 			},
 			{
-				"type": "Diatium_Power_Cell",
+				"type": "DNA_KeyCard_Purple_Inactive",
 				"count": 1,
 				"extra": "",
-				"description": "Power Cell",
-				"conditions": [1, 1]
+				"description": "Purple KeyCard",
+				"conditions": [-1, -1]
 			}
-
 		]
 	},
 	{
-		"ID": 9,
+		"ID": 10,
 		"Cooldown": 604800,
 		"TimeLimit": 604800,
 		"Name": "Turn to the Darkside",
 		"Description": "Continue to be the zombie killing maniac you always wanted to be. Killem All!",
-		"RequiredQuests": [8],
+		"RequiredQuests": [9],
 		"Targets": [{
 			"type": "ZombieBase",
 			"count": 1000,
 			"questType": 1,
 			"extra": "",
-			"description": "Kill 1500 zombies! Feel the power of the darkside!",
+			"description": "Kill 1500 zombies!",
 			"conditions": [-1, -1]
 		}],
 		"Rewards": [{
@@ -511,12 +604,18 @@
 				"extra": "",
 				"description": "Power Cell",
 				"conditions": [1, 1]
+			},
+			{
+				"type": "DNA_KeyCard_Red_Inactive",
+				"count": 1,
+				"extra": "",
+				"description": "Red KeyCard",
+				"conditions": [-1, -1]
 			}
-
 		]
 	},
 	{
-		"ID": 10,
+		"ID": 11,
 		"Cooldown": -1,
 		"TimeLimit": 604800,
 		"Name": "Medic!",
@@ -543,7 +642,7 @@
 				"questType": 8,
 				"count": 2,
 				"extra": "",
-				"description": "Give another player blood",
+				"description": "Give a player blood",
 				"conditions": [-1, -1]
 			},
 			{
@@ -567,7 +666,7 @@
 				"questType": 8,
 				"count": 1,
 				"extra": "",
-				"description": "Check your body temperature",
+				"description": "Check your temperature",
 				"conditions": [-1, -1]
 			},
 			{
@@ -575,7 +674,7 @@
 				"questType": 8,
 				"count": 1,
 				"extra": "",
-				"description": "Check someones temperature",
+				"description": "Check players temperature",
 				"conditions": [-1, -1]
 			},
 			{
@@ -583,7 +682,7 @@
 				"questType": 8,
 				"count": 5,
 				"extra": "",
-				"description": "Stop the bleeding by sewing your wound",
+				"description": "Sew your wound",
 				"conditions": [-1, -1]
 			},
 			{
@@ -591,7 +690,7 @@
 				"questType": 8,
 				"count": 5,
 				"extra": "",
-				"description": "Stop the bleeding by sewing someones wound",
+				"description": "Sew a players wound",
 				"conditions": [-1, -1]
 			},
 			{
@@ -599,7 +698,7 @@
 				"questType": 8,
 				"count": 1,
 				"extra": "",
-				"description": "Fix your broken leg",
+				"description": "Splint broken leg",
 				"conditions": [-1, -1]
 			},
 			{
@@ -607,7 +706,7 @@
 				"questType": 8,
 				"count": 1,
 				"extra": "",
-				"description": "Fix a friends broken leg",
+				"description": "Splint players broken leg",
 				"conditions": [-1, -1]
 			},
 			{
@@ -691,17 +790,17 @@
 				"conditions": [2, 1]
 			},
 			{
-				"type": "ParamedicJacket_Crimson",
+				"type": "SH_JacketProtect",
 				"count": 1,
 				"extra": "",
-				"description": "Paramedic Jacket",
+				"description": "BLK Paramedic Jacket",
 				"conditions": [2, 1]
 			},
 			{
-				"type": "ParamedicPants_Crimson",
+				"type": "SH_PantsProtect",
 				"count": 1,
 				"extra": "",
-				"description": "ParamedicPants",
+				"description": "BLK ParamedicPants",
 				"conditions": [2, 1]
 			},
 			{
@@ -728,12 +827,12 @@
 		]
 	},
 	{
-		"ID": 11,
+		"ID": 12,
 		"Cooldown": 604800,
 		"TimeLimit": 7200,
 		"Name": "Castle Raider",
 		"Description": "Visit Bandit Island",
-		"RequiredQuests": [9],
+		"RequiredQuests": [7],
 		"Targets": [{
 			"type": "13472.20 0 3324.81",
 			"questType": 7,
