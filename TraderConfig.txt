@@ -4018,8 +4018,8 @@
 		
 
 	<Category> Ammunition
-		TF_Ammo_20mm,		    					*,		75000,		35000
-		TF_Ammo_20mm_HE,							*,		75000,		35000
+		TF_Ammo_20mm,		    					*,		75000,		30000
+		TF_Ammo_20mm_HE,							*,		75000,		30000
 		TF_Ammo_57,		        					*,		450,		225
 		TF_Ammo_338LM,		    					*,		20000,		10000
 		Ammo_380,									1,		12,			5
