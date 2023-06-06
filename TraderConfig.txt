@@ -1516,6 +1516,7 @@
 		AmmoBox_556x45Tracer_20Rnd,					*,		750,		300
 		AmmoBox_762x39Tracer_20Rnd,					*,		750,		300
 		AmmoBox_762x54Tracer_20Rnd,					*,		900,		400
+		CC_Ion_Ammo,								*,		20000,		10000
 		CC_44_Ammo,									*,		1000,		450
 		CC_50cal_Ammo,								*,		250000,		100000
 		CC_65Carcano_Ammo,							*,		800,		350
@@ -4072,6 +4073,7 @@
 		AmmoBox_556x45Tracer_20Rnd,					*,		750,		300
 		AmmoBox_762x39Tracer_20Rnd,					*,		750,		300
 		AmmoBox_762x54Tracer_20Rnd,					*,		900,		400
+		CC_Ion_Ammo,								*,		20000,		10000
 		CC_44_Ammo,									*,		1000,		450
 		CC_50cal_Ammo,								*,		250000,		100000
 		CC_65Carcano_Ammo,							*,		800,		350
