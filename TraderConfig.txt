@@ -1230,30 +1230,30 @@
 		rag_viking_mug,                 			*,    	1000,  		750
 
 	<Category> BBP Classic Build Kits
-		BBP_T1_WallKit,									*,		2000,		100
-		BBP_T1_Wall_HalfKit,							*,		2000,		100
-		BBP_T1_DoorKit,									*,		3000,		150
-		BBP_T1_GateKit,									*,		4000,		200
-		BBP_T1_WindowKit,								*,		3000,		150
-		BBP_T1_RoofKit,									*,		2000,		100
-		BBP_T1_FloorKit,								*,		2000,		100
-		BBP_T1_Floor_HatchKit,							*,		3000,		150
-		BBP_T1_StairKit,								*,		3000,		150
-		BBP_T1_RampKit,									*,		3000,		150
-		BBP_T1_Roof_HatchKit,							*,		3000,		150
-		BBP_T1_Ramp_WideKit,							*,		3000,		160
-		BBP_T1_FoundationKit,							*,		3000,		150
-		BBP_T2_WallKit,									*,		4000,		200
-		BBP_T2_Wall_HalfKit,							*,		4000,		200
-		BBP_T2_DoorKit,									*,		6000,		300
-		BBP_T2_GateKit,									*,		8000,		400
-		BBP_T2_RoofKit,									*,		4000,		200
-		BBP_T2_FloorKit,								*,		4000,		200
-		BBP_T2_WindowKit,								*,		6000,		300
-		BBP_T2_FoundationKit,							*,		6000,		300
-		BBP_T2_Roof_HatchKit,							*,		6000,		300
-		BBP_T2_StairKit,								*,		6000,		300
-		BBP_PillarKit,									*,		2000,		100
+		BBP_T1_WallKit,									*,		2000,		650
+		BBP_T1_Wall_HalfKit,							*,		2000,		650
+		BBP_T1_DoorKit,									*,		3000,		650
+		BBP_T1_GateKit,									*,		4000,		650
+		BBP_T1_WindowKit,								*,		3000,		650
+		BBP_T1_RoofKit,									*,		2000,		650
+		BBP_T1_FloorKit,								*,		2000,		650
+		BBP_T1_Floor_HatchKit,							*,		3000,		650
+		BBP_T1_StairKit,								*,		3000,		650
+		BBP_T1_RampKit,									*,		3000,		650
+		BBP_T1_Roof_HatchKit,							*,		3000,		650
+		BBP_T1_Ramp_WideKit,							*,		3000,		650
+		BBP_T1_FoundationKit,							*,		3000,		650
+		BBP_T2_WallKit,									*,		4000,		900
+		BBP_T2_Wall_HalfKit,							*,		4000,		900
+		BBP_T2_DoorKit,									*,		6000,		900
+		BBP_T2_GateKit,									*,		8000,		900
+		BBP_T2_RoofKit,									*,		4000,		900
+		BBP_T2_FloorKit,								*,		4000,		900
+		BBP_T2_WindowKit,								*,		6000,		900
+		BBP_T2_FoundationKit,							*,		6000,		900
+		BBP_T2_Roof_HatchKit,							*,		6000,		900
+		BBP_T2_StairKit,								*,		6000,		900
+		BBP_PillarKit,									*,		2000,		500
 		BBP_Sun_Shade,									*,		600,		300
 		
 			<Category> BBP Decor
@@ -1463,11 +1463,6 @@
 		Ammo_40mm_Smoke_Green,						W,		500,		150
 		Ammo_40mm_Smoke_Red,						W,		500,		150
 		Ammo_40mm_Smoke_White,						W,		500,		150
-		AM_Improvised_Grenade,						W,		350,		100
-		AM_Smoke_Improvised_Grenade_Red,			W,		350,		100
-		AM_Smoke_Improvised_Grenade_Green,			W,		350,		100
-		AM_Smoke_Improvised_Grenade_White,			W,		350,		100
-		AM_Smoke_Improvised_Grenade_Black,			W,		350,		100
 
 <Trader> Weapon Supplies
 	<Category> Ammunition
@@ -1531,7 +1526,6 @@
 	<Category> Magazines
 		Mag_Deagle_9rnd,							M,		50,		20
 		Mag_IJ70_8Rnd,								M,		30,		15
-		Mag_P1_8Rnd,								M,		30,		15
 		Mag_CZ75_15Rnd,								M,		40,		20
 		Mag_Glock_15Rnd,							M,		40,		20
 		Mag_MKII_10Rnd,								M,		40,		20
@@ -1539,71 +1533,71 @@
 		Mag_FNX45_15Rnd,							M,		40,		20
 		Mag_CZ527_5rnd,								M,		60,		30
 		Mag_CZ550_4rnd,								M,		60,		30
-		Mag_CZ550_10rnd,							M,		100,		50
-		Mag_Ruger1022_15Rnd,							M,		30,		15
-		Mag_Ruger1022_30Rnd,							M,		30,		15
-		Mag_CZ61_20Rnd,								M,		100,		50
-		Mag_UMP_25Rnd,								M,		150,		75
-		Mag_MP5_30Rnd,								M,		200,		100
-		Mag_MP5_15Rnd,								M,		100,		50
-		Mag_FAL_20Rnd,								M,		100,		50
-		Mag_Saiga_5Rnd,								M,		100,		50
-		Mag_SSG82_5rnd,								M,		100,		50
-		Mag_Scout_5Rnd,								M,		100,		50
-		Mag_Saiga_8Rnd,								M,		220,		60
-		Mag_Saiga_Drum20Rnd,							M,		480,		110
-		Mag_AKM_30Rnd,								M,		220,		110
-		Mag_AKM_Palm30Rnd,							M,		220,		110
-		Mag_AKM_Palm30Rnd_Black,							M,		220,		110
-		Mag_AKM_Palm30Rnd_Green,							M,		220,		110
-		Mag_AKM_Drum75Rnd,							M,		5000,		250
-		Mag_AKM_Drum75Rnd_Green,							M,		5000,		250
-		Mag_AKM_Drum75Rnd_Black,							M,		5000,		250
-		Mag_AK101_30Rnd,							M,		220,		110
-		Mag_AK101_30Rnd_Black,							M,		220,		110
-		Mag_AK101_30Rnd_Green,							M,		220,		110
-		Mag_Aug_30Rnd,								M,		220,		110
-		Mag_AK74_30Rnd,								M,		220,		110
-		Mag_AK74_30Rnd_Black,								M,		220,		110
-		Mag_AK74_30Rnd_Green,								M,		220,		110
-		Mag_AK74_45Rnd,								M,		300,		150
-		Mag_VAL_20Rnd,								M,		100,		50
-		Mag_STANAG_30Rnd,							M,		220,		110
-		Mag_STANAGCoupled_30Rnd,						M,		480,		130
-		Mag_STANAG_60Rnd,							M,		2500,		250
-		Mag_CMAG_10Rnd,								M,		120,		60
-		Mag_CMAG_10Rnd_Green,								M,		120,		60
-		Mag_CMAG_10Rnd_Black,								M,		120,		60
-		Mag_CMAG_20Rnd,								M,		180,		80
-		Mag_CMAG_20Rnd_Green,								M,		180,		80
-		Mag_CMAG_20Rnd_Black,								M,		180,		80
-		Mag_CMAG_30Rnd,								M,		220,		110
-		Mag_CMAG_30Rnd_Green,								M,		220,		110
-		Mag_CMAG_30Rnd_Black,								M,		220,		110
-		Mag_CMAG_40Rnd,								M,		300,		150
-		Mag_CMAG_40Rnd_Green,								M,		300,		150
-		Mag_CMAG_40Rnd_Black,								M,		300,		150
-		Mag_Aug_30Rnd,							M,		220,		110
-		Mag_PP19_64Rnd,								M,		300,		150
-		Mag_VSS_10Rnd,								M,		220,		110
-		Mag_SVD_10Rnd,								M,		250,		125
-		CC_93R_Mag,									M,		100,		50
-		CC_Barrett_Mag,								M,		5000,		1000
-		CC_65Carcano,								M,		100,		50
-		CC_ClaudiaPistol_Mag,						M,		40,			20
-		CC_Deserteagle_Mag,							M,		200,		100
-		CC_DVL10_Mag,								M,		300,		150
-		CC_G3_Mag,									M,		300,		150
-		CC_Mac10_Mag,								M,		100,		50
-		CC_magshotgun_Mag,							M,		500,		250
-		CC_Mors_Mag,								M,		100,		50
-		CC_Salesmanpistol_Mag,						M,		100,		50
-		CC_Thompson_Mag,							M,		300,		150
-		CC_Automag_Mag,								M,		200,		100
-		CC_Torx_Mag,								M,		300,		150
-		CC_VP70_Mag,								M,		40,			20
-		CC_Vector_Mag,								M,		300,		150
-		CC_PSG1_Mag,								M,		300,		150
+		Mag_CZ550_10rnd,							M,		100,	50
+		Mag_Ruger1022_15Rnd,						M,		30,		15
+		Mag_Ruger1022_30Rnd,						M,		30,		15
+		Mag_CZ61_20Rnd,								M,		100,	50
+		Mag_UMP_25Rnd,								M,		150,	75
+		Mag_MP5_30Rnd,								M,		200,	100
+		Mag_MP5_15Rnd,								M,		100,	50
+		Mag_FAL_20Rnd,								M,		100,	50
+		Mag_Saiga_5Rnd,								M,		100,	50
+		Mag_SSG82_5rnd,								M,		100,	50
+		Mag_Scout_5Rnd,								M,		100,	50
+		Mag_Saiga_8Rnd,								M,		220,	60
+		Mag_Saiga_Drum20Rnd,						M,		480,	110
+		Mag_AKM_30Rnd,								M,		220,	110
+		Mag_AKM_Palm30Rnd,							M,		220,	110
+		Mag_AKM_Palm30Rnd_Black,					M,		220,	110
+		Mag_AKM_Palm30Rnd_Green,					M,		220,	110
+		Mag_AKM_Drum75Rnd,							M,		5000,	250
+		Mag_AKM_Drum75Rnd_Green,					M,		5000,	250
+		Mag_AKM_Drum75Rnd_Black,					M,		5000,	250
+		Mag_AK101_30Rnd,							M,		220,	110
+		Mag_AK101_30Rnd_Black,						M,		220,	110
+		Mag_AK101_30Rnd_Green,						M,		220,	110
+		Mag_Aug_30Rnd,								M,		220,	110
+		Mag_AK74_30Rnd,								M,		220,	110
+		Mag_AK74_30Rnd_Black,						M,		220,	110
+		Mag_AK74_30Rnd_Green,						M,		220,	110
+		Mag_AK74_45Rnd,								M,		300,	150
+		Mag_VAL_20Rnd,								M,		100,	50
+		Mag_STANAG_30Rnd,							M,		220,	110
+		Mag_STANAGCoupled_30Rnd,					M,		480,	130
+		Mag_STANAG_60Rnd,							M,		2500,	250
+		Mag_CMAG_10Rnd,								M,		120,	60
+		Mag_CMAG_10Rnd_Green,						M,		120,	60
+		Mag_CMAG_10Rnd_Black,						M,		120,	60
+		Mag_CMAG_20Rnd,								M,		180,	80
+		Mag_CMAG_20Rnd_Green,						M,		180,	80
+		Mag_CMAG_20Rnd_Black,						M,		180,	80
+		Mag_CMAG_30Rnd,								M,		220,	110
+		Mag_CMAG_30Rnd_Green,						M,		220,	110
+		Mag_CMAG_30Rnd_Black,						M,		220,	110
+		Mag_CMAG_40Rnd,								M,		300,	150
+		Mag_CMAG_40Rnd_Green,						M,		300,	150
+		Mag_CMAG_40Rnd_Black,						M,		300,	150
+		Mag_Aug_30Rnd,								M,		220,	110
+		Mag_PP19_64Rnd,								M,		300,	150
+		Mag_VSS_10Rnd,								M,		220,	110
+		Mag_SVD_10Rnd,								M,		250,	125
+		CC_93R_Mag,									M,		100,	50
+		CC_Barrett_Mag,								M,		5000,	1000
+		CC_65Carcano,								M,		100,	50
+		CC_ClaudiaPistol_Mag,						M,		40,		20
+		CC_Deserteagle_Mag,							M,		200,	100
+		CC_DVL10_Mag,								M,		300,	150
+		CC_G3_Mag,									M,		300,	150
+		CC_Mac10_Mag,								M,		100,	50
+		CC_magshotgun_Mag,							M,		500,	250
+		CC_Mors_Mag,								M,		100,	50
+		CC_Salesmanpistol_Mag,						M,		100,	50
+		CC_Thompson_Mag,							M,		300,	150
+		CC_Automag_Mag,								M,		200,	100
+		CC_Torx_Mag,								M,		300,	150
+		CC_VP70_Mag,								M,		40,		20
+		CC_Vector_Mag,								M,		300,	150
+		CC_PSG1_Mag,								M,		300,	150
 
 	<Category> Ammo Making
 		PressCasingholder, 							1, 		20000,	1000
@@ -2488,41 +2482,41 @@
 		AliceBag_Green,			*,		400,	150
 		AliceBag_Camo,			*,		500,	220
 
-	<Category> We Buy Leather
+<Category> We Buy Leather
 		TannedLeather,			        *,		-1,		150
-		LeatherGloves_Beige,			*,		-1,		2650
-		LeatherGloves_Black,			*,		-1,		2850
-		LeatherGloves_Brown,			*,		-1,		2750
-		LeatherGloves_Natural,			*,		-1,		2600
-		LeatherHat_Beige,			    *,		-1,		2650
-		LeatherHat_Black,			    *,		-1,		2850
-		LeatherHat_Brown,			    *,		-1,		2750
-		LeatherHat_Natural,			    *,		-1,		2600
-		LeatherShirt_Natural,			*,		-1,		3500
+		LeatherGloves_Beige,			*,		-1,		1950
+		LeatherGloves_Black,			*,		-1,		1950
+		LeatherGloves_Brown,			*,		-1,		1950
+		LeatherGloves_Natural,			*,		-1,		1900
+		LeatherHat_Beige,			    *,		-1,		800
+		LeatherHat_Black,			    *,		-1,		800
+		LeatherHat_Brown,			    *,		-1,		800
+		LeatherHat_Natural,			    *,		-1,		760
+		LeatherShirt_Natural,			*,		-1,		1250
 		LeatherStorageVest_Beige,		*,		-1,		3550
-		LeatherStorageVest_Black,		*,		-1,		3850
-		LeatherStorageVest_Brown,		*,		-1,		3750
+		LeatherStorageVest_Black,		*,		-1,		3550
+		LeatherStorageVest_Brown,		*,		-1,		3550
 		LeatherStorageVest_Natural,		*,		-1,		3500
-		LeatherJacket_Beige,			*,		-1,		2550
-		LeatherJacket_Black,			*,		-1,		2850
-		LeatherJacket_Brown,			*,		-1,		2750
-		LeatherJacket_Natural,			*,		-1,		2500
-		LeatherPants_Beige,			    *,		-1,		2550
-		LeatherPants_Black,			    *,		-1,		2850
-		LeatherPants_Brown,			    *,		-1,		2750
-		LeatherPants_Natural,			*,		-1,		2500
-		LeatherShoes_Beige,			    *,		-1,		2750
-		LeatherShoes_Black,			    *,		-1,		2850
-		LeatherShoes_Brown,			    *,		-1,		2750
-		LeatherShoes_Natural,			*,		-1,		2500
+		LeatherJacket_Beige,			*,		-1,		3850
+		LeatherJacket_Black,			*,		-1,		3850
+		LeatherJacket_Brown,			*,		-1,		3850
+		LeatherJacket_Natural,			*,		-1,		3800
+		LeatherPants_Beige,			    *,		-1,		1300
+		LeatherPants_Black,			    *,		-1,		1300
+		LeatherPants_Brown,			    *,		-1,		1300
+		LeatherPants_Natural,			*,		-1,		1260
+		LeatherShoes_Beige,			    *,		-1,		1950
+		LeatherShoes_Black,			    *,		-1,		1950
+		LeatherShoes_Brown,			    *,		-1,		1950
+		LeatherShoes_Natural,			*,		-1,		1900
 		CourierBag,			            *,		-1,		1000
-		FurCourierBag,			        *,		-1,		1650
-		FurImprovisedBag,			    *,		-1,		2575
-		ImprovisedBag,			        *,		-1,		1450
-		LeatherSack_Beige,			    *,		-1,		1950
-		LeatherSack_Black,			    *,		-1,		1950
-		LeatherSack_Brown,			    *,		-1,		1950
-		LeatherSack_Natural,			*,		-1,		1800
+		ImprovisedBag,			        *,		-1,		1050
+		FurCourierBag,			        *,		-1,		2000
+		FurImprovisedBag,			    *,		-1,		2050
+		LeatherSack_Beige,			    *,		-1,		950
+		LeatherSack_Black,			    *,		-1,		950
+		LeatherSack_Brown,			    *,		-1,		950
+		LeatherSack_Natural,			*,		-1,		900
 		
 	<Category> Viking Clothes
 		rag_viking_leather_vest,        *,    -1,  1550
@@ -4024,19 +4018,19 @@
 		
 
 	<Category> Ammunition
-		TF_Ammo_20mm,		    						*,		4000,		1000
+		TF_Ammo_20mm,		    					*,		4000,		1000
 		TF_Ammo_20mm_HE,							*,		4000,		1000
 		TF_Ammo_57,		        					*,		2000,		450
-		TF_Ammo_338LM,		    						*,		2500,		750
-		Ammo_380,								1,		10,		1
-		Ammo_9x19,								1,		11,		2
-		Ammo_22,								1,		10,		1
-		Ammo_45ACP,								1,		12,		2
+		TF_Ammo_338LM,		    					*,		2500,		750
+		Ammo_380,									1,		10,		1
+		Ammo_9x19,									1,		11,		2
+		Ammo_22,									1,		10,		1
+		Ammo_45ACP,									1,		12,		2
 		Ammo_12gaPellets,							1,		20,		1
 		Ammo_12gaSlug,								1,		30,		2
-		Ammo_9x39,								1,		35,		3
+		Ammo_9x39,									1,		35,		3
 		Ammo_9x39AP,								1,		50,		4
-		Ammo_357,								1,		35,		3
+		Ammo_357,									1,		35,		3
 		Ammo_308Win,								1,		50,		5
 		Ammo_545x39,								1,		35,		3
 		Ammo_556x45,								1,		40,		3
@@ -4046,11 +4040,18 @@
 		Ammo_545x39Tracer,							1,		80,		3
 		Ammo_308WinTracer,							1,		80,		5
 		Ammo_762x39Tracer,							1,		80,		3
-		Ammo_Flare,								1,		150,		20
-	    	Ammo_FlareBlue,								1,		150,		20
-	    	Ammo_FlareGreen,							1,		150,		20
-	    	Ammo_FlareRed,								1,		150,		20
-		Ammo_762x54Tracer,							1,		100,		6
+		Ammo_Flare,									1,		150,	20
+	    Ammo_FlareBlue,								1,		150,	20
+	    Ammo_FlareGreen,							1,		150,	20
+	    Ammo_FlareRed,								1,		150,	20
+		Ammo_762x54Tracer,							1,		100,	6
+		Bullet_CC_Ion_Ammo,							1,		50,		10
+		Bullet_CC_44_Ammo,							1,		50,		2
+		Bullet_CC_50cal_Ammo,						1,		3000,	750
+		Bullet_CC_65Carcano_Ammo,					1,		50,		2
+		Bullet_CC_50AE_Ammo,						1,		65,		3
+		Bullet_CC_Ssk_Ammo,							1,		2500,	500
+		Bullet_CC_3006_Ammo,						1,		50,		2
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
@@ -4076,17 +4077,16 @@
 		AmmoBox_556x45Tracer_20Rnd,					*,		1600,		80
 		AmmoBox_762x39Tracer_20Rnd,					*,		1600,		80
 		AmmoBox_762x54Tracer_20Rnd,					*,		2000,		200
-		CC_Ion_Ammo,							*,		5000,		1000
-		CC_44_Ammo,							*,		1000,		100
-		CC_50cal_Ammo,							*,		30000,		7500
-		CC_65Carcano_Ammo,						*,		800,		60
-		CC_50AE_Ammo,							*,		1300,		120
-		CC_Ssk_Ammo,							*,		25000,		5000
-		CC_3006_Ammo,							*,		800,		60
+		CC_Ion_Ammo,								*,		5000,		1000
+		CC_44_Ammo,									*,		1000,		100
+		CC_50cal_Ammo,								*,		30000,		7500
+		CC_65Carcano_Ammo,							*,		800,		60
+		CC_50AE_Ammo,								*,		1300,		120
+		CC_Ssk_Ammo,								*,		25000,		5000
+		CC_3006_Ammo,								*,		800,		60
 				
 	<Category> Magazines
 		Mag_IJ70_8Rnd,			M,		30,		15
-		Mag_P1_8Rnd,			M,		30,		15
 		Mag_Deagle_9rnd,		M,		40,		20
 		Mag_CZ75_15Rnd,			M,		40,		20
 		Mag_Glock_15Rnd,		M,		40,		20
