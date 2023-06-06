@@ -1517,10 +1517,10 @@
 		AmmoBox_762x39Tracer_20Rnd,					*,		1600,		80
 		AmmoBox_762x54Tracer_20Rnd,					*,		2000,		100
 		CC_44_Ammo,									*,		1000,		100
-		CC_50cal_Ammo,								*,		30000,		7500
+		CC_50cal_Ammo,								*,		250000,		100000
 		CC_65Carcano_Ammo,							*,		800,		60
 		CC_50AE_Ammo,								*,		1300,		120
-		CC_Ssk_Ammo,								*,		25000,		5000
+		CC_Ssk_Ammo,								*,		125000,		50000
 		CC_3006_Ammo,								*,		800,		60
 		
 	<Category> Magazines
@@ -4018,8 +4018,8 @@
 		
 
 	<Category> Ammunition
-		TF_Ammo_20mm,		    					*,		4000,		1000
-		TF_Ammo_20mm_HE,							*,		4000,		1000
+		TF_Ammo_20mm,		    					*,		75000,		25000
+		TF_Ammo_20mm_HE,							*,		75000,		25000
 		TF_Ammo_57,		        					*,		2000,		450
 		TF_Ammo_338LM,		    					*,		2500,		750
 		Ammo_380,									1,		10,		1
@@ -4045,13 +4045,6 @@
 	    Ammo_FlareGreen,							1,		150,	20
 	    Ammo_FlareRed,								1,		150,	20
 		Ammo_762x54Tracer,							1,		100,	6
-		Bullet_CC_Ion_Ammo,							1,		50,		10
-		Bullet_CC_44_Ammo,							1,		50,		2
-		Bullet_CC_50cal_Ammo,						1,		3000,	750
-		Bullet_CC_65Carcano_Ammo,					1,		50,		2
-		Bullet_CC_50AE_Ammo,						1,		65,		3
-		Bullet_CC_Ssk_Ammo,							1,		2500,	500
-		Bullet_CC_3006_Ammo,						1,		50,		2
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
@@ -4079,10 +4072,10 @@
 		AmmoBox_762x54Tracer_20Rnd,					*,		2000,		200
 		CC_Ion_Ammo,								*,		5000,		1000
 		CC_44_Ammo,									*,		1000,		100
-		CC_50cal_Ammo,								*,		30000,		7500
+		CC_50cal_Ammo,								*,		250000,		100000
 		CC_65Carcano_Ammo,							*,		800,		60
 		CC_50AE_Ammo,								*,		1300,		120
-		CC_Ssk_Ammo,								*,		25000,		5000
+		CC_Ssk_Ammo,								*,		125000,		50000
 		CC_3006_Ammo,								*,		800,		60
 				
 	<Category> Magazines
