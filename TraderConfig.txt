@@ -1531,6 +1531,7 @@
 	<Category> Magazines
 		Mag_Deagle_9rnd,							M,		50,		20
 		Mag_IJ70_8Rnd,								M,		30,		15
+		Mag_P1_8Rnd,								M,		30,		15
 		Mag_CZ75_15Rnd,								M,		40,		20
 		Mag_Glock_15Rnd,							M,		40,		20
 		Mag_MKII_10Rnd,								M,		40,		20
@@ -4050,13 +4051,6 @@
 	    	Ammo_FlareGreen,							1,		150,		20
 	    	Ammo_FlareRed,								1,		150,		20
 		Ammo_762x54Tracer,							1,		100,		6
-		Bullet_CC_Ion_Ammo,							1,		50,		10
-		Bullet_CC_44_Ammo,							1,		50,			2
-		Bullet_CC_50cal_Ammo,							1,		3000,			750
-		Bullet_CC_65Carcano_Ammo,						1,		50,			2
-		Bullet_CC_50AE_Ammo,							1,		65,			3
-		Bullet_CC_Ssk_Ammo,							1,		2500,			500
-		Bullet_CC_3006_Ammo,							1,		50,			2
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
@@ -4092,6 +4086,7 @@
 				
 	<Category> Magazines
 		Mag_IJ70_8Rnd,			M,		30,		15
+		Mag_P1_8Rnd,			M,		30,		15
 		Mag_Deagle_9rnd,		M,		40,		20
 		Mag_CZ75_15Rnd,			M,		40,		20
 		Mag_Glock_15Rnd,		M,		40,		20
