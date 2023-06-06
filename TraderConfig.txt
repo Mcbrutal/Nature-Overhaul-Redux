@@ -1466,29 +1466,29 @@
 
 <Trader> Weapon Supplies
 	<Category> Ammunition
-		Ammo_380,									1,		10,			1
-		Ammo_9x19,									1,		11,			2
-		Ammo_22,									1,		10,			1
-		Ammo_45ACP,									1,		12,			2
-		Ammo_12gaPellets,							1,		20,			1
-		Ammo_12gaSlug,								1,		30,			2
-		Ammo_9x39,									1,		35,			3
-		Ammo_9x39AP,								1,		50,			4
-		Ammo_357,									1,		35,			3
-		Ammo_308Win,								1,		50,			5
-		Ammo_545x39,								1,		35,			3
-		Ammo_556x45,								1,		40,			3
-		Ammo_762x39,								1,		40,			3
-		Ammo_762x54,								1,		45,			6		
-		Ammo_556x45Tracer,							1,		80,			4
-		Ammo_545x39Tracer,							1,		80,			3
-		Ammo_308WinTracer,							1,		80,			5
-		Ammo_762x39Tracer,							1,		80,			3
+		Ammo_380,									1,		12,			5
+		Ammo_9x19,									1,		18,			8
+		Ammo_22,									1,		9,			4
+		Ammo_45ACP,									1,		18,			8
+		Ammo_12gaPellets,							1,		50,			20
+		Ammo_12gaSlug,								1,		50,			20
+		Ammo_9x39,									1,		32,			13
+		Ammo_9x39AP,								1,		40,			17
+		Ammo_357,									1,		22,			10
+		Ammo_308Win,								1,		40,			17
+		Ammo_545x39,								1,		32,			13
+		Ammo_556x45,								1,		32,			13
+		Ammo_762x39,								1,		32,			13
+		Ammo_762x54,								1,		40,			17		
+		Ammo_556x45Tracer,							1,		37,			15
+		Ammo_545x39Tracer,							1,		37,			15
+		Ammo_308WinTracer,							1,		45,			20
+		Ammo_762x39Tracer,							1,		37,			15
 		Ammo_Flare,									1,		150,		20
 	    Ammo_FlareBlue,								1,		150,		20
 	    Ammo_FlareGreen,							1,		150,		20
 	    Ammo_FlareRed,								1,		150,		20
-		Ammo_762x54Tracer,							1,		100,		60
+		Ammo_762x54Tracer,							1,		45,		20
 		Ammo_HuntingBolt,							5,		150,		75
 		Ammo_ImprovisedBolt_1,						5,		100,		50
 		Ammo_ImprovisedBolt_2,						5,		75,			45
@@ -1497,31 +1497,31 @@
 		// Originally the Ammoboxes buying Price is 20% less than
 		// buying single Ammo. The Selling Price is the same as
 		// selling the Ammo seperately.
-		AmmoBox_380_35rnd,							*,		280,		15
-		AmmoBox_9x19_25rnd,							*,		200,		15
-		AmmoBox_45ACP_25rnd,						*,		200,		15
-		AmmoBox_22_50Rnd,							*,		600,		20
-		AmmoBox_00buck_10rnd,						*,		240,		10
-		AmmoBox_12gaSlug_10Rnd,						*,		320,		20
-		AmmoBox_9x39_20Rnd,							*,		320,		20
-		AmmoBox_9x39AP_20Rnd,						*,		800,		60
-		AmmoBox_357_20Rnd,							*,		800,		60
-		AmmoBox_308Win_20Rnd,						*,		800,		60
-		AmmoBox_545x39_20Rnd,						*,		800,		60
-		AmmoBox_556x45_20Rnd,						*,		800,		60
-		AmmoBox_762x39_20Rnd,						*,		800,		60
-		AmmoBox_762x54_20Rnd,						*,		2000,		120		
-		AmmoBox_308WinTracer_20Rnd,					*,		1600,		80
-		AmmoBox_545x39Tracer_20Rnd,					*,		1600, 		80
-		AmmoBox_556x45Tracer_20Rnd,					*,		1600,		80
-		AmmoBox_762x39Tracer_20Rnd,					*,		1600,		80
-		AmmoBox_762x54Tracer_20Rnd,					*,		2000,		100
-		CC_44_Ammo,									*,		1000,		100
+		AmmoBox_380_35rnd,							*,		450,		200
+		AmmoBox_9x19_25rnd,							*,		450,		200
+		AmmoBox_45ACP_25rnd,						*,		450,		200
+		AmmoBox_22_50Rnd,							*,		450,		200
+		AmmoBox_00buck_10rnd,						*,		500,		200
+		AmmoBox_12gaSlug_10Rnd,						*,		500,		200
+		AmmoBox_9x39_20Rnd,							*,		650,		275
+		AmmoBox_9x39AP_20Rnd,						*,		800,		350
+		AmmoBox_357_20Rnd,							*,		500,		200
+		AmmoBox_308Win_20Rnd,						*,		800,		350
+		AmmoBox_545x39_20Rnd,						*,		650,		275
+		AmmoBox_556x45_20Rnd,						*,		650,		275
+		AmmoBox_762x39_20Rnd,						*,		650,		275
+		AmmoBox_762x54_20Rnd,						*,		800,		350		
+		AmmoBox_308WinTracer_20Rnd,					*,		900,		400
+		AmmoBox_545x39Tracer_20Rnd,					*,		750, 		300
+		AmmoBox_556x45Tracer_20Rnd,					*,		750,		300
+		AmmoBox_762x39Tracer_20Rnd,					*,		750,		300
+		AmmoBox_762x54Tracer_20Rnd,					*,		900,		400
+		CC_44_Ammo,									*,		1000,		450
 		CC_50cal_Ammo,								*,		250000,		100000
-		CC_65Carcano_Ammo,							*,		800,		60
-		CC_50AE_Ammo,								*,		1300,		120
+		CC_65Carcano_Ammo,							*,		800,		350
+		CC_50AE_Ammo,								*,		1000,		450
 		CC_Ssk_Ammo,								*,		125000,		50000
-		CC_3006_Ammo,								*,		800,		60
+		CC_3006_Ammo,								*,		800,		350
 		
 	<Category> Magazines
 		Mag_Deagle_9rnd,							M,		50,		20
@@ -4018,65 +4018,66 @@
 		
 
 	<Category> Ammunition
-		TF_Ammo_20mm,		    					*,		75000,		25000
-		TF_Ammo_20mm_HE,							*,		75000,		25000
-		TF_Ammo_57,		        					*,		2000,		450
-		TF_Ammo_338LM,		    					*,		2500,		750
-		Ammo_380,									1,		10,		1
-		Ammo_9x19,									1,		11,		2
-		Ammo_22,									1,		10,		1
-		Ammo_45ACP,									1,		12,		2
-		Ammo_12gaPellets,							1,		20,		1
-		Ammo_12gaSlug,								1,		30,		2
-		Ammo_9x39,									1,		35,		3
-		Ammo_9x39AP,								1,		50,		4
-		Ammo_357,									1,		35,		3
-		Ammo_308Win,								1,		50,		5
-		Ammo_545x39,								1,		35,		3
-		Ammo_556x45,								1,		40,		3
-		Ammo_762x39,								1,		40,		3
-		Ammo_762x54,								1,		45,		6		
-		Ammo_556x45Tracer,							1,		80,		4
-		Ammo_545x39Tracer,							1,		80,		3
-		Ammo_308WinTracer,							1,		80,		5
-		Ammo_762x39Tracer,							1,		80,		3
-		Ammo_Flare,									1,		150,	20
-	    Ammo_FlareBlue,								1,		150,	20
-	    Ammo_FlareGreen,							1,		150,	20
-	    Ammo_FlareRed,								1,		150,	20
-		Ammo_762x54Tracer,							1,		100,	6
+		TF_Ammo_20mm,		    					*,		75000,		35000
+		TF_Ammo_20mm_HE,							*,		75000,		35000
+		TF_Ammo_57,		        					*,		450,		225
+		TF_Ammo_338LM,		    					*,		20000,		10000
+		Ammo_380,									1,		12,			5
+		Ammo_9x19,									1,		18,			8
+		Ammo_22,									1,		9,			4
+		Ammo_45ACP,									1,		18,			8
+		Ammo_12gaPellets,							1,		50,			20
+		Ammo_12gaSlug,								1,		50,			20
+		Ammo_9x39,									1,		32,			13
+		Ammo_9x39AP,								1,		40,			17
+		Ammo_357,									1,		22,			10
+		Ammo_308Win,								1,		40,			17
+		Ammo_545x39,								1,		32,			13
+		Ammo_556x45,								1,		32,			13
+		Ammo_762x39,								1,		32,			13
+		Ammo_762x54,								1,		40,			17		
+		Ammo_556x45Tracer,							1,		37,			15
+		Ammo_545x39Tracer,							1,		37,			15
+		Ammo_308WinTracer,							1,		45,			20
+		Ammo_762x39Tracer,							1,		37,			15
+		Ammo_Flare,									1,		150,		20
+	    Ammo_FlareBlue,								1,		150,		20
+	    Ammo_FlareGreen,							1,		150,		20
+	    Ammo_FlareRed,								1,		150,		20
+		Ammo_762x54Tracer,							1,		45,		20
+		Ammo_HuntingBolt,							5,		150,		75
+		Ammo_ImprovisedBolt_1,						5,		100,		50
+		Ammo_ImprovisedBolt_2,						5,		75,			45
 		// When changing Prices here keep in Mind that Players
 		// can just unpack the Ammoboxes and sell the Ammo seperatly!
 		// Originally the Ammoboxes buying Price is 20% less than
 		// buying single Ammo. The Selling Price is the same as
 		// selling the Ammo seperately.
-		AmmoBox_380_35rnd,							*,		280,		15
-		AmmoBox_9x19_25rnd,							*,		200,		15
-		AmmoBox_45ACP_25rnd,						*,		200,		15
-		AmmoBox_22_50Rnd,							*,		600,		20
-		AmmoBox_00buck_10rnd,						*,		240,		10
-		AmmoBox_12gaSlug_10Rnd,						*,		320,		20
-		AmmoBox_12gaRubberSlug_10Rnd,				*,		200,		15
-		AmmoBox_9x39_20Rnd,							*,		320,		20
-		AmmoBox_9x39AP_20Rnd,						*,		800,		60
-		AmmoBox_357_20Rnd,							*,		800,		60
-		AmmoBox_308Win_20Rnd,						*,		800,		60
-		AmmoBox_545x39_20Rnd,						*,		800,		60
-		AmmoBox_556x45_20Rnd,						*,		800,		60
-		AmmoBox_762x39_20Rnd,						*,		800,		60
-		AmmoBox_762x54_20Rnd,						*,		2000,		120		
-		AmmoBox_308WinTracer_20Rnd,					*,		1600,		80
-		AmmoBox_545x39Tracer_20Rnd,					*,		1600, 		80
-		AmmoBox_556x45Tracer_20Rnd,					*,		1600,		80
-		AmmoBox_762x39Tracer_20Rnd,					*,		1600,		80
-		AmmoBox_762x54Tracer_20Rnd,					*,		2000,		200
-		CC_Ion_Ammo,								*,		5000,		1000
-		CC_44_Ammo,									*,		1000,		100
+		AmmoBox_380_35rnd,							*,		450,		200
+		AmmoBox_9x19_25rnd,							*,		450,		200
+		AmmoBox_45ACP_25rnd,						*,		450,		200
+		AmmoBox_22_50Rnd,							*,		450,		200
+		AmmoBox_00buck_10rnd,						*,		500,		200
+		AmmoBox_12gaSlug_10Rnd,						*,		500,		200
+		AmmoBox_9x39_20Rnd,							*,		650,		275
+		AmmoBox_9x39AP_20Rnd,						*,		800,		350
+		AmmoBox_357_20Rnd,							*,		500,		200
+		AmmoBox_308Win_20Rnd,						*,		800,		350
+		AmmoBox_545x39_20Rnd,						*,		650,		275
+		AmmoBox_556x45_20Rnd,						*,		650,		275
+		AmmoBox_762x39_20Rnd,						*,		650,		275
+		AmmoBox_762x54_20Rnd,						*,		800,		350		
+		AmmoBox_308WinTracer_20Rnd,					*,		900,		400
+		AmmoBox_545x39Tracer_20Rnd,					*,		750, 		300
+		AmmoBox_556x45Tracer_20Rnd,					*,		750,		300
+		AmmoBox_762x39Tracer_20Rnd,					*,		750,		300
+		AmmoBox_762x54Tracer_20Rnd,					*,		900,		400
+		CC_44_Ammo,									*,		1000,		450
 		CC_50cal_Ammo,								*,		250000,		100000
-		CC_65Carcano_Ammo,							*,		800,		60
-		CC_50AE_Ammo,								*,		1300,		120
+		CC_65Carcano_Ammo,							*,		800,		350
+		CC_50AE_Ammo,								*,		1000,		450
 		CC_Ssk_Ammo,								*,		125000,		50000
-		CC_3006_Ammo,								*,		800,		60
+		CC_3006_Ammo,								*,		800,		350
 				
 	<Category> Magazines
 		Mag_IJ70_8Rnd,			M,		30,		15
