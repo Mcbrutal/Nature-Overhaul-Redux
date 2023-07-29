@@ -837,17 +837,17 @@
         {
             "name": "Table_Weapon_Rifles",
             "Loot": [
-                "TR_predefined_SVD",
-                "TR_predefined_VSS",
+                "TR_predefined_MosinCamo",
+                "TR_predefined_527",
                 "TR_predefined_Tundra",
-                "TR_predefined_Blaze",
+                "TR_predefined_M1A",
+                "TR_predefined_M16a4",
+                "TR_predefined_ak74",
+                "TR_predefined_AK",
+                "TR_predefined_Tiss",
                 "TR_predefined_M4",
-                "TR_predefined_SKS",
-                "TR_predefined_CZ527",
-                "TR_predefined_AKM",
-                "TR_predefined_AK74",
-                "TR_predefined_AK101",
-                "TR_predefined_FAL"
+                "TR_predefined_SCAR",
+                "TR_predefined_crossbow"
             ]
         },
         {
@@ -945,24 +945,24 @@
     ],
     "PredefinedWeapons": [
         {
-            "defname": "TR_predefined_SVD",
-            "weapon": "SVD",
-            "magazine": "Mag_SVD_10Rnd",
+            "defname": "TR_predefined_MosinCamo",
+            "weapon": "Mosin9130_Camo",
+            "magazine": "",
             "attachments": [
-                "AK_Suppressor"
+                ""
             ],
-            "optic": "PSO11Optic",
-            "opticbattery": 1
+            "optic": "PUScopeOptic",
+            "opticbattery": 0
         },
         {
-            "defname": "TR_predefined_VSS",
-            "weapon": "VSS",
-            "magazine": "Mag_VSS_10Rnd",
+            "defname": "TR_predefined_527",
+            "weapon": "CZ527",
+            "magazine": "Mag_CZ527_5rnd",
             "attachments": [
-                "AK_Suppressor"
+                ""
             ],
-            "optic": "PSO11Optic",
-            "opticbattery": 1
+            "optic": "HuntingOptic",
+            "opticbattery": 0
         },
         {
             "defname": "TR_predefined_Tundra",
@@ -975,92 +975,97 @@
             "opticbattery": 0
         },
         {
-            "defname": "TR_predefined_Blaze",
-            "weapon": "B95",
-            "magazine": "",
+            "defname": "TR_predefined_M1A",
+            "weapon": "TF_M1A_OD",
+            "magazine": "TF_Mag_M14_20Rnd",
             "attachments": [
                 ""
             ],
-            "optic": "HuntingOptic",
+            "optic": "TF_ElcanSpecterDR_6xOptic_Black",
+            "opticbattery": 1
+        },
+        {
+            "defname": "TR_predefined_M16a4",
+            "weapon": "TF_M16A4",
+            "magazine": "Mag_STANAG_30Rnd",
+            "attachments": [
+                "TF_M16_Bttstck",
+                "TF_M16_KACHndgrd_RIS",
+                "TF_AFG_RIS_Grip_Black"
+            ],
+            "optic": "M4_CarryHandleOptic",
             "opticbattery": 0
+        },
+        {
+            "defname": "TR_predefined_ak74",
+            "weapon": "TF_AKS74U",
+            "magazine": "Mag_AK74_30Rnd_Black",
+            "attachments": [
+                "TF_AK_Zenit_PT1Bttstck"
+                "TF_AKS74U_ZenitB11PlasticHndgrd_RIS"
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "TR_predefined_AK",
+            "weapon": "TF_AKMN",
+            "magazine": "Mag_AKM_30Rnd",
+            "attachments": [
+                "AK_WoodHndgrd"
+                "AK_WoodBttstck"
+            ],
+            "optic": "",
+            "opticbattery": 0
+        },
+        {
+            "defname": "TR_predefined_Tiss",
+            "weapon": "TF_OTs_12_Tiss",
+            "magazine": "Mag_VAL_20Rnd",
+            "attachments": [
+                "TF_AK_Zenit_PT1Bttstck",
+                "TF_AKS74U_ZenitB11PlasticHndgrd_RIS",
+                "TF_AFG_RIS_Grip_Black"
+            ],
+            "optic": "TF_OKP7Optic",
+            "opticbattery": 1
         },
         {
             "defname": "TR_predefined_M4",
-            "weapon": "M4A1",
+            "weapon": "TF_M4A1",
             "magazine": "Mag_STANAG_30Rnd",
             "attachments": [
-                "M4_Suppressor",
-                "M4_RISHndgrd_Black",
-                "M4_MPBttstck_Black"
+                "M4_RISHndgrd",
+                "M4_OEBttstck",
+                "Universallight"
+                "TF_AFG_RIS_Grip_Black"
             ],
-            "optic": "ACOGOptic",
+            "optic": "M4_CarryHandleOptic",
             "opticbattery": 0
         },
         {
-            "defname": "TR_predefined_SKS",
-            "weapon": "SKS",
+            "defname": "TR_predefined_SCAR",
+            "weapon": "TF_SCAR_L_Black",
+            "magazine": "Mag_STANAG_30Rnd",
+            "attachments": [
+                "TF_SCAR_Mk20Bttstck_Black",
+                "TF_SCAR_MREXHndgrd_Black",
+                "TF_SCAR_Suppressor_Black"
+                "TF_AFG_RIS_Grip_Black"
+                "TF_Atlas_Bipod"
+            ],
+            "optic": "TF_EOTechXPSOpticDown_Black",
+            "opticbattery": 0
+        },
+        {
+            "defname": "TR_predefined_crossbow",
+            "weapon": "Crossbow_Black",
             "magazine": "",
             "attachments": [
                 ""
             ],
-            "optic": "PUScopeOptic",
-            "opticbattery": 0
-        },
-        {
-            "defname": "TR_predefined_CZ527",
-            "weapon": "CZ527",
-            "magazine": "Mag_CZ527_5rnd",
-            "attachments": [
-                ""
-            ],
-            "optic": "HuntingOptic",
-            "opticbattery": 0
-        },
-        {
-            "defname": "TR_predefined_AKM",
-            "weapon": "AKM",
-            "magazine": "Mag_AKM_30Rnd",
-            "attachments": [
-                "AK_Suppressor",
-                "AK_WoodHndgrd",
-                "AK_WoodBttstck"
-            ],
-            "optic": "PSO11Optic",
+            "optic": "ReflexOptic",
             "opticbattery": 1
-        },
-        {
-            "defname": "TR_predefined_AK74",
-            "weapon": "AK74",
-            "magazine": "Mag_AK74_30Rnd",
-            "attachments": [
-                "AK_Suppressor",
-                "AK74_Hndgrd",
-                "AK74_WoodBttstck"
-            ],
-            "optic": "PSO11Optic",
-            "opticbattery": 1
-        },
-        {
-            "defname": "TR_predefined_AK101",
-            "weapon": "AK101",
-            "magazine": "Mag_AK101_30Rnd",
-            "attachments": [
-                "AK_Suppressor",
-                "AK_PlasticHndgrd",
-                "AK_PlasticBttstck"
-            ],
-            "optic": "PSO11Optic",
-            "opticbattery": 1
-        },
-        {
-            "defname": "TR_predefined_FAL",
-            "weapon": "FAL",
-            "magazine": "Mag_FAL_20Rnd",
-            "attachments": [
-                "Fal_OeBttstck"
-            ],
-            "optic": "ACOGOptic",
-            "opticbattery": 0
         }
     ],
     "HiddenCacheLoot": [
