@@ -39,9 +39,9 @@
                 "TTsKOJacket_Camo",
                 "TacticalBaconCan",
                 "NVGoggles",
-                "Mag_SVD_10Rnd",
-                "Mag_SVD_10Rnd",
-                "TR_predefined_SVD"
+                "TR_predefined_Tundra",
+                "AmmoBox_308Win_20Rnd",
+                "AmmoBox_308Win_20Rnd"
             ]
         },
         {
@@ -52,11 +52,11 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_AKM",
+                "TR_predefined_AK",
                 "Mag_AKM_30Rnd",
                 "Mag_AKM_30Rnd",
                 "Mag_AKM_30Rnd",
-                "TR_predefined_AK74",
+                "TR_predefined_ak74",
                 "Mag_AK74_30Rnd",
                 "Mag_AK74_30Rnd",
                 "AmmoBox_545x39_20Rnd",
@@ -79,7 +79,7 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_SKS",
+                "TR_predefined_527",
                 "TacticalBaconCan",
                 "SodaCan_Cola",
                 "AmmoBox_762x39_20Rnd",
@@ -97,11 +97,11 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_FAL",
-                "Mag_FAL_20Rnd",
-                "Mag_FAL_20Rnd",
-                "Mag_FAL_20Rnd",
-                "AmmoBox_762x39_20Rnd",
+                "TR_predefined_M1A",
+                "TF_Mag_M14_20Rnd",
+                "TF_Mag_M14_20Rnd",
+                "TF_Mag_M14_20Rnd",
+                "TF_Mag_M14_20Rnd",
                 "AmmoBox_308Win_20Rnd",
                 "AmmoBox_308Win_20Rnd",
                 "DNA_KeyCard_BlisterPackChip_Blue",
@@ -118,14 +118,14 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_AK101",
-                "TR_predefined_VSS",
-                "Mag_VSS_10Rnd",
-                "Mag_VSS_10Rnd",
-                "Mag_AK101_30Rnd",
-                "Mag_AK101_30Rnd",
-                "Mag_AK101_30Rnd",
-                "Mag_AK101_30Rnd",
+                "TR_predefined_AK",
+                "TR_predefined_Tiss",
+                "Mag_AKM_30Rnd",
+                "Mag_AKM_30Rnd",
+                "Mag_AKM_30Rnd",
+                "Mag_VAL_20Rnd",
+                "Mag_VAL_20Rnd",
+                "Mag_VAL_20Rnd",
                 "TacticalBaconCan",
                 "SodaCan_Cola",
                 "TacticalBaconCan",
@@ -141,15 +141,15 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_Tundra",
-                "AmmoBox_762x39_20Rnd",
+                "TR_predefined_MosinCamo",
+                "AmmoBox_762x54_20Rnd",
                 "SardinesCan",
-                "AmmoBox_308Win_20Rnd",
-                "AmmoBox_308Win_20Rnd",
-                "AmmoBox_308WinTracer_20Rnd",
-                "AmmoBox_308Win_20Rnd",
+                "AmmoBox_762x54_20Rnd",
+                "AmmoBox_762x54_20Rnd",
+                "AmmoBox_762x54_20Rnd",
+                "M67Grenade",
                 "DNA_KeyCard_BlisterPackChip_Blue",
-                "AmmoBox_308WinTracer_20Rnd"
+                "M67Grenade"
             ]
         },
         {
@@ -161,10 +161,10 @@
             "buried": 1,
             "loot": [
                 "TR_predefined_M4",
-                "AmmoBox_308Win_20Rnd",
+                "Battery9V",
                 "TetracyclineAntibiotics",
-                "AmmoBox_308WinTracer_20Rnd",
-                "AmmoBox_308Win_20Rnd",
+                "Battery9V",
+                "Mag_STANAG_30Rnd",
                 "Mag_STANAG_30Rnd",
                 "Mag_STANAG_30Rnd",
                 "Mag_STANAG_30Rnd",
@@ -212,7 +212,7 @@
                 "BakedBeansCan",
                 "SodaCan_Kvass",
                 "SodaCan_Kvass",
-                "TR_predefined_CZ527",
+                "TR_predefined_527",
                 "Mag_CZ527_5rnd",
                 "Mag_CZ527_5rnd",
                 "AmmoBox_762x39_20Rnd",
@@ -233,7 +233,7 @@
                 "SodaCan_Kvass",
                 "SodaCan_Kvass",
                 "TetracyclineAntibiotics",
-                "TR_predefined_AKM",
+                "TR_predefined_AK",
                 "Mag_AKM_30Rnd",
                 "WeaponCleaningKit",
                 "BandageDressing"
@@ -266,19 +266,25 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_Tundra",
-                "TR_predefined_Blaze",
+                "TR_predefined_SCAR",
+                "TR_predefined_crossbow",
                 "SardinesCan",
                 "BakedBeansCan",
-                "AmmoBox_308Win_20Rnd",
-                "AmmoBox_308Win_20Rnd",
-                "AmmoBox_308Win_20Rnd",
-                "AmmoBox_308Win_20Rnd",
-                "AmmoBox_308Win_20Rnd",
-                "AmmoBox_308Win_20Rnd",
-                "DNA_KeyCard_BlisterPackChip_Green",
-                "Mag_CZ527_5rnd",
-                "AmmoBox_762x39_20Rnd"
+                "Mag_STANAG_30Rnd",
+                "Mag_STANAG_30Rnd",
+                "Mag_STANAG_30Rnd",
+                "Mag_STANAG_30Rnd",
+                "Ammo_HuntingBolt",
+                "Ammo_HuntingBolt",
+                "Ammo_HuntingBolt",
+                "Ammo_HuntingBolt",
+                "Ammo_HuntingBolt",
+                "Ammo_HuntingBolt",
+                "Ammo_HuntingBolt",
+                "Ammo_HuntingBolt",
+                "Ammo_HuntingBolt",
+                "Ammo_HuntingBolt",
+                "DNA_KeyCard_BlisterPackChip_Green"
             ]
         },
         {
@@ -289,13 +295,13 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_M4",
-                "Mag_STANAG_30Rnd",
+                "TR_predefined_ak74",
+                "Mag_AK74_30Rnd_Black",
                 "TacticalBaconCan",
                 "SodaCan_Cola",
                 "DNA_KeyCard_BlisterPackChip_Blue",
-                "Mag_STANAG_30Rnd",
-                "Mag_STANAG_30Rnd",
+                "Mag_AK74_30Rnd_Black",
+                "Mag_AK74_30Rnd_Black",
                 "SardinesCan"
             ]
         },
@@ -307,14 +313,14 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_AK101",
+                "TR_predefined_M16a4",
                 "SodaCan_Kvass",
                 "AmmoBox_556x45_20Rnd",
                 "AmmoBox_556x45_20Rnd",
                 "AmmoBox_556x45_20Rnd",
                 "Whetstone",
-                "Mag_AK101_30Rnd",
-                "Mag_AK101_30Rnd",
+                "Mag_STANAG_30Rnd",
+                "Mag_STANAG_30Rnd",
                 "Hatchet",
                 "NailBox",
                 "NailBox"
@@ -329,7 +335,7 @@
             "buried": 1,
             "loot": [
                 "TR_predefined_Tundra",
-                "AmmoBox_762x39_20Rnd",
+                "AmmoBox_308Win_20Rnd",
                 "SardinesCan",
                 "AmmoBox_308Win_20Rnd",
                 "AmmoBox_308Win_20Rnd",
@@ -354,7 +360,7 @@
                 "AmmoBox_308Win_20Rnd",
                 "AmmoBox_308Win_20Rnd",
                 "DNA_KeyCard_BlisterPackChip_Blue",
-                "TR_predefined_Blaze",
+                "CC_Showstopper",
                 "SodaCan_Cola"
             ]
         },
@@ -388,8 +394,8 @@
                 "TetracyclineAntibiotics",
                 "PurificationTablets",
                 "BandageDressing",
-                "AmmoBox_762x39_20Rnd",
-                "AmmoBox_762x39_20Rnd"
+                "Epinephrine",
+                "VitaminBottle"
             ]
         },
         {
@@ -440,14 +446,14 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_AK101",
+                "TR_predefined_M4",
                 "SodaCan_Kvass",
                 "AmmoBox_556x45_20Rnd",
                 "AmmoBox_556x45_20Rnd",
                 "AmmoBox_556x45_20Rnd",
                 "Whetstone",
-                "Mag_AK101_30Rnd",
-                "Mag_AK101_30Rnd",
+                "Mag_STANAG_30Rnd",
+                "Mag_STANAG_30Rnd",
                 "DNA_KeyCard_BlisterPackChip_Blue",
                 "Hatchet",
                 "NailBox",
@@ -466,7 +472,7 @@
                 "AmmoBox_308Win_20Rnd",
                 "AmmoBox_308Win_20Rnd",
                 "AmmoBox_308Win_20Rnd",
-                "TR_predefined_Blaze",
+                "CC_Showstopper",
                 "SodaCan_Cola",
                 "BearSteakMeat",
                 "BearSteakMeat",
@@ -488,9 +494,9 @@
                 "TacticalBaconCan",
                 "DNA_KeyCard_BlisterPackChip_Red",
                 "NVGoggles",
-                "Mag_SVD_10Rnd",
-                "Mag_SVD_10Rnd",
-                "TR_predefined_SVD"
+                "TR_predefined_SCAR",
+                "Mag_STANAG_30Rnd",
+                "Mag_STANAG_30Rnd"
             ]
         },
         {
@@ -521,7 +527,7 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_SKS",
+                "TR_predefined_AK",
                 "TacticalBaconCan",
                 "SodaCan_Cola",
                 "DNA_KeyCard_BlisterPackChip_Green",
@@ -542,8 +548,8 @@
                 "TetracyclineAntibiotics",
                 "PurificationTablets",
                 "BandageDressing",
-                "AmmoBox_762x39_20Rnd",
-                "AmmoBox_762x39_20Rnd"
+                "DisinfectantAlcohol",
+                "VitaminBottle"
             ]
         },
         {
@@ -554,8 +560,8 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
+                "TR_predefined_M1A",
                 "TR_predefined_Tundra",
-                "TR_predefined_Blaze",
                 "SardinesCan",
                 "BakedBeansCan",
                 "AmmoBox_308Win_20Rnd",
@@ -565,8 +571,8 @@
                 "AmmoBox_308Win_20Rnd",
                 "DNA_KeyCard_BlisterPackChip_Blue",
                 "AmmoBox_308Win_20Rnd",
-                "Mag_CZ527_5rnd",
-                "AmmoBox_762x39_20Rnd"
+                "TF_Mag_M14_20Rnd",
+                "TF_Mag_M14_20Rnd"
             ]
         },
         {
@@ -578,10 +584,10 @@
             "buried": 1,
             "loot": [
                 "TR_predefined_M4",
-                "AmmoBox_308Win_20Rnd",
+                "VitaminBottle",
                 "TetracyclineAntibiotics",
-                "AmmoBox_308WinTracer_20Rnd",
-                "AmmoBox_308Win_20Rnd",
+                "BandageDressing",
+                "DisinfectantAlcohol",
                 "Mag_STANAG_30Rnd",
                 "Mag_STANAG_30Rnd",
                 "Mag_STANAG_30Rnd",
@@ -600,11 +606,11 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_AKM",
+                "TR_predefined_AK",
                 "Mag_AKM_30Rnd",
                 "Mag_AKM_30Rnd",
                 "Mag_AKM_30Rnd",
-                "TR_predefined_AK74",
+                "TR_predefined_ak74",
                 "Mag_AK74_30Rnd",
                 "Mag_AK74_30Rnd",
                 "AmmoBox_545x39_20Rnd",
@@ -628,18 +634,24 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_AK101",
-                "TR_predefined_VSS",
-                "Mag_VSS_10Rnd",
-                "Mag_VSS_10Rnd",
-                "Mag_AK101_30Rnd",
-                "Mag_AK101_30Rnd",
-                "Mag_AK101_30Rnd",
-                "Mag_AK101_30Rnd",
+                "TR_predefined_Tiss",
+                "TR_predefined_Tiss",
+                "Mag_VAL_20Rnd",
+                "Mag_VAL_20Rnd",
+                "Mag_VAL_20Rnd",
+                "Mag_VAL_20Rnd",
+                "Mag_VAL_20Rnd",
+                "Mag_VAL_20Rnd",
                 "TacticalBaconCan",
                 "SodaCan_Cola",
                 "TacticalBaconCan",
-                "SodaCan_Pipsi"
+                "SodaCan_Pipsi",
+                "AmmoBox_9x39AP_20Rnd",
+                "AmmoBox_9x39AP_20Rnd",
+                "AmmoBox_9x39AP_20Rnd",
+                "AmmoBox_9x39AP_20Rnd",
+                "AmmoBox_9x39AP_20Rnd",
+                "AmmoBox_9x39AP_20Rnd"
             ]
         },
         {
@@ -650,16 +662,18 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_Blaze",
+                "CZ550",
                 "BakedBeansCan",
                 "AmmoBox_308Win_20Rnd",
                 "AmmoBox_308Win_20Rnd",
                 "AmmoBox_308Win_20Rnd",
                 "AmmoBox_308Win_20Rnd",
                 "AmmoBox_308Win_20Rnd",
-                "AmmoBox_308Win_20Rnd",
-                "Mag_CZ527_5rnd",
-                "AmmoBox_762x39_20Rnd"
+                "Mag_CZ550_10rnd",
+                "Mag_CZ550_10rnd",
+                "Mag_CZ550_10rnd",
+                "HuntingOptic",
+                "Mag_CZ550_10rnd"
             ]
         },
         {
@@ -676,7 +690,7 @@
                 "BakedBeansCan",
                 "SodaCan_Kvass",
                 "SodaCan_Kvass",
-                "TR_predefined_CZ527",
+                "TR_predefined_527",
                 "Mag_CZ527_5rnd",
                 "Mag_CZ527_5rnd",
                 "DNA_KeyCard_BlisterPackChip_Blue",
@@ -698,7 +712,7 @@
                 "SodaCan_Kvass",
                 "SodaCan_Kvass",
                 "TetracyclineAntibiotics",
-                "TR_predefined_AKM",
+                "TR_predefined_AK",
                 "Mag_AKM_30Rnd",
                 "DNA_KeyCard_BlisterPackChip_Purple",
                 "WeaponCleaningKit",
@@ -741,10 +755,10 @@
                 "AmmoBox_762x54_20Rnd",
                 "AmmoBox_762x54_20Rnd",
                 "NVGoggles",
-                "Mag_SVD_10Rnd",
-                "Mag_SVD_10Rnd",
+                "AmmoBox_762x54_20Rnd",
+                "Battery9V",
                 "DNA_KeyCard_BlisterPackChip_Purple",
-                "TR_predefined_SVD"
+                "TR_predefined_MosinCamo"
             ]
         },
         {
@@ -755,14 +769,14 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_AK101",
+                "TR_predefined_M16a4",
                 "SodaCan_Kvass",
                 "AmmoBox_556x45_20Rnd",
                 "AmmoBox_556x45_20Rnd",
                 "AmmoBox_556x45_20Rnd",
                 "Whetstone",
-                "Mag_AK101_30Rnd",
-                "Mag_AK101_30Rnd",
+                "Mag_STANAG_30Rnd",
+                "Mag_STANAG_30Rnd",
                 "Hatchet",
                 "NailBox",
                 "NailBox",
@@ -783,7 +797,7 @@
                 "DNA_KeyCard_BlisterPackChip_Purple",
                 "AmmoBox_308Win_20Rnd",
                 "AmmoBox_308Win_20Rnd",
-                "TR_predefined_Blaze",
+                "TR_predefined_Tundra",
                 "SodaCan_Cola"
             ]
         },
@@ -813,11 +827,11 @@
             "hidden": 0,
             "buried": 1,
             "loot": [
-                "TR_predefined_AKM",
+                "TR_predefined_AK",
                 "Mag_AKM_30Rnd",
                 "Mag_AKM_30Rnd",
                 "Mag_AKM_30Rnd",
-                "TR_predefined_AK74",
+                "TR_predefined_ak74",
                 "Mag_AK74_30Rnd",
                 "Mag_AK74_30Rnd",
                 "AmmoBox_545x39_20Rnd",
