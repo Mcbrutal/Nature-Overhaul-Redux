@@ -12,3 +12,26 @@ Svergino-
 		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="2.81055" z="-2.60059" y="-1.152" a="0"/>
 	</group>
 
+South Severograd-
+	<!--<pos x="7882.84" z="12285" a="0" y="155.383" group="GROUP_NAME"/>-->
+	<group name="GROUP_NAME_HERE">
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="288.181"/>
+		<child type="Camper" deloot="0" lootmax="3" lootmin="1" x="1.70996" z="2.2998" y="0.809998" a="262.529"/>
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="-4.43994" z="1.7002" y="0.340012" a="58.8589"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="0.810059" z="0.0996094" y="0.0169983" a="234.988"/>
+		<child type="StaticObj_Garbage_Pile4" deloot="0" lootmax="3" lootmin="1" x="5.81006" z="6.59961" y="-1.22899" a="232.292"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="3.1001" z="-0.700195" y="-0.571991" a="0"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-2.15967" z="2.7002" y="-0.110992" a="0"/>
+	</group>
+
+North Kalinovka- 
+	<!--<pos x="7333.09" z="13605" a="0" y="225.261" group="GROUP_NAME"/>-->
+	<group name="GROUP_NAME_HERE">
+		<child type="StaticObj_Garbage_Pile4" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="0"/>
+		<child type="Camper" deloot="0" lootmax="3" lootmin="1" x="-2.08984" z="5" y="1.92599" a="75.3269"/>
+		<child type="Land_Wreck_hb01_aban1_blue" deloot="0" lootmax="3" lootmin="1" x="3.84033" z="6.90039" y="1.39" a="227.699"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="-0.389648" z="7.59961" y="0.931" a="133.65"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="-1.27002" z="7.7002" y="1.02499" a="52.1094"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-3.71973" z="8.2998" y="0.722992" a="0"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="1.72998" z="5.09961" y="0.725998" a="0"/>
+	</group>
