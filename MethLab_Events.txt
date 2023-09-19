@@ -95,3 +95,29 @@ Lopatino West-
 		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="2.43005" z="-2.29004" y="-1.62199" a="0"/>
 		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-3.89001" z="0.169922" y="-0.955994" a="0"/>
 	</group>
+
+BogaTyrka South
+	<!--<pos x="1422.35" z="8177.96" a="0" y="303.915" group="GROUP_NAME"/>-->
+	<group name="GROUP_NAME_HERE">
+		<child type="Camper" deloot="0" lootmax="3" lootmin="1" x="-0" z="0" y="0" a="110.965"/>
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="5.63" z="-1.96973" y="-0.713013" a="252.272"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="2.21997" z="1.3501" y="-1.16299" a="110.703"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="1.43005" z="1.24023" y="-1.16299" a="71.5515"/>
+		<child type="StaticObj_Garbage_Pile4" deloot="0" lootmax="3" lootmin="1" x="-5.64001" z="4.31006" y="-1.478" a="258.748"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-0.51001" z="3.58008" y="-1.68701" a="0"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="3.13" z="-2.22998" y="-1.133" a="0"/>
+	</group>
+
+Bolshoy North
+	<!--<pos x="606.475" z="6771.87" a="0" y="273.924" group="GROUP_NAME"/>-->
+	<group name="GROUP_NAME_HERE">
+		<child type="StaticObj_Garbage_Pile4" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="295.197"/>
+		<child type="Camper" deloot="0" lootmax="3" lootmin="1" x="-6.25598" z="2.52002" y="1.15198" a="347.851"/>
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="-7.71295" z="8.31982" y="0.553986" a="128.518"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="-9.12" z="4.8501" y="0.125977" a="0.181847"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="-8.99597" z="3.93994" y="0.143982" a="291.962"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-8.06097" z="0.0698242" y="-0.578003" a="0"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-6.104" z="6.38965" y="0.17099" a="0"/>
+	</group>
+
+
