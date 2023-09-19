@@ -60,3 +60,38 @@ East Novoya Patrovka-
 		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="8.06006" z="1.10059" y="0.242996" a="0"/>
 	</group>
 
+North Topolniki-
+	<!--<pos x="2231.62" z="12909" a="0" y="263.669" group="GROUP_NAME"/>-->
+	<group name="GROUP_NAME_HERE">
+		<child type="StaticObj_Garbage_Pile4" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="119.881"/>
+		<child type="Camper" deloot="0" lootmax="3" lootmin="1" x="5.95996" z="-2.7998" y="0.738983" a="154.169"/>
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="8.31982" z="-8.5" y="-0.287018" a="312.748"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="8.77979" z="-4.5" y="-0.585999" a="205.471"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="8.63989" z="-3.59961" y="-0.557007" a="119.07"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="7.72998" z="-0.599609" y="-0.916992" a="0"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="6.6499" z="-6.59961" y="-0.341003" a="0"/>
+	</group>
+
+Volvolino South-
+	<!--<pos x="2824.36" z="10654" a="0" y="315.702" group="GROUP_NAME"/>-->
+	<group name="GROUP_NAME_HERE">
+		<child type="StaticObj_Garbage_Pile4" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="251.19"/>
+		<child type="Camper" deloot="0" lootmax="3" lootmin="1" x="-5.46021" z="-2.59961" y="0.977997" a="288.445"/>
+		<child type="Land_Wreck_hb01_aban1_blue" deloot="0" lootmax="3" lootmin="1" x="-11.28" z="-0.599609" y="0.115997" a="82.0871"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="-8.4502" z="-3" y="-0.412994" a="342.18"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="-7.80005" z="-3.59961" y="-0.444" a="280.532"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-4.7002" z="-5.7002" y="-0.839996" a="0"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-8.64014" z="-0.400391" y="-0.0239868" a="0"/>
+	</group>
+
+Lopatino West-
+	<!--<pos x="1984.98" z="9671.8" a="0" y="234.512" group="GROUP_NAME"/>-->
+	<group name="GROUP_NAME_HERE">
+		<child type="Camper" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="257.393"/>
+		<child type="Land_Wreck_S1023_Blue" deloot="0" lootmax="3" lootmin="1" x="-5.40002" z="-2.00977" y="-0.200989" a="36.7183"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="-1.09998" z="-1.84961" y="-0.962997" a="226.89"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="-2.04004" z="-2.20996" y="-0.903" a="272.76"/>
+		<child type="StaticObj_Garbage_Pile4" deloot="0" lootmax="3" lootmin="1" x="1.31006" z="5.95996" y="-1.66299" a="226.081"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="2.43005" z="-2.29004" y="-1.62199" a="0"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-3.89001" z="0.169922" y="-0.955994" a="0"/>
+	</group>
