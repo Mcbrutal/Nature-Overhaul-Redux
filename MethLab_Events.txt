@@ -1,0 +1,14 @@
+Methlab Event
+
+Svergino-
+	<!--<pos x="9357.13" z="14011.4" a="0" y="124.611" group="GROUP_NAME"/>-->
+	<group name="GROUP_NAME_HERE">
+		<child type="Camper" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="117.718"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="2.10059" z="1.89941" y="-1.126" a="156.6"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="1.48047" z="2.39941" y="-1.12" a="76.1405"/>
+		<child type="StaticObj_Garbage_Pile4" deloot="0" lootmax="3" lootmin="1" x="-2.53027" z="-3.80078" y="-1.494" a="22.9516"/>
+		<child type="Land_Wreck_S1023_Blue" deloot="0" lootmax="3" lootmin="1" x="5.7002" z="-3.2002" y="-0.942001" a="283.324"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="0.830078" z="3" y="-1.608" a="0"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="2.81055" z="-2.60059" y="-1.152" a="0"/>
+	</group>
+
