@@ -35,3 +35,16 @@ North Kalinovka-
 		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-3.71973" z="8.2998" y="0.722992" a="0"/>
 		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="1.72998" z="5.09961" y="0.725998" a="0"/>
 	</group>
+
+West Polesolvo- 
+	<!--<pos x="5149.29" z="13878.5" a="0" y="221.8" group="GROUP_NAME"/>-->
+	<group name="GROUP_NAME_HERE">
+		<child type="StaticObj_Garbage_Pile4" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="202.768"/>
+		<child type="Camper" deloot="0" lootmax="3" lootmin="1" x="-2.62988" z="-6.2002" y="0.746994" a="247.954"/>
+		<child type="Land_Wreck_S1023_Blue" deloot="0" lootmax="3" lootmin="1" x="-8.45996" z="-8.59961" y="-0.238998" a="47.2509"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="-4.0498" z="-9.2002" y="-0.552002" a="292.771"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="-3.20996" z="-8.90039" y="-0.498001" a="202.319"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-0.109863" z="-8.40039" y="-0.854996" a="0"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-6.39014" z="-6.7002" y="-0.458008" a="0"/>
+	</group>
+
