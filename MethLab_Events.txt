@@ -48,3 +48,15 @@ West Polesolvo-
 		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-6.39014" z="-6.7002" y="-0.458008" a="0"/>
 	</group>
 
+East Novoya Patrovka-
+	<!--<pos x="4200.84" z="12879.3" a="0" y="186.028" group="GROUP_NAME"/>-->
+	<group name="GROUP_NAME_HERE">
+		<child type="StaticObj_Garbage_Pile4" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="64.5329"/>
+		<child type="Camper" deloot="0" lootmax="3" lootmin="1" x="4.93018" z="3.40039" y="1.216" a="111.241"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="8.29004" z="5" y="-0.0440063" a="143.101"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="7.41016" z="5.40039" y="-0.106003" a="87.998"/>
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="10.5903" z="0.700195" y="0.563004" a="272.532"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="4.47021" z="6.90039" y="-0.772995" a="0"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="8.06006" z="1.10059" y="0.242996" a="0"/>
+	</group>
+
