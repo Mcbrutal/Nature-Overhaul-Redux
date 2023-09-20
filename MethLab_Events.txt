@@ -120,4 +120,26 @@ Bolshoy North
 		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-6.104" z="6.38965" y="0.17099" a="0"/>
 	</group>
 
+West Zvir
+	<!--<pos x="588.579" z="5376.05" a="0" y="149.438" group="GROUP_NAME"/>-->
+	<group name="GROUP_NAME_HERE">
+		<child type="Camper" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="34.8292"/>
+		<child type="Land_Wreck_S1023_Blue" deloot="0" lootmax="3" lootmin="1" x="2.927" z="5.27002" y="-0.322006" a="180.36"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="-0.250977" z="3.63037" y="-0.791" a="53.7276"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="-0.975952" z="2.94043" y="-0.807999" a="18.4494"/>
+		<child type="StaticObj_Garbage_Pile4" deloot="0" lootmax="3" lootmin="1" x="1.04401" z="-6.80957" y="-1.881" a="0"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-3.42798" z="0.380371" y="-1.463" a="0"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="2.94" z="2.52002" y="-0.886002" a="0"/>
+	</group>
 
+North West Polonina
+	<!--<pos x="788.181" z="4364.43" a="0" y="115.956" group="GROUP_NAME"/>-->
+	<group name="GROUP_NAME_HERE">
+		<child type="Camper" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="332.73"/>
+		<child type="Land_Wreck_hb01_aban1_blue" deloot="0" lootmax="3" lootmin="1" x="-3.02905" z="5.31982" y="-0.486" a="120.692"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="-3.50201" z="1.5498" y="-1.115" a="0"/>
+		<child type="Yellow_Barrel" deloot="0" lootmax="3" lootmin="1" x="-3.16602" z="0.839844" y="-1.08801" a="281.431"/>
+		<child type="StaticObj_Garbage_Pile4" deloot="0" lootmax="3" lootmin="1" x="5.21997" z="0.439941" y="-1.182" a="264.407"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-2.89905" z="-2.86035" y="-1.781" a="0"/>
+		<child type="AmbientLight_ChemGreen" deloot="0" lootmax="3" lootmin="1" x="-0.815002" z="3.7998" y="-0.936005" a="0"/>
+	</group>
