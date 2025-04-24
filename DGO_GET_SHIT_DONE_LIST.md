@@ -10,14 +10,14 @@ DGO GET SHIT DONE LIST
 
 -post 1.28 update-
 
-7. add new weapons to ballistix/fine tune tracer ignition time between high and low velocity cartridges
-8. study new vehicle code/-assess-
-9. custom tracers/more ammo types finally?
+1. add new weapons to ballistix/fine tune tracer ignition time between high and low velocity cartridges
+2. study new vehicle code/-assess-
+3. custom tracers/more ammo types finally?
 
 -eventually/possibly-
 
-10. custom cooking mod OR expanded recipes for whatever current in-use cooking mod
-11. "magic items"
-12. investigate the possibility of making a slot in the weapons workbench for the weapon parts kit with reduced usage of material when used for crafting in slot
-13. more custom craftable weapons and recipes for weapon parts kit
-14. "super saiyan" admin flight mod w/ ki energy effect
+1. custom cooking mod OR expanded recipes for whatever current in-use cooking mod
+2. "magic items"
+3. investigate the possibility of making a slot in the weapons workbench for the weapon parts kit with reduced usage of material when used for crafting in slot
+4. more custom craftable weapons and recipes for weapon parts kit
+5. "super saiyan" admin flight mod w/ ki energy effect
