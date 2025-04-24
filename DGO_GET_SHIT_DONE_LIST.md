@@ -7,6 +7,7 @@ DGO GET SHIT DONE LIST
 4. cyborg stuff
 5. more koth loot sets (semi urgent)
 6. buff staff weapon durability (not that urgent)
+7. exo suits
 
 -post 1.28 update-
 
