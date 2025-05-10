@@ -8,6 +8,7 @@ DGO GET SHIT DONE LIST
 5. more koth loot sets (semi urgent)
 6. buff staff weapon durability (not that urgent)
 7. exo suits
+8. take the builder object for the heli pad and make it a placeable object
 
 -post 1.28 update-
 
