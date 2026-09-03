@@ -6,11 +6,17 @@ Resurrected by McBrutal.
 Copy the custom folder into mpmissions/dayzOffline.chernarusplus/.
 Merge the array from objectSpawnersArr.json into WorldsData in cfgGameplay.json.
 Ensure enableCfgGameplayFile = 1 in serverDZ.cfg.
+
 These placements use original NatureOverhaul coordinates and current Object Spawner fields: name, pos, ypr, scale.
+
 Keep BuilderItems loaded on both server and clients because the placement set uses bldr_ classnames.
+
 Do not also load the original NatureOverhaul script mod or every object will be duplicated.
+
 The inactive WN9, bridgebase, Electro and commented Nizhnoye sections were not exported.
+
 The two BuilderItems models reported unsafe after DayZ 1.29 (pond_small_14.p3d and wooden_log.p3d) are not present.
+
 Enable location files gradually and watch the RPT and server FPS; 8,000+ static objects can be expensive.
 
 Files: 25
