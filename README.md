@@ -24,26 +24,47 @@ Objects: 8297
 Exact duplicates removed: 13
 
 Tulga.json: 97
+
 Msta.json: 124
+
 Balota_circel.json: 367
+
 Balota_city.json: 154
+
 Komarovo.json: 229
+
 SmallCityNorthToBalota.json: 206
+
 Novy_Sober.json: 475
+
 Polana.json: 365
+
 Gorka.json: 428
+
 Vavilovo.json: 451
+
 Khelm.json: 371
+
 Dolina.json: 452
+
 DolinaSmallStreet.json: 784
+
 Mogilevka.json: 432
+
 PustaandCircelChernos2.json: 512
+
 NadezhdinoandSmallCityRoad.json: 380
+
 Pulkovo.json: 338
+
 Pogorevka.json: 300
+
 Rogovo.json: 280
+
 Pavlovo.json: 504
+
 Bor.json: 298
+
 TrainStationChernogorsk.json: 102
 WindPowers.json: 31
 Solnichniy.json: 310
