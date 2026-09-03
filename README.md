@@ -1,6 +1,6 @@
 NatureOverhaul Object Spawner Conversion for DayZ 1.29
 
-Discord: DAyz Game Over: https://discord.gg/ap6kFWgKjC
+Discord: Dayz Game Over: https://discord.gg/ap6kFWgKjC
 
 Original placement work: Kaffeina / NatureOverhaul.
 Resurrected by McBrutal.
