@@ -66,6 +66,9 @@ Pavlovo.json: 504
 Bor.json: 298
 
 TrainStationChernogorsk.json: 102
+
 WindPowers.json: 31
+
 Solnichniy.json: 310
+
 Kamyshovo.json: 307
