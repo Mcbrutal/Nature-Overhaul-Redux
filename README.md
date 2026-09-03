@@ -3,6 +3,8 @@ NatureOverhaul Object Spawner Conversion for DayZ 1.29
 Original placement work: Kaffeina / NatureOverhaul.
 Resurrected by McBrutal.
 
+(I am looking for volunteers to correct edits to these files and also to help finish Chernarus)
+
 Copy the custom folder into mpmissions/dayzOffline.chernarusplus/.
 Merge the array from objectSpawnersArr.json into WorldsData in cfgGameplay.json.
 Ensure enableCfgGameplayFile = 1 in serverDZ.cfg.
