@@ -1,0 +1,29 @@
+{
+  "objectSpawnersArr": [
+    "custom/Tulga.json",
+    "custom/Msta.json",
+    "custom/Balota_circel.json",
+    "custom/Balota_city.json",
+    "custom/Komarovo.json",
+    "custom/SmallCityNorthToBalota.json",
+    "custom/Novy_Sober.json",
+    "custom/Polana.json",
+    "custom/Gorka.json",
+    "custom/Vavilovo.json",
+    "custom/Khelm.json",
+    "custom/Dolina.json",
+    "custom/DolinaSmallStreet.json",
+    "custom/Mogilevka.json",
+    "custom/PustaandCircelChernos2.json",
+    "custom/NadezhdinoandSmallCityRoad.json",
+    "custom/Pulkovo.json",
+    "custom/Pogorevka.json",
+    "custom/Rogovo.json",
+    "custom/Pavlovo.json",
+    "custom/Bor.json",
+    "custom/TrainStationChernogorsk.json",
+    "custom/WindPowers.json",
+    "custom/Solnichniy.json",
+    "custom/Kamyshovo.json"
+  ]
+}
