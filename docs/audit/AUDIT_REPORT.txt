@@ -1,0 +1,86 @@
+Nature Overhaul Redux 1.29 - Full BuilderItems Audit
+
+JSON files audited: 25
+Objects preserved: 8297
+Distinct original classes: 222
+Distinct BuilderItems classes used: 201
+BuilderItems classes missing from supplied configs: 0
+Original active SpawnObject calls: 8310
+Exact duplicate original occurrences intentionally removed: 13
+Missing distinct original placements: 0
+Commented-out original SpawnObject calls correctly excluded: 408
+Interactive class reference: official DayZ 1.29.163709 script definitions
+Static class reference: current DayZ config dump snapshot dated 2026-05-26
+Total placements corrected: 8100
+Distinct replacement mappings: 191
+Standing tree/bush placements changed to interactive classes: 1416
+Grass, ivy and cut-tree placements changed to direct native P3D paths: 6450
+Props/structures changed to exact-model native static classes: 234
+BuilderItems placements retained after review: 26 across 10 classes
+
+Method and reason:
+This was a class-by-class audit of every object, not a vegetation-only pass. Every one
+of the 201 used BuilderItems classes was resolved in the supplied converted configs and
+compared by model path and base behavior with current DayZ definitions.
+
+Standing trees and bushes now use TreeHard, TreeSoft, BushHard or BushSoft classes,
+which restores normal chopping and harvesting. Decorative grass, ivy and the already-cut
+tree use supported direct P3D paths. Static props with an exact current DayZ class using
+the identical model and HouseNoDestruct base were changed to that native class.
+Positions, rotations, scales, array ordering and every other field were preserved exactly.
+
+Safety decisions:
+bldr_PortableGasLamp was retained because the same-model vanilla PortableGasLamp is an
+Inventory_Base item; substituting it would change scenery into a pickup item. Nine other
+BuilderItems classes were retained because they are standalone proxy/legacy models with
+no exact native standalone class. Approximate visual substitutions were not made.
+
+Book and inventory-item check:
+No book, paper, magazine or newspaper SpawnObject call exists in the original scripts
+or in the 8,297 converted placements. The original source confirms no book was omitted.
+The sole inventory-model match is bldr_PortableGasLamp, which was intentionally kept as
+a static wrapper. Native inventory classes were not introduced anywhere in this revision.
+
+Special vegetation handling:
+24 bldr_plnt_t_FagusSylvatica_3fb_test objects use TreeHard_t_FagusSylvatica_3fb because
+the test model has no interactive class. Two already-cut Fagus tree models use their
+direct P3D path and intentionally remain static.
+
+Retained BuilderItems classes:
+bldr_Garbage_Pile8: 1
+bldr_HouseB_Tenement_DayZ_airplane: 1
+bldr_PortableGasLamp: 1
+bldr_Rubble_DirtPile_Small: 1
+bldr_Slum_Roof4: 1
+bldr_T34: 10
+bldr_tent_boxwooden: 4
+bldr_tent_chair: 4
+bldr_tent_gunrack: 2
+bldr_wall_gate_kolchoz: 1
+
+Per-file replacements:
+Balota_circel.json: 344
+Balota_city.json: 140
+Bor.json: 293
+Dolina.json: 450
+DolinaSmallStreet.json: 779
+Gorka.json: 424
+Kamyshovo.json: 296
+Khelm.json: 361
+Komarovo.json: 229
+Mogilevka.json: 425
+Msta.json: 124
+NadezhdinoandSmallCityRoad.json: 378
+Novy_Sober.json: 451
+Pavlovo.json: 495
+Pogorevka.json: 297
+Polana.json: 360
+Pulkovo.json: 336
+PustaandCircelChernos2.json: 505
+Rogovo.json: 280
+SmallCityNorthToBalota.json: 195
+Solnichniy.json: 307
+TrainStationChernogorsk.json: 88
+Tulga.json: 95
+Vavilovo.json: 448
+WindPowers.json: 0

@@ -1,0 +1,192 @@
+original_builderitems_class,replacement_name,replacement_type,placements
+bldr_Dead_MassGrave_15m,StaticObj_Dead_MassGrave_15m,native static class; exact model match,1
+bldr_Dead_pile1,StaticObj_Dead_pile1,native static class; exact model match,2
+bldr_Dead_pile2,StaticObj_Dead_pile2,native static class; exact model match,3
+bldr_Dead_pile3,StaticObj_Dead_pile3,native static class; exact model match,5
+bldr_Dead_pile4,StaticObj_Dead_pile4,native static class; exact model match,7
+bldr_Garbage_Bin,StaticObj_Garbage_Bin,native static class; exact model match,1
+bldr_Garbage_Container,StaticObj_Garbage_Container,native static class; exact model match,1
+bldr_Garbage_GroundSq_3m,StaticObj_Garbage_GroundSq_3m,native static class; exact model match,1
+bldr_Garbage_Ground_6m,StaticObj_Garbage_Ground_6m,native static class; exact model match,1
+bldr_Hotel_Damaged_Airplane_Back,StaticObj_Hotel_Damaged_Airplane_Back,native static class; exact model match,1
+bldr_Hotel_Damaged_Airplane_Wing,StaticObj_Hotel_Damaged_Airplane_Wing,native static class; exact model match,1
+bldr_Lamp_City1,StaticObj_Lamp_City1,native static class; exact model match,2
+bldr_Misc_AdvertColumn,StaticObj_Misc_AdvertColumn,native static class; exact model match,1
+bldr_Misc_BoxWooden,StaticObj_Misc_BoxWooden,native static class; exact model match,7
+bldr_Misc_Chair_Camp2,StaticObj_Misc_Chair_Camp2,native static class; exact model match,2
+bldr_Misc_RoadBarrier,StaticObj_Misc_RoadBarrier,native static class; exact model match,1
+bldr_Misc_Tree_Pavement1,StaticObj_Misc_Tree_Pavement1,native static class; exact model match,2
+bldr_Rubble_DirtPile_Large,StaticObj_Rubble_DirtPile_Large,native static class; exact model match,6
+bldr_Rubble_Glass,StaticObj_Rubble_Glass,native static class; exact model match,3
+bldr_Statue_General,StaticObj_Statue_General,native static class; exact model match,1
+bldr_box_c,StaticObj_Furniture_box_c,native static class; exact model match,6
+bldr_box_c_multi,StaticObj_Furniture_box_c_multi,native static class; exact model match,3
+bldr_desk_globe,StaticObj_Furniture_Desk_Globe,native static class; exact model match,1
+bldr_flag_chernarus_pole,StaticObj_Furniture_flag_chernarus_pole,native static class; exact model match,1
+bldr_misc_antenna,StaticObj_Misc_Antenna,native static class; exact model match,3
+bldr_misc_bagfence_round,StaticObj_Misc_BagFence_Round,native static class; exact model match,3
+bldr_misc_barbedwire,StaticObj_Misc_Barbedwire,native static class; exact model match,23
+bldr_misc_boardspack1,StaticObj_Misc_BoardsPack1,native static class; exact model match,2
+bldr_misc_boardspack2,StaticObj_Misc_BoardsPack2,native static class; exact model match,1
+bldr_misc_boardspack3,StaticObj_Misc_BoardsPack3,native static class; exact model match,3
+bldr_misc_coil,StaticObj_Misc_Coil,native static class; exact model match,1
+bldr_misc_concreteblock1,StaticObj_Misc_ConcreteBlock1,native static class; exact model match,2
+bldr_misc_concreteblock1_end,StaticObj_Misc_ConcreteBlock1_End,native static class; exact model match,1
+bldr_misc_concreteblock2,StaticObj_Misc_ConcreteBlock2,native static class; exact model match,2
+bldr_misc_concreteblock2_damaged,StaticObj_Misc_ConcreteBlock2_Damaged,native static class; exact model match,5
+bldr_misc_flagpole,StaticObj_Misc_Flagpole,native static class; exact model match,2
+bldr_misc_haybale,StaticObj_Misc_HayBale,native static class; exact model match,6
+bldr_misc_hedgehog_concrete,StaticObj_Misc_Hedgehog_Concrete,native static class; exact model match,9
+bldr_misc_pallet,StaticObj_Misc_Pallet,native static class; exact model match,1
+bldr_misc_pallets3,StaticObj_Misc_Pallets3,native static class; exact model match,3
+bldr_misc_pipes,StaticObj_Misc_Pipes,native static class; exact model match,1
+bldr_misc_razorwire,StaticObj_Misc_Razorwire,native static class; exact model match,1
+bldr_misc_scaffolding,Land_Misc_Scaffolding,native static class; exact model match,1
+bldr_misc_timbers2,StaticObj_Misc_Timbers2,native static class; exact model match,1
+bldr_misc_timbers4,StaticObj_Misc_Timbers4,native static class; exact model match,1
+bldr_misc_timbers_log1,StaticObj_Misc_Timbers_Log1,native static class; exact model match,2
+bldr_misc_timbers_log2,StaticObj_Misc_Timbers_Log2,native static class; exact model match,1
+bldr_misc_timbers_log3,StaticObj_Misc_Timbers_Log3,native static class; exact model match,1
+bldr_misc_tirepile,StaticObj_Misc_TirePile,native static class; exact model match,1
+bldr_office_chair,StaticObj_Furniture_office_chair,native static class; exact model match,1
+bldr_office_table_a,StaticObj_Furniture_office_table_a,native static class; exact model match,1
+bldr_plnt_b_FagusSylvatica_1f,BushHard_b_FagusSylvatica_1f,interactive vegetation class,1
+bldr_plnt_b_betulaHumilis_1s,BushSoft_b_betulaHumilis_1s,interactive vegetation class,20
+bldr_plnt_b_corylusAvellana_1f,BushSoft_b_corylusAvellana_1f,interactive vegetation class,12
+bldr_plnt_b_corylusAvellana_2s,BushHard_b_corylusAvellana_2s,interactive vegetation class,19
+bldr_plnt_b_crataegusLaevigata_1s,BushSoft_b_crataegusLaevigata_1s,interactive vegetation class,13
+bldr_plnt_b_crataegusLaevigata_2s,BushHard_b_crataegusLaevigata_2s,interactive vegetation class,9
+bldr_plnt_b_prunusSpinosa_1s,BushHard_b_prunusSpinosa_1s,interactive vegetation class,8
+bldr_plnt_b_prunusSpinosa_2s,BushHard_b_prunusSpinosa_2s,interactive vegetation class,18
+bldr_plnt_b_rosaCanina_1s,BushSoft_b_rosaCanina_1s,interactive vegetation class,11
+bldr_plnt_b_rosaCanina_2s,BushSoft_b_rosaCanina_2s,interactive vegetation class,7
+bldr_plnt_b_sambucusNigra_1s,BushSoft_b_sambucusNigra_1s,interactive vegetation class,8
+bldr_plnt_b_sambucusNigra_2s,BushHard_b_sambucusNigra_2s,interactive vegetation class,11
+bldr_plnt_c_Anthoxanthum,DZ/plants/clutter/c_anthoxanthum.p3d,direct static plant model path,8
+bldr_plnt_c_Anthoxanthum_bended,DZ/plants/clutter/c_anthoxanthum_bended.p3d,direct static plant model path,2
+bldr_plnt_c_Broadleaf_sprouts,DZ/plants/clutter/c_broadleaf_sprouts.p3d,direct static plant model path,1
+bldr_plnt_c_Carduus,DZ/plants/clutter/c_carduus.p3d,direct static plant model path,1
+bldr_plnt_c_ConcreteGrass_bunch,DZ/plants/clutter/c_concretegrass_bunch.p3d,direct static plant model path,2
+bldr_plnt_c_Elytrigia,DZ/plants/clutter/c_elytrigia.p3d,direct static plant model path,1
+bldr_plnt_c_ElytrigiaDirt,DZ/plants/clutter/c_elytrigiadirt.p3d,direct static plant model path,380
+bldr_plnt_c_ElytrigiaForest,DZ/plants/clutter/c_elytrigiaforest.p3d,direct static plant model path,2
+bldr_plnt_c_ElytrigiaTall,DZ/plants/clutter/c_elytrigiatall.p3d,direct static plant model path,615
+bldr_plnt_c_Elytrigia_green,DZ/plants/clutter/c_elytrigia_green.p3d,direct static plant model path,4347
+bldr_plnt_c_GrassDryCarduus_f_summer,DZ/plants_bliss/clutter/c_GrassDryCarduus_f_summer.p3d,direct static plant model path,15
+bldr_plnt_c_GrassDryHypericum_summer,DZ/plants_bliss/clutter/c_GrassDryHypericum_summer.p3d,direct static plant model path,1
+bldr_plnt_c_GrassDry_summer,DZ/plants_bliss/clutter/c_GrassDry_summer.p3d,direct static plant model path,1058
+bldr_plnt_ivy_A,DZ/plants_bliss/building/ivy_A.p3d,direct static plant model path,3
+bldr_plnt_ivy_B,DZ/plants_bliss/building/ivy_B.p3d,direct static plant model path,3
+bldr_plnt_ivy_C,DZ/plants_bliss/building/ivy_C.p3d,direct static plant model path,1
+bldr_plnt_ivy_D,DZ/plants_bliss/building/ivy_D.p3d,direct static plant model path,2
+bldr_plnt_ivy_F,DZ/plants_bliss/building/ivy_F.p3d,direct static plant model path,1
+bldr_plnt_ivy_G,DZ/plants_bliss/building/ivy_G.p3d,direct static plant model path,2
+bldr_plnt_ivy_K,DZ/plants_bliss/building/ivy_K.p3d,direct static plant model path,1
+bldr_plnt_ivy_M,DZ/plants_bliss/building/ivy_M.p3d,direct static plant model path,1
+bldr_plnt_ivy_T,DZ/plants_bliss/building/ivy_T.p3d,direct static plant model path,1
+bldr_plnt_t_BetulaPendula_1fb,TreeSoft_t_BetulaPendula_1fb,interactive vegetation class,2
+bldr_plnt_t_BetulaPendula_1s,TreeSoft_t_BetulaPendula_1s,interactive vegetation class,1
+bldr_plnt_t_BetulaPendula_2f,TreeSoft_t_BetulaPendula_2f,interactive vegetation class,1
+bldr_plnt_t_BetulaPendula_2fb,TreeSoft_t_BetulaPendula_2fb,interactive vegetation class,3
+bldr_plnt_t_BetulaPendula_2s,TreeHard_t_BetulaPendula_2s,interactive vegetation class,2
+bldr_plnt_t_BetulaPendula_2w,TreeSoft_t_BetulaPendula_2w,interactive vegetation class,6
+bldr_plnt_t_BetulaPendula_3f,TreeHard_t_BetulaPendula_3f,interactive vegetation class,1
+bldr_plnt_t_BetulaPendula_3fb,TreeHard_t_BetulaPendula_3fb,interactive vegetation class,3
+bldr_plnt_t_BetulaPendula_3fc,TreeHard_t_BetulaPendula_3fc,interactive vegetation class,9
+bldr_plnt_t_BetulaPendula_3s,TreeHard_t_BetulaPendula_3s,interactive vegetation class,7
+bldr_plnt_t_FagusSylvatica_1f,TreeSoft_t_FagusSylvatica_1f,interactive vegetation class,2
+bldr_plnt_t_FagusSylvatica_1fc,TreeSoft_t_FagusSylvatica_1fc,interactive vegetation class,2
+bldr_plnt_t_FagusSylvatica_1fd,TreeSoft_t_FagusSylvatica_1fd,interactive vegetation class,5
+bldr_plnt_t_FagusSylvatica_1fe,TreeHard_t_FagusSylvatica_1fe,interactive vegetation class,4
+bldr_plnt_t_FagusSylvatica_1s,TreeSoft_t_FagusSylvatica_1s,interactive vegetation class,7
+bldr_plnt_t_FagusSylvatica_2d,TreeHard_t_FagusSylvatica_2d,interactive vegetation class,2
+bldr_plnt_t_FagusSylvatica_2f,TreeHard_t_FagusSylvatica_2f,interactive vegetation class,1
+bldr_plnt_t_FagusSylvatica_2f_cut,DZ/plants/tree/cutted_cut/t_fagussylvatica_2f_cut.p3d,direct static plant model path,2
+bldr_plnt_t_FagusSylvatica_2fb,TreeHard_t_FagusSylvatica_2fb,interactive vegetation class,1
+bldr_plnt_t_FagusSylvatica_2fc,TreeHard_t_FagusSylvatica_2fc,interactive vegetation class,3
+bldr_plnt_t_FagusSylvatica_2s,TreeHard_t_FagusSylvatica_2s,interactive vegetation class,23
+bldr_plnt_t_FagusSylvatica_2sb,TreeSoft_t_FagusSylvatica_2sb,interactive vegetation class,12
+bldr_plnt_t_FagusSylvatica_2sb_Trail_G,TreeSoft_t_FagusSylvatica_2sb_Trail_G,interactive vegetation class,1
+bldr_plnt_t_FagusSylvatica_2sb_Trail_G_summer,TreeSoft_t_FagusSylvatica_2sb_Trail_G_summer,interactive vegetation class,1
+bldr_plnt_t_FagusSylvatica_2sb_Trail_R,TreeSoft_t_FagusSylvatica_2sb_Trail_R,interactive vegetation class,1
+bldr_plnt_t_FagusSylvatica_2sb_Trail_Y,TreeSoft_t_FagusSylvatica_2sb_Trail_Y,interactive vegetation class,5
+bldr_plnt_t_FagusSylvatica_3f,TreeHard_t_FagusSylvatica_3f,interactive vegetation class,1
+bldr_plnt_t_FagusSylvatica_3f_summer,TreeHard_t_FagusSylvatica_3f_summer,interactive vegetation class,1
+bldr_plnt_t_FagusSylvatica_3fb,TreeHard_t_FagusSylvatica_3fb,interactive vegetation class,1
+bldr_plnt_t_FagusSylvatica_3fb_test,TreeHard_t_FagusSylvatica_3fb,interactive vegetation class; test-model fallback,24
+bldr_plnt_t_FagusSylvatica_3s,TreeHard_t_FagusSylvatica_3s,interactive vegetation class,105
+bldr_plnt_t_FagusSylvatica_3s_summer,TreeHard_t_FagusSylvatica_3s_summer,interactive vegetation class,6
+bldr_plnt_t_FraxinusExcelsior_2f,TreeHard_t_FraxinusExcelsior_2f,interactive vegetation class,56
+bldr_plnt_t_FraxinusExcelsior_2s,TreeHard_t_FraxinusExcelsior_2s,interactive vegetation class,55
+bldr_plnt_t_FraxinusExcelsior_2w,TreeSoft_t_FraxinusExcelsior_2w,interactive vegetation class,7
+bldr_plnt_t_FraxinusExcelsior_3s,TreeHard_t_FraxinusExcelsior_3s,interactive vegetation class,110
+bldr_plnt_t_PiceaAbies_1f,TreeSoft_t_PiceaAbies_1f,interactive vegetation class,8
+bldr_plnt_t_PiceaAbies_1s,BushHard_t_PiceaAbies_1s,interactive vegetation class,1
+bldr_plnt_t_PiceaAbies_1sb,BushHard_t_PiceaAbies_1sb,interactive vegetation class,1
+bldr_plnt_t_PiceaAbies_2f,TreeHard_t_PiceaAbies_2f,interactive vegetation class,13
+bldr_plnt_t_PiceaAbies_2fb,TreeHard_t_PiceaAbies_2fb,interactive vegetation class,1
+bldr_plnt_t_PiceaAbies_2s,TreeHard_t_PiceaAbies_2s,interactive vegetation class,49
+bldr_plnt_t_PiceaAbies_2sb,TreeSoft_t_PiceaAbies_2sb,interactive vegetation class,6
+bldr_plnt_t_PiceaAbies_3f,TreeHard_t_PiceaAbies_3f,interactive vegetation class,3
+bldr_plnt_t_PiceaAbies_3f_Trail_G,TreeHard_t_PiceaAbies_3f_Trail_G,interactive vegetation class,8
+bldr_plnt_t_PiceaAbies_3f_Trail_Y,TreeHard_t_PiceaAbies_3f_Trail_Y,interactive vegetation class,1
+bldr_plnt_t_PiceaAbies_3s,TreeHard_t_PiceaAbies_3s,interactive vegetation class,3
+bldr_plnt_t_carpinus_2s,TreeHard_t_carpinus_2s,interactive vegetation class,10
+bldr_plnt_t_juglansRegia_2s,TreeHard_t_juglansRegia_2s,interactive vegetation class,81
+bldr_plnt_t_juglansRegia_3s,TreeHard_t_juglansRegia_3s,interactive vegetation class,62
+bldr_plnt_t_malusDomestica_2s,TreeSoft_t_malusDomestica_2s,interactive vegetation class,9
+bldr_plnt_t_malusDomestica_3s,TreeSoft_t_malusDomestica_3s,interactive vegetation class,25
+bldr_plnt_t_naked_1s,TreeHard_t_naked_1s,interactive vegetation class,2
+bldr_plnt_t_naked_2s,TreeHard_t_naked_2s,interactive vegetation class,1
+bldr_plnt_t_populusAlba_1f,TreeSoft_t_populusAlba_1f,interactive vegetation class,8
+bldr_plnt_t_populusAlba_2s,TreeHard_t_populusAlba_2s,interactive vegetation class,38
+bldr_plnt_t_populusAlba_3s,TreeHard_t_populusAlba_3s,interactive vegetation class,93
+bldr_plnt_t_populusNigra_3s,TreeHard_t_populusNigra_3s,interactive vegetation class,3
+bldr_plnt_t_prunusDomestica_2s,TreeHard_t_prunusDomestica_2s,interactive vegetation class,18
+bldr_plnt_t_pyrusCommunis_2s,TreeSoft_t_pyrusCommunis_2s,interactive vegetation class,14
+bldr_plnt_t_pyrusCommunis_3s,TreeHard_t_pyrusCommunis_3s,interactive vegetation class,31
+bldr_plnt_t_pyrusCommunis_3sb,TreeHard_t_pyrusCommunis_3sb,interactive vegetation class,13
+bldr_plnt_t_quercusRobur_1s,TreeSoft_t_quercusRobur_1s,interactive vegetation class,3
+bldr_plnt_t_quercusRobur_2fb,TreeSoft_t_quercusRobur_2fb,interactive vegetation class,3
+bldr_plnt_t_quercusRobur_2s,TreeHard_t_quercusRobur_2s,interactive vegetation class,9
+bldr_plnt_t_quercusRobur_2sb,TreeHard_t_quercusRobur_2sb,interactive vegetation class,5
+bldr_plnt_t_quercusRobur_2sc,TreeHard_t_quercusRobur_2sc,interactive vegetation class,10
+bldr_plnt_t_quercusRobur_3f,TreeHard_t_quercusRobur_3f,interactive vegetation class,4
+bldr_plnt_t_quercusRobur_3fb,TreeHard_t_quercusRobur_3fb,interactive vegetation class,7
+bldr_plnt_t_quercusRobur_3s,TreeHard_t_quercusRobur_3s,interactive vegetation class,10
+bldr_plnt_t_quercusRobur_3sb,TreeHard_t_quercusRobur_3sb,interactive vegetation class,44
+bldr_plnt_t_robiniaPseudoacacia_1f,TreeSoft_t_robiniaPseudoacacia_1f,interactive vegetation class,10
+bldr_plnt_t_robiniaPseudoacacia_2f,TreeHard_t_robiniaPseudoacacia_2f,interactive vegetation class,34
+bldr_plnt_t_robiniaPseudoacacia_2s,TreeHard_t_robiniaPseudoacacia_2s,interactive vegetation class,98
+bldr_plnt_t_robiniaPseudoacacia_3f,TreeHard_t_robiniaPseudoacacia_3f,interactive vegetation class,47
+bldr_plnt_t_salixAlba_2sb,TreeHard_t_salixAlba_2sb,interactive vegetation class,12
+bldr_plnt_t_salixAlba_2sb_swamp,TreeHard_t_salixAlba_2sb_swamp,interactive vegetation class,9
+bldr_plnt_t_town_1s,TreeSoft_t_town_1s,interactive vegetation class,1
+bldr_power_pole_wood1_trail_y,StaticObj_Power_Pole_Wood1_Trail_Y,native static class; exact model match,1
+bldr_rail_polett1,StaticObj_Rail_PoleTT1,native static class; exact model match,2
+bldr_roadblock_bags_curve,StaticObj_Roadblock_Bags_Curve,native static class; exact model match,7
+bldr_roadblock_bags_endl,StaticObj_Roadblock_Bags_EndL,native static class; exact model match,1
+bldr_roadblock_bags_endr,StaticObj_Roadblock_Bags_EndR,native static class; exact model match,1
+bldr_roadblock_bags_long,StaticObj_Roadblock_Bags_Long,native static class; exact model match,2
+bldr_roadblock_cncblock,StaticObj_Roadblock_CncBlock,native static class; exact model match,5
+bldr_roadblock_cncblocks_long,StaticObj_Roadblock_CncBlocks_Long,native static class; exact model match,11
+bldr_roadblock_cncblocks_short,StaticObj_Roadblock_CncBlocks_short,native static class; exact model match,4
+bldr_roadblock_pillbox,StaticObj_Roadblock_Pillbox,native static class; exact model match,5
+bldr_student_chair,StaticObj_Furniture_student_chair,native static class; exact model match,1
+bldr_wall_forfieldfen_end,StaticObj_Wall_ForFieldFen_end,native static class; exact model match,3
+bldr_wall_garbcont,StaticObj_Wall_GarbCont,native static class; exact model match,5
+bldr_wall_indfnc_3,StaticObj_Wall_IndFnc_3,native static class; exact model match,1
+bldr_wall_indfnc_9,StaticObj_Wall_IndFnc_9,native static class; exact model match,2
+bldr_wall_indfnc_pole,StaticObj_Wall_IndFnc_Pole,native static class; exact model match,2
+bldr_wreck_bmp2,StaticObj_Wreck_BMP2,native static class; exact model match,3
+bldr_wreck_brdm,StaticObj_Wreck_BRDM,native static class; exact model match,3
+bldr_wreck_bulldozer,StaticObj_Wreck_Bulldozer,native static class; exact model match,3
+bldr_wreck_decal_small1,StaticObj_Wreck_Decal_Small1,native static class; exact model match,1
+bldr_wreck_digger,StaticObj_Wreck_Digger,native static class; exact model match,1
+bldr_wreck_harverster,Land_Wreck_Harverster,native static class; exact model match,1
+bldr_wreck_hmmwv,StaticObj_Wreck_HMMWV,native static class; exact model match,17
+bldr_wreck_t72_chassis,StaticObj_Wreck_T72_Chassis,native static class; exact model match,1
+bldr_wreck_t72_turret,StaticObj_Wreck_T72_Turret,native static class; exact model match,1
+bldr_wreck_trailer_cistern,StaticObj_Wreck_Trailer_Cistern,native static class; exact model match,1
+bldr_wreck_trailer_flat,StaticObj_Wreck_Trailer_Flat,native static class; exact model match,1
+bldr_wreck_ural,StaticObj_Wreck_Ural,native static class; exact model match,9

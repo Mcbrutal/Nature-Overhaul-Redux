@@ -1,7 +1,7 @@
 {
   "Objects": [
     {
-      "name": "bldr_plnt_t_robiniaPseudoacacia_3f",
+      "name": "TreeHard_t_robiniaPseudoacacia_3f",
       "pos": [
         3332.063477,
         195.614319,
@@ -15,7 +15,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+      "name": "TreeHard_t_robiniaPseudoacacia_2s",
       "pos": [
         3308.381592,
         197.583023,
@@ -29,7 +29,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+      "name": "TreeHard_t_robiniaPseudoacacia_2s",
       "pos": [
         3278.728516,
         198.937973,
@@ -43,7 +43,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+      "name": "TreeHard_t_robiniaPseudoacacia_2s",
       "pos": [
         3332.781982,
         201.337601,
@@ -57,7 +57,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+      "name": "TreeHard_t_robiniaPseudoacacia_2s",
       "pos": [
         3420.343506,
         194.310974,
@@ -71,7 +71,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+      "name": "TreeHard_t_robiniaPseudoacacia_2s",
       "pos": [
         3453.463135,
         200.30278,
@@ -85,7 +85,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+      "name": "TreeHard_t_robiniaPseudoacacia_2s",
       "pos": [
         3432.815674,
         208.476349,
@@ -99,7 +99,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+      "name": "TreeHard_t_robiniaPseudoacacia_2s",
       "pos": [
         3324.470703,
         195.724701,
@@ -113,7 +113,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_robiniaPseudoacacia_2s",
+      "name": "TreeHard_t_robiniaPseudoacacia_2s",
       "pos": [
         3181.754639,
         215.195496,
@@ -127,7 +127,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_populusAlba_2s",
+      "name": "TreeHard_t_populusAlba_2s",
       "pos": [
         3255.171875,
         200.907471,
@@ -141,7 +141,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_populusAlba_3s",
+      "name": "TreeHard_t_populusAlba_3s",
       "pos": [
         3306.855469,
         195.289932,
@@ -155,7 +155,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_populusAlba_3s",
+      "name": "TreeHard_t_populusAlba_3s",
       "pos": [
         3194.167236,
         214.052948,
@@ -169,7 +169,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_populusAlba_3s",
+      "name": "TreeHard_t_populusAlba_3s",
       "pos": [
         3259.454102,
         210.213272,
@@ -183,7 +183,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_malusDomestica_3s",
+      "name": "TreeSoft_t_malusDomestica_3s",
       "pos": [
         3274.958984,
         205.354477,
@@ -197,7 +197,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+      "name": "TreeHard_t_FraxinusExcelsior_3s",
       "pos": [
         3241.107178,
         209.375702,
@@ -211,7 +211,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FagusSylvatica_3s",
+      "name": "TreeHard_t_FagusSylvatica_3s",
       "pos": [
         3227.580322,
         213.254593,
@@ -225,7 +225,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FagusSylvatica_3s",
+      "name": "TreeHard_t_FagusSylvatica_3s",
       "pos": [
         3279.884766,
         207.849213,
@@ -239,7 +239,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FagusSylvatica_3s",
+      "name": "TreeHard_t_FagusSylvatica_3s",
       "pos": [
         3248.180908,
         206.889709,
@@ -253,7 +253,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FagusSylvatica_3s",
+      "name": "TreeHard_t_FagusSylvatica_3s",
       "pos": [
         3264.175781,
         203.087952,
@@ -267,7 +267,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FagusSylvatica_3s",
+      "name": "TreeHard_t_FagusSylvatica_3s",
       "pos": [
         3327.128906,
         198.046082,
@@ -281,7 +281,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FagusSylvatica_3s",
+      "name": "TreeHard_t_FagusSylvatica_3s",
       "pos": [
         3337.876465,
         195.987152,
@@ -295,7 +295,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FagusSylvatica_3s",
+      "name": "TreeHard_t_FagusSylvatica_3s",
       "pos": [
         3287.516357,
         202.155365,
@@ -309,7 +309,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FagusSylvatica_3s",
+      "name": "TreeHard_t_FagusSylvatica_3s",
       "pos": [
         3258.186035,
         204.064667,
@@ -323,7 +323,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FagusSylvatica_3s",
+      "name": "TreeHard_t_FagusSylvatica_3s",
       "pos": [
         3250.216064,
         205.711182,
@@ -337,7 +337,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FagusSylvatica_3s",
+      "name": "TreeHard_t_FagusSylvatica_3s",
       "pos": [
         3352.601318,
         202.036346,
@@ -351,7 +351,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FraxinusExcelsior_2f",
+      "name": "TreeHard_t_FraxinusExcelsior_2f",
       "pos": [
         3370.064941,
         199.371429,
@@ -365,7 +365,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FraxinusExcelsior_2f",
+      "name": "TreeHard_t_FraxinusExcelsior_2f",
       "pos": [
         3365.841797,
         195.350204,
@@ -379,7 +379,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FraxinusExcelsior_2f",
+      "name": "TreeHard_t_FraxinusExcelsior_2f",
       "pos": [
         3351.368164,
         190.672852,
@@ -393,7 +393,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FraxinusExcelsior_2f",
+      "name": "TreeHard_t_FraxinusExcelsior_2f",
       "pos": [
         3282.408936,
         204.895279,
@@ -407,7 +407,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FraxinusExcelsior_2s",
+      "name": "TreeHard_t_FraxinusExcelsior_2s",
       "pos": [
         3178.533203,
         219.875153,
@@ -421,7 +421,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FraxinusExcelsior_2s",
+      "name": "TreeHard_t_FraxinusExcelsior_2s",
       "pos": [
         3421.204346,
         202.555267,
@@ -435,7 +435,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FraxinusExcelsior_2s",
+      "name": "TreeHard_t_FraxinusExcelsior_2s",
       "pos": [
         3352.90918,
         195.780823,
@@ -449,7 +449,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FraxinusExcelsior_2s",
+      "name": "TreeHard_t_FraxinusExcelsior_2s",
       "pos": [
         3329.456543,
         199.091461,
@@ -463,7 +463,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FraxinusExcelsior_2s",
+      "name": "TreeHard_t_FraxinusExcelsior_2s",
       "pos": [
         3300.981934,
         197.346222,
@@ -477,7 +477,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_FraxinusExcelsior_3s",
+      "name": "TreeHard_t_FraxinusExcelsior_3s",
       "pos": [
         3299.287842,
         197.841492,
@@ -491,7 +491,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_malusDomestica_3s",
+      "name": "TreeSoft_t_malusDomestica_3s",
       "pos": [
         3360.378174,
         194.474747,
@@ -505,7 +505,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_1f",
+      "name": "TreeSoft_t_PiceaAbies_1f",
       "pos": [
         3373.780273,
         194.112411,
@@ -519,7 +519,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_1f",
+      "name": "TreeSoft_t_PiceaAbies_1f",
       "pos": [
         3377.579346,
         196.350449,
@@ -533,7 +533,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_1f",
+      "name": "TreeSoft_t_PiceaAbies_1f",
       "pos": [
         3386.446045,
         196.93396,
@@ -547,7 +547,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3259.956543,
         200.775482,
@@ -561,7 +561,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3300.139893,
         195.932922,
@@ -575,7 +575,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3296.95874,
         196.913742,
@@ -589,7 +589,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3311.292236,
         195.02948,
@@ -603,7 +603,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3307.053711,
         195.371414,
@@ -617,7 +617,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3314.635498,
         194.131409,
@@ -631,7 +631,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3316.249512,
         193.975571,
@@ -645,7 +645,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3291.404053,
         196.350967,
@@ -659,7 +659,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3344.671631,
         190.929306,
@@ -673,7 +673,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3364.588135,
         188.387238,
@@ -687,7 +687,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3348.938232,
         189.448318,
@@ -701,7 +701,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3382.048828,
         193.283249,
@@ -715,7 +715,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3438.389893,
         196.408401,
@@ -729,7 +729,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3440.021484,
         193.710526,
@@ -743,7 +743,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3478.283936,
         197.916626,
@@ -757,7 +757,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3451.193848,
         203.436157,
@@ -771,7 +771,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3390.021973,
         199.246536,
@@ -785,7 +785,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3405.321777,
         194.818909,
@@ -799,7 +799,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3393.004639,
         201.249268,
@@ -813,7 +813,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3346.818115,
         194.914246,
@@ -827,7 +827,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3299.584473,
         194.865509,
@@ -841,7 +841,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3332.016602,
         193.525146,
@@ -855,7 +855,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3333.537109,
         191.94281,
@@ -869,7 +869,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3339.673584,
         191.509338,
@@ -883,7 +883,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3345.258301,
         190.212738,
@@ -897,7 +897,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3339.746338,
         194.341721,
@@ -911,7 +911,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3326.064453,
         197.654144,
@@ -925,7 +925,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2s",
+      "name": "TreeHard_t_PiceaAbies_2s",
       "pos": [
         3357.199219,
         191.536728,
@@ -939,7 +939,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2f",
+      "name": "TreeHard_t_PiceaAbies_2f",
       "pos": [
         3299.869141,
         198.649994,
@@ -953,7 +953,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2f",
+      "name": "TreeHard_t_PiceaAbies_2f",
       "pos": [
         3300.130859,
         207.850784,
@@ -967,7 +967,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2f",
+      "name": "TreeHard_t_PiceaAbies_2f",
       "pos": [
         3416.214111,
         208.418335,
@@ -981,7 +981,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2f",
+      "name": "TreeHard_t_PiceaAbies_2f",
       "pos": [
         3446.350098,
         198.496109,
@@ -995,7 +995,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2f",
+      "name": "TreeHard_t_PiceaAbies_2f",
       "pos": [
         3378.126221,
         200.680176,
@@ -1009,7 +1009,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2f",
+      "name": "TreeHard_t_PiceaAbies_2f",
       "pos": [
         3340.157471,
         193.468018,
@@ -1023,7 +1023,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2f",
+      "name": "TreeHard_t_PiceaAbies_2f",
       "pos": [
         3327.364746,
         195.73288,
@@ -1037,7 +1037,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2f",
+      "name": "TreeHard_t_PiceaAbies_2f",
       "pos": [
         3314.837891,
         198.055725,
@@ -1051,7 +1051,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2f",
+      "name": "TreeHard_t_PiceaAbies_2f",
       "pos": [
         3277.496826,
         207.878632,
@@ -1065,7 +1065,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2f",
+      "name": "TreeHard_t_PiceaAbies_2f",
       "pos": [
         3263.887207,
         208.320953,
@@ -1079,7 +1079,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_t_PiceaAbies_2f",
+      "name": "TreeHard_t_PiceaAbies_2f",
       "pos": [
         3333.345703,
         194.09082,
@@ -1093,7 +1093,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3331.10498,
         189.75824,
@@ -1107,7 +1107,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3332.473145,
         189.504456,
@@ -1121,7 +1121,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3331.466309,
         189.589096,
@@ -1135,7 +1135,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3322.830078,
         190.086166,
@@ -1149,7 +1149,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3323.652832,
         190.180954,
@@ -1163,7 +1163,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3324.198486,
         190.024536,
@@ -1177,7 +1177,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3327.396484,
         189.874527,
@@ -1191,7 +1191,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3326.137207,
         189.476395,
@@ -1205,7 +1205,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3324.328125,
         189.607681,
@@ -1219,7 +1219,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3325.223145,
         189.632614,
@@ -1233,7 +1233,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3320.42749,
         189.861267,
@@ -1247,7 +1247,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3321.236328,
         189.96994,
@@ -1261,7 +1261,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3321.707764,
         189.828812,
@@ -1275,7 +1275,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3319.318604,
         187.508026,
@@ -1289,7 +1289,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3319.516846,
         187.70137,
@@ -1303,7 +1303,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3320.437012,
         187.505798,
@@ -1317,7 +1317,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3318.571045,
         187.978058,
@@ -1331,7 +1331,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3325.003906,
         187.039185,
@@ -1345,7 +1345,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3324.251221,
         186.994171,
@@ -1359,7 +1359,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3320.139648,
         186.145828,
@@ -1373,7 +1373,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3317.879883,
         186.344025,
@@ -1387,7 +1387,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3319.447266,
         186.192474,
@@ -1401,7 +1401,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3320.987061,
         186.053726,
@@ -1415,7 +1415,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3318.760986,
         186.272247,
@@ -1429,7 +1429,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3319.496094,
         186.220612,
@@ -1443,7 +1443,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3320.835205,
         186.077148,
@@ -1457,7 +1457,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3321.167969,
         186.026627,
@@ -1471,7 +1471,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3325.795654,
         185.452271,
@@ -1485,7 +1485,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3324.070557,
         185.708527,
@@ -1499,7 +1499,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3322.458984,
         186.022507,
@@ -1513,7 +1513,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3322.894043,
         186.011139,
@@ -1527,7 +1527,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3322.01709,
         186.165512,
@@ -1541,7 +1541,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3323.297363,
         186.540588,
@@ -1555,7 +1555,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3322.198486,
         186.737717,
@@ -1569,7 +1569,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3317.751709,
         187.093262,
@@ -1583,7 +1583,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3318.720215,
         186.99411,
@@ -1597,7 +1597,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3319.155029,
         187.046204,
@@ -1611,7 +1611,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3320.605713,
         186.725479,
@@ -1625,7 +1625,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3319.875,
         186.734222,
@@ -1639,7 +1639,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3321.131348,
         186.71257,
@@ -1653,7 +1653,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3322.5354,
         186.731873,
@@ -1667,7 +1667,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3321.309326,
         186.778381,
@@ -1681,7 +1681,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3317.306396,
         186.843445,
@@ -1695,7 +1695,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3318.218262,
         186.833496,
@@ -1709,7 +1709,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3318.870361,
         186.966522,
@@ -1723,7 +1723,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3315.17334,
         187.064194,
@@ -1737,7 +1737,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3315.795166,
         187.033997,
@@ -1751,7 +1751,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3316.728027,
         186.983536,
@@ -1765,7 +1765,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3315.03833,
         186.90239,
@@ -1779,7 +1779,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3318.11792,
         187.008835,
@@ -1793,7 +1793,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3317.72583,
         186.432739,
@@ -1807,7 +1807,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3316.77124,
         186.435196,
@@ -1821,7 +1821,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3313.669189,
         186.410431,
@@ -1835,7 +1835,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3313.550049,
         186.404816,
@@ -1849,7 +1849,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3314.699463,
         186.442276,
@@ -1863,7 +1863,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3317.156982,
         186.219055,
@@ -1877,7 +1877,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3315.849854,
         186.222321,
@@ -1891,7 +1891,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3311.686035,
         186.253098,
@@ -1905,7 +1905,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3313.05542,
         186.244949,
@@ -1919,7 +1919,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3313.383789,
         186.246872,
@@ -1933,7 +1933,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3315.629639,
         186.300064,
@@ -1947,7 +1947,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3317.592773,
         186.300064,
@@ -1961,7 +1961,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3316.580078,
         186.298172,
@@ -1975,7 +1975,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3321.089111,
         186.282867,
@@ -1989,7 +1989,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3320.5625,
         186.26384,
@@ -2003,7 +2003,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3315.500488,
         186.300064,
@@ -2017,7 +2017,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3328.077393,
         186.300064,
@@ -2031,7 +2031,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3325.2229,
         186.300064,
@@ -2045,7 +2045,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3324.443604,
         186.300064,
@@ -2059,7 +2059,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3325.755371,
         186.300064,
@@ -2073,7 +2073,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3332.099365,
         186.381485,
@@ -2087,7 +2087,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3331.588379,
         186.379471,
@@ -2101,7 +2101,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3332.936523,
         186.531174,
@@ -2115,7 +2115,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3332.445313,
         186.498215,
@@ -2129,7 +2129,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3333.623535,
         186.569366,
@@ -2143,7 +2143,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3344.062256,
         187.175751,
@@ -2157,7 +2157,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3343.057373,
         187.133682,
@@ -2171,7 +2171,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3342.552734,
         187.090775,
@@ -2185,7 +2185,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3343.755127,
         187.378387,
@@ -2199,7 +2199,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3342.507813,
         187.240646,
@@ -2213,7 +2213,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3341.510498,
         187.180725,
@@ -2227,7 +2227,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3343.408691,
         187.288666,
@@ -2241,7 +2241,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3342.086426,
         187.152252,
@@ -2255,7 +2255,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3356.104248,
         188.782043,
@@ -2269,7 +2269,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3354.845947,
         188.623627,
@@ -2283,7 +2283,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3354.330566,
         188.643784,
@@ -2297,7 +2297,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3354.204834,
         188.585144,
@@ -2311,7 +2311,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3352.892822,
         188.533249,
@@ -2325,7 +2325,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3352.078613,
         188.407822,
@@ -2339,7 +2339,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3368.915283,
         190.322449,
@@ -2353,7 +2353,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3366.994385,
         190.208374,
@@ -2367,7 +2367,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3367.093994,
         190.089584,
@@ -2381,7 +2381,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3366.337158,
         190.179947,
@@ -2395,7 +2395,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3367.862305,
         190.306168,
@@ -2409,7 +2409,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3366.712402,
         190.181427,
@@ -2423,7 +2423,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3394.327393,
         192.966537,
@@ -2437,7 +2437,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3395.679199,
         193.089874,
@@ -2451,7 +2451,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3397.327393,
         193.253098,
@@ -2465,7 +2465,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3394.579834,
         192.970276,
@@ -2479,7 +2479,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3399.699219,
         193.532211,
@@ -2493,7 +2493,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3401.292725,
         193.717346,
@@ -2507,7 +2507,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3402.180176,
         193.815598,
@@ -2521,7 +2521,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3423.132324,
         195.32962,
@@ -2535,7 +2535,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3422.135986,
         195.259232,
@@ -2549,7 +2549,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3422.310791,
         195.462921,
@@ -2563,7 +2563,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3421.596436,
         195.380966,
@@ -2577,7 +2577,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3421.009521,
         195.510941,
@@ -2591,7 +2591,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3426.830566,
         195.713211,
@@ -2605,7 +2605,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3439.806396,
         196.181519,
@@ -2619,7 +2619,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3437.296875,
         196.083374,
@@ -2633,7 +2633,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3436.544434,
         196.046173,
@@ -2647,7 +2647,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3437.877686,
         196.136719,
@@ -2661,7 +2661,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3439.116455,
         196.192963,
@@ -2675,7 +2675,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3454.143066,
         196.605347,
@@ -2689,7 +2689,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3451.718506,
         196.565887,
@@ -2703,7 +2703,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3451.2229,
         196.562988,
@@ -2717,7 +2717,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3452.997803,
         196.590073,
@@ -2731,7 +2731,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3450.102051,
         196.559402,
@@ -2745,7 +2745,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3449.915039,
         196.548355,
@@ -2759,7 +2759,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3450.101074,
         196.547745,
@@ -2773,7 +2773,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3451.289795,
         196.572601,
@@ -2787,7 +2787,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3449.754395,
         196.528412,
@@ -2801,7 +2801,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3473.578857,
         196.311707,
@@ -2815,7 +2815,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3474.82373,
         196.328033,
@@ -2829,7 +2829,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3472.37207,
         196.408478,
@@ -2843,7 +2843,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3495.977051,
         195.654602,
@@ -2857,7 +2857,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3501.008301,
         195.611069,
@@ -2871,7 +2871,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3499.635986,
         195.636536,
@@ -2885,7 +2885,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3518.081787,
         195.174088,
@@ -2899,7 +2899,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3518.796387,
         195.359711,
@@ -2913,7 +2913,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3515.657959,
         195.047577,
@@ -2927,7 +2927,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3515.54541,
         195.13266,
@@ -2941,7 +2941,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3516.421875,
         195.366714,
@@ -2955,7 +2955,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3515.6521,
         195.315979,
@@ -2969,7 +2969,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3498.237061,
         192.558029,
@@ -2983,7 +2983,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3497.844238,
         192.336197,
@@ -2997,7 +2997,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3480.983398,
         190.335251,
@@ -3011,7 +3011,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3477.174561,
         190.193939,
@@ -3025,7 +3025,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3441.820068,
         191.572906,
@@ -3039,7 +3039,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3438.116455,
         191.468872,
@@ -3053,7 +3053,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3441.282471,
         191.228516,
@@ -3067,7 +3067,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3426.393066,
         187.851303,
@@ -3081,7 +3081,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3429.844971,
         188.133575,
@@ -3095,7 +3095,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3424.473633,
         188.078766,
@@ -3109,7 +3109,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3425.648682,
         188.328003,
@@ -3123,7 +3123,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3428.197266,
         188.556351,
@@ -3137,7 +3137,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3425.628418,
         183.192078,
@@ -3151,7 +3151,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3427.281006,
         183.410294,
@@ -3165,7 +3165,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3426.166016,
         183.76799,
@@ -3179,7 +3179,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3427.240967,
         177.224594,
@@ -3193,7 +3193,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3430.47583,
         176.885468,
@@ -3207,7 +3207,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3445.056152,
         172.971161,
@@ -3221,7 +3221,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3448.468506,
         172.887466,
@@ -3235,7 +3235,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3449.854248,
         172.81395,
@@ -3249,7 +3249,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3449.268555,
         172.638794,
@@ -3263,7 +3263,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3450.260498,
         172.566406,
@@ -3277,7 +3277,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3452.315918,
         172.649063,
@@ -3291,7 +3291,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3306.926514,
         187.207047,
@@ -3305,7 +3305,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3313.127441,
         186.724258,
@@ -3319,7 +3319,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3311.637695,
         186.813126,
@@ -3333,7 +3333,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3313.143555,
         186.772034,
@@ -3347,7 +3347,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3306.902832,
         187.123352,
@@ -3361,7 +3361,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3301.356201,
         187.282181,
@@ -3375,7 +3375,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3303.617676,
         187.201492,
@@ -3389,7 +3389,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3298.383301,
         187.523605,
@@ -3403,7 +3403,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3277.14209,
         190.171661,
@@ -3417,7 +3417,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3279.302979,
         189.874039,
@@ -3431,7 +3431,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3277.941406,
         190.337997,
@@ -3445,7 +3445,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3276.627441,
         190.451157,
@@ -3459,7 +3459,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3256.845215,
         193.069809,
@@ -3473,7 +3473,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3256.931885,
         193.061646,
@@ -3487,7 +3487,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3259.58667,
         192.597,
@@ -3501,7 +3501,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3259.738525,
         192.550171,
@@ -3515,7 +3515,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3260.499023,
         192.443008,
@@ -3529,7 +3529,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3258.657959,
         192.857956,
@@ -3543,7 +3543,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3259.487305,
         192.809525,
@@ -3557,7 +3557,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3261.75,
         192.659088,
@@ -3571,7 +3571,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3259.65625,
         192.737076,
@@ -3585,7 +3585,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3258.1521,
         193.001755,
@@ -3599,7 +3599,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3260.062744,
         193.035614,
@@ -3613,7 +3613,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3261.105469,
         193.029099,
@@ -3627,7 +3627,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3260.461426,
         193.024734,
@@ -3641,7 +3641,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3302.193359,
         186.355865,
@@ -3655,7 +3655,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3299.294922,
         186.385529,
@@ -3669,7 +3669,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3291.283936,
         186.992035,
@@ -3683,7 +3683,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3283.224854,
         188.056152,
@@ -3697,7 +3697,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3284.393066,
         187.901474,
@@ -3711,7 +3711,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3276.241455,
         189.702164,
@@ -3725,7 +3725,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3269.577393,
         191.126099,
@@ -3739,7 +3739,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3272.710693,
         190.3302,
@@ -3753,7 +3753,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3269.584961,
         191.123596,
@@ -3767,7 +3767,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3239.889893,
         199.235458,
@@ -3781,7 +3781,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3238.509033,
         199.237976,
@@ -3795,7 +3795,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3221.778564,
         202.241592,
@@ -3809,7 +3809,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_Elytrigia_green",
+      "name": "DZ/plants/clutter/c_elytrigia_green.p3d",
       "pos": [
         3214.954834,
         203.33017,
@@ -3823,7 +3823,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3330.561279,
         189.755234,
@@ -3837,7 +3837,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3322.0354,
         189.961365,
@@ -3851,7 +3851,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3320.647461,
         187.725693,
@@ -3865,7 +3865,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3321.875732,
         186.059921,
@@ -3879,7 +3879,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3320.086914,
         187.069351,
@@ -3893,7 +3893,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3317.626465,
         187.02063,
@@ -3907,7 +3907,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3317.081299,
         186.516937,
@@ -3921,7 +3921,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3314.547852,
         186.377426,
@@ -3935,7 +3935,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3325.224121,
         186.377426,
@@ -3949,7 +3949,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3341.772461,
         187.12471,
@@ -3963,7 +3963,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3355.931641,
         188.898193,
@@ -3977,7 +3977,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3369.9729,
         190.539948,
@@ -3991,7 +3991,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3400.431396,
         193.690186,
@@ -4005,7 +4005,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3423.557129,
         195.567764,
@@ -4019,7 +4019,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3433.615479,
         196.037445,
@@ -4033,7 +4033,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3472.269287,
         196.433884,
@@ -4047,7 +4047,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3505.879883,
         195.600998,
@@ -4061,7 +4061,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3518.432373,
         195.401611,
@@ -4075,7 +4075,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3498.150146,
         192.565796,
@@ -4089,7 +4089,7 @@
       "scale": 1.0
     },
     {
-      "name": "bldr_plnt_c_ElytrigiaTall",
+      "name": "DZ/plants/clutter/c_elytrigiatall.p3d",
       "pos": [
         3215.294189,
         203.391998,

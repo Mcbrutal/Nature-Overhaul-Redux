@@ -1,0 +1,19 @@
+Nature Overhaul Original Source Comparison
+
+Original mission script files: 10
+Raw SpawnObject calls in those files: 8718
+Commented-out SpawnObject calls excluded: 408
+Active original SpawnObject calls: 8310
+Converted JSON placements: 8297
+Exact duplicate original occurrences removed: 13
+Missing distinct active placements: 0
+Unexpected JSON placements: 0
+Original distinct classes: 222
+Converted distinct classes: 222
+
+All 8,297 distinct active original placements are represented in the JSON files.
+The 13 excluded active calls repeat the same class, position and orientation as the
+immediately adjacent original line. Keeping both would create overlapping objects.
+
+Book check: No active or commented SpawnObject call in the original scripts uses a
+book, paper, magazine or newspaper class. No book placement was lost in conversion.

@@ -1,0 +1,11 @@
+builderitems_class,model,placements,reason
+bldr_Garbage_Pile8,\DZ\structures_bliss\residential\Misc\Garbage_Pile8.p3d,1,no exact behavior-preserving native standalone class
+bldr_HouseB_Tenement_DayZ_airplane,\DZ\structures\specific\hotel\proxy\houseb_tenement_dayz_airplane.p3d,1,no exact behavior-preserving native standalone class
+bldr_PortableGasLamp,\dz\gear\cooking\GasLight.p3d,1,same-model native class is an inventory item; retained as static scenery
+bldr_Rubble_DirtPile_Small,\DZ\structures\ruins\rubble_dirtpile_small.p3d,1,no exact behavior-preserving native standalone class
+bldr_Slum_Roof4,\DZ\structures_bliss\residential\Slums\Slum_Roof4.p3d,1,no exact behavior-preserving native standalone class
+bldr_T34,\DZ\structures\specific\statues\proxy\t34.p3d,10,no exact behavior-preserving native standalone class
+bldr_tent_boxwooden,\DZ\structures\military\improvised\proxy\tent_boxwooden.p3d,4,no exact behavior-preserving native standalone class
+bldr_tent_chair,\DZ\structures\military\improvised\proxy\tent_chair.p3d,4,no exact behavior-preserving native standalone class
+bldr_tent_gunrack,\DZ\structures\military\improvised\proxy\tent_gunrack.p3d,2,no exact behavior-preserving native standalone class
+bldr_wall_gate_kolchoz,\DZ\structures\walls\wall_gate_kolchoz.p3d,1,no exact behavior-preserving native standalone class

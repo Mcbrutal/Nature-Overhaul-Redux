@@ -1,0 +1,223 @@
+original_class,placements,builderitems_source,base_class,model,disposition,output_name
+Land_Lamp_City1_amp,1,,,,retained native DayZ class,Land_Lamp_City1_amp
+Land_Mil_Tent_Big1_1,1,,,,retained native DayZ class,Land_Mil_Tent_Big1_1
+Land_Power_Pole_Conc4_Lamp_Amp,1,,,,retained native DayZ class,Land_Power_Pole_Conc4_Lamp_Amp
+Land_Roadblock_Table,5,,,,retained native DayZ class,Land_Roadblock_Table
+Land_Train_742_Blue,2,,,,retained native DayZ class,Land_Train_742_Blue
+Land_Train_742_Red,2,,,,retained native DayZ class,Land_Train_742_Red
+Land_Train_Wagon_Box,9,,,,retained native DayZ class,Land_Train_Wagon_Box
+Land_WindPowerPlant_Grey,36,,,,retained native DayZ class,Land_WindPowerPlant_Grey
+Land_Wreck_Harverster,1,,,,retained native DayZ class,Land_Wreck_Harverster
+Land_Wreck_Harvester_head_trailer,1,,,,retained native DayZ class,Land_Wreck_Harvester_head_trailer
+Land_Wreck_Ikarus,6,,,,retained native DayZ class,Land_Wreck_Ikarus
+Land_Wreck_Lada_Green,15,,,,retained native DayZ class,Land_Wreck_Lada_Green
+Land_Wreck_Lada_Red,15,,,,retained native DayZ class,Land_Wreck_Lada_Red
+Land_Wreck_S1023_Beige,8,,,,retained native DayZ class,Land_Wreck_S1023_Beige
+Land_Wreck_S1023_Blue,11,,,,retained native DayZ class,Land_Wreck_S1023_Blue
+Land_Wreck_Uaz,17,,,,retained native DayZ class,Land_Wreck_Uaz
+Land_Wreck_V3S,13,,,,retained native DayZ class,Land_Wreck_V3S
+Land_Wreck_Volha_Blue,12,,,,retained native DayZ class,Land_Wreck_Volha_Blue
+Land_Wreck_Volha_Grey,13,,,,retained native DayZ class,Land_Wreck_Volha_Grey
+Land_Wreck_sed01_aban2_wine,1,,,,retained native DayZ class,Land_Wreck_sed01_aban2_wine
+Land_Wreck_sed02_aban2_red,1,,,,retained native DayZ class,Land_Wreck_sed02_aban2_red
+bldr_Dead_MassGrave_15m,1,specific/config.cpp,HouseNoDestruct,\DZ\structures\specific\deadbodies\dead_massgrave_15m.p3d,native static class; exact model match,StaticObj_Dead_MassGrave_15m
+bldr_Dead_pile1,2,specific/config.cpp,HouseNoDestruct,\DZ\structures\specific\deadbodies\dead_pile1.p3d,native static class; exact model match,StaticObj_Dead_pile1
+bldr_Dead_pile2,3,specific/config.cpp,HouseNoDestruct,\DZ\structures\specific\deadbodies\dead_pile2.p3d,native static class; exact model match,StaticObj_Dead_pile2
+bldr_Dead_pile3,5,specific/config.cpp,HouseNoDestruct,\DZ\structures\specific\deadbodies\dead_pile3.p3d,native static class; exact model match,StaticObj_Dead_pile3
+bldr_Dead_pile4,7,specific/config.cpp,HouseNoDestruct,\DZ\structures\specific\deadbodies\dead_pile4.p3d,native static class; exact model match,StaticObj_Dead_pile4
+bldr_Garbage_Bin,1,garbage/config.cpp,HouseNoDestruct,\DZ\structures\residential\Misc\Garbage_Bin.p3d,native static class; exact model match,StaticObj_Garbage_Bin
+bldr_Garbage_Container,1,garbage/config.cpp,HouseNoDestruct,\DZ\structures\residential\Misc\Garbage_Container.p3d,native static class; exact model match,StaticObj_Garbage_Container
+bldr_Garbage_GroundSq_3m,1,garbage/config.cpp,HouseNoDestruct,\DZ\structures\residential\Misc\Garbage_GroundSq_3m.p3d,native static class; exact model match,StaticObj_Garbage_GroundSq_3m
+bldr_Garbage_Ground_6m,1,garbage/config.cpp,HouseNoDestruct,\DZ\structures\residential\Misc\Garbage_Ground_6m.p3d,native static class; exact model match,StaticObj_Garbage_Ground_6m
+bldr_Garbage_Pile8,1,residential_bliss/config.cpp,HouseNoDestruct,\DZ\structures_bliss\residential\Misc\Garbage_Pile8.p3d,retained; no exact behavior-preserving native standalone class,bldr_Garbage_Pile8
+bldr_Hotel_Damaged_Airplane_Back,1,specific/config.cpp,HouseNoDestruct,\DZ\structures\specific\hotel\hotel_damaged_airplane_back.p3d,native static class; exact model match,StaticObj_Hotel_Damaged_Airplane_Back
+bldr_Hotel_Damaged_Airplane_Wing,1,specific/config.cpp,HouseNoDestruct,\DZ\structures\specific\hotel\hotel_damaged_airplane_wing.p3d,native static class; exact model match,StaticObj_Hotel_Damaged_Airplane_Wing
+bldr_HouseB_Tenement_DayZ_airplane,1,specific/config.cpp,HouseNoDestruct,\DZ\structures\specific\hotel\proxy\houseb_tenement_dayz_airplane.p3d,retained; no exact behavior-preserving native standalone class,bldr_HouseB_Tenement_DayZ_airplane
+bldr_Lamp_City1,2,residential/config.cpp,HouseNoDestruct,\DZ\structures\residential\misc\lamp_city1.p3d,native static class; exact model match,StaticObj_Lamp_City1
+bldr_Misc_AdvertColumn,1,residential/config.cpp,HouseNoDestruct,\DZ\structures\residential\misc\misc_advertcolumn.p3d,native static class; exact model match,StaticObj_Misc_AdvertColumn
+bldr_Misc_BoxWooden,7,residential/config.cpp,HouseNoDestruct,\DZ\structures\residential\misc\misc_boxwooden.p3d,native static class; exact model match,StaticObj_Misc_BoxWooden
+bldr_Misc_Chair_Camp2,2,residential/config.cpp,HouseNoDestruct,\DZ\structures\residential\misc\misc_chair_camp2.p3d,native static class; exact model match,StaticObj_Misc_Chair_Camp2
+bldr_Misc_RoadBarrier,1,residential/config.cpp,HouseNoDestruct,\DZ\structures\residential\misc\misc_roadbarrier.p3d,native static class; exact model match,StaticObj_Misc_RoadBarrier
+bldr_Misc_Tree_Pavement1,2,residential/config.cpp,HouseNoDestruct,\DZ\structures\residential\misc\misc_tree_pavement1.p3d,native static class; exact model match,StaticObj_Misc_Tree_Pavement1
+bldr_PortableGasLamp,1,staticitems/config.cpp,HouseNoDestruct,\dz\gear\cooking\GasLight.p3d,retained static wrapper; native match is pickup-capable,bldr_PortableGasLamp
+bldr_Rubble_DirtPile_Large,6,ruins/config.cpp,HouseNoDestruct,\DZ\structures\ruins\rubble_dirtpile_large.p3d,native static class; exact model match,StaticObj_Rubble_DirtPile_Large
+bldr_Rubble_DirtPile_Small,1,ruins/config.cpp,HouseNoDestruct,\DZ\structures\ruins\rubble_dirtpile_small.p3d,retained; no exact behavior-preserving native standalone class,bldr_Rubble_DirtPile_Small
+bldr_Rubble_Glass,3,ruins/config.cpp,HouseNoDestruct,\DZ\structures\ruins\rubble_glass.p3d,native static class; exact model match,StaticObj_Rubble_Glass
+bldr_Slum_Roof4,1,residential_bliss/config.cpp,HouseNoDestruct,\DZ\structures_bliss\residential\Slums\Slum_Roof4.p3d,retained; no exact behavior-preserving native standalone class,bldr_Slum_Roof4
+bldr_Statue_General,1,specific/config.cpp,HouseNoDestruct,\DZ\structures\specific\statues\statue_general.p3d,native static class; exact model match,StaticObj_Statue_General
+bldr_T34,10,specific/config.cpp,HouseNoDestruct,\DZ\structures\specific\statues\proxy\t34.p3d,retained; no exact behavior-preserving native standalone class,bldr_T34
+bldr_box_c,6,furniture/config.cpp,HouseNoDestruct,\DZ\structures\furniture\decoration\box_c\box_c.p3d,native static class; exact model match,StaticObj_Furniture_box_c
+bldr_box_c_multi,3,furniture/config.cpp,HouseNoDestruct,\DZ\structures\furniture\decoration\box_c\box_c_multi.p3d,native static class; exact model match,StaticObj_Furniture_box_c_multi
+bldr_desk_globe,1,furniture/config.cpp,HouseNoDestruct,\DZ\structures\furniture\school_equipment\desk_globe.p3d,native static class; exact model match,StaticObj_Furniture_Desk_Globe
+bldr_flag_chernarus_pole,1,furniture/config.cpp,HouseNoDestruct,\DZ\structures\furniture\school_equipment\flag_chernarus_pole.p3d,native static class; exact model match,StaticObj_Furniture_flag_chernarus_pole
+bldr_misc_antenna,3,Military/misc/config.cpp,HouseNoDestruct,\DZ\structures\military\misc\misc_antenna.p3d,native static class; exact model match,StaticObj_Misc_Antenna
+bldr_misc_bagfence_round,3,Military/misc/config.cpp,HouseNoDestruct,\DZ\structures\military\misc\misc_bagfence_round.p3d,native static class; exact model match,StaticObj_Misc_BagFence_Round
+bldr_misc_barbedwire,23,Military/misc/config.cpp,HouseNoDestruct,\DZ\structures\military\misc\misc_barbedwire.p3d,native static class; exact model match,StaticObj_Misc_Barbedwire
+bldr_misc_boardspack1,2,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_boardspack1.p3d,native static class; exact model match,StaticObj_Misc_BoardsPack1
+bldr_misc_boardspack2,1,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_boardspack2.p3d,native static class; exact model match,StaticObj_Misc_BoardsPack2
+bldr_misc_boardspack3,3,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_boardspack3.p3d,native static class; exact model match,StaticObj_Misc_BoardsPack3
+bldr_misc_coil,1,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_coil.p3d,native static class; exact model match,StaticObj_Misc_Coil
+bldr_misc_concreteblock1,2,Military/misc/config.cpp,HouseNoDestruct,\DZ\structures\military\misc\misc_concreteblock1.p3d,native static class; exact model match,StaticObj_Misc_ConcreteBlock1
+bldr_misc_concreteblock1_end,1,Military/misc/config.cpp,HouseNoDestruct,\DZ\structures\military\misc\misc_concreteblock1_end.p3d,native static class; exact model match,StaticObj_Misc_ConcreteBlock1_End
+bldr_misc_concreteblock2,2,Military/misc/config.cpp,HouseNoDestruct,\DZ\structures\military\misc\misc_concreteblock2.p3d,native static class; exact model match,StaticObj_Misc_ConcreteBlock2
+bldr_misc_concreteblock2_damaged,5,Military/misc/config.cpp,HouseNoDestruct,\DZ\structures\military\misc\misc_concreteblock2_damaged.p3d,native static class; exact model match,StaticObj_Misc_ConcreteBlock2_Damaged
+bldr_misc_flagpole,2,Military/misc/config.cpp,HouseNoDestruct,\DZ\structures\military\misc\misc_flagpole.p3d,native static class; exact model match,StaticObj_Misc_Flagpole
+bldr_misc_haybale,6,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_haybale.p3d,native static class; exact model match,StaticObj_Misc_HayBale
+bldr_misc_hedgehog_concrete,9,Military/misc/config.cpp,HouseNoDestruct,\DZ\structures\military\misc\misc_hedgehog_concrete.p3d,native static class; exact model match,StaticObj_Misc_Hedgehog_Concrete
+bldr_misc_pallet,1,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_pallet.p3d,native static class; exact model match,StaticObj_Misc_Pallet
+bldr_misc_pallets3,3,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_pallets3.p3d,native static class; exact model match,StaticObj_Misc_Pallets3
+bldr_misc_pipes,1,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_pipes.p3d,native static class; exact model match,StaticObj_Misc_Pipes
+bldr_misc_razorwire,1,Military/misc/config.cpp,HouseNoDestruct,\DZ\structures\military\misc\misc_razorwire.p3d,native static class; exact model match,StaticObj_Misc_Razorwire
+bldr_misc_scaffolding,1,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_scaffolding.p3d,native static class; exact model match,Land_Misc_Scaffolding
+bldr_misc_timbers2,1,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_timbers2.p3d,native static class; exact model match,StaticObj_Misc_Timbers2
+bldr_misc_timbers4,1,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_timbers4.p3d,native static class; exact model match,StaticObj_Misc_Timbers4
+bldr_misc_timbers_log1,2,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_timbers_log1.p3d,native static class; exact model match,StaticObj_Misc_Timbers_Log1
+bldr_misc_timbers_log2,1,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_timbers_log2.p3d,native static class; exact model match,StaticObj_Misc_Timbers_Log2
+bldr_misc_timbers_log3,1,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_timbers_log3.p3d,native static class; exact model match,StaticObj_Misc_Timbers_Log3
+bldr_misc_tirepile,1,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_tirepile.p3d,native static class; exact model match,StaticObj_Misc_TirePile
+bldr_office_chair,1,furniture/config.cpp,HouseNoDestruct,\DZ\structures\furniture\chairs\office_chair\office_chair.p3d,native static class; exact model match,StaticObj_Furniture_office_chair
+bldr_office_table_a,1,furniture/config.cpp,HouseNoDestruct,\DZ\structures\furniture\tables\office_table_a\office_table_a.p3d,native static class; exact model match,StaticObj_Furniture_office_table_a
+bldr_plnt_b_FagusSylvatica_1f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\b_fagussylvatica_1f.p3d,interactive vegetation class,BushHard_b_FagusSylvatica_1f
+bldr_plnt_b_betulaHumilis_1s,20,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_betulahumilis_1s.p3d,interactive vegetation class,BushSoft_b_betulaHumilis_1s
+bldr_plnt_b_corylusAvellana_1f,12,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_corylusavellana_1f.p3d,interactive vegetation class,BushSoft_b_corylusAvellana_1f
+bldr_plnt_b_corylusAvellana_2s,19,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_corylusavellana_2s.p3d,interactive vegetation class,BushHard_b_corylusAvellana_2s
+bldr_plnt_b_crataegusLaevigata_1s,13,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_crataeguslaevigata_1s.p3d,interactive vegetation class,BushSoft_b_crataegusLaevigata_1s
+bldr_plnt_b_crataegusLaevigata_2s,9,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_crataeguslaevigata_2s.p3d,interactive vegetation class,BushHard_b_crataegusLaevigata_2s
+bldr_plnt_b_prunusSpinosa_1s,8,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_prunusspinosa_1s.p3d,interactive vegetation class,BushHard_b_prunusSpinosa_1s
+bldr_plnt_b_prunusSpinosa_2s,18,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_prunusspinosa_2s.p3d,interactive vegetation class,BushHard_b_prunusSpinosa_2s
+bldr_plnt_b_rosaCanina_1s,11,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_rosacanina_1s.p3d,interactive vegetation class,BushSoft_b_rosaCanina_1s
+bldr_plnt_b_rosaCanina_2s,7,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_rosacanina_2s.p3d,interactive vegetation class,BushSoft_b_rosaCanina_2s
+bldr_plnt_b_sambucusNigra_1s,8,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_sambucusnigra_1s.p3d,interactive vegetation class,BushSoft_b_sambucusNigra_1s
+bldr_plnt_b_sambucusNigra_2s,11,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_sambucusnigra_2s.p3d,interactive vegetation class,BushHard_b_sambucusNigra_2s
+bldr_plnt_c_Anthoxanthum,8,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_anthoxanthum.p3d,direct static plant model path,DZ/plants/clutter/c_anthoxanthum.p3d
+bldr_plnt_c_Anthoxanthum_bended,2,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_anthoxanthum_bended.p3d,direct static plant model path,DZ/plants/clutter/c_anthoxanthum_bended.p3d
+bldr_plnt_c_Broadleaf_sprouts,1,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_broadleaf_sprouts.p3d,direct static plant model path,DZ/plants/clutter/c_broadleaf_sprouts.p3d
+bldr_plnt_c_Carduus,1,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_carduus.p3d,direct static plant model path,DZ/plants/clutter/c_carduus.p3d
+bldr_plnt_c_ConcreteGrass_bunch,2,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_concretegrass_bunch.p3d,direct static plant model path,DZ/plants/clutter/c_concretegrass_bunch.p3d
+bldr_plnt_c_Elytrigia,1,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigia.p3d,direct static plant model path,DZ/plants/clutter/c_elytrigia.p3d
+bldr_plnt_c_ElytrigiaDirt,380,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigiadirt.p3d,direct static plant model path,DZ/plants/clutter/c_elytrigiadirt.p3d
+bldr_plnt_c_ElytrigiaForest,2,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigiaforest.p3d,direct static plant model path,DZ/plants/clutter/c_elytrigiaforest.p3d
+bldr_plnt_c_ElytrigiaTall,615,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigiatall.p3d,direct static plant model path,DZ/plants/clutter/c_elytrigiatall.p3d
+bldr_plnt_c_Elytrigia_green,4347,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigia_green.p3d,direct static plant model path,DZ/plants/clutter/c_elytrigia_green.p3d
+bldr_plnt_c_GrassDryCarduus_f_summer,15,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\clutter\c_GrassDryCarduus_f_summer.p3d,direct static plant model path,DZ/plants_bliss/clutter/c_GrassDryCarduus_f_summer.p3d
+bldr_plnt_c_GrassDryHypericum_summer,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\clutter\c_GrassDryHypericum_summer.p3d,direct static plant model path,DZ/plants_bliss/clutter/c_GrassDryHypericum_summer.p3d
+bldr_plnt_c_GrassDry_summer,1058,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\clutter\c_GrassDry_summer.p3d,direct static plant model path,DZ/plants_bliss/clutter/c_GrassDry_summer.p3d
+bldr_plnt_ivy_A,3,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_A.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_A.p3d
+bldr_plnt_ivy_B,3,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_B.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_B.p3d
+bldr_plnt_ivy_C,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_C.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_C.p3d
+bldr_plnt_ivy_D,2,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_D.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_D.p3d
+bldr_plnt_ivy_F,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_F.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_F.p3d
+bldr_plnt_ivy_G,2,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_G.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_G.p3d
+bldr_plnt_ivy_K,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_K.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_K.p3d
+bldr_plnt_ivy_M,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_M.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_M.p3d
+bldr_plnt_ivy_T,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_T.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_T.p3d
+bldr_plnt_t_BetulaPendula_1fb,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_1fb.p3d,interactive vegetation class,TreeSoft_t_BetulaPendula_1fb
+bldr_plnt_t_BetulaPendula_1s,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_1s.p3d,interactive vegetation class,TreeSoft_t_BetulaPendula_1s
+bldr_plnt_t_BetulaPendula_2f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_2f.p3d,interactive vegetation class,TreeSoft_t_BetulaPendula_2f
+bldr_plnt_t_BetulaPendula_2fb,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_2fb.p3d,interactive vegetation class,TreeSoft_t_BetulaPendula_2fb
+bldr_plnt_t_BetulaPendula_2s,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_2s.p3d,interactive vegetation class,TreeHard_t_BetulaPendula_2s
+bldr_plnt_t_BetulaPendula_2w,6,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_2w.p3d,interactive vegetation class,TreeSoft_t_BetulaPendula_2w
+bldr_plnt_t_BetulaPendula_3f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_3f.p3d,interactive vegetation class,TreeHard_t_BetulaPendula_3f
+bldr_plnt_t_BetulaPendula_3fb,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_3fb.p3d,interactive vegetation class,TreeHard_t_BetulaPendula_3fb
+bldr_plnt_t_BetulaPendula_3fc,9,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_3fc.p3d,interactive vegetation class,TreeHard_t_BetulaPendula_3fc
+bldr_plnt_t_BetulaPendula_3s,7,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_3s.p3d,interactive vegetation class,TreeHard_t_BetulaPendula_3s
+bldr_plnt_t_FagusSylvatica_1f,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1f.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_1f
+bldr_plnt_t_FagusSylvatica_1fc,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1fc.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_1fc
+bldr_plnt_t_FagusSylvatica_1fd,5,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1fd.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_1fd
+bldr_plnt_t_FagusSylvatica_1fe,4,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1fe.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_1fe
+bldr_plnt_t_FagusSylvatica_1s,7,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1s.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_1s
+bldr_plnt_t_FagusSylvatica_2d,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2d.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_2d
+bldr_plnt_t_FagusSylvatica_2f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2f.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_2f
+bldr_plnt_t_FagusSylvatica_2f_cut,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\cutted_cut\t_fagussylvatica_2f_cut.p3d,direct static plant model path,DZ/plants/tree/cutted_cut/t_fagussylvatica_2f_cut.p3d
+bldr_plnt_t_FagusSylvatica_2fb,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2fb.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_2fb
+bldr_plnt_t_FagusSylvatica_2fc,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2fc.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_2fc
+bldr_plnt_t_FagusSylvatica_2s,23,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2s.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_2s
+bldr_plnt_t_FagusSylvatica_2sb,12,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2sb.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_2sb
+bldr_plnt_t_FagusSylvatica_2sb_Trail_G,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2sb_trail_g.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_2sb_Trail_G
+bldr_plnt_t_FagusSylvatica_2sb_Trail_G_summer,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\tree\t_FagusSylvatica_2sb_Trail_G_summer.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_2sb_Trail_G_summer
+bldr_plnt_t_FagusSylvatica_2sb_Trail_R,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2sb_trail_r.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_2sb_Trail_R
+bldr_plnt_t_FagusSylvatica_2sb_Trail_Y,5,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2sb_trail_y.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_2sb_Trail_Y
+bldr_plnt_t_FagusSylvatica_3f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_3f.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_3f
+bldr_plnt_t_FagusSylvatica_3f_summer,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\tree\t_FagusSylvatica_3f_summer.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_3f_summer
+bldr_plnt_t_FagusSylvatica_3fb,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_3fb.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_3fb
+bldr_plnt_t_FagusSylvatica_3fb_test,24,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_3fb_test.p3d,interactive vegetation class; test-model fallback,TreeHard_t_FagusSylvatica_3fb
+bldr_plnt_t_FagusSylvatica_3s,105,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_3s.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_3s
+bldr_plnt_t_FagusSylvatica_3s_summer,6,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\tree\t_FagusSylvatica_3s_summer.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_3s_summer
+bldr_plnt_t_FraxinusExcelsior_2f,56,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fraxinusexcelsior_2f.p3d,interactive vegetation class,TreeHard_t_FraxinusExcelsior_2f
+bldr_plnt_t_FraxinusExcelsior_2s,55,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fraxinusexcelsior_2s.p3d,interactive vegetation class,TreeHard_t_FraxinusExcelsior_2s
+bldr_plnt_t_FraxinusExcelsior_2w,7,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fraxinusexcelsior_2w.p3d,interactive vegetation class,TreeSoft_t_FraxinusExcelsior_2w
+bldr_plnt_t_FraxinusExcelsior_3s,110,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fraxinusexcelsior_3s.p3d,interactive vegetation class,TreeHard_t_FraxinusExcelsior_3s
+bldr_plnt_t_PiceaAbies_1f,8,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_1f.p3d,interactive vegetation class,TreeSoft_t_PiceaAbies_1f
+bldr_plnt_t_PiceaAbies_1s,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_1s.p3d,interactive vegetation class,BushHard_t_PiceaAbies_1s
+bldr_plnt_t_PiceaAbies_1sb,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_1sb.p3d,interactive vegetation class,BushHard_t_PiceaAbies_1sb
+bldr_plnt_t_PiceaAbies_2f,13,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_2f.p3d,interactive vegetation class,TreeHard_t_PiceaAbies_2f
+bldr_plnt_t_PiceaAbies_2fb,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_2fb.p3d,interactive vegetation class,TreeHard_t_PiceaAbies_2fb
+bldr_plnt_t_PiceaAbies_2s,49,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_2s.p3d,interactive vegetation class,TreeHard_t_PiceaAbies_2s
+bldr_plnt_t_PiceaAbies_2sb,6,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_2sb.p3d,interactive vegetation class,TreeSoft_t_PiceaAbies_2sb
+bldr_plnt_t_PiceaAbies_3f,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_3f.p3d,interactive vegetation class,TreeHard_t_PiceaAbies_3f
+bldr_plnt_t_PiceaAbies_3f_Trail_G,8,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_3f_trail_g.p3d,interactive vegetation class,TreeHard_t_PiceaAbies_3f_Trail_G
+bldr_plnt_t_PiceaAbies_3f_Trail_Y,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_3f_trail_y.p3d,interactive vegetation class,TreeHard_t_PiceaAbies_3f_Trail_Y
+bldr_plnt_t_PiceaAbies_3s,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_3s.p3d,interactive vegetation class,TreeHard_t_PiceaAbies_3s
+bldr_plnt_t_carpinus_2s,10,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_carpinus_2s.p3d,interactive vegetation class,TreeHard_t_carpinus_2s
+bldr_plnt_t_juglansRegia_2s,81,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_juglansregia_2s.p3d,interactive vegetation class,TreeHard_t_juglansRegia_2s
+bldr_plnt_t_juglansRegia_3s,62,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_juglansregia_3s.p3d,interactive vegetation class,TreeHard_t_juglansRegia_3s
+bldr_plnt_t_malusDomestica_2s,9,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_malusdomestica_2s.p3d,interactive vegetation class,TreeSoft_t_malusDomestica_2s
+bldr_plnt_t_malusDomestica_3s,25,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_malusdomestica_3s.p3d,interactive vegetation class,TreeSoft_t_malusDomestica_3s
+bldr_plnt_t_naked_1s,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_naked_1s.p3d,interactive vegetation class,TreeHard_t_naked_1s
+bldr_plnt_t_naked_2s,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_naked_2s.p3d,interactive vegetation class,TreeHard_t_naked_2s
+bldr_plnt_t_populusAlba_1f,8,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_populusalba_1f.p3d,interactive vegetation class,TreeSoft_t_populusAlba_1f
+bldr_plnt_t_populusAlba_2s,38,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_populusalba_2s.p3d,interactive vegetation class,TreeHard_t_populusAlba_2s
+bldr_plnt_t_populusAlba_3s,93,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_populusalba_3s.p3d,interactive vegetation class,TreeHard_t_populusAlba_3s
+bldr_plnt_t_populusNigra_3s,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_populusnigra_3s.p3d,interactive vegetation class,TreeHard_t_populusNigra_3s
+bldr_plnt_t_prunusDomestica_2s,18,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_prunusdomestica_2s.p3d,interactive vegetation class,TreeHard_t_prunusDomestica_2s
+bldr_plnt_t_pyrusCommunis_2s,14,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_pyruscommunis_2s.p3d,interactive vegetation class,TreeSoft_t_pyrusCommunis_2s
+bldr_plnt_t_pyrusCommunis_3s,31,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_pyruscommunis_3s.p3d,interactive vegetation class,TreeHard_t_pyrusCommunis_3s
+bldr_plnt_t_pyrusCommunis_3sb,13,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_pyruscommunis_3sb.p3d,interactive vegetation class,TreeHard_t_pyrusCommunis_3sb
+bldr_plnt_t_quercusRobur_1s,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_1s.p3d,interactive vegetation class,TreeSoft_t_quercusRobur_1s
+bldr_plnt_t_quercusRobur_2fb,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_2fb.p3d,interactive vegetation class,TreeSoft_t_quercusRobur_2fb
+bldr_plnt_t_quercusRobur_2s,9,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_2s.p3d,interactive vegetation class,TreeHard_t_quercusRobur_2s
+bldr_plnt_t_quercusRobur_2sb,5,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_2sb.p3d,interactive vegetation class,TreeHard_t_quercusRobur_2sb
+bldr_plnt_t_quercusRobur_2sc,10,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_2sc.p3d,interactive vegetation class,TreeHard_t_quercusRobur_2sc
+bldr_plnt_t_quercusRobur_3f,4,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_3f.p3d,interactive vegetation class,TreeHard_t_quercusRobur_3f
+bldr_plnt_t_quercusRobur_3fb,7,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_3fb.p3d,interactive vegetation class,TreeHard_t_quercusRobur_3fb
+bldr_plnt_t_quercusRobur_3s,10,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_3s.p3d,interactive vegetation class,TreeHard_t_quercusRobur_3s
+bldr_plnt_t_quercusRobur_3sb,44,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_3sb.p3d,interactive vegetation class,TreeHard_t_quercusRobur_3sb
+bldr_plnt_t_robiniaPseudoacacia_1f,10,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_robiniapseudoacacia_1f.p3d,interactive vegetation class,TreeSoft_t_robiniaPseudoacacia_1f
+bldr_plnt_t_robiniaPseudoacacia_2f,34,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_robiniapseudoacacia_2f.p3d,interactive vegetation class,TreeHard_t_robiniaPseudoacacia_2f
+bldr_plnt_t_robiniaPseudoacacia_2s,98,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_robiniapseudoacacia_2s.p3d,interactive vegetation class,TreeHard_t_robiniaPseudoacacia_2s
+bldr_plnt_t_robiniaPseudoacacia_3f,47,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_robiniapseudoacacia_3f.p3d,interactive vegetation class,TreeHard_t_robiniaPseudoacacia_3f
+bldr_plnt_t_salixAlba_2sb,12,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_salixalba_2sb.p3d,interactive vegetation class,TreeHard_t_salixAlba_2sb
+bldr_plnt_t_salixAlba_2sb_swamp,9,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_salixalba_2sb_swamp.p3d,interactive vegetation class,TreeHard_t_salixAlba_2sb_swamp
+bldr_plnt_t_town_1s,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_town_1s.p3d,interactive vegetation class,TreeSoft_t_town_1s
+bldr_power_pole_wood1_trail_y,1,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\power\power_pole_wood1_trail_y.p3d,native static class; exact model match,StaticObj_Power_Pole_Wood1_Trail_Y
+bldr_rail_polett1,2,rail/config.cpp,HouseNoDestruct,\DZ\structures\rail\misc\rail_polett1.p3d,native static class; exact model match,StaticObj_Rail_PoleTT1
+bldr_roadblock_bags_curve,7,Military/improvised/config.cpp,HouseNoDestruct,\DZ\structures\military\improvised\roadblock_bags_curve.p3d,native static class; exact model match,StaticObj_Roadblock_Bags_Curve
+bldr_roadblock_bags_endl,1,Military/improvised/config.cpp,HouseNoDestruct,\DZ\structures\military\improvised\roadblock_bags_endl.p3d,native static class; exact model match,StaticObj_Roadblock_Bags_EndL
+bldr_roadblock_bags_endr,1,Military/improvised/config.cpp,HouseNoDestruct,\DZ\structures\military\improvised\roadblock_bags_endr.p3d,native static class; exact model match,StaticObj_Roadblock_Bags_EndR
+bldr_roadblock_bags_long,2,Military/improvised/config.cpp,HouseNoDestruct,\DZ\structures\military\improvised\roadblock_bags_long.p3d,native static class; exact model match,StaticObj_Roadblock_Bags_Long
+bldr_roadblock_cncblock,5,Military/improvised/config.cpp,HouseNoDestruct,\DZ\structures\military\improvised\roadblock_cncblock.p3d,native static class; exact model match,StaticObj_Roadblock_CncBlock
+bldr_roadblock_cncblocks_long,11,Military/improvised/config.cpp,HouseNoDestruct,\DZ\structures\military\improvised\roadblock_cncblocks_long.p3d,native static class; exact model match,StaticObj_Roadblock_CncBlocks_Long
+bldr_roadblock_cncblocks_short,4,Military/improvised/config.cpp,HouseNoDestruct,\DZ\structures\military\improvised\roadblock_cncblocks_short.p3d,native static class; exact model match,StaticObj_Roadblock_CncBlocks_short
+bldr_roadblock_pillbox,5,Military/improvised/config.cpp,HouseNoDestruct,\DZ\structures\military\improvised\roadblock_pillbox.p3d,native static class; exact model match,StaticObj_Roadblock_Pillbox
+bldr_student_chair,1,furniture/config.cpp,HouseNoDestruct,\DZ\structures\furniture\school_equipment\student_chair.p3d,native static class; exact model match,StaticObj_Furniture_student_chair
+bldr_tent_boxwooden,4,Military/improvised/config.cpp,HouseNoDestruct,\DZ\structures\military\improvised\proxy\tent_boxwooden.p3d,retained; no exact behavior-preserving native standalone class,bldr_tent_boxwooden
+bldr_tent_chair,4,Military/improvised/config.cpp,HouseNoDestruct,\DZ\structures\military\improvised\proxy\tent_chair.p3d,retained; no exact behavior-preserving native standalone class,bldr_tent_chair
+bldr_tent_gunrack,2,Military/improvised/config.cpp,HouseNoDestruct,\DZ\structures\military\improvised\proxy\tent_gunrack.p3d,retained; no exact behavior-preserving native standalone class,bldr_tent_gunrack
+bldr_wall_forfieldfen_end,3,walls/config.cpp,HouseNoDestruct,\DZ\structures\walls\wall_forfieldfen_end.p3d,native static class; exact model match,StaticObj_Wall_ForFieldFen_end
+bldr_wall_garbcont,5,walls/config.cpp,HouseNoDestruct,\DZ\structures\walls\wall_garbcont.p3d,native static class; exact model match,StaticObj_Wall_GarbCont
+bldr_wall_gate_kolchoz,1,walls/config.cpp,HouseNoDestruct,\DZ\structures\walls\wall_gate_kolchoz.p3d,retained; no exact behavior-preserving native standalone class,bldr_wall_gate_kolchoz
+bldr_wall_indfnc_3,1,walls/config.cpp,HouseNoDestruct,\DZ\structures\walls\wall_indfnc_3.p3d,native static class; exact model match,StaticObj_Wall_IndFnc_3
+bldr_wall_indfnc_9,2,walls/config.cpp,HouseNoDestruct,\DZ\structures\walls\wall_indfnc_9.p3d,native static class; exact model match,StaticObj_Wall_IndFnc_9
+bldr_wall_indfnc_pole,2,walls/config.cpp,HouseNoDestruct,\DZ\structures\walls\wall_indfnc_pole.p3d,native static class; exact model match,StaticObj_Wall_IndFnc_Pole
+bldr_wreck_bmp2,3,wrecks/config.cpp,HouseNoDestruct,\DZ\structures\wrecks\vehicles\wreck_bmp2.p3d,native static class; exact model match,StaticObj_Wreck_BMP2
+bldr_wreck_brdm,3,wrecks/config.cpp,HouseNoDestruct,\DZ\structures\wrecks\vehicles\wreck_brdm.p3d,native static class; exact model match,StaticObj_Wreck_BRDM
+bldr_wreck_bulldozer,3,wrecks/config.cpp,HouseNoDestruct,\DZ\structures\wrecks\vehicles\wreck_bulldozer.p3d,native static class; exact model match,StaticObj_Wreck_Bulldozer
+bldr_wreck_decal_small1,1,wrecks/config.cpp,HouseNoDestruct,\DZ\structures\wrecks\vehicles\wreck_decal_small1.p3d,native static class; exact model match,StaticObj_Wreck_Decal_Small1
+bldr_wreck_digger,1,wrecks/config.cpp,HouseNoDestruct,\DZ\structures\wrecks\vehicles\wreck_digger.p3d,native static class; exact model match,StaticObj_Wreck_Digger
+bldr_wreck_harverster,1,wrecks/config.cpp,HouseNoDestruct,\DZ\structures\wrecks\vehicles\wreck_harverster.p3d,native static class; exact model match,Land_Wreck_Harverster
+bldr_wreck_hmmwv,17,wrecks/config.cpp,HouseNoDestruct,\DZ\structures\wrecks\vehicles\wreck_hmmwv.p3d,native static class; exact model match,StaticObj_Wreck_HMMWV
+bldr_wreck_t72_chassis,1,wrecks/config.cpp,HouseNoDestruct,\DZ\structures\wrecks\vehicles\wreck_t72_chassis.p3d,native static class; exact model match,StaticObj_Wreck_T72_Chassis
+bldr_wreck_t72_turret,1,wrecks/config.cpp,HouseNoDestruct,\DZ\structures\wrecks\vehicles\wreck_t72_turret.p3d,native static class; exact model match,StaticObj_Wreck_T72_Turret
+bldr_wreck_trailer_cistern,1,wrecks/config.cpp,HouseNoDestruct,\DZ\structures\wrecks\vehicles\wreck_trailer_cistern.p3d,native static class; exact model match,StaticObj_Wreck_Trailer_Cistern
+bldr_wreck_trailer_flat,1,wrecks/config.cpp,HouseNoDestruct,\DZ\structures\wrecks\vehicles\wreck_trailer_flat.p3d,native static class; exact model match,StaticObj_Wreck_Trailer_Flat
+bldr_wreck_ural,9,wrecks/config.cpp,HouseNoDestruct,\DZ\structures\wrecks\vehicles\wreck_ural.p3d,native static class; exact model match,StaticObj_Wreck_Ural
