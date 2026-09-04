@@ -1,4 +1,5 @@
 original_builderitems_class,replacement_name,replacement_type,placements
+Land_WindPowerPlant_Grey,DZ/structures_bliss/industrial/WindPowerPlant/WindPowerPlant_Grey.p3d,DayZ Editor-compatible direct structure model path,36
 bldr_Dead_MassGrave_15m,StaticObj_Dead_MassGrave_15m,native static class; exact model match,1
 bldr_Dead_pile1,StaticObj_Dead_pile1,native static class; exact model match,2
 bldr_Dead_pile2,StaticObj_Dead_pile2,native static class; exact model match,3
@@ -50,118 +51,118 @@ bldr_misc_timbers_log3,StaticObj_Misc_Timbers_Log3,native static class; exact mo
 bldr_misc_tirepile,StaticObj_Misc_TirePile,native static class; exact model match,1
 bldr_office_chair,StaticObj_Furniture_office_chair,native static class; exact model match,1
 bldr_office_table_a,StaticObj_Furniture_office_table_a,native static class; exact model match,1
-bldr_plnt_b_FagusSylvatica_1f,BushHard_b_FagusSylvatica_1f,interactive vegetation class,1
-bldr_plnt_b_betulaHumilis_1s,BushSoft_b_betulaHumilis_1s,interactive vegetation class,20
-bldr_plnt_b_corylusAvellana_1f,BushSoft_b_corylusAvellana_1f,interactive vegetation class,12
-bldr_plnt_b_corylusAvellana_2s,BushHard_b_corylusAvellana_2s,interactive vegetation class,19
-bldr_plnt_b_crataegusLaevigata_1s,BushSoft_b_crataegusLaevigata_1s,interactive vegetation class,13
-bldr_plnt_b_crataegusLaevigata_2s,BushHard_b_crataegusLaevigata_2s,interactive vegetation class,9
-bldr_plnt_b_prunusSpinosa_1s,BushHard_b_prunusSpinosa_1s,interactive vegetation class,8
-bldr_plnt_b_prunusSpinosa_2s,BushHard_b_prunusSpinosa_2s,interactive vegetation class,18
-bldr_plnt_b_rosaCanina_1s,BushSoft_b_rosaCanina_1s,interactive vegetation class,11
-bldr_plnt_b_rosaCanina_2s,BushSoft_b_rosaCanina_2s,interactive vegetation class,7
-bldr_plnt_b_sambucusNigra_1s,BushSoft_b_sambucusNigra_1s,interactive vegetation class,8
-bldr_plnt_b_sambucusNigra_2s,BushHard_b_sambucusNigra_2s,interactive vegetation class,11
-bldr_plnt_c_Anthoxanthum,DZ/plants/clutter/c_anthoxanthum.p3d,direct static plant model path,8
-bldr_plnt_c_Anthoxanthum_bended,DZ/plants/clutter/c_anthoxanthum_bended.p3d,direct static plant model path,2
-bldr_plnt_c_Broadleaf_sprouts,DZ/plants/clutter/c_broadleaf_sprouts.p3d,direct static plant model path,1
-bldr_plnt_c_Carduus,DZ/plants/clutter/c_carduus.p3d,direct static plant model path,1
-bldr_plnt_c_ConcreteGrass_bunch,DZ/plants/clutter/c_concretegrass_bunch.p3d,direct static plant model path,2
-bldr_plnt_c_Elytrigia,DZ/plants/clutter/c_elytrigia.p3d,direct static plant model path,1
-bldr_plnt_c_ElytrigiaDirt,DZ/plants/clutter/c_elytrigiadirt.p3d,direct static plant model path,380
-bldr_plnt_c_ElytrigiaForest,DZ/plants/clutter/c_elytrigiaforest.p3d,direct static plant model path,2
-bldr_plnt_c_ElytrigiaTall,DZ/plants/clutter/c_elytrigiatall.p3d,direct static plant model path,615
-bldr_plnt_c_Elytrigia_green,DZ/plants/clutter/c_elytrigia_green.p3d,direct static plant model path,4347
-bldr_plnt_c_GrassDryCarduus_f_summer,DZ/plants_bliss/clutter/c_GrassDryCarduus_f_summer.p3d,direct static plant model path,15
-bldr_plnt_c_GrassDryHypericum_summer,DZ/plants_bliss/clutter/c_GrassDryHypericum_summer.p3d,direct static plant model path,1
-bldr_plnt_c_GrassDry_summer,DZ/plants_bliss/clutter/c_GrassDry_summer.p3d,direct static plant model path,1058
-bldr_plnt_ivy_A,DZ/plants_bliss/building/ivy_A.p3d,direct static plant model path,3
-bldr_plnt_ivy_B,DZ/plants_bliss/building/ivy_B.p3d,direct static plant model path,3
-bldr_plnt_ivy_C,DZ/plants_bliss/building/ivy_C.p3d,direct static plant model path,1
-bldr_plnt_ivy_D,DZ/plants_bliss/building/ivy_D.p3d,direct static plant model path,2
-bldr_plnt_ivy_F,DZ/plants_bliss/building/ivy_F.p3d,direct static plant model path,1
-bldr_plnt_ivy_G,DZ/plants_bliss/building/ivy_G.p3d,direct static plant model path,2
-bldr_plnt_ivy_K,DZ/plants_bliss/building/ivy_K.p3d,direct static plant model path,1
-bldr_plnt_ivy_M,DZ/plants_bliss/building/ivy_M.p3d,direct static plant model path,1
-bldr_plnt_ivy_T,DZ/plants_bliss/building/ivy_T.p3d,direct static plant model path,1
-bldr_plnt_t_BetulaPendula_1fb,TreeSoft_t_BetulaPendula_1fb,interactive vegetation class,2
-bldr_plnt_t_BetulaPendula_1s,TreeSoft_t_BetulaPendula_1s,interactive vegetation class,1
-bldr_plnt_t_BetulaPendula_2f,TreeSoft_t_BetulaPendula_2f,interactive vegetation class,1
-bldr_plnt_t_BetulaPendula_2fb,TreeSoft_t_BetulaPendula_2fb,interactive vegetation class,3
-bldr_plnt_t_BetulaPendula_2s,TreeHard_t_BetulaPendula_2s,interactive vegetation class,2
-bldr_plnt_t_BetulaPendula_2w,TreeSoft_t_BetulaPendula_2w,interactive vegetation class,6
-bldr_plnt_t_BetulaPendula_3f,TreeHard_t_BetulaPendula_3f,interactive vegetation class,1
-bldr_plnt_t_BetulaPendula_3fb,TreeHard_t_BetulaPendula_3fb,interactive vegetation class,3
-bldr_plnt_t_BetulaPendula_3fc,TreeHard_t_BetulaPendula_3fc,interactive vegetation class,9
-bldr_plnt_t_BetulaPendula_3s,TreeHard_t_BetulaPendula_3s,interactive vegetation class,7
-bldr_plnt_t_FagusSylvatica_1f,TreeSoft_t_FagusSylvatica_1f,interactive vegetation class,2
-bldr_plnt_t_FagusSylvatica_1fc,TreeSoft_t_FagusSylvatica_1fc,interactive vegetation class,2
-bldr_plnt_t_FagusSylvatica_1fd,TreeSoft_t_FagusSylvatica_1fd,interactive vegetation class,5
-bldr_plnt_t_FagusSylvatica_1fe,TreeHard_t_FagusSylvatica_1fe,interactive vegetation class,4
-bldr_plnt_t_FagusSylvatica_1s,TreeSoft_t_FagusSylvatica_1s,interactive vegetation class,7
-bldr_plnt_t_FagusSylvatica_2d,TreeHard_t_FagusSylvatica_2d,interactive vegetation class,2
-bldr_plnt_t_FagusSylvatica_2f,TreeHard_t_FagusSylvatica_2f,interactive vegetation class,1
-bldr_plnt_t_FagusSylvatica_2f_cut,DZ/plants/tree/cutted_cut/t_fagussylvatica_2f_cut.p3d,direct static plant model path,2
-bldr_plnt_t_FagusSylvatica_2fb,TreeHard_t_FagusSylvatica_2fb,interactive vegetation class,1
-bldr_plnt_t_FagusSylvatica_2fc,TreeHard_t_FagusSylvatica_2fc,interactive vegetation class,3
-bldr_plnt_t_FagusSylvatica_2s,TreeHard_t_FagusSylvatica_2s,interactive vegetation class,23
-bldr_plnt_t_FagusSylvatica_2sb,TreeSoft_t_FagusSylvatica_2sb,interactive vegetation class,12
-bldr_plnt_t_FagusSylvatica_2sb_Trail_G,TreeSoft_t_FagusSylvatica_2sb_Trail_G,interactive vegetation class,1
-bldr_plnt_t_FagusSylvatica_2sb_Trail_G_summer,TreeSoft_t_FagusSylvatica_2sb_Trail_G_summer,interactive vegetation class,1
-bldr_plnt_t_FagusSylvatica_2sb_Trail_R,TreeSoft_t_FagusSylvatica_2sb_Trail_R,interactive vegetation class,1
-bldr_plnt_t_FagusSylvatica_2sb_Trail_Y,TreeSoft_t_FagusSylvatica_2sb_Trail_Y,interactive vegetation class,5
-bldr_plnt_t_FagusSylvatica_3f,TreeHard_t_FagusSylvatica_3f,interactive vegetation class,1
-bldr_plnt_t_FagusSylvatica_3f_summer,TreeHard_t_FagusSylvatica_3f_summer,interactive vegetation class,1
-bldr_plnt_t_FagusSylvatica_3fb,TreeHard_t_FagusSylvatica_3fb,interactive vegetation class,1
-bldr_plnt_t_FagusSylvatica_3fb_test,TreeHard_t_FagusSylvatica_3fb,interactive vegetation class; test-model fallback,24
-bldr_plnt_t_FagusSylvatica_3s,TreeHard_t_FagusSylvatica_3s,interactive vegetation class,105
-bldr_plnt_t_FagusSylvatica_3s_summer,TreeHard_t_FagusSylvatica_3s_summer,interactive vegetation class,6
-bldr_plnt_t_FraxinusExcelsior_2f,TreeHard_t_FraxinusExcelsior_2f,interactive vegetation class,56
-bldr_plnt_t_FraxinusExcelsior_2s,TreeHard_t_FraxinusExcelsior_2s,interactive vegetation class,55
-bldr_plnt_t_FraxinusExcelsior_2w,TreeSoft_t_FraxinusExcelsior_2w,interactive vegetation class,7
-bldr_plnt_t_FraxinusExcelsior_3s,TreeHard_t_FraxinusExcelsior_3s,interactive vegetation class,110
-bldr_plnt_t_PiceaAbies_1f,TreeSoft_t_PiceaAbies_1f,interactive vegetation class,8
-bldr_plnt_t_PiceaAbies_1s,BushHard_t_PiceaAbies_1s,interactive vegetation class,1
-bldr_plnt_t_PiceaAbies_1sb,BushHard_t_PiceaAbies_1sb,interactive vegetation class,1
-bldr_plnt_t_PiceaAbies_2f,TreeHard_t_PiceaAbies_2f,interactive vegetation class,13
-bldr_plnt_t_PiceaAbies_2fb,TreeHard_t_PiceaAbies_2fb,interactive vegetation class,1
-bldr_plnt_t_PiceaAbies_2s,TreeHard_t_PiceaAbies_2s,interactive vegetation class,49
-bldr_plnt_t_PiceaAbies_2sb,TreeSoft_t_PiceaAbies_2sb,interactive vegetation class,6
-bldr_plnt_t_PiceaAbies_3f,TreeHard_t_PiceaAbies_3f,interactive vegetation class,3
-bldr_plnt_t_PiceaAbies_3f_Trail_G,TreeHard_t_PiceaAbies_3f_Trail_G,interactive vegetation class,8
-bldr_plnt_t_PiceaAbies_3f_Trail_Y,TreeHard_t_PiceaAbies_3f_Trail_Y,interactive vegetation class,1
-bldr_plnt_t_PiceaAbies_3s,TreeHard_t_PiceaAbies_3s,interactive vegetation class,3
-bldr_plnt_t_carpinus_2s,TreeHard_t_carpinus_2s,interactive vegetation class,10
-bldr_plnt_t_juglansRegia_2s,TreeHard_t_juglansRegia_2s,interactive vegetation class,81
-bldr_plnt_t_juglansRegia_3s,TreeHard_t_juglansRegia_3s,interactive vegetation class,62
-bldr_plnt_t_malusDomestica_2s,TreeSoft_t_malusDomestica_2s,interactive vegetation class,9
-bldr_plnt_t_malusDomestica_3s,TreeSoft_t_malusDomestica_3s,interactive vegetation class,25
-bldr_plnt_t_naked_1s,TreeHard_t_naked_1s,interactive vegetation class,2
-bldr_plnt_t_naked_2s,TreeHard_t_naked_2s,interactive vegetation class,1
-bldr_plnt_t_populusAlba_1f,TreeSoft_t_populusAlba_1f,interactive vegetation class,8
-bldr_plnt_t_populusAlba_2s,TreeHard_t_populusAlba_2s,interactive vegetation class,38
-bldr_plnt_t_populusAlba_3s,TreeHard_t_populusAlba_3s,interactive vegetation class,93
-bldr_plnt_t_populusNigra_3s,TreeHard_t_populusNigra_3s,interactive vegetation class,3
-bldr_plnt_t_prunusDomestica_2s,TreeHard_t_prunusDomestica_2s,interactive vegetation class,18
-bldr_plnt_t_pyrusCommunis_2s,TreeSoft_t_pyrusCommunis_2s,interactive vegetation class,14
-bldr_plnt_t_pyrusCommunis_3s,TreeHard_t_pyrusCommunis_3s,interactive vegetation class,31
-bldr_plnt_t_pyrusCommunis_3sb,TreeHard_t_pyrusCommunis_3sb,interactive vegetation class,13
-bldr_plnt_t_quercusRobur_1s,TreeSoft_t_quercusRobur_1s,interactive vegetation class,3
-bldr_plnt_t_quercusRobur_2fb,TreeSoft_t_quercusRobur_2fb,interactive vegetation class,3
-bldr_plnt_t_quercusRobur_2s,TreeHard_t_quercusRobur_2s,interactive vegetation class,9
-bldr_plnt_t_quercusRobur_2sb,TreeHard_t_quercusRobur_2sb,interactive vegetation class,5
-bldr_plnt_t_quercusRobur_2sc,TreeHard_t_quercusRobur_2sc,interactive vegetation class,10
-bldr_plnt_t_quercusRobur_3f,TreeHard_t_quercusRobur_3f,interactive vegetation class,4
-bldr_plnt_t_quercusRobur_3fb,TreeHard_t_quercusRobur_3fb,interactive vegetation class,7
-bldr_plnt_t_quercusRobur_3s,TreeHard_t_quercusRobur_3s,interactive vegetation class,10
-bldr_plnt_t_quercusRobur_3sb,TreeHard_t_quercusRobur_3sb,interactive vegetation class,44
-bldr_plnt_t_robiniaPseudoacacia_1f,TreeSoft_t_robiniaPseudoacacia_1f,interactive vegetation class,10
-bldr_plnt_t_robiniaPseudoacacia_2f,TreeHard_t_robiniaPseudoacacia_2f,interactive vegetation class,34
-bldr_plnt_t_robiniaPseudoacacia_2s,TreeHard_t_robiniaPseudoacacia_2s,interactive vegetation class,98
-bldr_plnt_t_robiniaPseudoacacia_3f,TreeHard_t_robiniaPseudoacacia_3f,interactive vegetation class,47
-bldr_plnt_t_salixAlba_2sb,TreeHard_t_salixAlba_2sb,interactive vegetation class,12
-bldr_plnt_t_salixAlba_2sb_swamp,TreeHard_t_salixAlba_2sb_swamp,interactive vegetation class,9
-bldr_plnt_t_town_1s,TreeSoft_t_town_1s,interactive vegetation class,1
+bldr_plnt_b_FagusSylvatica_1f,DZ/plants/tree/b_fagussylvatica_1f.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_b_betulaHumilis_1s,DZ/plants/bush/b_betulahumilis_1s.p3d,DayZ Editor-compatible direct plant model path,20
+bldr_plnt_b_corylusAvellana_1f,DZ/plants/bush/b_corylusavellana_1f.p3d,DayZ Editor-compatible direct plant model path,12
+bldr_plnt_b_corylusAvellana_2s,DZ/plants/bush/b_corylusavellana_2s.p3d,DayZ Editor-compatible direct plant model path,19
+bldr_plnt_b_crataegusLaevigata_1s,DZ/plants/bush/b_crataeguslaevigata_1s.p3d,DayZ Editor-compatible direct plant model path,13
+bldr_plnt_b_crataegusLaevigata_2s,DZ/plants/bush/b_crataeguslaevigata_2s.p3d,DayZ Editor-compatible direct plant model path,9
+bldr_plnt_b_prunusSpinosa_1s,DZ/plants/bush/b_prunusspinosa_1s.p3d,DayZ Editor-compatible direct plant model path,8
+bldr_plnt_b_prunusSpinosa_2s,DZ/plants/bush/b_prunusspinosa_2s.p3d,DayZ Editor-compatible direct plant model path,18
+bldr_plnt_b_rosaCanina_1s,DZ/plants/bush/b_rosacanina_1s.p3d,DayZ Editor-compatible direct plant model path,11
+bldr_plnt_b_rosaCanina_2s,DZ/plants/bush/b_rosacanina_2s.p3d,DayZ Editor-compatible direct plant model path,7
+bldr_plnt_b_sambucusNigra_1s,DZ/plants/bush/b_sambucusnigra_1s.p3d,DayZ Editor-compatible direct plant model path,8
+bldr_plnt_b_sambucusNigra_2s,DZ/plants/bush/b_sambucusnigra_2s.p3d,DayZ Editor-compatible direct plant model path,11
+bldr_plnt_c_Anthoxanthum,DZ/plants/clutter/c_anthoxanthum.p3d,DayZ Editor-compatible direct plant model path,8
+bldr_plnt_c_Anthoxanthum_bended,DZ/plants/clutter/c_anthoxanthum_bended.p3d,DayZ Editor-compatible direct plant model path,2
+bldr_plnt_c_Broadleaf_sprouts,DZ/plants/clutter/c_broadleaf_sprouts.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_c_Carduus,DZ/plants/clutter/c_carduus.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_c_ConcreteGrass_bunch,DZ/plants/clutter/c_concretegrass_bunch.p3d,DayZ Editor-compatible direct plant model path,2
+bldr_plnt_c_Elytrigia,DZ/plants/clutter/c_elytrigia.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_c_ElytrigiaDirt,DZ/plants/clutter/c_elytrigiadirt.p3d,DayZ Editor-compatible direct plant model path,380
+bldr_plnt_c_ElytrigiaForest,DZ/plants/clutter/c_elytrigiaforest.p3d,DayZ Editor-compatible direct plant model path,2
+bldr_plnt_c_ElytrigiaTall,DZ/plants/clutter/c_elytrigiatall.p3d,DayZ Editor-compatible direct plant model path,615
+bldr_plnt_c_Elytrigia_green,DZ/plants/clutter/c_elytrigia_green.p3d,DayZ Editor-compatible direct plant model path,4347
+bldr_plnt_c_GrassDryCarduus_f_summer,DZ/plants_bliss/clutter/c_GrassDryCarduus_f_summer.p3d,DayZ Editor-compatible direct plant model path,15
+bldr_plnt_c_GrassDryHypericum_summer,DZ/plants_bliss/clutter/c_GrassDryHypericum_summer.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_c_GrassDry_summer,DZ/plants_bliss/clutter/c_GrassDry_summer.p3d,DayZ Editor-compatible direct plant model path,1058
+bldr_plnt_ivy_A,DZ/plants_bliss/building/ivy_A.p3d,DayZ Editor-compatible direct plant model path,3
+bldr_plnt_ivy_B,DZ/plants_bliss/building/ivy_B.p3d,DayZ Editor-compatible direct plant model path,3
+bldr_plnt_ivy_C,DZ/plants_bliss/building/ivy_C.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_ivy_D,DZ/plants_bliss/building/ivy_D.p3d,DayZ Editor-compatible direct plant model path,2
+bldr_plnt_ivy_F,DZ/plants_bliss/building/ivy_F.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_ivy_G,DZ/plants_bliss/building/ivy_G.p3d,DayZ Editor-compatible direct plant model path,2
+bldr_plnt_ivy_K,DZ/plants_bliss/building/ivy_K.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_ivy_M,DZ/plants_bliss/building/ivy_M.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_ivy_T,DZ/plants_bliss/building/ivy_T.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_BetulaPendula_1fb,DZ/plants/tree/t_betulapendula_1fb.p3d,DayZ Editor-compatible direct plant model path,2
+bldr_plnt_t_BetulaPendula_1s,DZ/plants/tree/t_betulapendula_1s.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_BetulaPendula_2f,DZ/plants/tree/t_betulapendula_2f.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_BetulaPendula_2fb,DZ/plants/tree/t_betulapendula_2fb.p3d,DayZ Editor-compatible direct plant model path,3
+bldr_plnt_t_BetulaPendula_2s,DZ/plants/tree/t_betulapendula_2s.p3d,DayZ Editor-compatible direct plant model path,2
+bldr_plnt_t_BetulaPendula_2w,DZ/plants/tree/t_betulapendula_2w.p3d,DayZ Editor-compatible direct plant model path,6
+bldr_plnt_t_BetulaPendula_3f,DZ/plants/tree/t_betulapendula_3f.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_BetulaPendula_3fb,DZ/plants/tree/t_betulapendula_3fb.p3d,DayZ Editor-compatible direct plant model path,3
+bldr_plnt_t_BetulaPendula_3fc,DZ/plants/tree/t_betulapendula_3fc.p3d,DayZ Editor-compatible direct plant model path,9
+bldr_plnt_t_BetulaPendula_3s,DZ/plants/tree/t_betulapendula_3s.p3d,DayZ Editor-compatible direct plant model path,7
+bldr_plnt_t_FagusSylvatica_1f,DZ/plants/tree/t_fagussylvatica_1f.p3d,DayZ Editor-compatible direct plant model path,2
+bldr_plnt_t_FagusSylvatica_1fc,DZ/plants/tree/t_fagussylvatica_1fc.p3d,DayZ Editor-compatible direct plant model path,2
+bldr_plnt_t_FagusSylvatica_1fd,DZ/plants/tree/t_fagussylvatica_1fd.p3d,DayZ Editor-compatible direct plant model path,5
+bldr_plnt_t_FagusSylvatica_1fe,DZ/plants/tree/t_fagussylvatica_1fe.p3d,DayZ Editor-compatible direct plant model path,4
+bldr_plnt_t_FagusSylvatica_1s,DZ/plants/tree/t_fagussylvatica_1s.p3d,DayZ Editor-compatible direct plant model path,7
+bldr_plnt_t_FagusSylvatica_2d,DZ/plants/tree/t_fagussylvatica_2d.p3d,DayZ Editor-compatible direct plant model path,2
+bldr_plnt_t_FagusSylvatica_2f,DZ/plants/tree/t_fagussylvatica_2f.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_FagusSylvatica_2f_cut,DZ/plants/tree/cutted_cut/t_fagussylvatica_2f_cut.p3d,DayZ Editor-compatible direct plant model path,2
+bldr_plnt_t_FagusSylvatica_2fb,DZ/plants/tree/t_fagussylvatica_2fb.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_FagusSylvatica_2fc,DZ/plants/tree/t_fagussylvatica_2fc.p3d,DayZ Editor-compatible direct plant model path,3
+bldr_plnt_t_FagusSylvatica_2s,DZ/plants/tree/t_fagussylvatica_2s.p3d,DayZ Editor-compatible direct plant model path,23
+bldr_plnt_t_FagusSylvatica_2sb,DZ/plants/tree/t_fagussylvatica_2sb.p3d,DayZ Editor-compatible direct plant model path,12
+bldr_plnt_t_FagusSylvatica_2sb_Trail_G,DZ/plants/tree/t_fagussylvatica_2sb_trail_g.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_FagusSylvatica_2sb_Trail_G_summer,DZ/plants_bliss/tree/t_FagusSylvatica_2sb_Trail_G_summer.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_FagusSylvatica_2sb_Trail_R,DZ/plants/tree/t_fagussylvatica_2sb_trail_r.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_FagusSylvatica_2sb_Trail_Y,DZ/plants/tree/t_fagussylvatica_2sb_trail_y.p3d,DayZ Editor-compatible direct plant model path,5
+bldr_plnt_t_FagusSylvatica_3f,DZ/plants/tree/t_fagussylvatica_3f.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_FagusSylvatica_3f_summer,DZ/plants_bliss/tree/t_FagusSylvatica_3f_summer.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_FagusSylvatica_3fb,DZ/plants/tree/t_fagussylvatica_3fb.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_FagusSylvatica_3fb_test,DZ/plants/tree/t_fagussylvatica_3fb_test.p3d,DayZ Editor-compatible direct plant model path,24
+bldr_plnt_t_FagusSylvatica_3s,DZ/plants/tree/t_fagussylvatica_3s.p3d,DayZ Editor-compatible direct plant model path,105
+bldr_plnt_t_FagusSylvatica_3s_summer,DZ/plants_bliss/tree/t_FagusSylvatica_3s_summer.p3d,DayZ Editor-compatible direct plant model path,6
+bldr_plnt_t_FraxinusExcelsior_2f,DZ/plants/tree/t_fraxinusexcelsior_2f.p3d,DayZ Editor-compatible direct plant model path,56
+bldr_plnt_t_FraxinusExcelsior_2s,DZ/plants/tree/t_fraxinusexcelsior_2s.p3d,DayZ Editor-compatible direct plant model path,55
+bldr_plnt_t_FraxinusExcelsior_2w,DZ/plants/tree/t_fraxinusexcelsior_2w.p3d,DayZ Editor-compatible direct plant model path,7
+bldr_plnt_t_FraxinusExcelsior_3s,DZ/plants/tree/t_fraxinusexcelsior_3s.p3d,DayZ Editor-compatible direct plant model path,110
+bldr_plnt_t_PiceaAbies_1f,DZ/plants/tree/t_piceaabies_1f.p3d,DayZ Editor-compatible direct plant model path,8
+bldr_plnt_t_PiceaAbies_1s,DZ/plants/tree/t_piceaabies_1s.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_PiceaAbies_1sb,DZ/plants/tree/t_piceaabies_1sb.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_PiceaAbies_2f,DZ/plants/tree/t_piceaabies_2f.p3d,DayZ Editor-compatible direct plant model path,13
+bldr_plnt_t_PiceaAbies_2fb,DZ/plants/tree/t_piceaabies_2fb.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_PiceaAbies_2s,DZ/plants/tree/t_piceaabies_2s.p3d,DayZ Editor-compatible direct plant model path,49
+bldr_plnt_t_PiceaAbies_2sb,DZ/plants/tree/t_piceaabies_2sb.p3d,DayZ Editor-compatible direct plant model path,6
+bldr_plnt_t_PiceaAbies_3f,DZ/plants/tree/t_piceaabies_3f.p3d,DayZ Editor-compatible direct plant model path,3
+bldr_plnt_t_PiceaAbies_3f_Trail_G,DZ/plants/tree/t_piceaabies_3f_trail_g.p3d,DayZ Editor-compatible direct plant model path,8
+bldr_plnt_t_PiceaAbies_3f_Trail_Y,DZ/plants/tree/t_piceaabies_3f_trail_y.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_PiceaAbies_3s,DZ/plants/tree/t_piceaabies_3s.p3d,DayZ Editor-compatible direct plant model path,3
+bldr_plnt_t_carpinus_2s,DZ/plants/tree/t_carpinus_2s.p3d,DayZ Editor-compatible direct plant model path,10
+bldr_plnt_t_juglansRegia_2s,DZ/plants/tree/t_juglansregia_2s.p3d,DayZ Editor-compatible direct plant model path,81
+bldr_plnt_t_juglansRegia_3s,DZ/plants/tree/t_juglansregia_3s.p3d,DayZ Editor-compatible direct plant model path,62
+bldr_plnt_t_malusDomestica_2s,DZ/plants/tree/t_malusdomestica_2s.p3d,DayZ Editor-compatible direct plant model path,9
+bldr_plnt_t_malusDomestica_3s,DZ/plants/tree/t_malusdomestica_3s.p3d,DayZ Editor-compatible direct plant model path,25
+bldr_plnt_t_naked_1s,DZ/plants/tree/t_naked_1s.p3d,DayZ Editor-compatible direct plant model path,2
+bldr_plnt_t_naked_2s,DZ/plants/tree/t_naked_2s.p3d,DayZ Editor-compatible direct plant model path,1
+bldr_plnt_t_populusAlba_1f,DZ/plants/tree/t_populusalba_1f.p3d,DayZ Editor-compatible direct plant model path,8
+bldr_plnt_t_populusAlba_2s,DZ/plants/tree/t_populusalba_2s.p3d,DayZ Editor-compatible direct plant model path,38
+bldr_plnt_t_populusAlba_3s,DZ/plants/tree/t_populusalba_3s.p3d,DayZ Editor-compatible direct plant model path,93
+bldr_plnt_t_populusNigra_3s,DZ/plants/tree/t_populusnigra_3s.p3d,DayZ Editor-compatible direct plant model path,3
+bldr_plnt_t_prunusDomestica_2s,DZ/plants/tree/t_prunusdomestica_2s.p3d,DayZ Editor-compatible direct plant model path,18
+bldr_plnt_t_pyrusCommunis_2s,DZ/plants/tree/t_pyruscommunis_2s.p3d,DayZ Editor-compatible direct plant model path,14
+bldr_plnt_t_pyrusCommunis_3s,DZ/plants/tree/t_pyruscommunis_3s.p3d,DayZ Editor-compatible direct plant model path,31
+bldr_plnt_t_pyrusCommunis_3sb,DZ/plants/tree/t_pyruscommunis_3sb.p3d,DayZ Editor-compatible direct plant model path,13
+bldr_plnt_t_quercusRobur_1s,DZ/plants/tree/t_quercusrobur_1s.p3d,DayZ Editor-compatible direct plant model path,3
+bldr_plnt_t_quercusRobur_2fb,DZ/plants/tree/t_quercusrobur_2fb.p3d,DayZ Editor-compatible direct plant model path,3
+bldr_plnt_t_quercusRobur_2s,DZ/plants/tree/t_quercusrobur_2s.p3d,DayZ Editor-compatible direct plant model path,9
+bldr_plnt_t_quercusRobur_2sb,DZ/plants/tree/t_quercusrobur_2sb.p3d,DayZ Editor-compatible direct plant model path,5
+bldr_plnt_t_quercusRobur_2sc,DZ/plants/tree/t_quercusrobur_2sc.p3d,DayZ Editor-compatible direct plant model path,10
+bldr_plnt_t_quercusRobur_3f,DZ/plants/tree/t_quercusrobur_3f.p3d,DayZ Editor-compatible direct plant model path,4
+bldr_plnt_t_quercusRobur_3fb,DZ/plants/tree/t_quercusrobur_3fb.p3d,DayZ Editor-compatible direct plant model path,7
+bldr_plnt_t_quercusRobur_3s,DZ/plants/tree/t_quercusrobur_3s.p3d,DayZ Editor-compatible direct plant model path,10
+bldr_plnt_t_quercusRobur_3sb,DZ/plants/tree/t_quercusrobur_3sb.p3d,DayZ Editor-compatible direct plant model path,44
+bldr_plnt_t_robiniaPseudoacacia_1f,DZ/plants/tree/t_robiniapseudoacacia_1f.p3d,DayZ Editor-compatible direct plant model path,10
+bldr_plnt_t_robiniaPseudoacacia_2f,DZ/plants/tree/t_robiniapseudoacacia_2f.p3d,DayZ Editor-compatible direct plant model path,34
+bldr_plnt_t_robiniaPseudoacacia_2s,DZ/plants/tree/t_robiniapseudoacacia_2s.p3d,DayZ Editor-compatible direct plant model path,98
+bldr_plnt_t_robiniaPseudoacacia_3f,DZ/plants/tree/t_robiniapseudoacacia_3f.p3d,DayZ Editor-compatible direct plant model path,47
+bldr_plnt_t_salixAlba_2sb,DZ/plants/tree/t_salixalba_2sb.p3d,DayZ Editor-compatible direct plant model path,12
+bldr_plnt_t_salixAlba_2sb_swamp,DZ/plants/tree/t_salixalba_2sb_swamp.p3d,DayZ Editor-compatible direct plant model path,9
+bldr_plnt_t_town_1s,DZ/plants/tree/t_town_1s.p3d,DayZ Editor-compatible direct plant model path,1
 bldr_power_pole_wood1_trail_y,StaticObj_Power_Pole_Wood1_Trail_Y,native static class; exact model match,1
 bldr_rail_polett1,StaticObj_Rail_PoleTT1,native static class; exact model match,2
 bldr_roadblock_bags_curve,StaticObj_Roadblock_Bags_Curve,native static class; exact model match,7

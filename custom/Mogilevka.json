@@ -1,7 +1,7 @@
 {
   "Objects": [
     {
-      "name": "TreeSoft_t_BetulaPendula_2w",
+      "name": "DZ/plants/tree/t_betulapendula_2w.p3d",
       "pos": [
         7633.524902,
         225.973785,
@@ -15,7 +15,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FagusSylvatica_3s",
+      "name": "DZ/plants/tree/t_fagussylvatica_3s.p3d",
       "pos": [
         7572.646484,
         231.08165,
@@ -29,7 +29,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FagusSylvatica_3s",
+      "name": "DZ/plants/tree/t_fagussylvatica_3s.p3d",
       "pos": [
         7556.308594,
         225.765854,
@@ -43,7 +43,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FagusSylvatica_3s",
+      "name": "DZ/plants/tree/t_fagussylvatica_3s.p3d",
       "pos": [
         7517.55957,
         224.016571,
@@ -57,7 +57,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_2f",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_2f.p3d",
       "pos": [
         7540.66748,
         222.036346,
@@ -71,7 +71,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_2f",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_2f.p3d",
       "pos": [
         7521.771973,
         222.946548,
@@ -85,7 +85,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FagusSylvatica_3s",
+      "name": "DZ/plants/tree/t_fagussylvatica_3s.p3d",
       "pos": [
         7419.480957,
         228.760864,
@@ -99,7 +99,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FagusSylvatica_3s",
+      "name": "DZ/plants/tree/t_fagussylvatica_3s.p3d",
       "pos": [
         7404.006348,
         231.28537,
@@ -113,7 +113,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_2s",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_2s.p3d",
       "pos": [
         7390.161133,
         230.310776,
@@ -127,7 +127,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_2s",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_2s.p3d",
       "pos": [
         7499.631836,
         224.576767,
@@ -141,7 +141,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_2s",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_2s.p3d",
       "pos": [
         7543.304199,
         226.4366,
@@ -155,7 +155,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_2f",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_2f.p3d",
       "pos": [
         7533.877441,
         225.862381,
@@ -169,7 +169,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_FraxinusExcelsior_2w",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_2w.p3d",
       "pos": [
         7600.518066,
         224.531326,
@@ -183,7 +183,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_3s",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_3s.p3d",
       "pos": [
         7613.688965,
         234.276703,
@@ -197,7 +197,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_juglansRegia_2s",
+      "name": "DZ/plants/tree/t_juglansregia_2s.p3d",
       "pos": [
         7628.312012,
         229.730942,
@@ -211,7 +211,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_juglansRegia_2s",
+      "name": "DZ/plants/tree/t_juglansregia_2s.p3d",
       "pos": [
         7626.620605,
         221.611389,
@@ -225,7 +225,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_juglansRegia_2s",
+      "name": "DZ/plants/tree/t_juglansregia_2s.p3d",
       "pos": [
         7531.915039,
         214.840073,
@@ -239,7 +239,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_juglansRegia_3s",
+      "name": "DZ/plants/tree/t_juglansregia_3s.p3d",
       "pos": [
         7532.957031,
         219.872742,
@@ -253,7 +253,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_juglansRegia_3s",
+      "name": "DZ/plants/tree/t_juglansregia_3s.p3d",
       "pos": [
         7520.748535,
         222.379013,
@@ -267,7 +267,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_juglansRegia_3s",
+      "name": "DZ/plants/tree/t_juglansregia_3s.p3d",
       "pos": [
         7588.138184,
         222.349197,
@@ -281,7 +281,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_juglansRegia_3s",
+      "name": "DZ/plants/tree/t_juglansregia_3s.p3d",
       "pos": [
         7620.646484,
         226.185349,
@@ -295,7 +295,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_juglansRegia_3s",
+      "name": "DZ/plants/tree/t_juglansregia_3s.p3d",
       "pos": [
         7691.36084,
         233.887985,
@@ -309,7 +309,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_juglansRegia_2s",
+      "name": "DZ/plants/tree/t_juglansregia_2s.p3d",
       "pos": [
         7726.015625,
         233.318939,
@@ -323,7 +323,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_juglansRegia_2s",
+      "name": "DZ/plants/tree/t_juglansregia_2s.p3d",
       "pos": [
         7508.065918,
         222.38179,
@@ -337,7 +337,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_juglansRegia_2s",
+      "name": "DZ/plants/tree/t_juglansregia_2s.p3d",
       "pos": [
         7484.851074,
         221.086319,
@@ -351,7 +351,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_juglansRegia_2s",
+      "name": "DZ/plants/tree/t_juglansregia_2s.p3d",
       "pos": [
         7479.144531,
         221.115677,
@@ -365,7 +365,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_juglansRegia_2s",
+      "name": "DZ/plants/tree/t_juglansregia_2s.p3d",
       "pos": [
         7544.307129,
         221.164749,
@@ -379,7 +379,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_juglansRegia_2s",
+      "name": "DZ/plants/tree/t_juglansregia_2s.p3d",
       "pos": [
         7744.180664,
         221.11084,
@@ -393,7 +393,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_3s",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_3s.p3d",
       "pos": [
         7807.895996,
         226.801788,
@@ -407,7 +407,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_3s",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_3s.p3d",
       "pos": [
         7778.94043,
         220.641541,
@@ -421,7 +421,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_2s",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_2s.p3d",
       "pos": [
         7565.901367,
         222.57074,
@@ -435,7 +435,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_2s",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_2s.p3d",
       "pos": [
         7670.536621,
         223.602554,
@@ -449,7 +449,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_3s",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_3s.p3d",
       "pos": [
         7541.848145,
         233.379593,
@@ -4971,7 +4971,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_sambucusNigra_1s",
+      "name": "DZ/plants/bush/b_sambucusnigra_1s.p3d",
       "pos": [
         7636.983398,
         224.874634,
@@ -4985,7 +4985,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushHard_b_sambucusNigra_2s",
+      "name": "DZ/plants/bush/b_sambucusnigra_2s.p3d",
       "pos": [
         7645.250488,
         226.339172,

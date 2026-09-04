@@ -155,7 +155,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushHard_b_FagusSylvatica_1f",
+      "name": "DZ/plants/tree/b_fagussylvatica_1f.p3d",
       "pos": [
         6544.217285,
         14.70009,
@@ -169,7 +169,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_FagusSylvatica_1f",
+      "name": "DZ/plants/tree/t_fagussylvatica_1f.p3d",
       "pos": [
         6531.679199,
         17.337456,
@@ -183,7 +183,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_FagusSylvatica_1s",
+      "name": "DZ/plants/tree/t_fagussylvatica_1s.p3d",
       "pos": [
         6527.294434,
         16.533092,
@@ -197,7 +197,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FagusSylvatica_2d",
+      "name": "DZ/plants/tree/t_fagussylvatica_2d.p3d",
       "pos": [
         6517.948242,
         20.1562,
@@ -211,7 +211,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FagusSylvatica_2fc",
+      "name": "DZ/plants/tree/t_fagussylvatica_2fc.p3d",
       "pos": [
         6540.425781,
         20.664101,
@@ -225,7 +225,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_FagusSylvatica_2sb",
+      "name": "DZ/plants/tree/t_fagussylvatica_2sb.p3d",
       "pos": [
         6535.4375,
         20.147894,
@@ -239,7 +239,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_FagusSylvatica_2sb_Trail_G",
+      "name": "DZ/plants/tree/t_fagussylvatica_2sb_trail_g.p3d",
       "pos": [
         6521.592773,
         20.509157,
@@ -253,7 +253,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_FagusSylvatica_2sb_Trail_Y",
+      "name": "DZ/plants/tree/t_fagussylvatica_2sb_trail_y.p3d",
       "pos": [
         6568.001953,
         21.755009,
@@ -267,7 +267,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FagusSylvatica_3s",
+      "name": "DZ/plants/tree/t_fagussylvatica_3s.p3d",
       "pos": [
         6542.691895,
         24.536587,
@@ -295,7 +295,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FagusSylvatica_3fb",
+      "name": "DZ/plants/tree/t_fagussylvatica_3fb_test.p3d",
       "pos": [
         6490.510742,
         24.729908,
@@ -309,7 +309,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_FagusSylvatica_2sb_Trail_Y",
+      "name": "DZ/plants/tree/t_fagussylvatica_2sb_trail_y.p3d",
       "pos": [
         6508.006836,
         21.188583,
@@ -323,7 +323,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FagusSylvatica_2s",
+      "name": "DZ/plants/tree/t_fagussylvatica_2s.p3d",
       "pos": [
         6499.854492,
         20.286993,
@@ -337,7 +337,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_FagusSylvatica_1s",
+      "name": "DZ/plants/tree/t_fagussylvatica_1s.p3d",
       "pos": [
         6578.398926,
         17.847446,
@@ -351,7 +351,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_FagusSylvatica_2sb_Trail_Y",
+      "name": "DZ/plants/tree/t_fagussylvatica_2sb_trail_y.p3d",
       "pos": [
         6585.868164,
         21.585503,
@@ -365,7 +365,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_FagusSylvatica_2sb_Trail_Y",
+      "name": "DZ/plants/tree/t_fagussylvatica_2sb_trail_y.p3d",
       "pos": [
         6591.261719,
         21.696676,
@@ -379,7 +379,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FagusSylvatica_2s",
+      "name": "DZ/plants/tree/t_fagussylvatica_2s.p3d",
       "pos": [
         6571.61084,
         21.455778,
@@ -393,7 +393,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FagusSylvatica_2s",
+      "name": "DZ/plants/tree/t_fagussylvatica_2s.p3d",
       "pos": [
         6525.212891,
         17.347757,
@@ -407,7 +407,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FagusSylvatica_2s",
+      "name": "DZ/plants/tree/t_fagussylvatica_2s.p3d",
       "pos": [
         6489.86084,
         21.136232,
@@ -421,7 +421,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_betulaHumilis_1s",
+      "name": "DZ/plants/bush/b_betulahumilis_1s.p3d",
       "pos": [
         6545.930664,
         14.513294,
@@ -435,7 +435,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_corylusAvellana_1f",
+      "name": "DZ/plants/bush/b_corylusavellana_1f.p3d",
       "pos": [
         6546.240234,
         14.640882,
@@ -449,7 +449,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushHard_b_corylusAvellana_2s",
+      "name": "DZ/plants/bush/b_corylusavellana_2s.p3d",
       "pos": [
         6554.256836,
         16.363262,
@@ -463,7 +463,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushHard_b_corylusAvellana_2s",
+      "name": "DZ/plants/bush/b_corylusavellana_2s.p3d",
       "pos": [
         6507.749023,
         15.94659,
@@ -477,7 +477,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_crataegusLaevigata_1s",
+      "name": "DZ/plants/bush/b_crataeguslaevigata_1s.p3d",
       "pos": [
         6525.927246,
         14.540663,
@@ -491,7 +491,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushHard_b_prunusSpinosa_1s",
+      "name": "DZ/plants/bush/b_prunusspinosa_1s.p3d",
       "pos": [
         6521.319824,
         13.727523,
@@ -505,7 +505,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushHard_b_prunusSpinosa_2s",
+      "name": "DZ/plants/bush/b_prunusspinosa_2s.p3d",
       "pos": [
         6524.168457,
         14.398147,
@@ -519,7 +519,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_crataegusLaevigata_1s",
+      "name": "DZ/plants/bush/b_crataeguslaevigata_1s.p3d",
       "pos": [
         6567.719238,
         15.618445,
@@ -533,7 +533,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_corylusAvellana_1f",
+      "name": "DZ/plants/bush/b_corylusavellana_1f.p3d",
       "pos": [
         6560.157227,
         14.984403,
@@ -547,7 +547,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_rosaCanina_1s",
+      "name": "DZ/plants/bush/b_rosacanina_1s.p3d",
       "pos": [
         6553.172363,
         14.693179,
@@ -561,7 +561,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_rosaCanina_1s",
+      "name": "DZ/plants/bush/b_rosacanina_1s.p3d",
       "pos": [
         6567.001465,
         14.788296,
@@ -575,7 +575,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_rosaCanina_1s",
+      "name": "DZ/plants/bush/b_rosacanina_1s.p3d",
       "pos": [
         6518.158691,
         14.761086,
@@ -589,7 +589,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_sambucusNigra_1s",
+      "name": "DZ/plants/bush/b_sambucusnigra_1s.p3d",
       "pos": [
         6515.178223,
         15.597259,
@@ -603,7 +603,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_sambucusNigra_1s",
+      "name": "DZ/plants/bush/b_sambucusnigra_1s.p3d",
       "pos": [
         6502.757813,
         15.521391,
@@ -617,7 +617,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_rosaCanina_2s",
+      "name": "DZ/plants/bush/b_rosacanina_2s.p3d",
       "pos": [
         6499.092285,
         15.34456,
@@ -631,7 +631,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushHard_b_prunusSpinosa_1s",
+      "name": "DZ/plants/bush/b_prunusspinosa_1s.p3d",
       "pos": [
         6492.814941,
         15.266129,
@@ -645,7 +645,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushHard_b_prunusSpinosa_1s",
+      "name": "DZ/plants/bush/b_prunusspinosa_1s.p3d",
       "pos": [
         6498.015625,
         15.156214,
@@ -659,7 +659,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_corylusAvellana_1f",
+      "name": "DZ/plants/bush/b_corylusavellana_1f.p3d",
       "pos": [
         6494.648438,
         14.93862,
@@ -673,7 +673,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_corylusAvellana_1f",
+      "name": "DZ/plants/bush/b_corylusavellana_1f.p3d",
       "pos": [
         6487.100098,
         14.945231,
@@ -687,7 +687,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushSoft_b_betulaHumilis_1s",
+      "name": "DZ/plants/bush/b_betulahumilis_1s.p3d",
       "pos": [
         6496.532227,
         14.590862,
@@ -701,7 +701,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushHard_b_crataegusLaevigata_2s",
+      "name": "DZ/plants/bush/b_crataeguslaevigata_2s.p3d",
       "pos": [
         6486.878906,
         17.228037,
@@ -715,7 +715,7 @@
       "scale": 1.0
     },
     {
-      "name": "BushHard_b_corylusAvellana_2s",
+      "name": "DZ/plants/bush/b_corylusavellana_2s.p3d",
       "pos": [
         6566.976074,
         16.242975,
@@ -967,7 +967,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_2f",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_2f.p3d",
       "pos": [
         6559.446777,
         23.114128,
@@ -981,7 +981,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_FagusSylvatica_2sb",
+      "name": "DZ/plants/tree/t_fagussylvatica_2sb.p3d",
       "pos": [
         6554.660156,
         21.963179,

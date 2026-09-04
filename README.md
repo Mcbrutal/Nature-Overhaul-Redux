@@ -29,15 +29,17 @@ The conversion was checked against all active `SpawnObject` calls in the origina
 - 13 exact adjacent duplicates intentionally removed
 - 0 distinct original placements missing
 - 0 unexpected placements added
-- 8,100 placements corrected across 191 class mappings
-- 1,416 trees and bushes changed to interactive DayZ classes
-- 6,450 grass, ivy, and cut-tree placements changed to supported native P3D paths
+- 8,136 placements corrected across 192 class mappings
+- 7,866 trees, bushes, grass, ivy, and cut-tree placements changed to exact native P3D paths
+- 36 legacy wind-turbine placements changed to the exact native P3D path
 - 234 props, structures, wrecks, roadblocks, walls, furniture, garbage, rubble, and lamps changed to exact-model native static classes
 - 26 BuilderItems placements retained across 10 classes where no safe behavior-preserving native substitute exists
 
 Positions, rotations, scales, array order, and all non-name fields remain unchanged.
 
-The interactive vegetation reference was the official DayZ 1.29.163709 script definition set. Static classes were checked against a current DayZ configuration dump dated May 26, 2026.
+Static classes and model paths were checked against a current DayZ configuration dump dated May 26, 2026.
+
+DayZ Editor rejects the `TreeHard_*`, `TreeSoft_*`, `BushHard_*`, and `BushSoft_*` terrain definitions as invalid world objects because they are declared under `CfgNonAIVehicles`. All vegetation therefore uses its exact native P3D model path, which DayZ Editor and Object Spawner JSON accept.
 
 ### Why BuilderItems is still required
 
