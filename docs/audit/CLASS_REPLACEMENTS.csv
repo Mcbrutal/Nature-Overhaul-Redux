@@ -1,5 +1,4 @@
 original_builderitems_class,replacement_name,replacement_type,placements
-Land_WindPowerPlant_Grey,DZ/structures_bliss/industrial/WindPowerPlant/WindPowerPlant_Grey.p3d,DayZ Editor-compatible direct structure model path,36
 bldr_Dead_MassGrave_15m,StaticObj_Dead_MassGrave_15m,native static class; exact model match,1
 bldr_Dead_pile1,StaticObj_Dead_pile1,native static class; exact model match,2
 bldr_Dead_pile2,StaticObj_Dead_pile2,native static class; exact model match,3

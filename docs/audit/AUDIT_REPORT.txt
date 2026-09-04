@@ -12,10 +12,10 @@ Commented-out original SpawnObject calls correctly excluded: 408
 Static class reference: current DayZ config dump snapshot dated 2026-05-26
 Editor validation: TreeHard/TreeSoft/BushHard/BushSoft classes are CfgNonAIVehicles
 and are rejected by DayZ Editor world-object JSON imports
-Total placements corrected: 8136
-Distinct replacement mappings: 192
+Total placements corrected: 8100
+Distinct replacement mappings: 191
 All tree, bush, grass, ivy and cut-tree placements changed to direct native P3D paths: 7866
-Legacy wind-turbine placements changed to the exact current native P3D path: 36
+Wind-turbine placements retained after successful DayZ Editor validation: 36
 Props/structures changed to exact-model native static classes: 234
 BuilderItems placements retained after review: 26 across 10 classes
 
@@ -47,8 +47,8 @@ Vegetation compatibility:
 All 1,416 former TreeHard/TreeSoft/BushHard/BushSoft output names were replaced with
 their exact model paths after DayZ Editor reported all 105 such objects in
 Balota_circel.json as invalid. This same correction was applied across every location.
-The undefined legacy Land_WindPowerPlant_Grey classname was also replaced with its exact
-current model path without removing any of its 36 placements.
+All 36 Land_WindPowerPlant_Grey placements loaded without error in DayZ Editor and were
+therefore retained unchanged.
 
 Retained BuilderItems classes:
 bldr_Garbage_Pile8: 1
@@ -65,7 +65,7 @@ bldr_wall_gate_kolchoz: 1
 Per-file replacements:
 Balota_circel.json: 344
 Balota_city.json: 140
-Bor.json: 298
+Bor.json: 293
 Dolina.json: 450
 DolinaSmallStreet.json: 779
 Gorka.json: 424
@@ -87,4 +87,4 @@ Solnichniy.json: 307
 TrainStationChernogorsk.json: 88
 Tulga.json: 95
 Vavilovo.json: 448
-WindPowers.json: 31
+WindPowers.json: 0

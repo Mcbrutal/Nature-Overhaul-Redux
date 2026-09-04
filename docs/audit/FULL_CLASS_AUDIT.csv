@@ -6,7 +6,7 @@ Land_Roadblock_Table,5,,,,retained native DayZ class,Land_Roadblock_Table
 Land_Train_742_Blue,2,,,,retained native DayZ class,Land_Train_742_Blue
 Land_Train_742_Red,2,,,,retained native DayZ class,Land_Train_742_Red
 Land_Train_Wagon_Box,9,,,,retained native DayZ class,Land_Train_Wagon_Box
-Land_WindPowerPlant_Grey,36,,,,DayZ Editor-compatible direct structure model path,DZ/structures_bliss/industrial/WindPowerPlant/WindPowerPlant_Grey.p3d
+Land_WindPowerPlant_Grey,36,,,,retained after successful DayZ Editor validation,Land_WindPowerPlant_Grey
 Land_Wreck_Harverster,1,,,,retained native DayZ class,Land_Wreck_Harverster
 Land_Wreck_Harvester_head_trailer,1,,,,retained native DayZ class,Land_Wreck_Harvester_head_trailer
 Land_Wreck_Ikarus,6,,,,retained native DayZ class,Land_Wreck_Ikarus

@@ -29,9 +29,9 @@ The conversion was checked against all active `SpawnObject` calls in the origina
 - 13 exact adjacent duplicates intentionally removed
 - 0 distinct original placements missing
 - 0 unexpected placements added
-- 8,136 placements corrected across 192 class mappings
+- 8,100 placements corrected across 191 class mappings
 - 7,866 trees, bushes, grass, ivy, and cut-tree placements changed to exact native P3D paths
-- 36 legacy wind-turbine placements changed to the exact native P3D path
+- 36 `Land_WindPowerPlant_Grey` placements retained after loading successfully in DayZ Editor
 - 234 props, structures, wrecks, roadblocks, walls, furniture, garbage, rubble, and lamps changed to exact-model native static classes
 - 26 BuilderItems placements retained across 10 classes where no safe behavior-preserving native substitute exists
 
