@@ -1,4 +1,6 @@
-NatureOverhaul classnames recovered from the original source
+NatureOverhaul classnames recovered from the original source before the DayZ 1.29 audit
+This is a historical input list, not the final output class list.
+See docs/audit/FULL_CLASS_AUDIT.csv for every disposition and replacement.
 
 Land_Lamp_City1_amp
 Land_Mil_Tent_Big1_1
