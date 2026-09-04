@@ -1,7 +1,7 @@
 {
   "Objects": [
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4868.112305,
         35.735649,
@@ -15,7 +15,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4930.813965,
         35.087543,
@@ -29,7 +29,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4915.190918,
         34.338718,
@@ -43,7 +43,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4878.330566,
         35.119011,
@@ -57,7 +57,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_robiniaPseudoacacia_1f",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_1f.p3d",
       "pos": [
         4910.425293,
         28.923813,
@@ -71,7 +71,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_quercusRobur_3sb",
+      "name": "DZ/plants/tree/t_quercusrobur_3sb.p3d",
       "pos": [
         4881.775391,
         34.811462,
@@ -85,7 +85,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_quercusRobur_3sb",
+      "name": "DZ/plants/tree/t_quercusrobur_3sb.p3d",
       "pos": [
         4930.816406,
         35.674927,
@@ -99,7 +99,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_quercusRobur_3sb",
+      "name": "DZ/plants/tree/t_quercusrobur_3sb.p3d",
       "pos": [
         4891.79248,
         34.334358,
@@ -113,7 +113,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_quercusRobur_3s",
+      "name": "DZ/plants/tree/t_quercusrobur_3s.p3d",
       "pos": [
         4860.635254,
         37.885323,
@@ -127,7 +127,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_PiceaAbies_3f_Trail_Y",
+      "name": "DZ/plants/tree/t_piceaabies_3f_trail_y.p3d",
       "pos": [
         4862.395996,
         38.887306,
@@ -141,7 +141,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_PiceaAbies_2s",
+      "name": "DZ/plants/tree/t_piceaabies_2s.p3d",
       "pos": [
         4852.805176,
         34.959515,
@@ -155,7 +155,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_PiceaAbies_2s",
+      "name": "DZ/plants/tree/t_piceaabies_2s.p3d",
       "pos": [
         4863.724121,
         35.175472,
@@ -169,7 +169,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_PiceaAbies_2s",
+      "name": "DZ/plants/tree/t_piceaabies_2s.p3d",
       "pos": [
         4908.970703,
         32.873272,
@@ -183,7 +183,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_PiceaAbies_2s",
+      "name": "DZ/plants/tree/t_piceaabies_2s.p3d",
       "pos": [
         4911.648926,
         33.214256,
@@ -197,7 +197,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_PiceaAbies_2s",
+      "name": "DZ/plants/tree/t_piceaabies_2s.p3d",
       "pos": [
         4933.763672,
         34.800407,
@@ -211,7 +211,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_PiceaAbies_2s",
+      "name": "DZ/plants/tree/t_piceaabies_2s.p3d",
       "pos": [
         4947.972656,
         34.513786,
@@ -225,7 +225,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_PiceaAbies_2s",
+      "name": "DZ/plants/tree/t_piceaabies_2s.p3d",
       "pos": [
         4930.677246,
         33.443874,
@@ -239,7 +239,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_PiceaAbies_1f",
+      "name": "DZ/plants/tree/t_piceaabies_1f.p3d",
       "pos": [
         4921.97998,
         29.164276,
@@ -253,7 +253,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_PiceaAbies_1f",
+      "name": "DZ/plants/tree/t_piceaabies_1f.p3d",
       "pos": [
         4910.049316,
         29.12756,
@@ -267,7 +267,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_PiceaAbies_1f",
+      "name": "DZ/plants/tree/t_piceaabies_1f.p3d",
       "pos": [
         4869.114746,
         29.076885,
@@ -281,7 +281,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_PiceaAbies_1f",
+      "name": "DZ/plants/tree/t_piceaabies_1f.p3d",
       "pos": [
         4843.958008,
         28.828243,
@@ -295,7 +295,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_PiceaAbies_1f",
+      "name": "DZ/plants/tree/t_piceaabies_1f.p3d",
       "pos": [
         4855.710938,
         29.026604,
@@ -309,7 +309,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_3s",
+      "name": "DZ/plants/tree/t_populusalba_3s.p3d",
       "pos": [
         4476.806641,
         240.430908,
@@ -323,7 +323,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_3s",
+      "name": "DZ/plants/tree/t_populusalba_3s.p3d",
       "pos": [
         4457.911133,
         244.733124,
@@ -337,7 +337,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_3s",
+      "name": "DZ/plants/tree/t_populusalba_3s.p3d",
       "pos": [
         4420.727051,
         244.618042,
@@ -351,7 +351,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_3s",
+      "name": "DZ/plants/tree/t_populusalba_3s.p3d",
       "pos": [
         4350.17627,
         243.857452,
@@ -365,7 +365,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_3s",
+      "name": "DZ/plants/tree/t_populusalba_3s.p3d",
       "pos": [
         4304.181641,
         250.889893,
@@ -379,7 +379,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_3s",
+      "name": "DZ/plants/tree/t_populusalba_3s.p3d",
       "pos": [
         4336.297852,
         240.233124,
@@ -393,7 +393,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_3s",
+      "name": "DZ/plants/tree/t_populusalba_3s.p3d",
       "pos": [
         4407.52002,
         242.822464,
@@ -407,7 +407,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_3s",
+      "name": "DZ/plants/tree/t_populusalba_3s.p3d",
       "pos": [
         4399.15918,
         244.733124,
@@ -421,7 +421,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_3s",
+      "name": "DZ/plants/tree/t_populusalba_3s.p3d",
       "pos": [
         4339.662598,
         241.654388,
@@ -435,7 +435,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_3s",
+      "name": "DZ/plants/tree/t_populusalba_3s.p3d",
       "pos": [
         4450.148438,
         244.891983,
@@ -449,7 +449,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_3s",
+      "name": "DZ/plants/tree/t_populusalba_3s.p3d",
       "pos": [
         4480.623047,
         243.903564,
@@ -463,7 +463,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_3s",
+      "name": "DZ/plants/tree/t_populusalba_3s.p3d",
       "pos": [
         4464.79248,
         238.135361,
@@ -477,7 +477,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_3s",
+      "name": "DZ/plants/tree/t_populusalba_3s.p3d",
       "pos": [
         4500.417969,
         240.135345,
@@ -491,7 +491,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_3s",
+      "name": "DZ/plants/tree/t_populusalba_3s.p3d",
       "pos": [
         4501.481934,
         235.826935,
@@ -505,7 +505,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_2s",
+      "name": "DZ/plants/tree/t_populusalba_2s.p3d",
       "pos": [
         4497.616699,
         236.477936,
@@ -519,7 +519,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_2s",
+      "name": "DZ/plants/tree/t_populusalba_2s.p3d",
       "pos": [
         4453.335938,
         237.731033,
@@ -533,7 +533,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_2s",
+      "name": "DZ/plants/tree/t_populusalba_2s.p3d",
       "pos": [
         4412.107422,
         239.70694,
@@ -547,7 +547,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_2s",
+      "name": "DZ/plants/tree/t_populusalba_2s.p3d",
       "pos": [
         4369.422852,
         239.71022,
@@ -561,7 +561,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_2s",
+      "name": "DZ/plants/tree/t_populusalba_2s.p3d",
       "pos": [
         4454.03418,
         242.85817,
@@ -575,7 +575,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_2s",
+      "name": "DZ/plants/tree/t_populusalba_2s.p3d",
       "pos": [
         4451.328125,
         239.505402,
@@ -589,7 +589,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2f",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2f.p3d",
       "pos": [
         4480.466309,
         239.935471,
@@ -603,7 +603,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4356.297852,
         241.864151,
@@ -617,7 +617,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4328.572266,
         247.374054,
@@ -631,7 +631,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4386.834473,
         248.345078,
@@ -645,7 +645,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4349.869141,
         246.919586,
@@ -659,7 +659,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4550.013672,
         242.442841,
@@ -673,7 +673,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4593.844727,
         243.404953,
@@ -687,7 +687,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4554.01709,
         239.530869,
@@ -701,7 +701,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4490.222656,
         242.899033,
@@ -715,7 +715,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_quercusRobur_3sb",
+      "name": "DZ/plants/tree/t_quercusrobur_3sb.p3d",
       "pos": [
         4439.360352,
         245.276138,
@@ -729,7 +729,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_quercusRobur_3sb",
+      "name": "DZ/plants/tree/t_quercusrobur_3sb.p3d",
       "pos": [
         4381.185547,
         241.331451,
@@ -743,7 +743,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4411.604004,
         241.634964,
@@ -757,7 +757,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4435.12793,
         242.772934,
@@ -771,7 +771,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4430.424805,
         240.439606,
@@ -785,7 +785,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4515.327148,
         247.738571,
@@ -799,7 +799,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_robiniaPseudoacacia_2s",
+      "name": "DZ/plants/tree/t_robiniapseudoacacia_2s.p3d",
       "pos": [
         4247.427246,
         254.269363,
@@ -1765,7 +1765,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_2s",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_2s.p3d",
       "pos": [
         4297.064941,
         236.426041,
@@ -1779,7 +1779,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_naked_2s",
+      "name": "DZ/plants/tree/t_naked_2s.p3d",
       "pos": [
         4272.803223,
         231.942001,
@@ -1793,7 +1793,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_populusAlba_2s",
+      "name": "DZ/plants/tree/t_populusalba_2s.p3d",
       "pos": [
         4245.823242,
         238.958969,
@@ -1807,7 +1807,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeSoft_t_malusDomestica_2s",
+      "name": "DZ/plants/tree/t_malusdomestica_2s.p3d",
       "pos": [
         4258.514648,
         239.495667,
@@ -1821,7 +1821,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_FraxinusExcelsior_3s",
+      "name": "DZ/plants/tree/t_fraxinusexcelsior_3s.p3d",
       "pos": [
         4247.21875,
         251.681778,
@@ -1947,7 +1947,7 @@
       "scale": 1.0
     },
     {
-      "name": "TreeHard_t_naked_1s",
+      "name": "DZ/plants/tree/t_naked_1s.p3d",
       "pos": [
         4278.429199,
         237.651886,

@@ -6,7 +6,7 @@ Land_Roadblock_Table,5,,,,retained native DayZ class,Land_Roadblock_Table
 Land_Train_742_Blue,2,,,,retained native DayZ class,Land_Train_742_Blue
 Land_Train_742_Red,2,,,,retained native DayZ class,Land_Train_742_Red
 Land_Train_Wagon_Box,9,,,,retained native DayZ class,Land_Train_Wagon_Box
-Land_WindPowerPlant_Grey,36,,,,retained native DayZ class,Land_WindPowerPlant_Grey
+Land_WindPowerPlant_Grey,36,,,,retained after successful DayZ Editor validation,Land_WindPowerPlant_Grey
 Land_Wreck_Harverster,1,,,,retained native DayZ class,Land_Wreck_Harverster
 Land_Wreck_Harvester_head_trailer,1,,,,retained native DayZ class,Land_Wreck_Harvester_head_trailer
 Land_Wreck_Ikarus,6,,,,retained native DayZ class,Land_Wreck_Ikarus
@@ -77,118 +77,118 @@ bldr_misc_timbers_log3,1,industrial/config.cpp,HouseNoDestruct,\DZ\structures\in
 bldr_misc_tirepile,1,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\misc\misc_tirepile.p3d,native static class; exact model match,StaticObj_Misc_TirePile
 bldr_office_chair,1,furniture/config.cpp,HouseNoDestruct,\DZ\structures\furniture\chairs\office_chair\office_chair.p3d,native static class; exact model match,StaticObj_Furniture_office_chair
 bldr_office_table_a,1,furniture/config.cpp,HouseNoDestruct,\DZ\structures\furniture\tables\office_table_a\office_table_a.p3d,native static class; exact model match,StaticObj_Furniture_office_table_a
-bldr_plnt_b_FagusSylvatica_1f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\b_fagussylvatica_1f.p3d,interactive vegetation class,BushHard_b_FagusSylvatica_1f
-bldr_plnt_b_betulaHumilis_1s,20,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_betulahumilis_1s.p3d,interactive vegetation class,BushSoft_b_betulaHumilis_1s
-bldr_plnt_b_corylusAvellana_1f,12,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_corylusavellana_1f.p3d,interactive vegetation class,BushSoft_b_corylusAvellana_1f
-bldr_plnt_b_corylusAvellana_2s,19,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_corylusavellana_2s.p3d,interactive vegetation class,BushHard_b_corylusAvellana_2s
-bldr_plnt_b_crataegusLaevigata_1s,13,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_crataeguslaevigata_1s.p3d,interactive vegetation class,BushSoft_b_crataegusLaevigata_1s
-bldr_plnt_b_crataegusLaevigata_2s,9,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_crataeguslaevigata_2s.p3d,interactive vegetation class,BushHard_b_crataegusLaevigata_2s
-bldr_plnt_b_prunusSpinosa_1s,8,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_prunusspinosa_1s.p3d,interactive vegetation class,BushHard_b_prunusSpinosa_1s
-bldr_plnt_b_prunusSpinosa_2s,18,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_prunusspinosa_2s.p3d,interactive vegetation class,BushHard_b_prunusSpinosa_2s
-bldr_plnt_b_rosaCanina_1s,11,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_rosacanina_1s.p3d,interactive vegetation class,BushSoft_b_rosaCanina_1s
-bldr_plnt_b_rosaCanina_2s,7,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_rosacanina_2s.p3d,interactive vegetation class,BushSoft_b_rosaCanina_2s
-bldr_plnt_b_sambucusNigra_1s,8,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_sambucusnigra_1s.p3d,interactive vegetation class,BushSoft_b_sambucusNigra_1s
-bldr_plnt_b_sambucusNigra_2s,11,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_sambucusnigra_2s.p3d,interactive vegetation class,BushHard_b_sambucusNigra_2s
-bldr_plnt_c_Anthoxanthum,8,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_anthoxanthum.p3d,direct static plant model path,DZ/plants/clutter/c_anthoxanthum.p3d
-bldr_plnt_c_Anthoxanthum_bended,2,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_anthoxanthum_bended.p3d,direct static plant model path,DZ/plants/clutter/c_anthoxanthum_bended.p3d
-bldr_plnt_c_Broadleaf_sprouts,1,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_broadleaf_sprouts.p3d,direct static plant model path,DZ/plants/clutter/c_broadleaf_sprouts.p3d
-bldr_plnt_c_Carduus,1,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_carduus.p3d,direct static plant model path,DZ/plants/clutter/c_carduus.p3d
-bldr_plnt_c_ConcreteGrass_bunch,2,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_concretegrass_bunch.p3d,direct static plant model path,DZ/plants/clutter/c_concretegrass_bunch.p3d
-bldr_plnt_c_Elytrigia,1,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigia.p3d,direct static plant model path,DZ/plants/clutter/c_elytrigia.p3d
-bldr_plnt_c_ElytrigiaDirt,380,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigiadirt.p3d,direct static plant model path,DZ/plants/clutter/c_elytrigiadirt.p3d
-bldr_plnt_c_ElytrigiaForest,2,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigiaforest.p3d,direct static plant model path,DZ/plants/clutter/c_elytrigiaforest.p3d
-bldr_plnt_c_ElytrigiaTall,615,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigiatall.p3d,direct static plant model path,DZ/plants/clutter/c_elytrigiatall.p3d
-bldr_plnt_c_Elytrigia_green,4347,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigia_green.p3d,direct static plant model path,DZ/plants/clutter/c_elytrigia_green.p3d
-bldr_plnt_c_GrassDryCarduus_f_summer,15,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\clutter\c_GrassDryCarduus_f_summer.p3d,direct static plant model path,DZ/plants_bliss/clutter/c_GrassDryCarduus_f_summer.p3d
-bldr_plnt_c_GrassDryHypericum_summer,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\clutter\c_GrassDryHypericum_summer.p3d,direct static plant model path,DZ/plants_bliss/clutter/c_GrassDryHypericum_summer.p3d
-bldr_plnt_c_GrassDry_summer,1058,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\clutter\c_GrassDry_summer.p3d,direct static plant model path,DZ/plants_bliss/clutter/c_GrassDry_summer.p3d
-bldr_plnt_ivy_A,3,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_A.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_A.p3d
-bldr_plnt_ivy_B,3,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_B.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_B.p3d
-bldr_plnt_ivy_C,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_C.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_C.p3d
-bldr_plnt_ivy_D,2,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_D.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_D.p3d
-bldr_plnt_ivy_F,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_F.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_F.p3d
-bldr_plnt_ivy_G,2,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_G.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_G.p3d
-bldr_plnt_ivy_K,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_K.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_K.p3d
-bldr_plnt_ivy_M,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_M.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_M.p3d
-bldr_plnt_ivy_T,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_T.p3d,direct static plant model path,DZ/plants_bliss/building/ivy_T.p3d
-bldr_plnt_t_BetulaPendula_1fb,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_1fb.p3d,interactive vegetation class,TreeSoft_t_BetulaPendula_1fb
-bldr_plnt_t_BetulaPendula_1s,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_1s.p3d,interactive vegetation class,TreeSoft_t_BetulaPendula_1s
-bldr_plnt_t_BetulaPendula_2f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_2f.p3d,interactive vegetation class,TreeSoft_t_BetulaPendula_2f
-bldr_plnt_t_BetulaPendula_2fb,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_2fb.p3d,interactive vegetation class,TreeSoft_t_BetulaPendula_2fb
-bldr_plnt_t_BetulaPendula_2s,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_2s.p3d,interactive vegetation class,TreeHard_t_BetulaPendula_2s
-bldr_plnt_t_BetulaPendula_2w,6,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_2w.p3d,interactive vegetation class,TreeSoft_t_BetulaPendula_2w
-bldr_plnt_t_BetulaPendula_3f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_3f.p3d,interactive vegetation class,TreeHard_t_BetulaPendula_3f
-bldr_plnt_t_BetulaPendula_3fb,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_3fb.p3d,interactive vegetation class,TreeHard_t_BetulaPendula_3fb
-bldr_plnt_t_BetulaPendula_3fc,9,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_3fc.p3d,interactive vegetation class,TreeHard_t_BetulaPendula_3fc
-bldr_plnt_t_BetulaPendula_3s,7,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_3s.p3d,interactive vegetation class,TreeHard_t_BetulaPendula_3s
-bldr_plnt_t_FagusSylvatica_1f,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1f.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_1f
-bldr_plnt_t_FagusSylvatica_1fc,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1fc.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_1fc
-bldr_plnt_t_FagusSylvatica_1fd,5,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1fd.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_1fd
-bldr_plnt_t_FagusSylvatica_1fe,4,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1fe.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_1fe
-bldr_plnt_t_FagusSylvatica_1s,7,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1s.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_1s
-bldr_plnt_t_FagusSylvatica_2d,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2d.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_2d
-bldr_plnt_t_FagusSylvatica_2f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2f.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_2f
-bldr_plnt_t_FagusSylvatica_2f_cut,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\cutted_cut\t_fagussylvatica_2f_cut.p3d,direct static plant model path,DZ/plants/tree/cutted_cut/t_fagussylvatica_2f_cut.p3d
-bldr_plnt_t_FagusSylvatica_2fb,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2fb.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_2fb
-bldr_plnt_t_FagusSylvatica_2fc,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2fc.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_2fc
-bldr_plnt_t_FagusSylvatica_2s,23,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2s.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_2s
-bldr_plnt_t_FagusSylvatica_2sb,12,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2sb.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_2sb
-bldr_plnt_t_FagusSylvatica_2sb_Trail_G,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2sb_trail_g.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_2sb_Trail_G
-bldr_plnt_t_FagusSylvatica_2sb_Trail_G_summer,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\tree\t_FagusSylvatica_2sb_Trail_G_summer.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_2sb_Trail_G_summer
-bldr_plnt_t_FagusSylvatica_2sb_Trail_R,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2sb_trail_r.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_2sb_Trail_R
-bldr_plnt_t_FagusSylvatica_2sb_Trail_Y,5,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2sb_trail_y.p3d,interactive vegetation class,TreeSoft_t_FagusSylvatica_2sb_Trail_Y
-bldr_plnt_t_FagusSylvatica_3f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_3f.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_3f
-bldr_plnt_t_FagusSylvatica_3f_summer,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\tree\t_FagusSylvatica_3f_summer.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_3f_summer
-bldr_plnt_t_FagusSylvatica_3fb,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_3fb.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_3fb
-bldr_plnt_t_FagusSylvatica_3fb_test,24,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_3fb_test.p3d,interactive vegetation class; test-model fallback,TreeHard_t_FagusSylvatica_3fb
-bldr_plnt_t_FagusSylvatica_3s,105,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_3s.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_3s
-bldr_plnt_t_FagusSylvatica_3s_summer,6,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\tree\t_FagusSylvatica_3s_summer.p3d,interactive vegetation class,TreeHard_t_FagusSylvatica_3s_summer
-bldr_plnt_t_FraxinusExcelsior_2f,56,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fraxinusexcelsior_2f.p3d,interactive vegetation class,TreeHard_t_FraxinusExcelsior_2f
-bldr_plnt_t_FraxinusExcelsior_2s,55,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fraxinusexcelsior_2s.p3d,interactive vegetation class,TreeHard_t_FraxinusExcelsior_2s
-bldr_plnt_t_FraxinusExcelsior_2w,7,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fraxinusexcelsior_2w.p3d,interactive vegetation class,TreeSoft_t_FraxinusExcelsior_2w
-bldr_plnt_t_FraxinusExcelsior_3s,110,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fraxinusexcelsior_3s.p3d,interactive vegetation class,TreeHard_t_FraxinusExcelsior_3s
-bldr_plnt_t_PiceaAbies_1f,8,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_1f.p3d,interactive vegetation class,TreeSoft_t_PiceaAbies_1f
-bldr_plnt_t_PiceaAbies_1s,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_1s.p3d,interactive vegetation class,BushHard_t_PiceaAbies_1s
-bldr_plnt_t_PiceaAbies_1sb,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_1sb.p3d,interactive vegetation class,BushHard_t_PiceaAbies_1sb
-bldr_plnt_t_PiceaAbies_2f,13,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_2f.p3d,interactive vegetation class,TreeHard_t_PiceaAbies_2f
-bldr_plnt_t_PiceaAbies_2fb,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_2fb.p3d,interactive vegetation class,TreeHard_t_PiceaAbies_2fb
-bldr_plnt_t_PiceaAbies_2s,49,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_2s.p3d,interactive vegetation class,TreeHard_t_PiceaAbies_2s
-bldr_plnt_t_PiceaAbies_2sb,6,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_2sb.p3d,interactive vegetation class,TreeSoft_t_PiceaAbies_2sb
-bldr_plnt_t_PiceaAbies_3f,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_3f.p3d,interactive vegetation class,TreeHard_t_PiceaAbies_3f
-bldr_plnt_t_PiceaAbies_3f_Trail_G,8,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_3f_trail_g.p3d,interactive vegetation class,TreeHard_t_PiceaAbies_3f_Trail_G
-bldr_plnt_t_PiceaAbies_3f_Trail_Y,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_3f_trail_y.p3d,interactive vegetation class,TreeHard_t_PiceaAbies_3f_Trail_Y
-bldr_plnt_t_PiceaAbies_3s,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_3s.p3d,interactive vegetation class,TreeHard_t_PiceaAbies_3s
-bldr_plnt_t_carpinus_2s,10,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_carpinus_2s.p3d,interactive vegetation class,TreeHard_t_carpinus_2s
-bldr_plnt_t_juglansRegia_2s,81,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_juglansregia_2s.p3d,interactive vegetation class,TreeHard_t_juglansRegia_2s
-bldr_plnt_t_juglansRegia_3s,62,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_juglansregia_3s.p3d,interactive vegetation class,TreeHard_t_juglansRegia_3s
-bldr_plnt_t_malusDomestica_2s,9,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_malusdomestica_2s.p3d,interactive vegetation class,TreeSoft_t_malusDomestica_2s
-bldr_plnt_t_malusDomestica_3s,25,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_malusdomestica_3s.p3d,interactive vegetation class,TreeSoft_t_malusDomestica_3s
-bldr_plnt_t_naked_1s,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_naked_1s.p3d,interactive vegetation class,TreeHard_t_naked_1s
-bldr_plnt_t_naked_2s,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_naked_2s.p3d,interactive vegetation class,TreeHard_t_naked_2s
-bldr_plnt_t_populusAlba_1f,8,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_populusalba_1f.p3d,interactive vegetation class,TreeSoft_t_populusAlba_1f
-bldr_plnt_t_populusAlba_2s,38,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_populusalba_2s.p3d,interactive vegetation class,TreeHard_t_populusAlba_2s
-bldr_plnt_t_populusAlba_3s,93,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_populusalba_3s.p3d,interactive vegetation class,TreeHard_t_populusAlba_3s
-bldr_plnt_t_populusNigra_3s,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_populusnigra_3s.p3d,interactive vegetation class,TreeHard_t_populusNigra_3s
-bldr_plnt_t_prunusDomestica_2s,18,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_prunusdomestica_2s.p3d,interactive vegetation class,TreeHard_t_prunusDomestica_2s
-bldr_plnt_t_pyrusCommunis_2s,14,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_pyruscommunis_2s.p3d,interactive vegetation class,TreeSoft_t_pyrusCommunis_2s
-bldr_plnt_t_pyrusCommunis_3s,31,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_pyruscommunis_3s.p3d,interactive vegetation class,TreeHard_t_pyrusCommunis_3s
-bldr_plnt_t_pyrusCommunis_3sb,13,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_pyruscommunis_3sb.p3d,interactive vegetation class,TreeHard_t_pyrusCommunis_3sb
-bldr_plnt_t_quercusRobur_1s,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_1s.p3d,interactive vegetation class,TreeSoft_t_quercusRobur_1s
-bldr_plnt_t_quercusRobur_2fb,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_2fb.p3d,interactive vegetation class,TreeSoft_t_quercusRobur_2fb
-bldr_plnt_t_quercusRobur_2s,9,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_2s.p3d,interactive vegetation class,TreeHard_t_quercusRobur_2s
-bldr_plnt_t_quercusRobur_2sb,5,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_2sb.p3d,interactive vegetation class,TreeHard_t_quercusRobur_2sb
-bldr_plnt_t_quercusRobur_2sc,10,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_2sc.p3d,interactive vegetation class,TreeHard_t_quercusRobur_2sc
-bldr_plnt_t_quercusRobur_3f,4,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_3f.p3d,interactive vegetation class,TreeHard_t_quercusRobur_3f
-bldr_plnt_t_quercusRobur_3fb,7,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_3fb.p3d,interactive vegetation class,TreeHard_t_quercusRobur_3fb
-bldr_plnt_t_quercusRobur_3s,10,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_3s.p3d,interactive vegetation class,TreeHard_t_quercusRobur_3s
-bldr_plnt_t_quercusRobur_3sb,44,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_3sb.p3d,interactive vegetation class,TreeHard_t_quercusRobur_3sb
-bldr_plnt_t_robiniaPseudoacacia_1f,10,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_robiniapseudoacacia_1f.p3d,interactive vegetation class,TreeSoft_t_robiniaPseudoacacia_1f
-bldr_plnt_t_robiniaPseudoacacia_2f,34,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_robiniapseudoacacia_2f.p3d,interactive vegetation class,TreeHard_t_robiniaPseudoacacia_2f
-bldr_plnt_t_robiniaPseudoacacia_2s,98,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_robiniapseudoacacia_2s.p3d,interactive vegetation class,TreeHard_t_robiniaPseudoacacia_2s
-bldr_plnt_t_robiniaPseudoacacia_3f,47,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_robiniapseudoacacia_3f.p3d,interactive vegetation class,TreeHard_t_robiniaPseudoacacia_3f
-bldr_plnt_t_salixAlba_2sb,12,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_salixalba_2sb.p3d,interactive vegetation class,TreeHard_t_salixAlba_2sb
-bldr_plnt_t_salixAlba_2sb_swamp,9,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_salixalba_2sb_swamp.p3d,interactive vegetation class,TreeHard_t_salixAlba_2sb_swamp
-bldr_plnt_t_town_1s,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_town_1s.p3d,interactive vegetation class,TreeSoft_t_town_1s
+bldr_plnt_b_FagusSylvatica_1f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\b_fagussylvatica_1f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/b_fagussylvatica_1f.p3d
+bldr_plnt_b_betulaHumilis_1s,20,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_betulahumilis_1s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/bush/b_betulahumilis_1s.p3d
+bldr_plnt_b_corylusAvellana_1f,12,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_corylusavellana_1f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/bush/b_corylusavellana_1f.p3d
+bldr_plnt_b_corylusAvellana_2s,19,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_corylusavellana_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/bush/b_corylusavellana_2s.p3d
+bldr_plnt_b_crataegusLaevigata_1s,13,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_crataeguslaevigata_1s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/bush/b_crataeguslaevigata_1s.p3d
+bldr_plnt_b_crataegusLaevigata_2s,9,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_crataeguslaevigata_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/bush/b_crataeguslaevigata_2s.p3d
+bldr_plnt_b_prunusSpinosa_1s,8,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_prunusspinosa_1s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/bush/b_prunusspinosa_1s.p3d
+bldr_plnt_b_prunusSpinosa_2s,18,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_prunusspinosa_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/bush/b_prunusspinosa_2s.p3d
+bldr_plnt_b_rosaCanina_1s,11,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_rosacanina_1s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/bush/b_rosacanina_1s.p3d
+bldr_plnt_b_rosaCanina_2s,7,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_rosacanina_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/bush/b_rosacanina_2s.p3d
+bldr_plnt_b_sambucusNigra_1s,8,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_sambucusnigra_1s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/bush/b_sambucusnigra_1s.p3d
+bldr_plnt_b_sambucusNigra_2s,11,plants/config.cpp,bldr_bush,\DZ\plants\bush\b_sambucusnigra_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/bush/b_sambucusnigra_2s.p3d
+bldr_plnt_c_Anthoxanthum,8,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_anthoxanthum.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/clutter/c_anthoxanthum.p3d
+bldr_plnt_c_Anthoxanthum_bended,2,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_anthoxanthum_bended.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/clutter/c_anthoxanthum_bended.p3d
+bldr_plnt_c_Broadleaf_sprouts,1,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_broadleaf_sprouts.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/clutter/c_broadleaf_sprouts.p3d
+bldr_plnt_c_Carduus,1,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_carduus.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/clutter/c_carduus.p3d
+bldr_plnt_c_ConcreteGrass_bunch,2,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_concretegrass_bunch.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/clutter/c_concretegrass_bunch.p3d
+bldr_plnt_c_Elytrigia,1,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigia.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/clutter/c_elytrigia.p3d
+bldr_plnt_c_ElytrigiaDirt,380,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigiadirt.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/clutter/c_elytrigiadirt.p3d
+bldr_plnt_c_ElytrigiaForest,2,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigiaforest.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/clutter/c_elytrigiaforest.p3d
+bldr_plnt_c_ElytrigiaTall,615,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigiatall.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/clutter/c_elytrigiatall.p3d
+bldr_plnt_c_Elytrigia_green,4347,plants/config.cpp,HouseNoDestruct,\DZ\plants\clutter\c_elytrigia_green.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/clutter/c_elytrigia_green.p3d
+bldr_plnt_c_GrassDryCarduus_f_summer,15,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\clutter\c_GrassDryCarduus_f_summer.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/clutter/c_GrassDryCarduus_f_summer.p3d
+bldr_plnt_c_GrassDryHypericum_summer,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\clutter\c_GrassDryHypericum_summer.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/clutter/c_GrassDryHypericum_summer.p3d
+bldr_plnt_c_GrassDry_summer,1058,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\clutter\c_GrassDry_summer.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/clutter/c_GrassDry_summer.p3d
+bldr_plnt_ivy_A,3,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_A.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/building/ivy_A.p3d
+bldr_plnt_ivy_B,3,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_B.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/building/ivy_B.p3d
+bldr_plnt_ivy_C,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_C.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/building/ivy_C.p3d
+bldr_plnt_ivy_D,2,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_D.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/building/ivy_D.p3d
+bldr_plnt_ivy_F,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_F.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/building/ivy_F.p3d
+bldr_plnt_ivy_G,2,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_G.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/building/ivy_G.p3d
+bldr_plnt_ivy_K,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_K.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/building/ivy_K.p3d
+bldr_plnt_ivy_M,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_M.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/building/ivy_M.p3d
+bldr_plnt_ivy_T,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\building\ivy_T.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/building/ivy_T.p3d
+bldr_plnt_t_BetulaPendula_1fb,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_1fb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_betulapendula_1fb.p3d
+bldr_plnt_t_BetulaPendula_1s,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_1s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_betulapendula_1s.p3d
+bldr_plnt_t_BetulaPendula_2f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_2f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_betulapendula_2f.p3d
+bldr_plnt_t_BetulaPendula_2fb,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_2fb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_betulapendula_2fb.p3d
+bldr_plnt_t_BetulaPendula_2s,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_betulapendula_2s.p3d
+bldr_plnt_t_BetulaPendula_2w,6,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_2w.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_betulapendula_2w.p3d
+bldr_plnt_t_BetulaPendula_3f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_3f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_betulapendula_3f.p3d
+bldr_plnt_t_BetulaPendula_3fb,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_3fb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_betulapendula_3fb.p3d
+bldr_plnt_t_BetulaPendula_3fc,9,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_3fc.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_betulapendula_3fc.p3d
+bldr_plnt_t_BetulaPendula_3s,7,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_betulapendula_3s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_betulapendula_3s.p3d
+bldr_plnt_t_FagusSylvatica_1f,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_1f.p3d
+bldr_plnt_t_FagusSylvatica_1fc,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1fc.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_1fc.p3d
+bldr_plnt_t_FagusSylvatica_1fd,5,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1fd.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_1fd.p3d
+bldr_plnt_t_FagusSylvatica_1fe,4,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1fe.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_1fe.p3d
+bldr_plnt_t_FagusSylvatica_1s,7,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_1s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_1s.p3d
+bldr_plnt_t_FagusSylvatica_2d,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2d.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_2d.p3d
+bldr_plnt_t_FagusSylvatica_2f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_2f.p3d
+bldr_plnt_t_FagusSylvatica_2f_cut,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\cutted_cut\t_fagussylvatica_2f_cut.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/cutted_cut/t_fagussylvatica_2f_cut.p3d
+bldr_plnt_t_FagusSylvatica_2fb,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2fb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_2fb.p3d
+bldr_plnt_t_FagusSylvatica_2fc,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2fc.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_2fc.p3d
+bldr_plnt_t_FagusSylvatica_2s,23,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_2s.p3d
+bldr_plnt_t_FagusSylvatica_2sb,12,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2sb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_2sb.p3d
+bldr_plnt_t_FagusSylvatica_2sb_Trail_G,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2sb_trail_g.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_2sb_trail_g.p3d
+bldr_plnt_t_FagusSylvatica_2sb_Trail_G_summer,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\tree\t_FagusSylvatica_2sb_Trail_G_summer.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/tree/t_FagusSylvatica_2sb_Trail_G_summer.p3d
+bldr_plnt_t_FagusSylvatica_2sb_Trail_R,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2sb_trail_r.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_2sb_trail_r.p3d
+bldr_plnt_t_FagusSylvatica_2sb_Trail_Y,5,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_2sb_trail_y.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_2sb_trail_y.p3d
+bldr_plnt_t_FagusSylvatica_3f,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_3f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_3f.p3d
+bldr_plnt_t_FagusSylvatica_3f_summer,1,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\tree\t_FagusSylvatica_3f_summer.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/tree/t_FagusSylvatica_3f_summer.p3d
+bldr_plnt_t_FagusSylvatica_3fb,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_3fb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_3fb.p3d
+bldr_plnt_t_FagusSylvatica_3fb_test,24,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_3fb_test.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_3fb_test.p3d
+bldr_plnt_t_FagusSylvatica_3s,105,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fagussylvatica_3s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fagussylvatica_3s.p3d
+bldr_plnt_t_FagusSylvatica_3s_summer,6,plants_bliss/config.cpp,HouseNoDestruct,DZ\plants_bliss\tree\t_FagusSylvatica_3s_summer.p3d,DayZ Editor-compatible direct plant model path,DZ/plants_bliss/tree/t_FagusSylvatica_3s_summer.p3d
+bldr_plnt_t_FraxinusExcelsior_2f,56,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fraxinusexcelsior_2f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fraxinusexcelsior_2f.p3d
+bldr_plnt_t_FraxinusExcelsior_2s,55,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fraxinusexcelsior_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fraxinusexcelsior_2s.p3d
+bldr_plnt_t_FraxinusExcelsior_2w,7,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fraxinusexcelsior_2w.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fraxinusexcelsior_2w.p3d
+bldr_plnt_t_FraxinusExcelsior_3s,110,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_fraxinusexcelsior_3s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_fraxinusexcelsior_3s.p3d
+bldr_plnt_t_PiceaAbies_1f,8,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_1f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_piceaabies_1f.p3d
+bldr_plnt_t_PiceaAbies_1s,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_1s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_piceaabies_1s.p3d
+bldr_plnt_t_PiceaAbies_1sb,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_1sb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_piceaabies_1sb.p3d
+bldr_plnt_t_PiceaAbies_2f,13,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_2f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_piceaabies_2f.p3d
+bldr_plnt_t_PiceaAbies_2fb,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_2fb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_piceaabies_2fb.p3d
+bldr_plnt_t_PiceaAbies_2s,49,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_piceaabies_2s.p3d
+bldr_plnt_t_PiceaAbies_2sb,6,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_2sb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_piceaabies_2sb.p3d
+bldr_plnt_t_PiceaAbies_3f,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_3f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_piceaabies_3f.p3d
+bldr_plnt_t_PiceaAbies_3f_Trail_G,8,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_3f_trail_g.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_piceaabies_3f_trail_g.p3d
+bldr_plnt_t_PiceaAbies_3f_Trail_Y,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_3f_trail_y.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_piceaabies_3f_trail_y.p3d
+bldr_plnt_t_PiceaAbies_3s,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_piceaabies_3s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_piceaabies_3s.p3d
+bldr_plnt_t_carpinus_2s,10,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_carpinus_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_carpinus_2s.p3d
+bldr_plnt_t_juglansRegia_2s,81,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_juglansregia_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_juglansregia_2s.p3d
+bldr_plnt_t_juglansRegia_3s,62,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_juglansregia_3s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_juglansregia_3s.p3d
+bldr_plnt_t_malusDomestica_2s,9,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_malusdomestica_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_malusdomestica_2s.p3d
+bldr_plnt_t_malusDomestica_3s,25,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_malusdomestica_3s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_malusdomestica_3s.p3d
+bldr_plnt_t_naked_1s,2,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_naked_1s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_naked_1s.p3d
+bldr_plnt_t_naked_2s,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_naked_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_naked_2s.p3d
+bldr_plnt_t_populusAlba_1f,8,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_populusalba_1f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_populusalba_1f.p3d
+bldr_plnt_t_populusAlba_2s,38,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_populusalba_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_populusalba_2s.p3d
+bldr_plnt_t_populusAlba_3s,93,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_populusalba_3s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_populusalba_3s.p3d
+bldr_plnt_t_populusNigra_3s,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_populusnigra_3s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_populusnigra_3s.p3d
+bldr_plnt_t_prunusDomestica_2s,18,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_prunusdomestica_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_prunusdomestica_2s.p3d
+bldr_plnt_t_pyrusCommunis_2s,14,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_pyruscommunis_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_pyruscommunis_2s.p3d
+bldr_plnt_t_pyrusCommunis_3s,31,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_pyruscommunis_3s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_pyruscommunis_3s.p3d
+bldr_plnt_t_pyrusCommunis_3sb,13,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_pyruscommunis_3sb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_pyruscommunis_3sb.p3d
+bldr_plnt_t_quercusRobur_1s,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_1s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_quercusrobur_1s.p3d
+bldr_plnt_t_quercusRobur_2fb,3,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_2fb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_quercusrobur_2fb.p3d
+bldr_plnt_t_quercusRobur_2s,9,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_quercusrobur_2s.p3d
+bldr_plnt_t_quercusRobur_2sb,5,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_2sb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_quercusrobur_2sb.p3d
+bldr_plnt_t_quercusRobur_2sc,10,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_2sc.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_quercusrobur_2sc.p3d
+bldr_plnt_t_quercusRobur_3f,4,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_3f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_quercusrobur_3f.p3d
+bldr_plnt_t_quercusRobur_3fb,7,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_3fb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_quercusrobur_3fb.p3d
+bldr_plnt_t_quercusRobur_3s,10,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_3s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_quercusrobur_3s.p3d
+bldr_plnt_t_quercusRobur_3sb,44,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_quercusrobur_3sb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_quercusrobur_3sb.p3d
+bldr_plnt_t_robiniaPseudoacacia_1f,10,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_robiniapseudoacacia_1f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_robiniapseudoacacia_1f.p3d
+bldr_plnt_t_robiniaPseudoacacia_2f,34,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_robiniapseudoacacia_2f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_robiniapseudoacacia_2f.p3d
+bldr_plnt_t_robiniaPseudoacacia_2s,98,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_robiniapseudoacacia_2s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_robiniapseudoacacia_2s.p3d
+bldr_plnt_t_robiniaPseudoacacia_3f,47,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_robiniapseudoacacia_3f.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_robiniapseudoacacia_3f.p3d
+bldr_plnt_t_salixAlba_2sb,12,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_salixalba_2sb.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_salixalba_2sb.p3d
+bldr_plnt_t_salixAlba_2sb_swamp,9,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_salixalba_2sb_swamp.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_salixalba_2sb_swamp.p3d
+bldr_plnt_t_town_1s,1,plants/config.cpp,bldr_tree,\DZ\plants\tree\t_town_1s.p3d,DayZ Editor-compatible direct plant model path,DZ/plants/tree/t_town_1s.p3d
 bldr_power_pole_wood1_trail_y,1,industrial/config.cpp,HouseNoDestruct,\DZ\structures\industrial\power\power_pole_wood1_trail_y.p3d,native static class; exact model match,StaticObj_Power_Pole_Wood1_Trail_Y
 bldr_rail_polett1,2,rail/config.cpp,HouseNoDestruct,\DZ\structures\rail\misc\rail_polett1.p3d,native static class; exact model match,StaticObj_Rail_PoleTT1
 bldr_roadblock_bags_curve,7,Military/improvised/config.cpp,HouseNoDestruct,\DZ\structures\military\improvised\roadblock_bags_curve.p3d,native static class; exact model match,StaticObj_Roadblock_Bags_Curve

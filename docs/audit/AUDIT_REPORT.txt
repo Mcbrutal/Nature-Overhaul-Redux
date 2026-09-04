@@ -9,12 +9,13 @@ Original active SpawnObject calls: 8310
 Exact duplicate original occurrences intentionally removed: 13
 Missing distinct original placements: 0
 Commented-out original SpawnObject calls correctly excluded: 408
-Interactive class reference: official DayZ 1.29.163709 script definitions
 Static class reference: current DayZ config dump snapshot dated 2026-05-26
+Editor validation: TreeHard/TreeSoft/BushHard/BushSoft classes are CfgNonAIVehicles
+and are rejected by DayZ Editor world-object JSON imports
 Total placements corrected: 8100
 Distinct replacement mappings: 191
-Standing tree/bush placements changed to interactive classes: 1416
-Grass, ivy and cut-tree placements changed to direct native P3D paths: 6450
+All tree, bush, grass, ivy and cut-tree placements changed to direct native P3D paths: 7866
+Wind-turbine placements retained after successful DayZ Editor validation: 36
 Props/structures changed to exact-model native static classes: 234
 BuilderItems placements retained after review: 26 across 10 classes
 
@@ -23,10 +24,11 @@ This was a class-by-class audit of every object, not a vegetation-only pass. Eve
 of the 201 used BuilderItems classes was resolved in the supplied converted configs and
 compared by model path and base behavior with current DayZ definitions.
 
-Standing trees and bushes now use TreeHard, TreeSoft, BushHard or BushSoft classes,
-which restores normal chopping and harvesting. Decorative grass, ivy and the already-cut
-tree use supported direct P3D paths. Static props with an exact current DayZ class using
-the identical model and HouseNoDestruct base were changed to that native class.
+Every tree, bush, grass, ivy and cut-tree placement now uses the exact native P3D path
+from its BuilderItems definition. TreeHard, TreeSoft, BushHard and BushSoft names were
+removed because they are CfgNonAIVehicles terrain definitions and DayZ Editor rejects
+them as world objects. Static props with an exact current DayZ class using the identical
+model and HouseNoDestruct base were changed to that native class.
 Positions, rotations, scales, array ordering and every other field were preserved exactly.
 
 Safety decisions:
@@ -41,10 +43,12 @@ or in the 8,297 converted placements. The original source confirms no book was o
 The sole inventory-model match is bldr_PortableGasLamp, which was intentionally kept as
 a static wrapper. Native inventory classes were not introduced anywhere in this revision.
 
-Special vegetation handling:
-24 bldr_plnt_t_FagusSylvatica_3fb_test objects use TreeHard_t_FagusSylvatica_3fb because
-the test model has no interactive class. Two already-cut Fagus tree models use their
-direct P3D path and intentionally remain static.
+Vegetation compatibility:
+All 1,416 former TreeHard/TreeSoft/BushHard/BushSoft output names were replaced with
+their exact model paths after DayZ Editor reported all 105 such objects in
+Balota_circel.json as invalid. This same correction was applied across every location.
+All 36 Land_WindPowerPlant_Grey placements loaded without error in DayZ Editor and were
+therefore retained unchanged.
 
 Retained BuilderItems classes:
 bldr_Garbage_Pile8: 1
